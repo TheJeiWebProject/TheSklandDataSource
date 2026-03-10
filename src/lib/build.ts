@@ -387,6 +387,42 @@ export async function buildSklandPack(args: BuildArgs, repoRoot: string): Promis
   // 生成 .nojekyll 文件，防止 GitHub Pages 忽略 _extra 等下划线开头的目录
   fs.writeFileSync(path.join(outDirAbs, '.nojekyll'), '');
 
+  // 生成 .gitignore 文件，防止意外上传 node_modules 等无关文件到发布分支
+  fs.writeFileSync(path.join(outDirAbs, '.gitignore'), 'node_modules\n.DS_Store\nThumbs.db\n');
+
+  // 生成 _headers 文件，配置 CORS (支持 Cloudflare Pages / Netlify)
+  const headersContent = `/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, POST, OPTIONS
+  Access-Control-Allow-Headers: *
+`;
+  fs.writeFileSync(path.join(outDirAbs, '_headers'), headersContent);
+
+  // 生成 edgeone.json 配置文件，配置 CORS (支持 Tencent EdgeOne Pages)
+  // 参考文档: https://pages.edgeone.ai/zh/document/edgeone-json
+  const edgeoneConfig = {
+    headers: [
+      {
+        source: "/*",
+        headers: [
+          {
+            key: "Access-Control-Allow-Origin",
+            value: "*"
+          },
+          {
+            key: "Access-Control-Allow-Methods",
+            value: "GET, HEAD, POST, OPTIONS"
+          },
+          {
+            key: "Access-Control-Allow-Headers",
+            value: "*"
+          }
+        ]
+      }
+    ]
+  };
+  writeJson(path.join(outDirAbs, 'edgeone.json'), edgeoneConfig);
+
   // 生成 index.html 文件，提供简单的引导页面
   const indexHtml = `<!DOCTYPE html>
 <html>
