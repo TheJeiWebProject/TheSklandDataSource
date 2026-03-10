@@ -30,6 +30,16 @@ jobs:
         with:
           node-version: 20
       - run: npm install
+
+      - name: Download Previous Artifact (Optional)
+        if: ${{ github.event.inputs.skip_crawl == 'true' }}
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: update-data.yml
+          name: skland-raw-data
+          path: temp/
+          if_no_artifact_found: warn
+
       - run: npm run all
         env:
           SKLAND_DEVICE_ID: ${{ secrets.SKLAND_DEVICE_ID }}
@@ -41,6 +51,12 @@ jobs:
         with:
           name: skland-pack
           path: dist/
+      - name: Upload Raw Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: skland-raw-data
+          path: temp/
+          retention-days: 5
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
