@@ -110,6 +110,13 @@ async function handleProxyImageRequest(req, res) {
 
 app.get('/api/proxy/image', handleProxyImageRequest)
 
+if (process.env.SKLAND_DEVICE_ID) {
+  // Inject device id if provided in environment
+  const client = getClient();
+  client.deviceId = process.env.SKLAND_DEVICE_ID;
+  console.log(`[Proxy] Using SKLAND_DEVICE_ID: ${client.deviceId.substring(0, 8)}...`);
+}
+
 // 代理请求到 Skland API
 app.get('/proxy-request', async (req, res) => {
   try {

@@ -122,9 +122,17 @@ export class SklandClient {
 
   async initializeDeviceId() {
     if (!this.deviceId) {
-      this.deviceId = await this.createDeviceId()
-      if (this.debug) {
-        console.log(`Device ID generated: ${this.deviceId}`)
+      // 优先使用环境变量中的 Device ID
+      if (process.env.SKLAND_DEVICE_ID) {
+        this.deviceId = process.env.SKLAND_DEVICE_ID
+        if (this.debug) {
+          console.log(`Using Device ID from env: ${this.deviceId}`)
+        }
+      } else {
+        this.deviceId = await this.createDeviceId()
+        if (this.debug) {
+          console.log(`Device ID generated: ${this.deviceId}`)
+        }
       }
     }
     return this.deviceId

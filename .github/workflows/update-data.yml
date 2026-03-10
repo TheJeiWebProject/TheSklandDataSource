@@ -18,6 +18,8 @@ jobs:
           node-version: 20
       - run: npm install
       - run: npm run all
+        env:
+          SKLAND_DEVICE_ID: ${{ secrets.SKLAND_DEVICE_ID }}
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
