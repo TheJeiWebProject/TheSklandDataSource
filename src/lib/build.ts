@@ -74,7 +74,7 @@ function flattenTagNodes(nodes: WikiTagNode[] | undefined): WikiTagNode[] {
     if (!node || typeof node !== 'object') continue;
     out.push(node);
     const children = Array.isArray(node.children) ? node.children : [];
-    for (let i = children.length - 1; i >= 0; i -= 1) stack.push(children[i] as WikiTagNode);
+    for (let i = children.length - 1; i >= 0; i -= 1) stack.push(children[i]);
   }
   return out;
 }
@@ -383,6 +383,45 @@ export async function buildSklandPack(args: BuildArgs, repoRoot: string): Promis
     converterStats: conversionResult.converterStats,
     postprocess: postprocessResult.stats,
   });
+
+  // 生成 .nojekyll 文件，防止 GitHub Pages 忽略 _extra 等下划线开头的目录
+  fs.writeFileSync(path.join(outDirAbs, '.nojekyll'), '');
+
+  // 生成 index.html 文件，提供简单的引导页面
+  const indexHtml = `<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>${args.displayName}</title>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+    h1 { color: #333; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin: 0.5rem 0; }
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .meta { color: #666; font-size: 0.9em; margin-bottom: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>${args.displayName}</h1>
+  <div class="meta">
+    <p>Pack ID: ${args.packId}</p>
+    <p>Version: ${version}</p>
+    <p>Generated: ${new Date().toISOString()}</p>
+  </div>
+  <h2>Files</h2>
+  <ul>
+    <li><a href="manifest.json">manifest.json</a></li>
+    <li><a href="itemsIndex.json">itemsIndex.json</a></li>
+    <li><a href="itemsLite.json">itemsLite.json</a></li>
+    <li><a href="recipeTypes.json">recipeTypes.json</a></li>
+    <li><a href="recipes.json">recipes.json</a></li>
+    <li><a href="build-summary.json">build-summary.json</a></li>
+  </ul>
+</body>
+</html>`;
+  fs.writeFileSync(path.join(outDirAbs, 'index.html'), indexHtml);
 
   if (args.registerPackIndex) {
     updatePackIndex(repoRoot, args.packId, args.displayName);
