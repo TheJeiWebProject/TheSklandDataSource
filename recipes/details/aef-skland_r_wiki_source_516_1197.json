@@ -1,0 +1,269 @@
+{
+  "id": "aef-skland:r/wiki_source_516/1197",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_26",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_32",
+      "amount": 600
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_516",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "vM7CEP",
+        "fvOAUm",
+        "Nqmdpp",
+        "L4uMdO",
+        "qdAnQH",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "DmeJFE": {
+          "id": "DmeJFE",
+          "parentId": "XaDBNa",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "矿脉源区-矿区营地"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 商人"
+                }
+              },
+              {
+                "italic": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（芙蕾丝杂货铺）"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 处购买，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "32",
+                  "showType": "link-imgText",
+                  "count": "600"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，存量 "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "3"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 份。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "L4uMdO": {
+          "id": "L4uMdO",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "特定NPC商店中购买。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Nqmdpp": {
+          "id": "Nqmdpp",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "bv2bga": {
+          "id": "bv2bga",
+          "parentId": "KldRPk",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "26",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中领取刻术瓶的配方。获取配方后即可通过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "简易制作"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "合成刻术瓶。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "fvOAUm": {
+          "id": "fvOAUm",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "fvOAUm",
+            "itemIds": [
+              "KldRPk"
+            ],
+            "itemMap": {
+              "KldRPk": {
+                "id": "KldRPk",
+                "childIds": [
+                  "bv2bga"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "qdAnQH": {
+          "id": "qdAnQH",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "qdAnQH",
+            "itemIds": [
+              "XaDBNa"
+            ],
+            "itemMap": {
+              "XaDBNa": {
+                "id": "XaDBNa",
+                "childIds": [
+                  "DmeJFE"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "vM7CEP": {
+          "id": "vM7CEP",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "完成简制手册内容获取配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

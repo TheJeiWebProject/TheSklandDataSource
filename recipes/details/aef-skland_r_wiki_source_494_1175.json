@@ -1,0 +1,279 @@
+{
+  "id": "aef-skland:r/wiki_source_494/1175",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_571",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_348",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_494",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "QB7bLN",
+        "2tJDil",
+        "ktCiko",
+        "0VWOBU",
+        "kTVw80",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "0VWOBU": {
+          "id": "0VWOBU",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_function_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "生态种植区"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "进行种植培育。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "2tJDil": {
+          "id": "2tJDil",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "2tJDil",
+            "itemIds": [
+              "vvo31b",
+              "yA9QAJ"
+            ],
+            "itemMap": {
+              "vvo31b": {
+                "id": "vvo31b",
+                "childIds": [
+                  "zGKMUB"
+                ]
+              },
+              "yA9QAJ": {
+                "id": "yA9QAJ",
+                "childIds": [
+                  "3i0lqa"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "3i0lqa": {
+          "id": "3i0lqa",
+          "parentId": "yA9QAJ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "锦草的采集点有概率会被替换为"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "571",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的采集点。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QB7bLN": {
+          "id": "QB7bLN",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "景玉谷–迷踪林等地采集。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "kTVw80": {
+          "id": "kTVw80",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "kTVw80",
+            "itemIds": [
+              "mE78kv"
+            ],
+            "itemMap": {
+              "mE78kv": {
+                "id": "mE78kv",
+                "childIds": [
+                  "w4bvda"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "ktCiko": {
+          "id": "ktCiko",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "w4bvda": {
+          "id": "w4bvda",
+          "parentId": "mE78kv",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "348",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "并进行育苗、浇水、施肥，等待其成熟时收获可以获取"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "494",
+                  "showType": "link-imgText",
+                  "count": "10"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "zGKMUB": {
+          "id": "zGKMUB",
+          "parentId": "vvo31b",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在武陵城"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_function_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "天师府学院"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "等地极其容易获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

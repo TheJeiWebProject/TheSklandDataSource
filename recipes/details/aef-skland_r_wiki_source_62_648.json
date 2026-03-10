@@ -1,0 +1,94 @@
+{
+  "id": "aef-skland:r/wiki_source_62/648",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_62",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "基本信息",
+    "context": {
+      "groupTitle": "基本信息",
+      "widgetTitle": "",
+      "panelTitle": "获取方式"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "vHBHNA"
+      ],
+      "blockMap": {
+        "h484Po": {
+          "id": "h484Po",
+          "parentId": "wzwmMZ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "武器池抽卡获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "vHBHNA": {
+          "id": "vHBHNA",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "vHBHNA",
+            "itemIds": [
+              "wzwmMZ",
+              "oJ7UIgcuWLFY"
+            ],
+            "itemMap": {
+              "oJ7UIgcuWLFY": {
+                "id": "oJ7UIgcuWLFY",
+                "childIds": [
+                  "xyNxpNn2hseJ"
+                ]
+              },
+              "wzwmMZ": {
+                "id": "wzwmMZ",
+                "childIds": [
+                  "h484Po"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "xyNxpNn2hseJ": {
+          "id": "xyNxpNn2hseJ",
+          "parentId": "oJ7UIgcuWLFY",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "四号谷地-物资调度获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

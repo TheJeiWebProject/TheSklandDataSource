@@ -1,0 +1,96 @@
+{
+  "id": "aef-skland:r/wiki_source_350/974",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_350",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "相关来源 / 设备需求",
+    "context": {
+      "groupTitle": "相关来源",
+      "widgetTitle": "设备需求",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "UwdvtY",
+        "bdzaxf",
+        "9meVkf"
+      ],
+      "blockMap": {
+        "9meVkf": {
+          "id": "9meVkf",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "PlNWyq": {
+          "id": "PlNWyq",
+          "parentId": "aGX3iU",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "简易制作"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "UwdvtY": {
+          "id": "UwdvtY",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "bdzaxf": {
+          "id": "bdzaxf",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "bdzaxf",
+            "itemIds": [
+              "aGX3iU"
+            ],
+            "itemMap": {
+              "aGX3iU": {
+                "id": "aGX3iU",
+                "childIds": [
+                  "PlNWyq"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

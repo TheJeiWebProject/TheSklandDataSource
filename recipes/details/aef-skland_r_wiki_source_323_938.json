@@ -1,0 +1,137 @@
+{
+  "id": "aef-skland:r/wiki_source_323/938",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_133",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_323",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "QB7bLN",
+        "PwCzTtPM6YUG",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "5qSN8a23HIrO": {
+          "id": "5qSN8a23HIrO",
+          "parentId": "SLLPUuZP7I5D",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "紧要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "133",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "进程：冷启动"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中随任务进度推进获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "PwCzTtPM6YUG": {
+          "id": "PwCzTtPM6YUG",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "PwCzTtPM6YUG",
+            "itemIds": [
+              "SLLPUuZP7I5D"
+            ],
+            "itemMap": {
+              "SLLPUuZP7I5D": {
+                "id": "SLLPUuZP7I5D",
+                "childIds": [
+                  "5qSN8a23HIrO"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "QB7bLN": {
+          "id": "QB7bLN",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

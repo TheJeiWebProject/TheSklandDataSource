@@ -1,0 +1,95 @@
+{
+  "id": "aef-skland:r/wiki_source_431/1066",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_431",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取方式 / 所属区域",
+    "context": {
+      "groupTitle": "获取方式",
+      "widgetTitle": "所属区域",
+      "panelTitle": "武陵"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "5PQ2Wc"
+      ],
+      "blockMap": {
+        "5PQ2Wc": {
+          "id": "5PQ2Wc",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "5PQ2Wc",
+            "itemIds": [
+              "wZMMyt",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "wZMMyt": {
+                "id": "wZMMyt",
+                "childIds": [
+                  "u1EE7c"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "hYoSQH": {
+          "id": "hYoSQH",
+          "parentId": "J6PClp",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "敌人掉落"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "u1EE7c": {
+          "id": "u1EE7c",
+          "parentId": "wZMMyt",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}
