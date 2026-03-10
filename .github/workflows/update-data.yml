@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 0 * * *' # Daily at midnight
   workflow_dispatch:
+    inputs:
+      fast_mode:
+        description: 'Enable fast mode (concurrency=2, sleep=500ms)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -20,6 +25,7 @@ jobs:
       - run: npm run all
         env:
           SKLAND_DEVICE_ID: ${{ secrets.SKLAND_DEVICE_ID }}
+          CRAWL_FAST_MODE: ${{ github.event.inputs.fast_mode }}
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:

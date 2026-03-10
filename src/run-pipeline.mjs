@@ -51,14 +51,21 @@ async function main() {
     // Wait for server to initialize
     await sleep(3000);
 
+    // Determine crawl speed based on environment variable
+    const isFastMode = process.env.CRAWL_FAST_MODE === 'true';
+    const concurrency = isFastMode ? '2' : '1';
+    const sleepMs = isFastMode ? '500' : '2000';
+
+    console.log(`> Crawl mode: ${isFastMode ? 'FAST' : 'SLOW'} (concurrency=${concurrency}, sleep=${sleepMs}ms)`);
+
     // 1. Crawl
     await run('node', [
       'src/crawler.mjs',
       '--proxy-endpoint', 'http://localhost:12345/proxy-request',
       '--limit', '0',
       '--overwrite',
-      '--concurrency', '2',
-      '--sleep-ms', '500'
+      '--concurrency', concurrency,
+      '--sleep-ms', sleepMs
     ]);
 
     // 2. Extract
