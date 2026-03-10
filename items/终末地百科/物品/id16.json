@@ -1,0 +1,1584 @@
+{
+  "key": {
+    "id": "skland.wiki.item_16"
+  },
+  "name": "信用",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/07/3048259/ee67c1c5cf97ffd2fc5074233d90a449.png",
+  "description": "获取方式:\n采购中心 - 信用交易所获取。\n每日凌晨 4:00 后可以在信用交易所获取每日固定奖励[信用x300]，同时清除玩家拥有信用数量超出 300 的部分。\n帝江号-生产助力与物资调度终端等。\n在帝江号上有多种途径可以获得信用：\n相关地点 | 获取途径 | 获取数量\n帝江号-会客室 | 开展情报交流。 | 每次[信用x400]\n | 情报交流期间好友助力。 | 每次[信用x15]，上限20人\n | 向好友赠予对方已有线索。 | 每份[信用x30]\n | 向好友赠予对方需求线索。 | 每份[信用x40]\n帝江号-生产终端 | 好友售出物资。 | 根据货品总售价每日获得最多[信用x60]\n好友的帝江号 | 前往好友的帝江号生产终端处可以进行生产助力。 | 每次[信用x20]，每日最多5次\n | 参与好友的情报交流。 | 每次[信用x50]，每日最多5次\n\n用途:\n采购中心 - 信用交易所购买物品。\n信用交易所中的出售物品每日凌晨 4:00 都会自动刷新，也可以花费信用手动刷新。 每名玩家每日仅能进行4次刷新，首次刷新花费[信用x80]，之后每一次刷新的价格都会递增[信用x40]。",
+  "rarity": {
+    "stars": 4,
+    "label": "4星",
+    "color": "#ffa726",
+    "token": "rarity_4",
+    "tagId": "10004"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:物品",
+    "rarity:4"
+  ],
+  "source": "终末地百科/物品/id16.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773155976",
+    "data": {
+      "item": {
+        "itemId": "16",
+        "document": {
+          "documentMap": {
+            "DLwbYLeo": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "QB7bLN",
+                "SOF1bz8NxKhL",
+                "g2xcVp",
+                "hVl20E",
+                "WD8KCL",
+                "ymVVypNu1xJc",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "0U9necWdipuZ": {
+                  "id": "0U9necWdipuZ",
+                  "parentId": "msSP3a",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在帝江号上有多种途径可以获得信用："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "4HLr4z6qN0yT": {
+                  "id": "4HLr4z6qN0yT",
+                  "parentId": "8sbEzw_UQL7Wm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "向好友赠予对方"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需求"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "线索。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "6nus9VkJoUPF": {
+                  "id": "6nus9VkJoUPF",
+                  "parentId": "h7Yco91zRpon",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每日凌晨 "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "4:00 "
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可以在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "信用交易所"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取每日固定奖励"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "300"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，同时清除玩家拥有信用数量超出 "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "300"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " 的部分。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8UqgLuthvavo": {
+                  "id": "8UqgLuthvavo",
+                  "parentId": "dJ4pQJ_UQL7Wm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "开展"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "情报交流"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "A5CA6TvZ1JsT": {
+                  "id": "A5CA6TvZ1JsT",
+                  "parentId": "K2vblx_D8P6mW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每次"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，每日最多5次"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "AGs65l9Bczbj": {
+                  "id": "AGs65l9Bczbj",
+                  "parentId": "DmDLIL_D8P6mW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每次"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "15"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，上限20人"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "BmH7J91FnTS7": {
+                  "id": "BmH7J91FnTS7",
+                  "parentId": "jQDGpA_D8P6mW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "每次"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "50"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，每日最多5次"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ENwtOSN2cjZa": {
+                  "id": "ENwtOSN2cjZa",
+                  "parentId": "LLUSF4_UQL7Wm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "好友"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "售出物资。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "I3xjvtgL9nw6": {
+                  "id": "I3xjvtgL9nw6",
+                  "parentId": "dJ4pQJ_RenrBZ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "帝江号-会客室"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "IEvAZUUDMiZL": {
+                  "id": "IEvAZUUDMiZL",
+                  "parentId": "K2vblx_RenrBZ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "好友的帝江号"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "L8Dp4HFrp8a8": {
+                  "id": "L8Dp4HFrp8a8",
+                  "parentId": "DmDLIL_UQL7Wm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "情报交流"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间好友助力。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PyYQs9CDtSRn": {
+                  "id": "PyYQs9CDtSRn",
+                  "parentId": "Hdp28g_UQL7Wm",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "获取途径"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "采购中心 - 信用交易所获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Qi6Su64FTbom": {
+                  "id": "Qi6Su64FTbom",
+                  "parentId": "J3mWXw_D8P6mW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "每份"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "30"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SOF1bz8NxKhL": {
+                  "id": "SOF1bz8NxKhL",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "SOF1bz8NxKhL",
+                    "itemIds": [
+                      "h7Yco91zRpon"
+                    ],
+                    "itemMap": {
+                      "h7Yco91zRpon": {
+                        "id": "h7Yco91zRpon",
+                        "childIds": [
+                          "6nus9VkJoUPF"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "SoXFniiOFgzG": {
+                  "id": "SoXFniiOFgzG",
+                  "parentId": "jQDGpA_UQL7Wm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "参与好友的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "情报交流"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WD8KCL": {
+                  "id": "WD8KCL",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WD8KCL",
+                    "itemIds": [
+                      "msSP3a"
+                    ],
+                    "itemMap": {
+                      "msSP3a": {
+                        "id": "msSP3a",
+                        "childIds": [
+                          "0U9necWdipuZ"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "XAj0tTVGKNhG": {
+                  "id": "XAj0tTVGKNhG",
+                  "parentId": "8sbEzw_D8P6mW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "每份"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "40"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cMGQNMOYxbq1": {
+                  "id": "cMGQNMOYxbq1",
+                  "parentId": "LLUSF4_D8P6mW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "根据货品总售价每日获得最多"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "60"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "emu2eVuxBuG8": {
+                  "id": "emu2eVuxBuG8",
+                  "parentId": "Hdp28g_D8P6mW",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "获取数量"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "g2xcVp": {
+                  "id": "g2xcVp",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gfPEmpmKgleE": {
+                  "id": "gfPEmpmKgleE",
+                  "parentId": "LLUSF4_RenrBZ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "帝江号-生产终端"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hVl20E": {
+                  "id": "hVl20E",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "帝江号-生产助力与物资调度终端等。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "l5cZdZOZIpA0": {
+                  "id": "l5cZdZOZIpA0",
+                  "parentId": "dJ4pQJ_D8P6mW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每次"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "400"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lvwzYJBjDSKC": {
+                  "id": "lvwzYJBjDSKC",
+                  "parentId": "K2vblx_UQL7Wm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "前往好友的帝江号"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "生产终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "处可以进行生产助力。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mnHnulG9HTgL": {
+                  "id": "mnHnulG9HTgL",
+                  "parentId": "Hdp28g_RenrBZ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "相关地点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ymVVypNu1xJc": {
+                  "id": "ymVVypNu1xJc",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "ymVVypNu1xJc",
+                    "rowIds": [
+                      "Hdp28g",
+                      "dJ4pQJ",
+                      "DmDLIL",
+                      "J3mWXw",
+                      "8sbEzw",
+                      "LLUSF4",
+                      "K2vblx",
+                      "jQDGpA"
+                    ],
+                    "columnIds": [
+                      "RenrBZ",
+                      "UQL7Wm",
+                      "D8P6mW"
+                    ],
+                    "rowMap": {
+                      "8sbEzw": {
+                        "id": "8sbEzw"
+                      },
+                      "DmDLIL": {
+                        "id": "DmDLIL"
+                      },
+                      "Hdp28g": {
+                        "id": "Hdp28g"
+                      },
+                      "J3mWXw": {
+                        "id": "J3mWXw"
+                      },
+                      "K2vblx": {
+                        "id": "K2vblx"
+                      },
+                      "LLUSF4": {
+                        "id": "LLUSF4"
+                      },
+                      "dJ4pQJ": {
+                        "id": "dJ4pQJ"
+                      },
+                      "jQDGpA": {
+                        "id": "jQDGpA"
+                      }
+                    },
+                    "columnMap": {
+                      "D8P6mW": {
+                        "id": "D8P6mW",
+                        "width": 336
+                      },
+                      "RenrBZ": {
+                        "id": "RenrBZ",
+                        "width": 196
+                      },
+                      "UQL7Wm": {
+                        "id": "UQL7Wm",
+                        "width": 628
+                      }
+                    },
+                    "cellMap": {
+                      "8sbEzw_D8P6mW": {
+                        "id": "8sbEzw_D8P6mW",
+                        "childIds": [
+                          "XAj0tTVGKNhG"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "8sbEzw_UQL7Wm": {
+                        "id": "8sbEzw_UQL7Wm",
+                        "childIds": [
+                          "4HLr4z6qN0yT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "DmDLIL_D8P6mW": {
+                        "id": "DmDLIL_D8P6mW",
+                        "childIds": [
+                          "AGs65l9Bczbj"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "DmDLIL_UQL7Wm": {
+                        "id": "DmDLIL_UQL7Wm",
+                        "childIds": [
+                          "L8Dp4HFrp8a8"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Hdp28g_D8P6mW": {
+                        "id": "Hdp28g_D8P6mW",
+                        "childIds": [
+                          "emu2eVuxBuG8"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Hdp28g_RenrBZ": {
+                        "id": "Hdp28g_RenrBZ",
+                        "childIds": [
+                          "mnHnulG9HTgL"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Hdp28g_UQL7Wm": {
+                        "id": "Hdp28g_UQL7Wm",
+                        "childIds": [
+                          "PyYQs9CDtSRn"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "J3mWXw_D8P6mW": {
+                        "id": "J3mWXw_D8P6mW",
+                        "childIds": [
+                          "Qi6Su64FTbom"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "J3mWXw_UQL7Wm": {
+                        "id": "J3mWXw_UQL7Wm",
+                        "childIds": [
+                          "ysCSB135GNcq"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "K2vblx_D8P6mW": {
+                        "id": "K2vblx_D8P6mW",
+                        "childIds": [
+                          "A5CA6TvZ1JsT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "K2vblx_RenrBZ": {
+                        "id": "K2vblx_RenrBZ",
+                        "childIds": [
+                          "IEvAZUUDMiZL"
+                        ],
+                        "rowSpan": "2",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "K2vblx_UQL7Wm": {
+                        "id": "K2vblx_UQL7Wm",
+                        "childIds": [
+                          "lvwzYJBjDSKC"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "LLUSF4_D8P6mW": {
+                        "id": "LLUSF4_D8P6mW",
+                        "childIds": [
+                          "cMGQNMOYxbq1"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "LLUSF4_RenrBZ": {
+                        "id": "LLUSF4_RenrBZ",
+                        "childIds": [
+                          "gfPEmpmKgleE"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "LLUSF4_UQL7Wm": {
+                        "id": "LLUSF4_UQL7Wm",
+                        "childIds": [
+                          "ENwtOSN2cjZa"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "dJ4pQJ_D8P6mW": {
+                        "id": "dJ4pQJ_D8P6mW",
+                        "childIds": [
+                          "l5cZdZOZIpA0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "dJ4pQJ_RenrBZ": {
+                        "id": "dJ4pQJ_RenrBZ",
+                        "childIds": [
+                          "I3xjvtgL9nw6"
+                        ],
+                        "rowSpan": "4",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "dJ4pQJ_UQL7Wm": {
+                        "id": "dJ4pQJ_UQL7Wm",
+                        "childIds": [
+                          "8UqgLuthvavo"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "jQDGpA_D8P6mW": {
+                        "id": "jQDGpA_D8P6mW",
+                        "childIds": [
+                          "BmH7J91FnTS7"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "jQDGpA_UQL7Wm": {
+                        "id": "jQDGpA_UQL7Wm",
+                        "childIds": [
+                          "SoXFniiOFgzG"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "ysCSB135GNcq": {
+                  "id": "ysCSB135GNcq",
+                  "parentId": "J3mWXw_UQL7Wm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "向好友赠予对方"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "已有"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "线索。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "drpWmihu": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "m7VnlH",
+                "Jefg56",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "5veJ0d": {
+                  "id": "5veJ0d",
+                  "parentId": "Jkmet8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "信用交易所"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "中的出售物品每日"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "凌晨 "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "4:00 "
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "都会自动刷新，也可以花费信用手动刷新。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "BY4ahI": {
+                  "id": "BY4ahI",
+                  "parentId": "G2FEdd",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每名玩家每日仅能进行4次刷新，首次刷新花费"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "80"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，之后每一次刷新的价格都会递增"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "16",
+                          "showType": "link-imgText",
+                          "count": "40"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "EZVp4K": {
+                  "id": "EZVp4K",
+                  "parentId": "Jkmet8",
+                  "kind": "list",
+                  "list": {
+                    "id": "EZVp4K",
+                    "itemIds": [
+                      "G2FEdd"
+                    ],
+                    "itemMap": {
+                      "G2FEdd": {
+                        "id": "G2FEdd",
+                        "childIds": [
+                          "BY4ahI"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Jefg56": {
+                  "id": "Jefg56",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Jefg56",
+                    "itemIds": [
+                      "Jkmet8"
+                    ],
+                    "itemMap": {
+                      "Jkmet8": {
+                        "id": "Jkmet8",
+                        "childIds": [
+                          "5veJ0d",
+                          "EZVp4K"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "m7VnlH": {
+                  "id": "m7VnlH",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "采购中心 - 信用交易所购买物品。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "JRRTRIUi",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "BrfRWXDB",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "BrfRWXDB": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "drpWmihu",
+                  "audioList": []
+                }
+              }
+            },
+            "JRRTRIUi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "DLwbYLeo",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "信用",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "6",
+          "name": "物品",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 7,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10253",
+              "children": [
+                {
+                  "id": "10261",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10260",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10263",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10257",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10259",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10313",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10254",
+              "children": [
+                {
+                  "id": "10320",
+                  "children": [],
+                  "name": "自然资源",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10255",
+                  "children": [],
+                  "name": "采集材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10332",
+                  "children": [],
+                  "name": "珍贵材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10318",
+                  "children": [],
+                  "name": "工业产物",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10317",
+                  "children": [],
+                  "name": "可用道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10316",
+                  "children": [],
+                  "name": "功能道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10256",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/07/3048259/ee67c1c5cf97ffd2fc5074233d90a449.png",
+          "name": "信用",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "友谊的见证。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "可用于在采购中心 - 信用交易处兑换养成材料等重要资源。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10004"
+            },
+            {
+              "subTypeId": "10253",
+              "value": "10257"
+            },
+            {
+              "subTypeId": "10254",
+              "value": "10256"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1766384649",
+        "lastAuditPassedAt": "1771309138",
+        "tagIds": [
+          "10004",
+          "10257",
+          "10256"
+        ]
+      }
+    }
+  }
+}

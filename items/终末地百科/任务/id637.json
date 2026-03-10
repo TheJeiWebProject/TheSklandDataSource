@@ -1,0 +1,1504 @@
+{
+  "key": {
+    "id": "skland.wiki.item_637"
+  },
+  "name": "稼穑不易",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/12/402818/1c5331056d5461e0f0de5b3a4c2c6913.png",
+  "description": "用途:\n地点 | 开启条件 | 后续任务\n源石研究园 | 完成[据点部署·基建前站] | /\n进程\n诺夫曼发来消息，他的朋友维拉遇到了点麻烦。维拉在基建前站附近的生态种植区工作，去那里查看一下情况。·查看诺夫曼发来的消息（BAKER/事务通讯诺夫曼：管理员，你有空吗? 管理员：有空，建设情况都还好吗？诺夫曼：这边还好，但是维拉遇到麻烦了！诺夫曼：对不起，我详细解释一下。维拉主要负责基建前站附近的生态种植区工作，我刚收到她的报告......诺夫曼：种植区被裂地者洗劫一空！我已经增派了人手来避免类似的情况再次发生......可是我现在盯着建设情况，去不了现场。管理员：我现在就过去看看。诺夫曼：实在是太感谢你了，管理员！）·前往生态种植区，与维拉交谈·采集苦叶椒·将苦叶椒交给维拉·向维尔莫林购买苦叶椒种子·（可选）使用采种机采集苦叶椒种子·前往生态种植区入口，与维拉会合·与维拉交谈·使用简易制作，制作苦叶椒田块·放置苦叶椒田块·与维拉交谈",
+  "tags": [
+    "main:终末地百科",
+    "sub:任务"
+  ],
+  "source": "终末地百科/任务/id637.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773156308",
+    "data": {
+      "item": {
+        "itemId": "637",
+        "document": {
+          "documentMap": {
+            "WZbnEAJ1": {
+              "id": "document-id",
+              "blockIds": [
+                "NtVjUA",
+                "BUJhkha0gGmv",
+                "kcmeWU"
+              ],
+              "blockMap": {
+                "5vUL1b2NcK5m": {
+                  "id": "5vUL1b2NcK5m",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "管理员："
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "有空，建设情况都还好吗？"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7oLhvCl6JcJ2": {
+                  "id": "7oLhvCl6JcJ2",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "诺夫曼："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "对不起，我详细解释一下。维拉主要负责基建前站附近的生态种植区工作，我刚收到她的报告......"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "BUJhkha0gGmv": {
+                  "id": "BUJhkha0gGmv",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "HXRqTo": {
+                  "id": "HXRqTo",
+                  "parentId": "2mKSRl_3r8DY7",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "后续任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JX9CWCO9yoDM": {
+                  "id": "JX9CWCO9yoDM",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "采集"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "苦叶椒"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "NtVjUA": {
+                  "id": "NtVjUA",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "NtVjUA",
+                    "rowIds": [
+                      "2mKSRl",
+                      "zheV12"
+                    ],
+                    "columnIds": [
+                      "gHUCGa",
+                      "FTD4zT",
+                      "3r8DY7"
+                    ],
+                    "rowMap": {
+                      "2mKSRl": {
+                        "id": "2mKSRl"
+                      },
+                      "zheV12": {
+                        "id": "zheV12"
+                      }
+                    },
+                    "columnMap": {
+                      "3r8DY7": {
+                        "id": "3r8DY7",
+                        "width": 386.6666666666667
+                      },
+                      "FTD4zT": {
+                        "id": "FTD4zT",
+                        "width": 386.6666666666667
+                      },
+                      "gHUCGa": {
+                        "id": "gHUCGa",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "2mKSRl_3r8DY7": {
+                        "id": "2mKSRl_3r8DY7",
+                        "childIds": [
+                          "HXRqTo"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "2mKSRl_FTD4zT": {
+                        "id": "2mKSRl_FTD4zT",
+                        "childIds": [
+                          "mMCsKf"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "2mKSRl_gHUCGa": {
+                        "id": "2mKSRl_gHUCGa",
+                        "childIds": [
+                          "UIRCTD"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zheV12_3r8DY7": {
+                        "id": "zheV12_3r8DY7",
+                        "childIds": [
+                          "uJhHKU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zheV12_FTD4zT": {
+                        "id": "zheV12_FTD4zT",
+                        "childIds": [
+                          "z2iuBz"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zheV12_gHUCGa": {
+                        "id": "zheV12_gHUCGa",
+                        "childIds": [
+                          "P66VSA"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "O1W6JsnYwnUx": {
+                  "id": "O1W6JsnYwnUx",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "诺夫曼："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "种植区被裂地者洗劫一空！我已经增派了人手来避免类似的情况再次发生......可是我现在盯着建设情况，去不了现场。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "P66VSA": {
+                  "id": "P66VSA",
+                  "parentId": "zheV12_gHUCGa",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "UIRCTD": {
+                  "id": "UIRCTD",
+                  "parentId": "2mKSRl_gHUCGa",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "地点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "UXe40K": {
+                  "id": "UXe40K",
+                  "parentId": "wZtoRL_B2wshm",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "进程"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WE7g8Dpo2WN2": {
+                  "id": "WE7g8Dpo2WN2",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "与"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "维拉"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "交谈"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WOwq971cqEJU": {
+                  "id": "WOwq971cqEJU",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "诺夫曼："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "这边还好，但是维拉遇到麻烦了！"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Y9zKxGMc8T5u": {
+                  "id": "Y9zKxGMc8T5u",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "生态种植区"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "，与维拉交谈"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ahaAjtmv61rA": {
+                  "id": "ahaAjtmv61rA",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "与"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "维拉"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "交谈"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "c1hnHsGid7l6": {
+                  "id": "c1hnHsGid7l6",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "诺夫曼发来消息，他的朋友维拉遇到了点麻烦。维拉在基建前站附近的生态种植区工作，去那里查看一下情况。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cZyu0iLjnDbw": {
+                  "id": "cZyu0iLjnDbw",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "BAKER/事务通讯"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dM1ywtZzr1RN": {
+                  "id": "dM1ywtZzr1RN",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "苦叶椒田块"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fcRcpY3RlJtN": {
+                  "id": "fcRcpY3RlJtN",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "使用简易制作，制作"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "苦叶椒田块"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "jYGBb8YZuW5g": {
+                  "id": "jYGBb8YZuW5g",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "诺夫曼："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "管理员，你有空吗? "
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kcmeWU": {
+                  "id": "kcmeWU",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "kcmeWU",
+                    "rowIds": [
+                      "wZtoRL",
+                      "gG3cxy"
+                    ],
+                    "columnIds": [
+                      "B2wshm"
+                    ],
+                    "rowMap": {
+                      "gG3cxy": {
+                        "id": "gG3cxy"
+                      },
+                      "wZtoRL": {
+                        "id": "wZtoRL"
+                      }
+                    },
+                    "columnMap": {
+                      "B2wshm": {
+                        "id": "B2wshm",
+                        "width": 1160
+                      }
+                    },
+                    "cellMap": {
+                      "gG3cxy_B2wshm": {
+                        "id": "gG3cxy_B2wshm",
+                        "childIds": [
+                          "c1hnHsGid7l6",
+                          "vukL1aoSMg8V",
+                          "cZyu0iLjnDbw",
+                          "jYGBb8YZuW5g",
+                          "5vUL1b2NcK5m",
+                          "WOwq971cqEJU",
+                          "7oLhvCl6JcJ2",
+                          "O1W6JsnYwnUx",
+                          "oreG2hrPEbPv",
+                          "vQnFumKyCxtO",
+                          "Y9zKxGMc8T5u",
+                          "JX9CWCO9yoDM",
+                          "qrgRe78oWGHJ",
+                          "p0YGqLZOPl47",
+                          "oqtzSiqd6Fr3",
+                          "suZT9ycevqPY",
+                          "WE7g8Dpo2WN2",
+                          "fcRcpY3RlJtN",
+                          "dM1ywtZzr1RN",
+                          "ahaAjtmv61rA"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "wZtoRL_B2wshm": {
+                        "id": "wZtoRL_B2wshm",
+                        "childIds": [
+                          "UXe40K"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "mMCsKf": {
+                  "id": "mMCsKf",
+                  "parentId": "2mKSRl_FTD4zT",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "开启条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oqtzSiqd6Fr3": {
+                  "id": "oqtzSiqd6Fr3",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "underline": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "（可选）"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "使用采种机采集苦叶椒种子"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oreG2hrPEbPv": {
+                  "id": "oreG2hrPEbPv",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "管理员："
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "我现在就过去看看。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "p0YGqLZOPl47": {
+                  "id": "p0YGqLZOPl47",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "向维尔莫林购买苦叶椒种子"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qrgRe78oWGHJ": {
+                  "id": "qrgRe78oWGHJ",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "将苦叶椒交给"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "维拉"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "suZT9ycevqPY": {
+                  "id": "suZT9ycevqPY",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "生态种植区"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "入口，与维拉会合"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uJhHKU": {
+                  "id": "uJhHKU",
+                  "parentId": "zheV12_3r8DY7",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vQnFumKyCxtO": {
+                  "id": "vQnFumKyCxtO",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "诺夫曼："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "实在是太感谢你了，管理员！）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vukL1aoSMg8V": {
+                  "id": "vukL1aoSMg8V",
+                  "parentId": "gG3cxy_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "查看"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "诺夫曼"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "发来的消息"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "z2iuBz": {
+                  "id": "z2iuBz",
+                  "parentId": "zheV12_FTD4zT",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "667",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "bjCoCudM": {
+              "id": "document-id",
+              "blockIds": [
+                "KsVWUwmhrc5w",
+                "LPst2brKvnlX",
+                "YYHGi6cOj5k6",
+                "RStsG0"
+              ],
+              "blockMap": {
+                "0SPGDY": {
+                  "id": "0SPGDY",
+                  "parentId": "aqKiCU_VB9A8k",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "19",
+                          "showType": "card-big",
+                          "count": "2650"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8iAjqK": {
+                  "id": "8iAjqK",
+                  "parentId": "aqKiCU_Wpea6D",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "213",
+                          "showType": "card-big",
+                          "count": "7"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "AmtnmM": {
+                  "id": "AmtnmM",
+                  "parentId": "aqKiCU_R8LkKn",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "223",
+                          "showType": "card-big",
+                          "count": "4"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "I6b6ln": {
+                  "id": "I6b6ln",
+                  "parentId": "aqKiCU_g9Av26",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "225",
+                          "showType": "card-big",
+                          "count": "6"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "K8UoKa": {
+                  "id": "K8UoKa",
+                  "parentId": "aqKiCU_R8sqX1",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "card-big",
+                          "count": "40"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "KsVWUwmhrc5w": {
+                  "id": "KsVWUwmhrc5w",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "LPst2brKvnlX": {
+                  "id": "LPst2brKvnlX",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "LPst2brKvnlX",
+                    "itemIds": [
+                      "ixRz2SzuEucc"
+                    ],
+                    "itemMap": {
+                      "ixRz2SzuEucc": {
+                        "id": "ixRz2SzuEucc",
+                        "childIds": [
+                          "OHiu6IqNSYMy"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OHiu6IqNSYMy": {
+                  "id": "OHiu6IqNSYMy",
+                  "parentId": "ixRz2SzuEucc",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成此任务可解锁功能"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "underline": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "生态种植"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "OfxUNP": {
+                  "id": "OfxUNP",
+                  "parentId": "aqKiCU_u6GBB3",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "14",
+                          "showType": "card-big",
+                          "count": "160"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RStsG0": {
+                  "id": "RStsG0",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "RStsG0",
+                    "rowIds": [
+                      "aqKiCU"
+                    ],
+                    "columnIds": [
+                      "R8sqX1",
+                      "VB9A8k",
+                      "Wpea6D",
+                      "R8LkKn",
+                      "g9Av26",
+                      "u6GBB3"
+                    ],
+                    "rowMap": {
+                      "aqKiCU": {
+                        "id": "aqKiCU"
+                      }
+                    },
+                    "columnMap": {
+                      "R8LkKn": {
+                        "id": "R8LkKn",
+                        "width": 193.33333333333334
+                      },
+                      "R8sqX1": {
+                        "id": "R8sqX1",
+                        "width": 193.33333333333334
+                      },
+                      "VB9A8k": {
+                        "id": "VB9A8k",
+                        "width": 193.33333333333334
+                      },
+                      "Wpea6D": {
+                        "id": "Wpea6D",
+                        "width": 193.33333333333334
+                      },
+                      "g9Av26": {
+                        "id": "g9Av26",
+                        "width": 193.33333333333334
+                      },
+                      "u6GBB3": {
+                        "id": "u6GBB3",
+                        "width": 193.33333333333334
+                      }
+                    },
+                    "cellMap": {
+                      "aqKiCU_R8LkKn": {
+                        "id": "aqKiCU_R8LkKn",
+                        "childIds": [
+                          "AmtnmM"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aqKiCU_R8sqX1": {
+                        "id": "aqKiCU_R8sqX1",
+                        "childIds": [
+                          "K8UoKa"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aqKiCU_VB9A8k": {
+                        "id": "aqKiCU_VB9A8k",
+                        "childIds": [
+                          "0SPGDY"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aqKiCU_Wpea6D": {
+                        "id": "aqKiCU_Wpea6D",
+                        "childIds": [
+                          "8iAjqK"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aqKiCU_g9Av26": {
+                        "id": "aqKiCU_g9Av26",
+                        "childIds": [
+                          "I6b6ln"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aqKiCU_u6GBB3": {
+                        "id": "aqKiCU_u6GBB3",
+                        "childIds": [
+                          "OfxUNP"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "YYHGi6cOj5k6": {
+                  "id": "YYHGi6cOj5k6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "任务信息",
+              "widgets": [
+                {
+                  "id": "hHBXdRIi",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "任务奖励",
+              "widgets": [
+                {
+                  "id": "kr8MRk9J",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "hHBXdRIi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "WZbnEAJ1",
+                  "audioList": []
+                }
+              }
+            },
+            "kr8MRk9J": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "bjCoCudM",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "稼穑不易",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "8",
+          "name": "任务",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 10,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10270",
+              "children": [
+                {
+                  "id": "10272",
+                  "children": [],
+                  "name": "主线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10274",
+                  "children": [],
+                  "name": "探索任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10273",
+                  "children": [],
+                  "name": "支线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10275",
+                  "children": [],
+                  "name": "活动任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10271",
+                  "children": [],
+                  "name": "委托任务",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "任务类型",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10362",
+              "children": [
+                {
+                  "id": "10365",
+                  "children": [],
+                  "name": "紧要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10363",
+                  "children": [],
+                  "name": "重要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10364",
+                  "children": [],
+                  "name": "次要",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "重要程度",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/bbb11da63be72ec2cbdb4de59393aaab.png"
+        },
+        "createdUser": {
+          "id": "4593074404014",
+          "nickname": "梦溪潇",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/12/402818/1c5331056d5461e0f0de5b3a4c2c6913.png",
+          "name": "稼穑不易",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "5vwEjP"
+            ],
+            "blockMap": {
+              "5vwEjP": {
+                "id": "5vwEjP",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10270",
+              "value": "10274"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1768229178",
+        "lastAuditPassedAt": "1769970253",
+        "tagIds": [
+          "10274"
+        ]
+      }
+    }
+  }
+}

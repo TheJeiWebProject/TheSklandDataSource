@@ -1,0 +1,899 @@
+{
+  "key": {
+    "id": "skland.wiki.item_751"
+  },
+  "name": "仓库存取线源桩",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/20/279234/9985af54b1e395db5ba3555c0198c1e0.png",
+  "description": "获取方式:\n在研究完成武陵仓库存取线后可获得1台仓库存取线源桩。 在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [息壤x50] →[仓库存取线源桩x1]\n在武陵工业-武陵工业一期研究武陵仓库存取线获取。\n\n用途:\n仓库存取线源桩是仓储存取类型的机器，可以作为仓库存取线的起始点。\n仓库存取线源桩仅能放置在武陵地区的协议核心或次级核心范围内。\n仓库存取线源桩不需要电力维持运转。\n放置仓库存取线源桩需要长4格、宽4格的可用空地，且只能贴靠仓库存取线放置。",
+  "rarity": {
+    "stars": 4,
+    "label": "4星",
+    "color": "#ffa726",
+    "token": "rarity_4",
+    "tagId": "10004"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:设备",
+    "rarity:4"
+  ],
+  "source": "终末地百科/设备/id751.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773156368",
+    "data": {
+      "item": {
+        "itemId": "751",
+        "document": {
+          "documentMap": {
+            "BKY9LY9x": {
+              "id": "document-id",
+              "blockIds": [
+                "sk3Jui",
+                "aM1JiD",
+                "jELLMI"
+              ],
+              "blockMap": {
+                "aM1JiD": {
+                  "id": "aM1JiD",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仓库存取线源桩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "4"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "4"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地，且只能贴靠仓库存取线放置。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "jELLMI": {
+                  "id": "jELLMI",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "sk3Jui": {
+                  "id": "sk3Jui",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "IawGaV23": {
+              "id": "document-id",
+              "blockIds": [
+                "x89BBe",
+                "YmOPq3",
+                "4gsfHt"
+              ],
+              "blockMap": {
+                "4gsfHt": {
+                  "id": "4gsfHt",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "YmOPq3": {
+                  "id": "YmOPq3",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵工业-武陵工业一期"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵仓库存取线"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "x89BBe": {
+                  "id": "x89BBe",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "YzuPf685": {
+              "id": "document-id",
+              "blockIds": [
+                "exxNKk",
+                "DmToJW",
+                "T2kYe5"
+              ],
+              "blockMap": {
+                "49iUWD": {
+                  "id": "49iUWD",
+                  "parentId": "l3h8jn",
+                  "kind": "list",
+                  "list": {
+                    "id": "49iUWD",
+                    "itemIds": [
+                      "0vdIMe"
+                    ],
+                    "itemMap": {
+                      "0vdIMe": {
+                        "id": "0vdIMe",
+                        "childIds": [
+                          "GjhZ2U"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "DmToJW": {
+                  "id": "DmToJW",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "DmToJW",
+                    "itemIds": [
+                      "V0zo3x",
+                      "l3h8jn"
+                    ],
+                    "itemMap": {
+                      "V0zo3x": {
+                        "id": "V0zo3x",
+                        "childIds": [
+                          "jcslZ2"
+                        ]
+                      },
+                      "l3h8jn": {
+                        "id": "l3h8jn",
+                        "childIds": [
+                          "QZNgUO",
+                          "49iUWD"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "GjhZ2U": {
+                  "id": "GjhZ2U",
+                  "parentId": "0vdIMe",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "771",
+                          "showType": "link-imgText",
+                          "count": "50"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " →"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "751",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QZNgUO": {
+                  "id": "QZNgUO",
+                  "parentId": "l3h8jn",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内，点击"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "工具箱-设备列表-制造设备"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过以下配方制造。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "T2kYe5": {
+                  "id": "T2kYe5",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "exxNKk": {
+                  "id": "exxNKk",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "jcslZ2": {
+                  "id": "jcslZ2",
+                  "parentId": "V0zo3x",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在研究完成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵仓库存取线"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可获得1台仓库存取线源桩。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "y0dBLyC5": {
+              "id": "document-id",
+              "blockIds": [
+                "sL5UQm",
+                "Z9PH8w",
+                "R4E2QC",
+                "BCdqid",
+                "vJQKWl"
+              ],
+              "blockMap": {
+                "BCdqid": {
+                  "id": "BCdqid",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仓库存取线源桩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "不需要电力维持运转。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "R4E2QC": {
+                  "id": "R4E2QC",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仓库存取线源桩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仅能放置在武陵地区的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Z9PH8w": {
+                  "id": "Z9PH8w",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仓库存取线源桩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "是仓储存取类型的机器，可以作为仓库存取线的起始点。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "sL5UQm": {
+                  "id": "sL5UQm",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "vJQKWl": {
+                  "id": "vJQKWl",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "相关来源",
+              "widgets": [
+                {
+                  "id": "dBs783Vw",
+                  "title": "设备来源",
+                  "size": "middle"
+                },
+                {
+                  "id": "CZGehExj",
+                  "title": "蓝图来源",
+                  "size": "small"
+                }
+              ]
+            },
+            {
+              "title": "使用方法",
+              "widgets": [
+                {
+                  "id": "0TVlVYE6",
+                  "title": "相关信息",
+                  "size": "middle"
+                },
+                {
+                  "id": "PHDELVye",
+                  "title": "面积需求",
+                  "size": "small"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "0TVlVYE6": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "y0dBLyC5",
+                  "audioList": []
+                }
+              }
+            },
+            "CZGehExj": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "IawGaV23",
+                  "audioList": []
+                }
+              }
+            },
+            "PHDELVye": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "BKY9LY9x",
+                  "audioList": []
+                }
+              }
+            },
+            "dBs783Vw": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "YzuPf685",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "仓库存取线源桩",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "5",
+          "name": "设备",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 6,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10307",
+              "children": [
+                {
+                  "id": "10309",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10311",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10310",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10312",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10244",
+              "children": [
+                {
+                  "id": "10246",
+                  "children": [],
+                  "name": "物流设备",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10247",
+                  "children": [],
+                  "name": "资源开采",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10250",
+                  "children": [],
+                  "name": "仓储存区",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10252",
+                  "children": [],
+                  "name": "基础生产",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10248",
+                  "children": [],
+                  "name": "合成制造",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10251",
+                  "children": [],
+                  "name": "电力供应",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10249",
+                  "children": [],
+                  "name": "功能设备",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10245",
+                  "children": [],
+                  "name": "战斗辅助",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10333",
+                  "children": [],
+                  "name": "种植调配",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "设备类型",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+        },
+        "createdUser": {
+          "id": "9769520938084",
+          "nickname": "陆刀刀",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/20/279234/9985af54b1e395db5ba3555c0198c1e0.png",
+          "name": "仓库存取线源桩",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "Wi8rre",
+              "Zp6wNP"
+            ],
+            "blockMap": {
+              "Wi8rre": {
+                "id": "Wi8rre",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "作为仓库存取线的起始点，可以在集成核心区域自由放置。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "Zp6wNP": {
+                "id": "Zp6wNP",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "一些工程师偶尔会因息壤而产生自己都无法理解的疯狂念头。工业的终点是什么？像息壤这种“自由”的材料，是否有更进一步的可能？有朝一日，人类的工业技术是否能推进至“无形”的程度？他们如此想着，便会觉得自己走出的每一步都更为意义非凡。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10004"
+            },
+            {
+              "subTypeId": "10244",
+              "value": "10250"
+            },
+            {
+              "subTypeId": "10307",
+              "value": "10312"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1767098137",
+        "lastAuditPassedAt": "1767639891",
+        "tagIds": [
+          "10004",
+          "10250",
+          "10312"
+        ]
+      }
+    }
+  }
+}

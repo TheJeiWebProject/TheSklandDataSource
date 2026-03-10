@@ -1,0 +1,795 @@
+{
+  "key": {
+    "id": "skland.wiki.item_423"
+  },
+  "name": "稳定基质·压制",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/27/490491/c60f1d128b2462fd34f00a08eaaf9354.png",
+  "description": "获取方式:\n能量淤积点 敌人掉落",
+  "rarity": {
+    "stars": 2,
+    "label": "2星",
+    "color": "#42a5f5",
+    "token": "rarity_2",
+    "tagId": "10002"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:武器基质",
+    "rarity:2"
+  ],
+  "source": "终末地百科/武器基质/id423.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773156193",
+    "data": {
+      "item": {
+        "itemId": "423",
+        "document": {
+          "documentMap": {
+            "ZdSRzeP8": {
+              "id": "document-id",
+              "blockIds": [
+                "mLjl2M"
+              ],
+              "blockMap": {
+                "hYoSQH": {
+                  "id": "hYoSQH",
+                  "parentId": "J6PClp",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人掉落"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mLjl2M": {
+                  "id": "mLjl2M",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "mLjl2M",
+                    "itemIds": [
+                      "YL25WG",
+                      "J6PClp"
+                    ],
+                    "itemMap": {
+                      "J6PClp": {
+                        "id": "J6PClp",
+                        "childIds": [
+                          "hYoSQH"
+                        ]
+                      },
+                      "YL25WG": {
+                        "id": "YL25WG",
+                        "childIds": [
+                          "nh6Guu"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "nh6Guu": {
+                  "id": "nh6Guu",
+                  "parentId": "YL25WG",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "abznLZcu": {
+              "id": "document-id",
+              "blockIds": [
+                "PSAm68"
+              ],
+              "blockMap": {
+                "8MNNLm": {
+                  "id": "8MNNLm",
+                  "parentId": "JfKJcR_e9VIam",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "压制"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "CVNiIP": {
+                  "id": "CVNiIP",
+                  "parentId": "PIPiSD_QNyRJL",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_secondary",
+                        "kind": "text",
+                        "text": {
+                          "text": "属性词条初始数值"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "E9aCYo": {
+                  "id": "E9aCYo",
+                  "parentId": "JfKJcR_QNyRJL",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GyQ9mZ": {
+                  "id": "GyQ9mZ",
+                  "parentId": "JfKJcR_WTj1p9",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "~"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "NHJKIr": {
+                  "id": "NHJKIr",
+                  "parentId": "PIPiSD_uIRWXG",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_secondary",
+                        "kind": "text",
+                        "text": {
+                          "text": "蚀刻上限"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PSAm68": {
+                  "id": "PSAm68",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "PSAm68",
+                    "rowIds": [
+                      "PIPiSD",
+                      "JfKJcR"
+                    ],
+                    "columnIds": [
+                      "e9VIam",
+                      "QNyRJL",
+                      "WTj1p9",
+                      "1p25Aj",
+                      "uIRWXG"
+                    ],
+                    "rowMap": {
+                      "JfKJcR": {
+                        "id": "JfKJcR"
+                      },
+                      "PIPiSD": {
+                        "id": "PIPiSD"
+                      }
+                    },
+                    "columnMap": {
+                      "1p25Aj": {
+                        "id": "1p25Aj",
+                        "width": 235
+                      },
+                      "QNyRJL": {
+                        "id": "QNyRJL",
+                        "width": 236
+                      },
+                      "WTj1p9": {
+                        "id": "WTj1p9",
+                        "width": 100
+                      },
+                      "e9VIam": {
+                        "id": "e9VIam",
+                        "width": 430
+                      },
+                      "uIRWXG": {
+                        "id": "uIRWXG",
+                        "width": 159
+                      }
+                    },
+                    "cellMap": {
+                      "JfKJcR_1p25Aj": {
+                        "id": "JfKJcR_1p25Aj",
+                        "childIds": [
+                          "yjutVH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "JfKJcR_QNyRJL": {
+                        "id": "JfKJcR_QNyRJL",
+                        "childIds": [
+                          "E9aCYo"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "JfKJcR_WTj1p9": {
+                        "id": "JfKJcR_WTj1p9",
+                        "childIds": [
+                          "GyQ9mZ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "JfKJcR_e9VIam": {
+                        "id": "JfKJcR_e9VIam",
+                        "childIds": [
+                          "8MNNLm"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "JfKJcR_uIRWXG": {
+                        "id": "JfKJcR_uIRWXG",
+                        "childIds": [
+                          "bE0rOw"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PIPiSD_QNyRJL": {
+                        "id": "PIPiSD_QNyRJL",
+                        "childIds": [
+                          "CVNiIP"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "3",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PIPiSD_e9VIam": {
+                        "id": "PIPiSD_e9VIam",
+                        "childIds": [
+                          "Z6lhi0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PIPiSD_uIRWXG": {
+                        "id": "PIPiSD_uIRWXG",
+                        "childIds": [
+                          "NHJKIr"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "Z6lhi0": {
+                  "id": "Z6lhi0",
+                  "parentId": "PIPiSD_e9VIam",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_secondary",
+                        "kind": "text",
+                        "text": {
+                          "text": "属性名称"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bE0rOw": {
+                  "id": "bE0rOw",
+                  "parentId": "JfKJcR_uIRWXG",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "—"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "yjutVH": {
+                  "id": "yjutVH",
+                  "parentId": "JfKJcR_1p25Aj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "dYazSOmj": {
+              "id": "document-id",
+              "blockIds": [
+                "z86wol"
+              ],
+              "blockMap": {
+                "bWQtsv": {
+                  "id": "bWQtsv",
+                  "parentId": "uXOZFJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hYoSQH": {
+                  "id": "hYoSQH",
+                  "parentId": "J6PClp",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人掉落"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "z86wol": {
+                  "id": "z86wol",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "z86wol",
+                    "itemIds": [
+                      "uXOZFJ",
+                      "J6PClp"
+                    ],
+                    "itemMap": {
+                      "J6PClp": {
+                        "id": "J6PClp",
+                        "childIds": [
+                          "hYoSQH"
+                        ]
+                      },
+                      "uXOZFJ": {
+                        "id": "uXOZFJ",
+                        "childIds": [
+                          "bWQtsv"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "基质属性",
+              "widgets": [
+                {
+                  "id": "LBs5LOpk",
+                  "title": "该基质必定出现的技能属性",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "获取方式",
+              "widgets": [
+                {
+                  "id": "KHP69KEW",
+                  "title": "所属区域",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "KHP69KEW": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1764339161954",
+                  "title": "四号谷地",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1764773654177",
+                  "title": "武陵",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1764339161954": {
+                  "intro": null,
+                  "content": "ZdSRzeP8",
+                  "audioList": []
+                },
+                "tab_1764773654177": {
+                  "intro": null,
+                  "content": "dYazSOmj",
+                  "audioList": []
+                }
+              }
+            },
+            "LBs5LOpk": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "abznLZcu",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "稳定基质·压制",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "7",
+          "name": "武器基质",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 4,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10264",
+              "children": [
+                {
+                  "id": "10265",
+                  "children": [],
+                  "name": "浑浊",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10268",
+                  "children": [],
+                  "name": "稳定",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10267",
+                  "children": [],
+                  "name": "净态",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10269",
+                  "children": [],
+                  "name": "高纯",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10266",
+                  "children": [],
+                  "name": "无瑕",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "4179300744269",
+          "nickname": "二分桃酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"
+        },
+        "createdUser": {
+          "id": "4179300744269",
+          "nickname": "二分桃酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/27/490491/c60f1d128b2462fd34f00a08eaaf9354.png",
+          "name": "稳定基质·压制",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "Q2itjv",
+              "qkxCVi",
+              "G1GTZF"
+            ],
+            "blockMap": {
+              "G1GTZF": {
+                "id": "G1GTZF",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "该基质的属性词条数量为"
+                      }
+                    },
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "1"
+                      }
+                    },
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "条"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "Q2itjv": {
+                "id": "Q2itjv",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "可以注入到武器内，提升武器技能等级。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "qkxCVi": {
+                "id": "qkxCVi",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "kind": "text",
+                      "text": {
+                        "text": "击败危险敌人掉落的活性化物质，可以用于调整武器，强化特殊武器性能。此样品为"
+                      }
+                    },
+                    {
+                      "color": "light_rank_green",
+                      "kind": "text",
+                      "text": {
+                        "text": "稳定级"
+                      }
+                    },
+                    {
+                      "kind": "text",
+                      "text": {
+                        "text": "。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10002"
+            },
+            {
+              "subTypeId": "10264",
+              "value": "10268"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1767799290",
+        "lastAuditPassedAt": "1766846793",
+        "tagIds": [
+          "10002",
+          "10268"
+        ]
+      }
+    }
+  }
+}

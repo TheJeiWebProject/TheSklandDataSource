@@ -1,0 +1,648 @@
+{
+  "key": {
+    "id": "skland.wiki.item_600"
+  },
+  "name": "药品包裹",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/07/3048259/1416b4138df448fc30e1e51f4cb76876.png",
+  "description": "获取方式:\n冒险探索获取\n重要任务[信使的信]中，前往枢纽区-枢纽基地区与[洁尔佩塔]对话后获取。\n\n用途:\n用于提交重要任务目标\n重要任务[信使的信]需求跟随指引前往枢纽区-工人之家将交付药品包裹至NPC 医务人员 处以推进任务，限时1分钟送达，且期间禁止跳跃或冲刺。",
+  "rarity": {
+    "stars": 1,
+    "label": "1星",
+    "color": "#9e9e9e",
+    "token": "rarity_1",
+    "tagId": "10001"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:1"
+  ],
+  "source": "终末地百科/贵重品库/id600.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773156290",
+    "data": {
+      "item": {
+        "itemId": "600",
+        "document": {
+          "documentMap": {
+            "VcWv89jo": {
+              "id": "document-id",
+              "blockIds": [
+                "3t9dHylF5dO4",
+                "bzfgxnPZEy6Z",
+                "pCB7qgLgzzQq",
+                "AjBx3Ra2HAkY"
+              ],
+              "blockMap": {
+                "3t9dHylF5dO4": {
+                  "id": "3t9dHylF5dO4",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "AjBx3Ra2HAkY": {
+                  "id": "AjBx3Ra2HAkY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "bzfgxnPZEy6Z": {
+                  "id": "bzfgxnPZEy6Z",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "冒险探索获取"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mfGHzBBaOFWg": {
+                  "id": "mfGHzBBaOFWg",
+                  "parentId": "tfEvuxsmlios",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "重要任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1090",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中，前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区-枢纽基地区"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "与"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "159",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "对话后获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCB7qgLgzzQq": {
+                  "id": "pCB7qgLgzzQq",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "pCB7qgLgzzQq",
+                    "itemIds": [
+                      "tfEvuxsmlios"
+                    ],
+                    "itemMap": {
+                      "tfEvuxsmlios": {
+                        "id": "tfEvuxsmlios",
+                        "childIds": [
+                          "mfGHzBBaOFWg"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "WcrE7e1g": {
+              "id": "document-id",
+              "blockIds": [
+                "CCiThwwdo9jt",
+                "hDq4mh21uCnc",
+                "pGLOCaD4L7n4",
+                "AVx8glTMmzZ7"
+              ],
+              "blockMap": {
+                "7K1pP3rdIOPf": {
+                  "id": "7K1pP3rdIOPf",
+                  "parentId": "8XCo0cauvW6N",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "重要任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1090",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需求跟随指引前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区-工人之家"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "将交付"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "药品包裹"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "至NPC "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "医务人员"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " 处以推进任务，限时"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "1分钟"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "送达，且期间禁止"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "跳跃"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "冲刺"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "AVx8glTMmzZ7": {
+                  "id": "AVx8glTMmzZ7",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "CCiThwwdo9jt": {
+                  "id": "CCiThwwdo9jt",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "hDq4mh21uCnc": {
+                  "id": "hDq4mh21uCnc",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于提交重要任务目标"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pGLOCaD4L7n4": {
+                  "id": "pGLOCaD4L7n4",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "pGLOCaD4L7n4",
+                    "itemIds": [
+                      "8XCo0cauvW6N"
+                    ],
+                    "itemMap": {
+                      "8XCo0cauvW6N": {
+                        "id": "8XCo0cauvW6N",
+                        "childIds": [
+                          "7K1pP3rdIOPf"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "Ak1pHssR",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "nbFTpNSu",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Ak1pHssR": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "VcWv89jo",
+                  "audioList": []
+                }
+              }
+            },
+            "nbFTpNSu": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "WcrE7e1g",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "药品包裹",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "3358404863657",
+          "nickname": "A_Pullu_Pie",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/04fd45d25fde55799b8e3df64ead6c29.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/07/3048259/1416b4138df448fc30e1e51f4cb76876.png",
+          "name": "药品包裹",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "zehxWTwbEQn9",
+              "65O5VfwBNvi0"
+            ],
+            "blockMap": {
+              "65O5VfwBNvi0": {
+                "id": "65O5VfwBNvi0",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "kind": "text",
+                      "text": {
+                        "text": "洁尔佩塔委托配送的包裹。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "zehxWTwbEQn9": {
+                "id": "zehxWTwbEQn9",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "给医务人员的药品包裹。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10001"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10323"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10329"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1770738338",
+        "lastAuditPassedAt": "1770738311",
+        "tagIds": [
+          "10001",
+          "10323",
+          "10329"
+        ]
+      }
+    }
+  }
+}

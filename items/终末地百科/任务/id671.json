@@ -1,0 +1,1195 @@
+{
+  "key": {
+    "id": "skland.wiki.item_671"
+  },
+  "name": "无色印记·发现",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/12/402818/984062714982e378d89f25c27a5c2857.png",
+  "description": "用途:\n地点 | 开启条件 | 后续任务\n枢纽区 | / | 无色印记·探寻\n描述\n裂地者画下的无色涂鸦引起了一名基地警卫的注意，管理员决定设法探明这些印记隐藏的讯息。\n管理员夺回了工团在袭击中失去的物资。返回源石副产物中心，将物资交给萨特。\n目标\n与路边的警卫交谈\n使用扫描功能检查石头\n前往源石副产物中心\n调查源石副产物中心\n寻找被抢走的物资\n调查周围，寻找物资的踪迹\n找到被藏匿的物资\n将物资交给萨特",
+  "tags": [
+    "main:终末地百科",
+    "sub:任务"
+  ],
+  "source": "终末地百科/任务/id671.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773156324",
+    "data": {
+      "item": {
+        "itemId": "671",
+        "document": {
+          "documentMap": {
+            "SdvzNvuS": {
+              "id": "document-id",
+              "blockIds": [
+                "NtVjUA",
+                "5VjjKq",
+                "kcmeWU"
+              ],
+              "blockMap": {
+                "3jqoiG": {
+                  "id": "3jqoiG",
+                  "parentId": "GyAtVo_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "源石副产物中心"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5VjjKq": {
+                  "id": "5VjjKq",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "5VjjKq",
+                    "rowIds": [
+                      "sIUynH",
+                      "CnPMBY",
+                      "5cLAvy"
+                    ],
+                    "columnIds": [
+                      "OhXNGh"
+                    ],
+                    "rowMap": {
+                      "5cLAvy": {
+                        "id": "5cLAvy"
+                      },
+                      "CnPMBY": {
+                        "id": "CnPMBY"
+                      },
+                      "sIUynH": {
+                        "id": "sIUynH"
+                      }
+                    },
+                    "columnMap": {
+                      "OhXNGh": {
+                        "id": "OhXNGh",
+                        "width": 1160
+                      }
+                    },
+                    "cellMap": {
+                      "5cLAvy_OhXNGh": {
+                        "id": "5cLAvy_OhXNGh",
+                        "childIds": [
+                          "Jdr3uM"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CnPMBY_OhXNGh": {
+                        "id": "CnPMBY_OhXNGh",
+                        "childIds": [
+                          "IfjRd9"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "sIUynH_OhXNGh": {
+                        "id": "sIUynH_OhXNGh",
+                        "childIds": [
+                          "LG4TB6"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "AJ1WOX": {
+                  "id": "AJ1WOX",
+                  "parentId": "xllpkc_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "将物资交给"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "萨特"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "HXRqTo": {
+                  "id": "HXRqTo",
+                  "parentId": "2mKSRl_3r8DY7",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "后续任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "IfjRd9": {
+                  "id": "IfjRd9",
+                  "parentId": "CnPMBY_OhXNGh",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "裂地者画下的无色涂鸦引起了一名基地警卫的注意，管理员决定设法探明这些印记隐藏的讯息。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "IqZ2Ve": {
+                  "id": "IqZ2Ve",
+                  "parentId": "LZ9I93_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "找到被藏匿的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "物资"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Jdr3uM": {
+                  "id": "Jdr3uM",
+                  "parentId": "5cLAvy_OhXNGh",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "管理员夺回了工团在袭击中失去的物资。返回源石副产物中心，将物资交给萨特。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JfYiuw": {
+                  "id": "JfYiuw",
+                  "parentId": "KzoRsf_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "与路边的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "警卫"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "交谈"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LG4TB6": {
+                  "id": "LG4TB6",
+                  "parentId": "sIUynH_OhXNGh",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "NtVjUA": {
+                  "id": "NtVjUA",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "NtVjUA",
+                    "rowIds": [
+                      "2mKSRl",
+                      "zheV12"
+                    ],
+                    "columnIds": [
+                      "gHUCGa",
+                      "FTD4zT",
+                      "3r8DY7"
+                    ],
+                    "rowMap": {
+                      "2mKSRl": {
+                        "id": "2mKSRl"
+                      },
+                      "zheV12": {
+                        "id": "zheV12"
+                      }
+                    },
+                    "columnMap": {
+                      "3r8DY7": {
+                        "id": "3r8DY7",
+                        "width": 386.6666666666667
+                      },
+                      "FTD4zT": {
+                        "id": "FTD4zT",
+                        "width": 386.6666666666667
+                      },
+                      "gHUCGa": {
+                        "id": "gHUCGa",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "2mKSRl_3r8DY7": {
+                        "id": "2mKSRl_3r8DY7",
+                        "childIds": [
+                          "HXRqTo"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "2mKSRl_FTD4zT": {
+                        "id": "2mKSRl_FTD4zT",
+                        "childIds": [
+                          "mMCsKf"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "2mKSRl_gHUCGa": {
+                        "id": "2mKSRl_gHUCGa",
+                        "childIds": [
+                          "UIRCTD"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zheV12_3r8DY7": {
+                        "id": "zheV12_3r8DY7",
+                        "childIds": [
+                          "uJhHKU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zheV12_FTD4zT": {
+                        "id": "zheV12_FTD4zT",
+                        "childIds": [
+                          "z2iuBz"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zheV12_gHUCGa": {
+                        "id": "zheV12_gHUCGa",
+                        "childIds": [
+                          "P66VSA"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "P66VSA": {
+                  "id": "P66VSA",
+                  "parentId": "zheV12_gHUCGa",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "UIRCTD": {
+                  "id": "UIRCTD",
+                  "parentId": "2mKSRl_gHUCGa",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "地点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "UXe40K": {
+                  "id": "UXe40K",
+                  "parentId": "wZtoRL_B2wshm",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "目标"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "f6M5SE": {
+                  "id": "f6M5SE",
+                  "parentId": "0eOg6B_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "寻找被抢走的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "物资"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kcmeWU": {
+                  "id": "kcmeWU",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "kcmeWU",
+                    "rowIds": [
+                      "wZtoRL",
+                      "KzoRsf",
+                      "JXzi0N",
+                      "GyAtVo",
+                      "P1qLmM",
+                      "0eOg6B",
+                      "VwQvIX",
+                      "LZ9I93",
+                      "xllpkc"
+                    ],
+                    "columnIds": [
+                      "B2wshm"
+                    ],
+                    "rowMap": {
+                      "0eOg6B": {
+                        "id": "0eOg6B"
+                      },
+                      "GyAtVo": {
+                        "id": "GyAtVo"
+                      },
+                      "JXzi0N": {
+                        "id": "JXzi0N"
+                      },
+                      "KzoRsf": {
+                        "id": "KzoRsf"
+                      },
+                      "LZ9I93": {
+                        "id": "LZ9I93"
+                      },
+                      "P1qLmM": {
+                        "id": "P1qLmM"
+                      },
+                      "VwQvIX": {
+                        "id": "VwQvIX"
+                      },
+                      "wZtoRL": {
+                        "id": "wZtoRL"
+                      },
+                      "xllpkc": {
+                        "id": "xllpkc"
+                      }
+                    },
+                    "columnMap": {
+                      "B2wshm": {
+                        "id": "B2wshm",
+                        "width": 1160
+                      }
+                    },
+                    "cellMap": {
+                      "0eOg6B_B2wshm": {
+                        "id": "0eOg6B_B2wshm",
+                        "childIds": [
+                          "f6M5SE"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "GyAtVo_B2wshm": {
+                        "id": "GyAtVo_B2wshm",
+                        "childIds": [
+                          "3jqoiG"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "JXzi0N_B2wshm": {
+                        "id": "JXzi0N_B2wshm",
+                        "childIds": [
+                          "nqTkPx"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "KzoRsf_B2wshm": {
+                        "id": "KzoRsf_B2wshm",
+                        "childIds": [
+                          "JfYiuw"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "LZ9I93_B2wshm": {
+                        "id": "LZ9I93_B2wshm",
+                        "childIds": [
+                          "IqZ2Ve"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "P1qLmM_B2wshm": {
+                        "id": "P1qLmM_B2wshm",
+                        "childIds": [
+                          "uST8XS"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "VwQvIX_B2wshm": {
+                        "id": "VwQvIX_B2wshm",
+                        "childIds": [
+                          "mGMXfg"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "wZtoRL_B2wshm": {
+                        "id": "wZtoRL_B2wshm",
+                        "childIds": [
+                          "UXe40K"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "xllpkc_B2wshm": {
+                        "id": "xllpkc_B2wshm",
+                        "childIds": [
+                          "AJ1WOX"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "mGMXfg": {
+                  "id": "mGMXfg",
+                  "parentId": "VwQvIX_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "调查周围，寻找"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "物资"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的踪迹"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mMCsKf": {
+                  "id": "mMCsKf",
+                  "parentId": "2mKSRl_FTD4zT",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "开启条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nqTkPx": {
+                  "id": "nqTkPx",
+                  "parentId": "JXzi0N_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "扫描功能"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "检查石头"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uJhHKU": {
+                  "id": "uJhHKU",
+                  "parentId": "zheV12_3r8DY7",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "无色印记·探寻"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uST8XS": {
+                  "id": "uST8XS",
+                  "parentId": "P1qLmM_B2wshm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "调查"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "源石副产物中心"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "z2iuBz": {
+                  "id": "z2iuBz",
+                  "parentId": "zheV12_FTD4zT",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "bpLcx3Qp": {
+              "id": "document-id",
+              "blockIds": [
+                "cimTtMn7fNXs"
+              ],
+              "blockMap": {
+                "6plDgdBntEUp": {
+                  "id": "6plDgdBntEUp",
+                  "parentId": "MAfhRO_2NafOb",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "225",
+                          "showType": "card-big",
+                          "count": "14"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Amz6kt3agr0y": {
+                  "id": "Amz6kt3agr0y",
+                  "parentId": "MAfhRO_opcbAb",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "19",
+                          "showType": "card-big",
+                          "count": "4250"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "C0lPNH07Mhff": {
+                  "id": "C0lPNH07Mhff",
+                  "parentId": "MAfhRO_wVa5La",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "14",
+                          "showType": "card-big",
+                          "count": "300"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "HtRsFNe5F0qi": {
+                  "id": "HtRsFNe5F0qi",
+                  "parentId": "MAfhRO_4euODs",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "213",
+                          "showType": "card-big",
+                          "count": "18"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cimTtMn7fNXs": {
+                  "id": "cimTtMn7fNXs",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "cimTtMn7fNXs",
+                    "rowIds": [
+                      "MAfhRO"
+                    ],
+                    "columnIds": [
+                      "zvKmQL",
+                      "opcbAb",
+                      "4euODs",
+                      "2NafOb",
+                      "wVa5La"
+                    ],
+                    "rowMap": {
+                      "MAfhRO": {
+                        "id": "MAfhRO"
+                      }
+                    },
+                    "columnMap": {
+                      "2NafOb": {
+                        "id": "2NafOb",
+                        "width": 232
+                      },
+                      "4euODs": {
+                        "id": "4euODs",
+                        "width": 232
+                      },
+                      "opcbAb": {
+                        "id": "opcbAb",
+                        "width": 232
+                      },
+                      "wVa5La": {
+                        "id": "wVa5La",
+                        "width": 232
+                      },
+                      "zvKmQL": {
+                        "id": "zvKmQL",
+                        "width": 232
+                      }
+                    },
+                    "cellMap": {
+                      "MAfhRO_2NafOb": {
+                        "id": "MAfhRO_2NafOb",
+                        "childIds": [
+                          "6plDgdBntEUp"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "MAfhRO_4euODs": {
+                        "id": "MAfhRO_4euODs",
+                        "childIds": [
+                          "HtRsFNe5F0qi"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "MAfhRO_opcbAb": {
+                        "id": "MAfhRO_opcbAb",
+                        "childIds": [
+                          "Amz6kt3agr0y"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "MAfhRO_wVa5La": {
+                        "id": "MAfhRO_wVa5La",
+                        "childIds": [
+                          "C0lPNH07Mhff"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "MAfhRO_zvKmQL": {
+                        "id": "MAfhRO_zvKmQL",
+                        "childIds": [
+                          "oulUIoUG0Oen"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "oulUIoUG0Oen": {
+                  "id": "oulUIoUG0Oen",
+                  "parentId": "MAfhRO_zvKmQL",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "card-big",
+                          "count": "75"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "任务信息",
+              "widgets": [
+                {
+                  "id": "hHBXdRIi",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "任务奖励",
+              "widgets": [
+                {
+                  "id": "kr8MRk9J",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "hHBXdRIi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "SdvzNvuS",
+                  "audioList": []
+                }
+              }
+            },
+            "kr8MRk9J": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "bpLcx3Qp",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "无色印记·发现",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "8",
+          "name": "任务",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 10,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10270",
+              "children": [
+                {
+                  "id": "10272",
+                  "children": [],
+                  "name": "主线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10274",
+                  "children": [],
+                  "name": "探索任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10273",
+                  "children": [],
+                  "name": "支线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10275",
+                  "children": [],
+                  "name": "活动任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10271",
+                  "children": [],
+                  "name": "委托任务",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "任务类型",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10362",
+              "children": [
+                {
+                  "id": "10365",
+                  "children": [],
+                  "name": "紧要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10363",
+                  "children": [],
+                  "name": "重要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10364",
+                  "children": [],
+                  "name": "次要",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "重要程度",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "4593074404014",
+          "nickname": "梦溪潇",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"
+        },
+        "createdUser": {
+          "id": "2260070249320",
+          "nickname": "小丁淘气",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/12/402818/984062714982e378d89f25c27a5c2857.png",
+          "name": "无色印记·发现",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "5vwEjP"
+            ],
+            "blockMap": {
+              "5vwEjP": {
+                "id": "5vwEjP",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10270",
+              "value": "10273"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1768229600",
+        "lastAuditPassedAt": "1768222552",
+        "tagIds": [
+          "10273"
+        ]
+      }
+    }
+  }
+}

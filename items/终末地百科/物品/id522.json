@@ -1,0 +1,1099 @@
+{
+  "key": {
+    "id": "skland.wiki.item_522"
+  },
+  "name": "小蜜虫布丁",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/07/3048259/0b68554ac3a4fb684d4fdeef62ff04a1.png",
+  "description": "获取方式:\n完成简制手册内容获取配方。\n累计获得[虫肉x1]后可以在简制手册中领取小蜜虫布丁的配方。获取配方后即可通过简易制作合成小蜜虫布丁。 累计获得[虫肉x10]后可以在简制手册中升级小蜜虫布丁。\n\n用途:\n干员直接使用时：\n战术物品配置效果全队干员立刻刻恢复7%终结技能量。\n干员装备为战术物品时：\n当持有干员的终结技能量低于50%时自动使用，单场战斗中最多可用3次。 用尽后恢复次数：战斗中的可用次数用尽时，一段时间后会恢复1次可用次数。 升级效果：战斗中可使用次数+1。",
+  "rarity": {
+    "stars": 2,
+    "label": "2星",
+    "color": "#42a5f5",
+    "token": "rarity_2",
+    "tagId": "10002"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:物品",
+    "rarity:2"
+  ],
+  "source": "终末地百科/物品/id522.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773156247",
+    "data": {
+      "item": {
+        "itemId": "522",
+        "document": {
+          "documentMap": {
+            "AItvXRBB": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "m7VnlH",
+                "Jefg56",
+                "3MWf4X",
+                "iNzZ6W",
+                "Jd4fEe",
+                "oqnqB3"
+              ],
+              "blockMap": {
+                "0r1Brx": {
+                  "id": "0r1Brx",
+                  "parentId": "0ie1is",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "用尽后恢复次数"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "：战斗中的可用次数用尽时，一段时间后会恢复"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次可用次数。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "3MWf4X": {
+                  "id": "3MWf4X",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "1"
+                  }
+                },
+                "Jd4fEe": {
+                  "id": "Jd4fEe",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Jd4fEe",
+                    "itemIds": [
+                      "bpOLLr"
+                    ],
+                    "itemMap": {
+                      "bpOLLr": {
+                        "id": "bpOLLr",
+                        "childIds": [
+                          "c8WuGO",
+                          "XUR6di"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Jefg56": {
+                  "id": "Jefg56",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Jefg56",
+                    "itemIds": [
+                      "Jkmet8"
+                    ],
+                    "itemMap": {
+                      "Jkmet8": {
+                        "id": "Jkmet8",
+                        "childIds": [
+                          "KlKxrU"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "KlKxrU": {
+                  "id": "KlKxrU",
+                  "parentId": "Jkmet8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "战术物品配置效果全队干员立刻刻恢复"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "7%"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "终结技能量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "XUR6di": {
+                  "id": "XUR6di",
+                  "parentId": "bpOLLr",
+                  "kind": "list",
+                  "list": {
+                    "id": "XUR6di",
+                    "itemIds": [
+                      "0ie1is",
+                      "kP0bOk"
+                    ],
+                    "itemMap": {
+                      "0ie1is": {
+                        "id": "0ie1is",
+                        "childIds": [
+                          "0r1Brx"
+                        ]
+                      },
+                      "kP0bOk": {
+                        "id": "kP0bOk",
+                        "childIds": [
+                          "gCK0cw"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "c8WuGO": {
+                  "id": "c8WuGO",
+                  "parentId": "bpOLLr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "当持有干员的终结技能量低于"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "50%"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "时自动使用，单场战斗中最多可用"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gCK0cw": {
+                  "id": "gCK0cw",
+                  "parentId": "kP0bOk",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "升级效果"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "：战斗中可使用次数+1。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "iNzZ6W": {
+                  "id": "iNzZ6W",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "干员装备为战术物品时："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "m7VnlH": {
+                  "id": "m7VnlH",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "干员直接使用时："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oqnqB3": {
+                  "id": "oqnqB3",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "O2libvjy": {
+              "id": "document-id",
+              "blockIds": [
+                "zKrHVc",
+                "vhEYLn"
+              ],
+              "blockMap": {
+                "K072DO": {
+                  "id": "K072DO",
+                  "parentId": "fC0joc_OlQifo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "制作类型"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "W8eojV": {
+                  "id": "W8eojV",
+                  "parentId": "K6hFKh_OlQifo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "精制食药"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ZOYw64": {
+                  "id": "ZOYw64",
+                  "parentId": "K6hFKh_HBIJA2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "138",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "380",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "35",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dLB2FH": {
+                  "id": "dLB2FH",
+                  "parentId": "fC0joc_8ItGTh",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "制作产物"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gy9fbN": {
+                  "id": "gy9fbN",
+                  "parentId": "fC0joc_HBIJA2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hd2Kzy": {
+                  "id": "hd2Kzy",
+                  "parentId": "K6hFKh_8ItGTh",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "522",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vhEYLn": {
+                  "id": "vhEYLn",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "zKrHVc": {
+                  "id": "zKrHVc",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "zKrHVc",
+                    "rowIds": [
+                      "fC0joc",
+                      "K6hFKh"
+                    ],
+                    "columnIds": [
+                      "OlQifo",
+                      "HBIJA2",
+                      "8ItGTh"
+                    ],
+                    "rowMap": {
+                      "K6hFKh": {
+                        "id": "K6hFKh"
+                      },
+                      "fC0joc": {
+                        "id": "fC0joc"
+                      }
+                    },
+                    "columnMap": {
+                      "8ItGTh": {
+                        "id": "8ItGTh",
+                        "width": 386.6666666666667
+                      },
+                      "HBIJA2": {
+                        "id": "HBIJA2",
+                        "width": 386.6666666666667
+                      },
+                      "OlQifo": {
+                        "id": "OlQifo",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "K6hFKh_8ItGTh": {
+                        "id": "K6hFKh_8ItGTh",
+                        "childIds": [
+                          "hd2Kzy"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "K6hFKh_HBIJA2": {
+                        "id": "K6hFKh_HBIJA2",
+                        "childIds": [
+                          "ZOYw64"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "K6hFKh_OlQifo": {
+                        "id": "K6hFKh_OlQifo",
+                        "childIds": [
+                          "W8eojV"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "fC0joc_8ItGTh": {
+                        "id": "fC0joc_8ItGTh",
+                        "childIds": [
+                          "dLB2FH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "fC0joc_HBIJA2": {
+                        "id": "fC0joc_HBIJA2",
+                        "childIds": [
+                          "gy9fbN"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "fC0joc_OlQifo": {
+                        "id": "fC0joc_OlQifo",
+                        "childIds": [
+                          "K072DO"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "Por7REqS": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "frocjL",
+                "sQ5KNg",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "frocjL": {
+                  "id": "frocjL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "完成简制手册内容获取配方。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "n0M8h1": {
+                  "id": "n0M8h1",
+                  "parentId": "GcvhnK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "累计获得"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "138",
+                          "showType": "link-imgText",
+                          "count": "10"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可以在简制手册中"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "升级"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "小蜜虫布丁。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "sQ5KNg": {
+                  "id": "sQ5KNg",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "sQ5KNg",
+                    "itemIds": [
+                      "795Xzs",
+                      "GcvhnK"
+                    ],
+                    "itemMap": {
+                      "795Xzs": {
+                        "id": "795Xzs",
+                        "childIds": [
+                          "w36E7d"
+                        ]
+                      },
+                      "GcvhnK": {
+                        "id": "GcvhnK",
+                        "childIds": [
+                          "n0M8h1"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "w36E7d": {
+                  "id": "w36E7d",
+                  "parentId": "795Xzs",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "累计获得"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "138",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可以在简制手册中领取小蜜虫布丁的配方。获取配方后即可通过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "简易制作"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "合成小蜜虫布丁。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "DMB06xUy",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "HdABqfuC",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "参与配方",
+              "widgets": [
+                {
+                  "id": "6OAJKo5S",
+                  "title": "物品配方",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "6OAJKo5S": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "O2libvjy",
+                  "audioList": []
+                }
+              }
+            },
+            "DMB06xUy": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "Por7REqS",
+                  "audioList": []
+                }
+              }
+            },
+            "HdABqfuC": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "AItvXRBB",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "小蜜虫布丁",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "6",
+          "name": "物品",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 7,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10253",
+              "children": [
+                {
+                  "id": "10261",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10260",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10263",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10257",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10259",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10313",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10254",
+              "children": [
+                {
+                  "id": "10320",
+                  "children": [],
+                  "name": "自然资源",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10255",
+                  "children": [],
+                  "name": "采集材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10332",
+                  "children": [],
+                  "name": "珍贵材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10318",
+                  "children": [],
+                  "name": "工业产物",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10317",
+                  "children": [],
+                  "name": "可用道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10316",
+                  "children": [],
+                  "name": "功能道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10256",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1225401989759",
+          "nickname": "玉酱不吃鱼子酱",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+        },
+        "createdUser": {
+          "id": "3358404863657",
+          "nickname": "A_Pullu_Pie",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/04fd45d25fde55799b8e3df64ead6c29.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/07/3048259/0b68554ac3a4fb684d4fdeef62ff04a1.png",
+          "name": "小蜜虫布丁",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "xicnku",
+              "e19EY0"
+            ],
+            "blockMap": {
+              "e19EY0": {
+                "id": "e19EY0",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "一酸甜适中的柑桶味布丁，在熬煮过程中撒入了异香石碎屑调味，并用源石虫提取物固形。啊啊......这种甜到发腻的香气。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "xicnku": {
+                "id": "xicnku",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "使用后可以提升干员战斗效果的消耗品。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10002"
+            },
+            {
+              "subTypeId": "10253",
+              "value": "10260"
+            },
+            {
+              "subTypeId": "10254",
+              "value": "10317"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1767283913",
+        "lastAuditPassedAt": "1770983702",
+        "tagIds": [
+          "10002",
+          "10260",
+          "10317"
+        ]
+      }
+    }
+  }
+}

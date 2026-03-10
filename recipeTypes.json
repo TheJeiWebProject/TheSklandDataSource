@@ -1,0 +1,2123 @@
+[
+  {
+    "key": "skland:industrial/二型电驱矿机",
+    "displayName": "二型电驱矿机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_167",
+      "name": "二型电驱矿机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/便携源石矿机",
+    "displayName": "便携源石矿机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_55",
+      "name": "便携源石矿机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/反应池",
+    "displayName": "反应池",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_746",
+      "name": "反应池"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 900
+  },
+  {
+    "key": "skland:industrial/塑形机",
+    "displayName": "塑形机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_172",
+      "name": "塑形机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/天有洪炉",
+    "displayName": "天有洪炉",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_752",
+      "name": "天有洪炉"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/封装机",
+    "displayName": "封装机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_177",
+      "name": "封装机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:simple/应急食药",
+    "displayName": "应急食药",
+    "renderer": "slot_layout",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 500
+  },
+  {
+    "key": "skland:industrial/拆解机",
+    "displayName": "拆解机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_745",
+      "name": "拆解机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in3",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in4",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out2",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 6,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 100
+  },
+  {
+    "key": "skland:wiki/source/list_text",
+    "displayName": "来源/列表(文本)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -840
+  },
+  {
+    "key": "skland:wiki/source/list_entry",
+    "displayName": "来源/列表(条目)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in3",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in4",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in5",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 1,
+        "label": "In"
+      },
+      {
+        "slotId": "in6",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 1,
+        "label": "In"
+      },
+      {
+        "slotId": "in7",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 2,
+        "y": 1,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -140
+  },
+  {
+    "key": "skland:wiki/source/text_only",
+    "displayName": "来源/文本",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -500
+  },
+  {
+    "key": "skland:wiki/source/text_entry",
+    "displayName": "来源/文本(条目)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in3",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in4",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in5",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 1,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -700
+  },
+  {
+    "key": "skland:wiki/source/table_text",
+    "displayName": "来源/表格(文本)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -800
+  },
+  {
+    "key": "skland:wiki/source/table_entry",
+    "displayName": "来源/表格(条目)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in3",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in4",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in5",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 1,
+        "label": "In"
+      },
+      {
+        "slotId": "in6",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 1,
+        "label": "In"
+      },
+      {
+        "slotId": "in7",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 2,
+        "y": 1,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -120
+  },
+  {
+    "key": "skland:industrial/水泵",
+    "displayName": "水泵",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_736",
+      "name": "水泵"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 500
+  },
+  {
+    "key": "skland:industrial/灌装机",
+    "displayName": "灌装机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_176",
+      "name": "灌装机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out2",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out3",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out4",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 6,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/琼叶参田块",
+    "displayName": "琼叶参田块",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_766",
+      "name": "琼叶参田块"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:wiki/usage/list_text",
+    "displayName": "用途/列表(文本)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -460
+  },
+  {
+    "key": "skland:wiki/usage/list_entry",
+    "displayName": "用途/列表(条目)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out2",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out3",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out4",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out5",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 1,
+        "label": "Out"
+      },
+      {
+        "slotId": "out6",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 1,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -360
+  },
+  {
+    "key": "skland:wiki/usage/text_only",
+    "displayName": "用途/文本",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -520
+  },
+  {
+    "key": "skland:wiki/usage/text_entry",
+    "displayName": "用途/文本(条目)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out2",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out3",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out4",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out5",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 1,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -380
+  },
+  {
+    "key": "skland:wiki/usage/table_text",
+    "displayName": "用途/表格(文本)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -420
+  },
+  {
+    "key": "skland:wiki/usage/table_entry",
+    "displayName": "用途/表格(条目)",
+    "renderer": "wiki_doc_panel",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out2",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out3",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out4",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out5",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 1,
+        "label": "Out"
+      },
+      {
+        "slotId": "out6",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 1,
+        "label": "Out"
+      },
+      {
+        "slotId": "out7",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 1,
+        "label": "Out"
+      },
+      {
+        "slotId": "out8",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 1,
+        "label": "Out"
+      },
+      {
+        "slotId": "out9",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 2,
+        "label": "Out"
+      },
+      {
+        "slotId": "out10",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 2,
+        "label": "Out"
+      },
+      {
+        "slotId": "out11",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 2,
+        "label": "Out"
+      },
+      {
+        "slotId": "out12",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 2,
+        "label": "Out"
+      }
+    ],
+    "plannerPriority": -340
+  },
+  {
+    "key": "skland:simple/田地调配",
+    "displayName": "田地调配",
+    "renderer": "slot_layout",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 500
+  },
+  {
+    "key": "skland:industrial/电驱矿机",
+    "displayName": "电驱矿机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_166",
+      "name": "电驱矿机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/研磨机",
+    "displayName": "研磨机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_188",
+      "name": "研磨机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/种植机",
+    "displayName": "种植机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_174",
+      "name": "种植机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:simple/种植调配",
+    "displayName": "种植调配",
+    "renderer": "slot_layout",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 500
+  },
+  {
+    "key": "skland:industrial/粉碎机",
+    "displayName": "粉碎机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_54",
+      "name": "粉碎机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:simple/精制食药",
+    "displayName": "精制食药",
+    "renderer": "slot_layout",
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in3",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 500
+  },
+  {
+    "key": "skland:industrial/精炼炉",
+    "displayName": "精炼炉",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_53",
+      "name": "精炼炉"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in3",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in4",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/荞花田块",
+    "displayName": "荞花田块",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_344",
+      "name": "荞花田块"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/装备原件机",
+    "displayName": "装备原件机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_175",
+      "name": "装备原件机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/配件机",
+    "displayName": "配件机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_171",
+      "name": "配件机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
+    "key": "skland:industrial/采种机",
+    "displayName": "采种机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "skland.wiki.item_173",
+      "name": "采种机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  }
+]

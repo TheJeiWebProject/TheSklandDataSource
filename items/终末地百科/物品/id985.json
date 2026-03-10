@@ -1,0 +1,902 @@
+{
+  "key": {
+    "id": "skland.wiki.item_985"
+  },
+  "name": "速成陈酿",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/31/203953/745294dc380810360b92b499c495dd54.png",
+  "description": "获取方式:\n击败破潮之像有概率掉落。\n以下敌人被击败时均会掉落速成陈酿： [破潮之像]\n\n用途:\n用于仓储节点货物装箱。\n每装箱[速成陈酿x1]需要1500点货箱容量。",
+  "rarity": {
+    "stars": 5,
+    "label": "5星",
+    "color": "#fb8c00",
+    "token": "rarity_5",
+    "tagId": "10005"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:物品",
+    "rarity:5"
+  ],
+  "source": "终末地百科/物品/id985.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773156494",
+    "data": {
+      "item": {
+        "itemId": "985",
+        "document": {
+          "documentMap": {
+            "6f9eJjae": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "rdq8ES",
+                "opke0c",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "Wc5Te8": {
+                  "id": "Wc5Te8",
+                  "parentId": "h7L6vG",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "以下敌人被击败时均会掉落"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "速成陈酿"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "ohbgyQ": {
+                  "id": "ohbgyQ",
+                  "parentId": "LapU8p",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "901",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "opke0c": {
+                  "id": "opke0c",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "opke0c",
+                    "itemIds": [
+                      "h7L6vG"
+                    ],
+                    "itemMap": {
+                      "h7L6vG": {
+                        "id": "h7L6vG",
+                        "childIds": [
+                          "Wc5Te8",
+                          "yGwc9o"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "rdq8ES": {
+                  "id": "rdq8ES",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "击败破潮之像有概率掉落。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "yGwc9o": {
+                  "id": "yGwc9o",
+                  "parentId": "h7L6vG",
+                  "kind": "list",
+                  "list": {
+                    "id": "yGwc9o",
+                    "itemIds": [
+                      "LapU8p"
+                    ],
+                    "itemMap": {
+                      "LapU8p": {
+                        "id": "LapU8p",
+                        "childIds": [
+                          "ohbgyQ"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "DQNLCv0u": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "2o73Ki",
+                "NicnUY",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "2o73Ki": {
+                  "id": "2o73Ki",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于仓储节点货物装箱。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "NicnUY": {
+                  "id": "NicnUY",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "NicnUY",
+                    "itemIds": [
+                      "dZUSx9"
+                    ],
+                    "itemMap": {
+                      "dZUSx9": {
+                        "id": "dZUSx9",
+                        "childIds": [
+                          "NrGo4e"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "NrGo4e": {
+                  "id": "NrGo4e",
+                  "parentId": "dZUSx9",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "985",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要1500点货箱容量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "ZqaFpl8J": {
+              "id": "document-id",
+              "blockIds": [
+                "ga3rld",
+                "xNBqz1"
+              ],
+              "blockMap": {
+                "8uOBIl": {
+                  "id": "8uOBIl",
+                  "parentId": "VyY8pJ_UYOJEv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "收集奖励"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "92M4qN": {
+                  "id": "92M4qN",
+                  "parentId": "AnyygQ_KiCxpS",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Wmb20C": {
+                  "id": "Wmb20C",
+                  "parentId": "VyY8pJ_KiCxpS",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "收集进度"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cAPJee": {
+                  "id": "cAPJee",
+                  "parentId": "zSwWLF_KiCxpS",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "10"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dc9JTe": {
+                  "id": "dc9JTe",
+                  "parentId": "ZqTsw3_KiCxpS",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "30"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "eyHtqH": {
+                  "id": "eyHtqH",
+                  "parentId": "ZqTsw3_UYOJEv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "card-big",
+                          "count": "80"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ga3rld": {
+                  "id": "ga3rld",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "ga3rld",
+                    "rowIds": [
+                      "VyY8pJ",
+                      "AnyygQ",
+                      "zSwWLF",
+                      "ZqTsw3"
+                    ],
+                    "columnIds": [
+                      "KiCxpS",
+                      "UYOJEv"
+                    ],
+                    "rowMap": {
+                      "AnyygQ": {
+                        "id": "AnyygQ"
+                      },
+                      "VyY8pJ": {
+                        "id": "VyY8pJ"
+                      },
+                      "ZqTsw3": {
+                        "id": "ZqTsw3"
+                      },
+                      "zSwWLF": {
+                        "id": "zSwWLF"
+                      }
+                    },
+                    "columnMap": {
+                      "KiCxpS": {
+                        "id": "KiCxpS",
+                        "width": 580
+                      },
+                      "UYOJEv": {
+                        "id": "UYOJEv",
+                        "width": 580
+                      }
+                    },
+                    "cellMap": {
+                      "AnyygQ_KiCxpS": {
+                        "id": "AnyygQ_KiCxpS",
+                        "childIds": [
+                          "92M4qN"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "AnyygQ_UYOJEv": {
+                        "id": "AnyygQ_UYOJEv",
+                        "childIds": [
+                          "rsYCx8"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "VyY8pJ_KiCxpS": {
+                        "id": "VyY8pJ_KiCxpS",
+                        "childIds": [
+                          "Wmb20C"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "VyY8pJ_UYOJEv": {
+                        "id": "VyY8pJ_UYOJEv",
+                        "childIds": [
+                          "8uOBIl"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ZqTsw3_KiCxpS": {
+                        "id": "ZqTsw3_KiCxpS",
+                        "childIds": [
+                          "dc9JTe"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ZqTsw3_UYOJEv": {
+                        "id": "ZqTsw3_UYOJEv",
+                        "childIds": [
+                          "eyHtqH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zSwWLF_KiCxpS": {
+                        "id": "zSwWLF_KiCxpS",
+                        "childIds": [
+                          "cAPJee"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zSwWLF_UYOJEv": {
+                        "id": "zSwWLF_UYOJEv",
+                        "childIds": [
+                          "rsYCx8"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "rsYCx8": {
+                  "id": "rsYCx8",
+                  "parentId": "zSwWLF_UYOJEv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "card-big",
+                          "count": "50"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "xNBqz1": {
+                  "id": "xNBqz1",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "JRRTRIUi",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "BrfRWXDB",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "简制手册",
+              "widgets": [
+                {
+                  "id": "0PAYOgSY",
+                  "title": "收集奖励",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "0PAYOgSY": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "ZqaFpl8J",
+                  "audioList": []
+                }
+              }
+            },
+            "BrfRWXDB": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "DQNLCv0u",
+                  "audioList": []
+                }
+              }
+            },
+            "JRRTRIUi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "6f9eJjae",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "速成陈酿",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "6",
+          "name": "物品",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 7,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10253",
+              "children": [
+                {
+                  "id": "10261",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10260",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10263",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10257",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10259",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10313",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10254",
+              "children": [
+                {
+                  "id": "10320",
+                  "children": [],
+                  "name": "自然资源",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10255",
+                  "children": [],
+                  "name": "采集材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10332",
+                  "children": [],
+                  "name": "珍贵材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10318",
+                  "children": [],
+                  "name": "工业产物",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10317",
+                  "children": [],
+                  "name": "可用道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10316",
+                  "children": [],
+                  "name": "功能道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10256",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "6208993443188",
+          "nickname": "肉丝饼",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/9c96dd862681caf8673e940a6f338d09.png"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/31/203953/745294dc380810360b92b499c495dd54.png",
+          "name": "速成陈酿",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "哪怕闻的时间稍长些都能让人头晕片刻的奇妙液体。曾有好事者将之赠予品鉴师，为它搏来了“味同八十年陈酿”的美誉，但我们都清楚，天使的形成时间只有那短短片刻。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "击败破潮之像的掉落物，可用于仓储节点装箱运送。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10005"
+            },
+            {
+              "subTypeId": "10253",
+              "value": "10259"
+            },
+            {
+              "subTypeId": "10254",
+              "value": "10255"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1767442591",
+        "lastAuditPassedAt": "1767873953",
+        "tagIds": [
+          "10005",
+          "10259",
+          "10255"
+        ]
+      }
+    }
+  }
+}
