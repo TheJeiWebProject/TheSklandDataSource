@@ -52,21 +52,38 @@ async function main() {
     await sleep(3000);
 
     // Determine crawl speed based on environment variable
+    const isUnlimited = process.env.CRAWL_UNLIMITED === 'true';
     const isFastMode = process.env.CRAWL_FAST_MODE === 'true';
-    const concurrency = isFastMode ? '2' : '1';
-    const sleepMs = isFastMode ? '500' : '2000';
+    const skipCrawl = process.env.SKIP_CRAWL === 'true';
 
-    console.log(`> Crawl mode: ${isFastMode ? 'FAST' : 'SLOW'} (concurrency=${concurrency}, sleep=${sleepMs}ms)`);
+    let concurrency = '1';
+    let sleepMs = '2000';
 
-    // 1. Crawl
-    await run('node', [
-      'src/crawler.mjs',
-      '--proxy-endpoint', 'http://localhost:12345/proxy-request',
-      '--limit', '0',
-      '--overwrite',
-      '--concurrency', concurrency,
-      '--sleep-ms', sleepMs
-    ]);
+    if (isUnlimited) {
+      concurrency = '10';
+      sleepMs = '0';
+    } else if (isFastMode) {
+      concurrency = '2';
+      sleepMs = '500';
+    }
+
+    console.log(`> Mode: Unlimited=${isUnlimited}, Fast=${isFastMode}, SkipCrawl=${skipCrawl}`);
+    
+    if (!skipCrawl) {
+      console.log(`> Crawl mode: ${isUnlimited ? 'UNLIMITED' : (isFastMode ? 'FAST' : 'SLOW')} (concurrency=${concurrency}, sleep=${sleepMs}ms)`);
+
+      // 1. Crawl
+      await run('node', [
+        'src/crawler.mjs',
+        '--proxy-endpoint', 'http://localhost:12345/proxy-request',
+        '--limit', '0',
+        '--overwrite',
+        '--concurrency', concurrency,
+        '--sleep-ms', sleepMs
+      ]);
+    } else {
+      console.log('> Skipping crawl step as requested.');
+    }
 
     // 2. Extract
     await run('node', ['src/extractor.mjs']);

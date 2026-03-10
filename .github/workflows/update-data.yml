@@ -9,6 +9,14 @@ on:
         description: 'Enable fast mode (concurrency=2, sleep=500ms)'
         type: boolean
         default: false
+      unlimited_speed:
+        description: 'Enable unlimited speed (concurrency=10, sleep=0ms)'
+        type: boolean
+        default: false
+      skip_crawl:
+        description: 'Skip crawling (only rebuild)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -26,6 +34,8 @@ jobs:
         env:
           SKLAND_DEVICE_ID: ${{ secrets.SKLAND_DEVICE_ID }}
           CRAWL_FAST_MODE: ${{ github.event.inputs.fast_mode }}
+          CRAWL_UNLIMITED: ${{ github.event.inputs.unlimited_speed }}
+          SKIP_CRAWL: ${{ github.event.inputs.skip_crawl }}
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
