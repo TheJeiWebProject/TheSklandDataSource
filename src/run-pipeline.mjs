@@ -52,7 +52,14 @@ async function main() {
     await sleep(3000);
 
     // 1. Crawl
-    await run('node', ['src/crawler.mjs', '--proxy-endpoint', 'http://localhost:12345/proxy-request', '--limit', '0', '--overwrite']);
+    await run('node', [
+      'src/crawler.mjs',
+      '--proxy-endpoint', 'http://localhost:12345/proxy-request',
+      '--limit', '0',
+      '--overwrite',
+      '--concurrency', '2',
+      '--sleep-ms', '500'
+    ]);
 
     // 2. Extract
     await run('node', ['src/extractor.mjs']);
