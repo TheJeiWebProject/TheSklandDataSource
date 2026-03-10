@@ -1,0 +1,754 @@
+{
+  "key": {
+    "id": "skland.wiki.item_935"
+  },
+  "name": "补充武库箱·迅行",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/07/203953/7d5939eb2cbb5793aef5c0f8c734fe66.png",
+  "description": "获取方式:\n采购中心-武库交易所获取。\n于迅行申领期间累计达到武库赠礼的申领次数标准后获取： 累计进行10次武器申领后，可额外获得武库赠礼[补充武库箱·迅行]。 累计进行18次武器申领获得迅行赠礼[使命必达]之后，每进行8次武器申领，将交替获得武库赠礼和迅行赠礼。\n\n用途:\n开启后获得特定的六星武器。\n使用补充武库箱·迅行可以获得迅行申领期间出现的其它六星武器：\n[骑士精神][遗忘][楔子][热熔切割器][白夜新星][典范]",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:6"
+  ],
+  "source": "终末地百科/贵重品库/id935.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145483",
+    "data": {
+      "item": {
+        "itemId": "935",
+        "document": {
+          "documentMap": {
+            "BimNzoqW": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "dd3TsC",
+                "9hNKHd",
+                "rN3mPAH08fur",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "9hNKHd": {
+                  "id": "9hNKHd",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "9hNKHd",
+                    "itemIds": [
+                      "JDvXe5"
+                    ],
+                    "itemMap": {
+                      "JDvXe5": {
+                        "id": "JDvXe5",
+                        "childIds": [
+                          "vI0GEk"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "dd3TsC": {
+                  "id": "dd3TsC",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "开启后获得特定的六星武器。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "rN3mPAH08fur": {
+                  "id": "rN3mPAH08fur",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "129",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "128",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "114",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "73",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "75",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "85",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vI0GEk": {
+                  "id": "vI0GEk",
+                  "parentId": "JDvXe5",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "补充武库箱·迅行"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "可以获得"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "迅行申领"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间出现的其它六星武器："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "L8qDfLEF": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "QB7bLN",
+                "2nHcjG",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "2nHcjG": {
+                  "id": "2nHcjG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2nHcjG",
+                    "itemIds": [
+                      "ZQeKqJ"
+                    ],
+                    "itemMap": {
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "WaSlpD",
+                          "6R3I5l"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "6R3I5l": {
+                  "id": "6R3I5l",
+                  "parentId": "ZQeKqJ",
+                  "kind": "list",
+                  "list": {
+                    "id": "6R3I5l",
+                    "itemIds": [
+                      "9dUV7i",
+                      "YV8PtV"
+                    ],
+                    "itemMap": {
+                      "9dUV7i": {
+                        "id": "9dUV7i",
+                        "childIds": [
+                          "DdliUW"
+                        ]
+                      },
+                      "YV8PtV": {
+                        "id": "YV8PtV",
+                        "childIds": [
+                          "Jhdj1w"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "DdliUW": {
+                  "id": "DdliUW",
+                  "parentId": "9dUV7i",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "累计进行10次武器申领后，可额外获得"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武库赠礼"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "935",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Jhdj1w": {
+                  "id": "Jhdj1w",
+                  "parentId": "YV8PtV",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "累计进行18次武器申领获得"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "迅行赠礼"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "124",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "之后，每进行8次武器申领，将交替获得"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武库赠礼"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "和"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "迅行赠礼"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "采购中心-武库交易所获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WaSlpD": {
+                  "id": "WaSlpD",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "迅行申领"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间累计达到"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武库赠礼"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的申领次数标准后获取："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "lNzYFu78",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "Gh72Rpj5",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Gh72Rpj5": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "BimNzoqW",
+                  "audioList": []
+                }
+              }
+            },
+            "lNzYFu78": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "L8qDfLEF",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "补充武库箱·迅行",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/07/203953/7d5939eb2cbb5793aef5c0f8c734fe66.png",
+          "name": "补充武库箱·迅行",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "封装极度严密的沉重箱子。“更自由的武器选择即是更安全的战场”，武库工程师们如此想着，将曾映衬着迅行重械的武器们填入了箱子中。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "开启可选择获取其中任意一把武器。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10324"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10328"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1767790367",
+        "lastAuditPassedAt": "1772723450",
+        "tagIds": [
+          "10006",
+          "10324",
+          "10328"
+        ]
+      }
+    }
+  }
+}

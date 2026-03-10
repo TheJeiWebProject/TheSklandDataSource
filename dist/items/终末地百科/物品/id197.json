@@ -1,0 +1,1133 @@
+{
+  "key": {
+    "id": "skland.wiki.item_197"
+  },
+  "name": "武陵石",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/07/3048259/8c8ed97e2eb90b5169770f3f9503c394.png",
+  "description": "获取方式:\n武陵城等地采集。\n武陵石的采集点会于野外的巨大源石虫壳周围生成，在地图上会以稀有矿物区标记。 在达到稀有矿物区的存储上限前，巨大源石虫壳周围会不断生成新的武陵石采集点。\n帝江号-培养舱生产。\n消耗[武陵石子簇x1]并等待一段时间。\n\n用途:\n武陵城等地采集。\n武陵石的采集点会于野外的巨大源石虫壳周围生成，在地图上会以稀有矿物区标记。 在达到稀有矿物区的存储上限前，巨大源石虫壳周围会不断生成新的武陵石采集点。\n帝江号-培养舱生产。\n消耗[武陵石子簇x1]并等待一段时间。\n作为等级达到80级的武器进行突破强化的消耗素材。\n该等级的突破强化除了需要消耗素材[武陵石x8]外，还需要消耗素材[重型强固模具x50]、特定的珍贵培养素材36份并花费[折金票x155000]。",
+  "rarity": {
+    "stars": 5,
+    "label": "5星",
+    "color": "#fb8c00",
+    "token": "rarity_5",
+    "tagId": "10005"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:物品",
+    "rarity:5"
+  ],
+  "source": "终末地百科/物品/id197.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145468",
+    "data": {
+      "item": {
+        "itemId": "197",
+        "document": {
+          "documentMap": {
+            "0bi9ERlX": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "QB7bLN",
+                "2nHcjG",
+                "g2xcVp",
+                "hVl20E",
+                "WD8KCL",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "2nHcjG": {
+                  "id": "2nHcjG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2nHcjG",
+                    "itemIds": [
+                      "ZQeKqJ",
+                      "1H5RA0"
+                    ],
+                    "itemMap": {
+                      "1H5RA0": {
+                        "id": "1H5RA0",
+                        "childIds": [
+                          "JhSBn8"
+                        ]
+                      },
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "PFbsHa"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "5gX6LD": {
+                  "id": "5gX6LD",
+                  "parentId": "msSP3a",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "消耗"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "318",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并等待一段时间。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JhSBn8": {
+                  "id": "JhSBn8",
+                  "parentId": "1H5RA0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在达到"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "稀有矿物区"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的存储上限前，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "巨大源石虫壳"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "周围会不断生成新的武陵石采集点。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PFbsHa": {
+                  "id": "PFbsHa",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵石的采集点会于野外的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "巨大源石虫壳"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "周围生成，在地图上会以"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "稀有矿物区"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "标记。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城等地采集。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WD8KCL": {
+                  "id": "WD8KCL",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WD8KCL",
+                    "itemIds": [
+                      "msSP3a"
+                    ],
+                    "itemMap": {
+                      "msSP3a": {
+                        "id": "msSP3a",
+                        "childIds": [
+                          "5gX6LD"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "g2xcVp": {
+                  "id": "g2xcVp",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "hVl20E": {
+                  "id": "hVl20E",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "帝江号-培养舱生产。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "78ujojuf": {
+              "id": "document-id",
+              "blockIds": [
+                "VurfTf",
+                "RqFNRM"
+              ],
+              "blockMap": {
+                "KYQRwy": {
+                  "id": "KYQRwy",
+                  "parentId": "Hwfrb8_NK5wSE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": ">2"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RqFNRM": {
+                  "id": "RqFNRM",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "VurfTf": {
+                  "id": "VurfTf",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "VurfTf",
+                    "rowIds": [
+                      "6mMQ1Z",
+                      "Hwfrb8",
+                      "S9gAVd"
+                    ],
+                    "columnIds": [
+                      "NK5wSE",
+                      "TsODve",
+                      "h1UqHv"
+                    ],
+                    "rowMap": {
+                      "6mMQ1Z": {
+                        "id": "6mMQ1Z"
+                      },
+                      "Hwfrb8": {
+                        "id": "Hwfrb8"
+                      },
+                      "S9gAVd": {
+                        "id": "S9gAVd"
+                      }
+                    },
+                    "columnMap": {
+                      "NK5wSE": {
+                        "id": "NK5wSE",
+                        "width": 386.6666666666667
+                      },
+                      "TsODve": {
+                        "id": "TsODve",
+                        "width": 386.6666666666667
+                      },
+                      "h1UqHv": {
+                        "id": "h1UqHv",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "6mMQ1Z_NK5wSE": {
+                        "id": "6mMQ1Z_NK5wSE",
+                        "childIds": [
+                          "dJ4J3T"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "6mMQ1Z_TsODve": {
+                        "id": "6mMQ1Z_TsODve",
+                        "childIds": [
+                          "bz8d5y"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "6mMQ1Z_h1UqHv": {
+                        "id": "6mMQ1Z_h1UqHv",
+                        "childIds": [
+                          "ym3VTV"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Hwfrb8_NK5wSE": {
+                        "id": "Hwfrb8_NK5wSE",
+                        "childIds": [
+                          "KYQRwy"
+                        ],
+                        "rowSpan": "2",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Hwfrb8_TsODve": {
+                        "id": "Hwfrb8_TsODve",
+                        "childIds": [
+                          "zR0Dyl"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Hwfrb8_h1UqHv": {
+                        "id": "Hwfrb8_h1UqHv",
+                        "childIds": [
+                          "p4vCmq"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "S9gAVd_TsODve": {
+                        "id": "S9gAVd_TsODve",
+                        "childIds": [
+                          "aum0If"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "S9gAVd_h1UqHv": {
+                        "id": "S9gAVd_h1UqHv",
+                        "childIds": [
+                          "qM85Gs"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "aum0If": {
+                  "id": "aum0If",
+                  "parentId": "S9gAVd_TsODve",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "318",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bz8d5y": {
+                  "id": "bz8d5y",
+                  "parentId": "6mMQ1Z_TsODve",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dJ4J3T": {
+                  "id": "dJ4J3T",
+                  "parentId": "6mMQ1Z_NK5wSE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需求舱室等级"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "p4vCmq": {
+                  "id": "p4vCmq",
+                  "parentId": "Hwfrb8_h1UqHv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "318",
+                          "showType": "card-big",
+                          "count": "3"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qM85Gs": {
+                  "id": "qM85Gs",
+                  "parentId": "S9gAVd_h1UqHv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "197",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ym3VTV": {
+                  "id": "ym3VTV",
+                  "parentId": "6mMQ1Z_h1UqHv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "合成产物"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zR0Dyl": {
+                  "id": "zR0Dyl",
+                  "parentId": "Hwfrb8_TsODve",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "197",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "UOttDYVm": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "g40zyo",
+                "Rzfrvh",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "Rzfrvh": {
+                  "id": "Rzfrvh",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Rzfrvh",
+                    "itemIds": [
+                      "dDoqrP"
+                    ],
+                    "itemMap": {
+                      "dDoqrP": {
+                        "id": "dDoqrP",
+                        "childIds": [
+                          "fzqwZw"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "fzqwZw": {
+                  "id": "fzqwZw",
+                  "parentId": "dDoqrP",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "该等级的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "突破强化"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "除了需要消耗素材"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "197",
+                          "showType": "link-imgText",
+                          "count": "8"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "外，还需要消耗素材"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "227",
+                          "showType": "link-imgText",
+                          "count": "50"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "、特定的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "珍贵培养素材"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "36份并花费"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "19",
+                          "showType": "link-imgText",
+                          "count": "155000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "g40zyo": {
+                  "id": "g40zyo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "作为等级达到80级的武器进行突破强化的消耗素材。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "JRRTRIUi",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "BrfRWXDB",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "参与配方",
+              "widgets": [
+                {
+                  "id": "TsekmRWm",
+                  "title": "基核提取",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "BrfRWXDB": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "UOttDYVm",
+                  "audioList": []
+                }
+              }
+            },
+            "JRRTRIUi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "0bi9ERlX",
+                  "audioList": []
+                }
+              }
+            },
+            "TsekmRWm": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "78ujojuf",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "武陵石",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "6",
+          "name": "物品",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 7,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10253",
+              "children": [
+                {
+                  "id": "10261",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10260",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10263",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10257",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10259",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10313",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10254",
+              "children": [
+                {
+                  "id": "10320",
+                  "children": [],
+                  "name": "自然资源",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10255",
+                  "children": [],
+                  "name": "采集材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10332",
+                  "children": [],
+                  "name": "珍贵材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10318",
+                  "children": [],
+                  "name": "工业产物",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10317",
+                  "children": [],
+                  "name": "可用道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10316",
+                  "children": [],
+                  "name": "功能道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10256",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+        },
+        "createdUser": {
+          "id": "1225401989759",
+          "nickname": "玉酱不吃鱼子酱",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/07/3048259/8c8ed97e2eb90b5169770f3f9503c394.png",
+          "name": "武陵石",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "o208IQ",
+              "9bzHRe",
+              "nHekP6"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "因极复杂的水脉变迁才会产生的矿石，最初由宏山天师在勘探武陵水文环境时发现。在特殊深度环境中，随水而来的石砂会因超域能量融于一处，成为大河的年轮。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "采集自野外或培养舱培养的特殊矿物。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "nHekP6": {
+                "id": "nHekP6",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              },
+              "o208IQ": {
+                "id": "o208IQ",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "可在武器80级突破强化时使用。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10005"
+            },
+            {
+              "subTypeId": "10253",
+              "value": "10259"
+            },
+            {
+              "subTypeId": "10254",
+              "value": "10332"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1765441895",
+        "lastAuditPassedAt": "1767941511",
+        "tagIds": [
+          "10005",
+          "10259",
+          "10332"
+        ]
+      }
+    }
+  }
+}

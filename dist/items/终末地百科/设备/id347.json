@@ -1,0 +1,978 @@
+{
+  "key": {
+    "id": "skland.wiki.item_347"
+  },
+  "name": "酮化灌木田块",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/20/3048259/64ed1c10ec4d73b01657b19f467053c9.png",
+  "description": "获取方式:\n简易制作获取。\n\n用途:\n酮化灌木田块是种植调配类型的设备，可以用于培植酮化灌木。\n酮化灌木田块仅能放置在源石研究园-生态种植区范围内。\n放置酮化灌木田块需要在源石研究园-生态种植区的长4格、宽4格的可用空地，且与其他田块间隔≥3格。\n制作类型 | 原料需求 | 制作产物\n种植调配 | [酮化树种x1][碳块x1] | [酮化灌木田块x1]",
+  "rarity": {
+    "stars": 2,
+    "label": "2星",
+    "color": "#42a5f5",
+    "token": "rarity_2",
+    "tagId": "10002"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:设备",
+    "rarity:2"
+  ],
+  "source": "终末地百科/设备/id347.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145471",
+    "data": {
+      "item": {
+        "itemId": "347",
+        "document": {
+          "documentMap": {
+            "G61fjkxX": {
+              "id": "document-id",
+              "blockIds": [
+                "LzlXRQ",
+                "oTxea0",
+                "eGC8ic"
+              ],
+              "blockMap": {
+                "LzlXRQ": {
+                  "id": "LzlXRQ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "eGC8ic": {
+                  "id": "eGC8ic",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "oTxea0": {
+                  "id": "oTxea0",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "oTxea0",
+                    "itemIds": [
+                      "mKPDTR"
+                    ],
+                    "itemMap": {
+                      "mKPDTR": {
+                        "id": "mKPDTR",
+                        "childIds": [
+                          "wldma9"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "wldma9": {
+                  "id": "wldma9",
+                  "parentId": "mKPDTR",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "简易制作"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "LsZttIQH": {
+              "id": "document-id",
+              "blockIds": [
+                "soE0UW",
+                "jWFs7R",
+                "sfqvaO"
+              ],
+              "blockMap": {
+                "0rL7vA": {
+                  "id": "0rL7vA",
+                  "parentId": "vhk1pg_7Nb12O",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "347",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "1elxAC": {
+                  "id": "1elxAC",
+                  "parentId": "vhk1pg_sen7KY",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "202",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "192",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "2iffAV": {
+                  "id": "2iffAV",
+                  "parentId": "sXFvJu_0RdCyD",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "制作类型"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "383NQ1": {
+                  "id": "383NQ1",
+                  "parentId": "sXFvJu_sen7KY",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7voOEZ": {
+                  "id": "7voOEZ",
+                  "parentId": "vhk1pg_0RdCyD",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "种植调配"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "W2cD0d": {
+                  "id": "W2cD0d",
+                  "parentId": "sXFvJu_7Nb12O",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "制作产物"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "jWFs7R": {
+                  "id": "jWFs7R",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "jWFs7R",
+                    "rowIds": [
+                      "sXFvJu",
+                      "vhk1pg"
+                    ],
+                    "columnIds": [
+                      "0RdCyD",
+                      "sen7KY",
+                      "7Nb12O"
+                    ],
+                    "rowMap": {
+                      "sXFvJu": {
+                        "id": "sXFvJu"
+                      },
+                      "vhk1pg": {
+                        "id": "vhk1pg"
+                      }
+                    },
+                    "columnMap": {
+                      "0RdCyD": {
+                        "id": "0RdCyD",
+                        "width": 386.6666666666667
+                      },
+                      "7Nb12O": {
+                        "id": "7Nb12O",
+                        "width": 386.6666666666667
+                      },
+                      "sen7KY": {
+                        "id": "sen7KY",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "sXFvJu_0RdCyD": {
+                        "id": "sXFvJu_0RdCyD",
+                        "childIds": [
+                          "2iffAV"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "sXFvJu_7Nb12O": {
+                        "id": "sXFvJu_7Nb12O",
+                        "childIds": [
+                          "W2cD0d"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "sXFvJu_sen7KY": {
+                        "id": "sXFvJu_sen7KY",
+                        "childIds": [
+                          "383NQ1"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "vhk1pg_0RdCyD": {
+                        "id": "vhk1pg_0RdCyD",
+                        "childIds": [
+                          "7voOEZ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "vhk1pg_7Nb12O": {
+                        "id": "vhk1pg_7Nb12O",
+                        "childIds": [
+                          "0rL7vA"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "vhk1pg_sen7KY": {
+                        "id": "vhk1pg_sen7KY",
+                        "childIds": [
+                          "1elxAC"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "sfqvaO": {
+                  "id": "sfqvaO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "soE0UW": {
+                  "id": "soE0UW",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "jZTalN7G": {
+              "id": "document-id",
+              "blockIds": [
+                "h82m02",
+                "RfmnOZ",
+                "YzWuXw"
+              ],
+              "blockMap": {
+                "RfmnOZ": {
+                  "id": "RfmnOZ",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "酮化灌木"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "田块"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园-生态种植区"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "4"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "4"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地，且与其他田块间隔"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "≥3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "YzWuXw": {
+                  "id": "YzWuXw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "h82m02": {
+                  "id": "h82m02",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "rBv5U4GL": {
+              "id": "document-id",
+              "blockIds": [
+                "k06jeO",
+                "dtCqzl",
+                "InhAb9",
+                "IaFbz7"
+              ],
+              "blockMap": {
+                "IaFbz7": {
+                  "id": "IaFbz7",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "InhAb9": {
+                  "id": "InhAb9",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "酮化灌木"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "田块"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仅能放置在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园-生态种植区"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dtCqzl": {
+                  "id": "dtCqzl",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "酮化灌木"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "田块"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "是种植调配类型的设备，可以用于培植"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "酮化灌木"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k06jeO": {
+                  "id": "k06jeO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "相关来源",
+              "widgets": [
+                {
+                  "id": "9uXOFlFB",
+                  "title": "设备来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "使用方法",
+              "widgets": [
+                {
+                  "id": "BWox8NWd",
+                  "title": "相关信息",
+                  "size": "middle"
+                },
+                {
+                  "id": "o9GVIW8S",
+                  "title": "面积需求",
+                  "size": "small"
+                },
+                {
+                  "id": "OJui4WiQ",
+                  "title": "相关配方",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "9uXOFlFB": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "G61fjkxX",
+                  "audioList": []
+                }
+              }
+            },
+            "BWox8NWd": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "rBv5U4GL",
+                  "audioList": []
+                }
+              }
+            },
+            "OJui4WiQ": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "LsZttIQH",
+                  "audioList": []
+                }
+              }
+            },
+            "o9GVIW8S": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "jZTalN7G",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "酮化灌木田块",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "5",
+          "name": "设备",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 6,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10307",
+              "children": [
+                {
+                  "id": "10309",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10311",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10310",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10312",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10244",
+              "children": [
+                {
+                  "id": "10246",
+                  "children": [],
+                  "name": "物流设备",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10247",
+                  "children": [],
+                  "name": "资源开采",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10250",
+                  "children": [],
+                  "name": "仓储存区",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10252",
+                  "children": [],
+                  "name": "基础生产",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10248",
+                  "children": [],
+                  "name": "合成制造",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10251",
+                  "children": [],
+                  "name": "电力供应",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10249",
+                  "children": [],
+                  "name": "功能设备",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10245",
+                  "children": [],
+                  "name": "战斗辅助",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10333",
+                  "children": [],
+                  "name": "种植调配",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "设备类型",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+        },
+        "createdUser": {
+          "id": "1225401989759",
+          "nickname": "玉酱不吃鱼子酱",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/20/3048259/64ed1c10ec4d73b01657b19f467053c9.png",
+          "name": "酮化灌木田块",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "6LX2f8",
+              "egATZV"
+            ],
+            "blockMap": {
+              "6LX2f8": {
+                "id": "6LX2f8",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "此田块上按步骤进行精细种植，收获后可获得大量酮化灌木。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "egATZV": {
+                "id": "egATZV",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "为培植酮化灌木而调节了各项参数的田块，其土质整体上优于四号谷地平均土壤状况。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10002"
+            },
+            {
+              "subTypeId": "10244",
+              "value": "10333"
+            },
+            {
+              "subTypeId": "10307",
+              "value": "10311"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1767098441",
+        "lastAuditPassedAt": "1767373823",
+        "tagIds": [
+          "10002",
+          "10333",
+          "10311"
+        ]
+      }
+    }
+  }
+}

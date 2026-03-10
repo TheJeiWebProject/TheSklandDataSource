@@ -1,0 +1,1116 @@
+{
+  "key": {
+    "id": "skland.wiki.item_184"
+  },
+  "name": "液氮塔",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/15/2696356/3b67c05295460a08c86067d79ab6b7aa.png",
+  "description": "获取方式:\n在研究完成对敌干扰设备I后可获得1台液氮塔。 在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [紫晶零件x20]→[液氮塔x1]\n在工业计划-基础工业二期研究对敌干扰设备I获取。\n\n用途:\n液氮塔是战斗辅助类型的机器，可以用于辅助攻击敌人。\n液氮塔可放置在协议核心或次级核心范围外。\n液氮塔需要电力维持运转，1个液氮塔耗电功率值为10。\n液氮塔的战斗性能： 攻击间隔：5秒 攻击范围：15米\n放置液氮塔需要长2格、宽2格的可用空地，且与其他战斗辅助设备间隔≥3格。",
+  "rarity": {
+    "stars": 2,
+    "label": "2星",
+    "color": "#42a5f5",
+    "token": "rarity_2",
+    "tagId": "10002"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:设备",
+    "rarity:2"
+  ],
+  "source": "终末地百科/设备/id184.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145468",
+    "data": {
+      "item": {
+        "itemId": "184",
+        "document": {
+          "documentMap": {
+            "6hvxycUh": {
+              "id": "document-id",
+              "blockIds": [
+                "9VmF2q",
+                "7ONjqy",
+                "QOP1hV"
+              ],
+              "blockMap": {
+                "0w0lxy": {
+                  "id": "0w0lxy",
+                  "parentId": "xowYkN",
+                  "kind": "list",
+                  "list": {
+                    "id": "0w0lxy",
+                    "itemIds": [
+                      "tufDCM"
+                    ],
+                    "itemMap": {
+                      "tufDCM": {
+                        "id": "tufDCM",
+                        "childIds": [
+                          "5482eu"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "5482eu": {
+                  "id": "5482eu",
+                  "parentId": "tufDCM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "377",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "→"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "184",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7ONjqy": {
+                  "id": "7ONjqy",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "7ONjqy",
+                    "itemIds": [
+                      "zepTkr",
+                      "xowYkN"
+                    ],
+                    "itemMap": {
+                      "xowYkN": {
+                        "id": "xowYkN",
+                        "childIds": [
+                          "zEHbeI",
+                          "0w0lxy"
+                        ]
+                      },
+                      "zepTkr": {
+                        "id": "zepTkr",
+                        "childIds": [
+                          "VchwKv"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "9VmF2q": {
+                  "id": "9VmF2q",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QOP1hV": {
+                  "id": "QOP1hV",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "VchwKv": {
+                  "id": "VchwKv",
+                  "parentId": "zepTkr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在研究完成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "对敌干扰设备I"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后可获得1台液氮塔。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zEHbeI": {
+                  "id": "zEHbeI",
+                  "parentId": "xowYkN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内，点击"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "工具箱-设备列表-制造设备"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过以下配方制造。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "NPuthzST": {
+              "id": "document-id",
+              "blockIds": [
+                "1WTlpz",
+                "QVMU9x",
+                "044sIK",
+                "o0yABL",
+                "6qelTU",
+                "oJmOoo",
+                "c2ITB9"
+              ],
+              "blockMap": {
+                "044sIK": {
+                  "id": "044sIK",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "液氮塔"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可放置在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围外。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "1WTlpz": {
+                  "id": "1WTlpz",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "4NNsrx": {
+                  "id": "4NNsrx",
+                  "parentId": "iZDMQB",
+                  "kind": "list",
+                  "list": {
+                    "id": "4NNsrx",
+                    "itemIds": [
+                      "QxpZM4",
+                      "apk0Nf"
+                    ],
+                    "itemMap": {
+                      "QxpZM4": {
+                        "id": "QxpZM4",
+                        "childIds": [
+                          "6E3VKA"
+                        ]
+                      },
+                      "apk0Nf": {
+                        "id": "apk0Nf",
+                        "childIds": [
+                          "v6ao8W"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "6E3VKA": {
+                  "id": "6E3VKA",
+                  "parentId": "QxpZM4",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "攻击间隔："
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "5"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "秒"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "6qelTU": {
+                  "id": "6qelTU",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QVMU9x": {
+                  "id": "QVMU9x",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "液氮塔"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "是战斗辅助类型的机器，可以用于辅助攻击敌人。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "c2ITB9": {
+                  "id": "c2ITB9",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "o0yABL": {
+                  "id": "o0yABL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "液氮塔"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要电力维持运转，1个"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "液氮塔"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "耗电功率值为10。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oJmOoo": {
+                  "id": "oJmOoo",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "oJmOoo",
+                    "itemIds": [
+                      "iZDMQB"
+                    ],
+                    "itemMap": {
+                      "iZDMQB": {
+                        "id": "iZDMQB",
+                        "childIds": [
+                          "wNbLJz",
+                          "4NNsrx"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "v6ao8W": {
+                  "id": "v6ao8W",
+                  "parentId": "apk0Nf",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "攻击范围："
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "15"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "米"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wNbLJz": {
+                  "id": "wNbLJz",
+                  "parentId": "iZDMQB",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "液氮塔"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "战斗性能"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "qsb3A15T": {
+              "id": "document-id",
+              "blockIds": [
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
+              ],
+              "blockMap": {
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XbWEoo": {
+                  "id": "XbWEoo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "液氮塔"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "2"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "2"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地，"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "且与其他战斗辅助设备间隔"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "≥3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "wwx2zRDv": {
+              "id": "document-id",
+              "blockIds": [
+                "E1hNMw",
+                "gQ7KDY",
+                "5iumDx"
+              ],
+              "blockMap": {
+                "5iumDx": {
+                  "id": "5iumDx",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "E1hNMw": {
+                  "id": "E1hNMw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gQ7KDY": {
+                  "id": "gQ7KDY",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-基础工业二期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "对敌干扰设备I"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "相关来源",
+              "widgets": [
+                {
+                  "id": "YlWuXRzm",
+                  "title": "设备来源",
+                  "size": "middle"
+                },
+                {
+                  "id": "xj06SD9V",
+                  "title": "蓝图来源",
+                  "size": "small"
+                }
+              ]
+            },
+            {
+              "title": "使用方式",
+              "widgets": [
+                {
+                  "id": "gpZUFOXi",
+                  "title": "相关信息",
+                  "size": "middle"
+                },
+                {
+                  "id": "4gEMjiYx",
+                  "title": "面积需求",
+                  "size": "small"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "4gEMjiYx": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "qsb3A15T",
+                  "audioList": []
+                }
+              }
+            },
+            "YlWuXRzm": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "6hvxycUh",
+                  "audioList": []
+                }
+              }
+            },
+            "gpZUFOXi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "NPuthzST",
+                  "audioList": []
+                }
+              }
+            },
+            "xj06SD9V": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "wwx2zRDv",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "液氮塔",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "5",
+          "name": "设备",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 6,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10307",
+              "children": [
+                {
+                  "id": "10309",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10311",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10310",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10312",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10244",
+              "children": [
+                {
+                  "id": "10246",
+                  "children": [],
+                  "name": "物流设备",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10247",
+                  "children": [],
+                  "name": "资源开采",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10250",
+                  "children": [],
+                  "name": "仓储存区",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10252",
+                  "children": [],
+                  "name": "基础生产",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10248",
+                  "children": [],
+                  "name": "合成制造",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10251",
+                  "children": [],
+                  "name": "电力供应",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10249",
+                  "children": [],
+                  "name": "功能设备",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10245",
+                  "children": [],
+                  "name": "战斗辅助",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10333",
+                  "children": [],
+                  "name": "种植调配",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "设备类型",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+        },
+        "createdUser": {
+          "id": "4119159299717",
+          "nickname": "曾小皮",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/fd72b2740985507fe4aa02496c93ddd5.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/15/2696356/3b67c05295460a08c86067d79ab6b7aa.png",
+          "name": "液氮塔",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "Iu1g4l",
+              "om43ip",
+              "N3zrMl"
+            ],
+            "blockMap": {
+              "Iu1g4l": {
+                "id": "Iu1g4l",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "攻击间隔："
+                      }
+                    },
+                    {
+                      "bold": true,
+                      "color": "light_function_blue",
+                      "kind": "text",
+                      "text": {
+                        "text": "5"
+                      }
+                    },
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "秒"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "N3zrMl": {
+                "id": "N3zrMl",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "灌装了封装液氮的实验型设备，其内部的液氮被封存在一种特殊的晶体中，装有液氮的晶体会在敌人身上碎裂，在冻伤目标的同时阻碍他们的行动。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "om43ip": {
+                "id": "om43ip",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "攻击方式：发射特殊液氮晶体，晶体爆裂后会降低范围内敌人的移动速度。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10002"
+            },
+            {
+              "subTypeId": "10244",
+              "value": "10245"
+            },
+            {
+              "subTypeId": "10307",
+              "value": "10311"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1767098572",
+        "lastAuditPassedAt": "1767639900",
+        "tagIds": [
+          "10002",
+          "10245",
+          "10311"
+        ]
+      }
+    }
+  }
+}

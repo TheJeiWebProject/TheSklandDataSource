@@ -1,0 +1,949 @@
+{
+  "key": {
+    "id": "skland.wiki.item_667"
+  },
+  "name": "据点部署·基建前站",
+  "icon": "https://bbs.hycdn.cn/image/common/20260201/856392/697f5615deae33c4ae12e16d_6ad0f152.png",
+  "description": "用途:\n地点 | 开启条件 | 后续任务\n源石研究园 | / | [据点建设·基建前站·其一]\n进程\n管理员接到柯林斯兄妹的通讯，得知作为临时避难点的基建前站正需要帮助，决定前往帮忙。·前往基建前站·与诺夫曼交谈·前往工人失踪地点·使用扫描功能寻找线索·继续使用扫描功能寻找线索·在档案库中查看情报批注·返回基建前站，与诺夫曼交谈·跟随诺夫曼·在指定位置投放次级核心",
+  "tags": [
+    "main:终末地百科",
+    "sub:任务"
+  ],
+  "source": "终末地百科/任务/id667.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145478",
+    "data": {
+      "item": {
+        "itemId": "667",
+        "document": {
+          "documentMap": {
+            "B2sYVUmH": {
+              "id": "document-id",
+              "blockIds": [
+                "DN16kx",
+                "oq1AuW",
+                "GaaML9"
+              ],
+              "blockMap": {
+                "4hpD9ATEWfGt": {
+                  "id": "4hpD9ATEWfGt",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·使用扫描功能寻找线索"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5VENv5": {
+                  "id": "5VENv5",
+                  "parentId": "YTG4BU_5esAwe",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7WhANsGAyCVd": {
+                  "id": "7WhANsGAyCVd",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·跟随诺夫曼"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8OJUJ1iGULpx": {
+                  "id": "8OJUJ1iGULpx",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·在指定位置投放次级核心"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DN16kx": {
+                  "id": "DN16kx",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "DN16kx",
+                    "rowIds": [
+                      "oGzhDa",
+                      "YTG4BU"
+                    ],
+                    "columnIds": [
+                      "7FdVFz",
+                      "5esAwe",
+                      "gveGYT"
+                    ],
+                    "rowMap": {
+                      "YTG4BU": {
+                        "id": "YTG4BU"
+                      },
+                      "oGzhDa": {
+                        "id": "oGzhDa"
+                      }
+                    },
+                    "columnMap": {
+                      "5esAwe": {
+                        "id": "5esAwe",
+                        "width": 386.6666666666667
+                      },
+                      "7FdVFz": {
+                        "id": "7FdVFz",
+                        "width": 386.6666666666667
+                      },
+                      "gveGYT": {
+                        "id": "gveGYT",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "YTG4BU_5esAwe": {
+                        "id": "YTG4BU_5esAwe",
+                        "childIds": [
+                          "5VENv5"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "YTG4BU_7FdVFz": {
+                        "id": "YTG4BU_7FdVFz",
+                        "childIds": [
+                          "kV3mbF"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "YTG4BU_gveGYT": {
+                        "id": "YTG4BU_gveGYT",
+                        "childIds": [
+                          "mDgUsp"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "oGzhDa_5esAwe": {
+                        "id": "oGzhDa_5esAwe",
+                        "childIds": [
+                          "kgEDOr"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "oGzhDa_7FdVFz": {
+                        "id": "oGzhDa_7FdVFz",
+                        "childIds": [
+                          "WsFsd8"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "oGzhDa_gveGYT": {
+                        "id": "oGzhDa_gveGYT",
+                        "childIds": [
+                          "LLK0nc"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "EmjVXUvR6KFO": {
+                  "id": "EmjVXUvR6KFO",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "基建前站"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FuWNLLrxCkCC": {
+                  "id": "FuWNLLrxCkCC",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·继续使用扫描功能寻找线索"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GaaML9": {
+                  "id": "GaaML9",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "GaaML9",
+                    "rowIds": [
+                      "R0Pfzb",
+                      "aoC65N"
+                    ],
+                    "columnIds": [
+                      "yLhime"
+                    ],
+                    "rowMap": {
+                      "R0Pfzb": {
+                        "id": "R0Pfzb"
+                      },
+                      "aoC65N": {
+                        "id": "aoC65N"
+                      }
+                    },
+                    "columnMap": {
+                      "yLhime": {
+                        "id": "yLhime",
+                        "width": 1160
+                      }
+                    },
+                    "cellMap": {
+                      "R0Pfzb_yLhime": {
+                        "id": "R0Pfzb_yLhime",
+                        "childIds": [
+                          "bw3DRg"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aoC65N_yLhime": {
+                        "id": "aoC65N_yLhime",
+                        "childIds": [
+                          "pMniTD",
+                          "EmjVXUvR6KFO",
+                          "TZYZzFQ9Z64V",
+                          "xeGES6ib4Kpr",
+                          "4hpD9ATEWfGt",
+                          "FuWNLLrxCkCC",
+                          "rSkqSWywP577",
+                          "RYePZoF2EjZH",
+                          "7WhANsGAyCVd",
+                          "8OJUJ1iGULpx"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "LLK0nc": {
+                  "id": "LLK0nc",
+                  "parentId": "oGzhDa_gveGYT",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "后续任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RYePZoF2EjZH": {
+                  "id": "RYePZoF2EjZH",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·返回基建前站，与诺夫曼交谈"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "TZYZzFQ9Z64V": {
+                  "id": "TZYZzFQ9Z64V",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·与诺夫曼交谈"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WsFsd8": {
+                  "id": "WsFsd8",
+                  "parentId": "oGzhDa_7FdVFz",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "地点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bw3DRg": {
+                  "id": "bw3DRg",
+                  "parentId": "R0Pfzb_yLhime",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "进程"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kV3mbF": {
+                  "id": "kV3mbF",
+                  "parentId": "YTG4BU_7FdVFz",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kgEDOr": {
+                  "id": "kgEDOr",
+                  "parentId": "oGzhDa_5esAwe",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "开启条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mDgUsp": {
+                  "id": "mDgUsp",
+                  "parentId": "YTG4BU_gveGYT",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "207",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oq1AuW": {
+                  "id": "oq1AuW",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "pMniTD": {
+                  "id": "pMniTD",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "管理员接到柯林斯兄妹的通讯，得知作为临时避难点的基建前站正需要帮助，决定前往帮忙。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "rSkqSWywP577": {
+                  "id": "rSkqSWywP577",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "档案库"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中查看情报批注"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "xeGES6ib4Kpr": {
+                  "id": "xeGES6ib4Kpr",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·前往工人失踪地点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "pJDU956C": {
+              "id": "document-id",
+              "blockIds": [
+                "zvewlyF4QXmJ",
+                "hEDJAi8sp1zw",
+                "E00KVMq98bGt",
+                "ONLmAmZCwoVR"
+              ],
+              "blockMap": {
+                "E00KVMq98bGt": {
+                  "id": "E00KVMq98bGt",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "ONLmAmZCwoVR": {
+                  "id": "ONLmAmZCwoVR",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "ONLmAmZCwoVR",
+                    "rowIds": [
+                      "8fuZK9"
+                    ],
+                    "columnIds": [
+                      "Y837ge",
+                      "rXrYZS"
+                    ],
+                    "rowMap": {
+                      "8fuZK9": {
+                        "id": "8fuZK9"
+                      }
+                    },
+                    "columnMap": {
+                      "Y837ge": {
+                        "id": "Y837ge",
+                        "width": 580
+                      },
+                      "rXrYZS": {
+                        "id": "rXrYZS",
+                        "width": 580
+                      }
+                    },
+                    "cellMap": {
+                      "8fuZK9_Y837ge": {
+                        "id": "8fuZK9_Y837ge",
+                        "childIds": [
+                          "TbYqlgE83uIQ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "8fuZK9_rXrYZS": {
+                        "id": "8fuZK9_rXrYZS",
+                        "childIds": [
+                          "QIgxhS4FGX9n"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "QIgxhS4FGX9n": {
+                  "id": "QIgxhS4FGX9n",
+                  "parentId": "8fuZK9_rXrYZS",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "14",
+                          "showType": "card-big",
+                          "count": "200"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QZSHD2UyRksA": {
+                  "id": "QZSHD2UyRksA",
+                  "parentId": "oZLteiZmzjZY",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成此任务可解锁"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "underline": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "据点-基建前站"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "TbYqlgE83uIQ": {
+                  "id": "TbYqlgE83uIQ",
+                  "parentId": "8fuZK9_Y837ge",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "card-big",
+                          "count": "50"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hEDJAi8sp1zw": {
+                  "id": "hEDJAi8sp1zw",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "hEDJAi8sp1zw",
+                    "itemIds": [
+                      "oZLteiZmzjZY"
+                    ],
+                    "itemMap": {
+                      "oZLteiZmzjZY": {
+                        "id": "oZLteiZmzjZY",
+                        "childIds": [
+                          "QZSHD2UyRksA"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "zvewlyF4QXmJ": {
+                  "id": "zvewlyF4QXmJ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": " 任务信息",
+              "widgets": [
+                {
+                  "id": "imf0VpOS",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "任务奖励",
+              "widgets": [
+                {
+                  "id": "k6XLrVk2",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "imf0VpOS": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "B2sYVUmH",
+                  "audioList": []
+                }
+              }
+            },
+            "k6XLrVk2": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "pJDU956C",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "据点部署·基建前站",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "8",
+          "name": "任务",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 10,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10270",
+              "children": [
+                {
+                  "id": "10272",
+                  "children": [],
+                  "name": "主线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10274",
+                  "children": [],
+                  "name": "探索任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10273",
+                  "children": [],
+                  "name": "支线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10275",
+                  "children": [],
+                  "name": "活动任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10271",
+                  "children": [],
+                  "name": "委托任务",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "任务类型",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10362",
+              "children": [
+                {
+                  "id": "10365",
+                  "children": [],
+                  "name": "紧要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10363",
+                  "children": [],
+                  "name": "重要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10364",
+                  "children": [],
+                  "name": "次要",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "重要程度",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/bbb11da63be72ec2cbdb4de59393aaab.png"
+        },
+        "createdUser": {
+          "id": "2260070249320",
+          "nickname": "小丁淘气",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260201/856392/697f5615deae33c4ae12e16d_6ad0f152.png",
+          "name": "据点部署·基建前站",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "BqFApb",
+              "5vwEjP"
+            ],
+            "blockMap": {
+              "5vwEjP": {
+                "id": "5vwEjP",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              },
+              "BqFApb": {
+                "id": "BqFApb",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10270",
+              "value": "10274"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1769953817",
+        "lastAuditPassedAt": "1769953999",
+        "tagIds": [
+          "10274"
+        ]
+      }
+    }
+  }
+}

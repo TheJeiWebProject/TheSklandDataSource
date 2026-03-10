@@ -1,0 +1,947 @@
+{
+  "key": {
+    "id": "skland.wiki.item_17"
+  },
+  "name": "理智",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/07/3048259/a0b3d2d1310785ad669be22e04ea4ecb.png",
+  "description": "获取方式:\n使用理智回复液回复。\n理智药剂，如[理智回复液][应急理智加强剂]等。 特殊样式的理智药剂，如[栗花蜜][海盐冰淇淋][草莓可丽饼]等。 衍质源石，每日最多通过此途径回复理智 10 次，每次回复[理智x40]。\n随时间自然恢复。\n理智未超过上限时，每经过432秒（7分钟12秒）会回复[理智x1]，即每24小时回复[理智x200]。\n完成特定玩法后领取奖励。\n完成协议空间等玩法的战斗后，需要消耗理智领取奖励。\n\n用途:\n使用理智回复液回复。\n理智药剂，如[理智回复液][应急理智加强剂]等。 特殊样式的理智药剂，如[栗花蜜][海盐冰淇淋][草莓可丽饼]等。 衍质源石，每日最多通过此途径回复理智 10 次，每次回复[理智x40]。\n随时间自然恢复。\n理智未超过上限时，每经过432秒（7分钟12秒）会回复[理智x1]，即每24小时回复[理智x200]。\n完成特定玩法后领取奖励。\n完成协议空间等玩法的战斗后，需要消耗理智领取奖励。",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:物品",
+    "rarity:6"
+  ],
+  "source": "终末地百科/物品/id17.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145464",
+    "data": {
+      "item": {
+        "itemId": "17",
+        "document": {
+          "documentMap": {
+            "PFb4G8UU": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "QB7bLN",
+                "1Q3yDS",
+                "g2xcVp",
+                "hVl20E",
+                "WD8KCL",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "1Q3yDS": {
+                  "id": "1Q3yDS",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "1Q3yDS",
+                    "itemIds": [
+                      "oFiZew",
+                      "xiuCKa",
+                      "xj2SB8"
+                    ],
+                    "itemMap": {
+                      "oFiZew": {
+                        "id": "oFiZew",
+                        "childIds": [
+                          "A2nk0q"
+                        ]
+                      },
+                      "xiuCKa": {
+                        "id": "xiuCKa",
+                        "childIds": [
+                          "aUxoez"
+                        ]
+                      },
+                      "xj2SB8": {
+                        "id": "xj2SB8",
+                        "childIds": [
+                          "EvQ2Kn"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "5gX6LD": {
+                  "id": "5gX6LD",
+                  "parentId": "msSP3a",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "理智未超过上限时，每经过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "432秒（7分钟12秒）"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会回复"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "17",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，即每24小时回复"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "17",
+                          "showType": "link-imgText",
+                          "count": "200"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "A2nk0q": {
+                  "id": "A2nk0q",
+                  "parentId": "oFiZew",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "理智药剂"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，如"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "261",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "260",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "等。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "EvQ2Kn": {
+                  "id": "EvQ2Kn",
+                  "parentId": "xj2SB8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "衍质源石"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，每日最多通过此途径回复理智 "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "10 "
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次，每次回复"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "17",
+                          "showType": "link-imgText",
+                          "count": "40"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用理智回复液回复。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WD8KCL": {
+                  "id": "WD8KCL",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WD8KCL",
+                    "itemIds": [
+                      "msSP3a"
+                    ],
+                    "itemMap": {
+                      "msSP3a": {
+                        "id": "msSP3a",
+                        "childIds": [
+                          "5gX6LD"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "aUxoez": {
+                  "id": "aUxoez",
+                  "parentId": "xiuCKa",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "特殊样式的理智药剂"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，如"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "331",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "258",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "257",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "等。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "g2xcVp": {
+                  "id": "g2xcVp",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "hVl20E": {
+                  "id": "hVl20E",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "随时间自然恢复。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "a5nZWEmj": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "VLHJm1",
+                "DYgR0r",
+                "r8wSzR",
+                "L9Fa0N",
+                "8l80xL",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "8l80xL": {
+                  "id": "8l80xL",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "8l80xL",
+                    "itemIds": [
+                      "ugE7U2"
+                    ],
+                    "itemMap": {
+                      "ugE7U2": {
+                        "id": "ugE7U2",
+                        "childIds": [
+                          "gQcGCT"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "DYgR0r": {
+                  "id": "DYgR0r",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "DYgR0r",
+                    "itemIds": [
+                      "NKI7TU"
+                    ],
+                    "itemMap": {
+                      "NKI7TU": {
+                        "id": "NKI7TU",
+                        "childIds": [
+                          "NGlFT1"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "L9Fa0N": {
+                  "id": "L9Fa0N",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "用于获取特定物品。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "NGlFT1": {
+                  "id": "NGlFT1",
+                  "parentId": "NKI7TU",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "完成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议空间"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "等玩法的战斗后，需要消耗理智领取奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "VLHJm1": {
+                  "id": "VLHJm1",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "完成特定玩法后领取奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gQcGCT": {
+                  "id": "gQcGCT",
+                  "parentId": "ugE7U2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在贵重品库中消耗"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "259",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "17",
+                          "showType": "link-imgText",
+                          "count": "120"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，可以获取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "385",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "r8wSzR": {
+                  "id": "r8wSzR",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "JRRTRIUi",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "BrfRWXDB",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "BrfRWXDB": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "a5nZWEmj",
+                  "audioList": []
+                }
+              }
+            },
+            "JRRTRIUi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "PFb4G8UU",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "理智",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "6",
+          "name": "物品",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 7,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10253",
+              "children": [
+                {
+                  "id": "10261",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10260",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10263",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10257",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10259",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10313",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10254",
+              "children": [
+                {
+                  "id": "10320",
+                  "children": [],
+                  "name": "自然资源",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10255",
+                  "children": [],
+                  "name": "采集材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10332",
+                  "children": [],
+                  "name": "珍贵材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10318",
+                  "children": [],
+                  "name": "工业产物",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10317",
+                  "children": [],
+                  "name": "可用道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10316",
+                  "children": [],
+                  "name": "功能道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10256",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/07/3048259/a0b3d2d1310785ad669be22e04ea4ecb.png",
+          "name": "理智",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe",
+              "78IvM7",
+              "2fzc42"
+            ],
+            "blockMap": {
+              "2fzc42": {
+                "id": "2fzc42",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "■■■■。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "78IvM7": {
+                "id": "78IvM7",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "■■■■■■■，■■■■■■。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "■■■■■。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "用以维持自我的必要概念，支撑着各类行动的策划与执行。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10253",
+              "value": "10313"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1765462680",
+        "lastAuditPassedAt": "1770376798",
+        "tagIds": [
+          "10006",
+          "10313"
+        ]
+      }
+    }
+  }
+}

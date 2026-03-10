@@ -1,0 +1,38 @@
+{
+  "runtimeProxy": {
+    "baseUrl": "https://end-api.shallow.ink",
+    "imagePath": "/api/proxy/image",
+    "urlTemplate": "",
+    "domains": ["bbs.hycdn.cn", "ak.hycdn.cn", "web.hycdn.cn"]
+  },
+  "downloadProxy": {
+    "baseUrl": "http://127.0.0.1:12345",
+    "imagePath": "/api/proxy/image",
+    "urlTemplate": "http://127.0.0.1:12345/api/proxy/image?url={url}",
+    "domains": ["bbs.hycdn.cn", "ak.hycdn.cn", "web.hycdn.cn"]
+  },
+  "frontendProxy": {
+    "enabled": true,
+    "urlTemplate": "https://end-api.shallow.ink/api/proxy/image?url={url}",
+    "devUrlTemplate": "http://127.0.0.1:12345/api/proxy/image?url={url}",
+    "domains": ["bbs.hycdn.cn", "ak.hycdn.cn", "web.hycdn.cn"],
+    "tokenQuery": {
+      "enabled": false,
+      "accessTokenStorageKey": "access_token",
+      "anonymousTokenStorageKey": "anonymous_token",
+      "frameworkTokenStorageKey": "framework_token",
+      "accessTokenParam": "access_token",
+      "anonymousTokenParam": "anonymous_token",
+      "frameworkTokenParam": "framework_token",
+      "anonymousTokenEndpoint": "",
+      "anonymousTokenMethod": "GET",
+      "anonymousTokenHeaders": {},
+      "anonymousTokenRequestBody": {},
+      "anonymousTokenResponsePath": "data.token"
+    }
+  },
+  "accessToken": "",
+  "anonymousToken": "",
+  "frameworkToken": "",
+  "headers": {}
+}

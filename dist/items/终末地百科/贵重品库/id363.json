@@ -1,0 +1,983 @@
+{
+  "key": {
+    "id": "skland.wiki.item_363"
+  },
+  "name": "基础寻访凭证",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/15/203953/6608243980b8d5562347d2995add3be0.png",
+  "description": "获取方式:\n采购中心-组合包中购买特定组合包。\n采购中心出售的人事支援组合包（￥98）包含[基础寻访凭证x10]。\n地区建设获取。\n升级各地区物资调度终端后，物资调度-稳定需求物资会补充物资[基础寻访凭证x1]，售价为50000对应区域的调度券。 各地区地区建设等级提高时，每个等级的里程碑奖励均包含[基础寻访凭证]，参见词条：[武陵地区建设值][谷地地区建设值]。\n特定任务报酬。\n完成以下每个紧要任务后的报酬中均各包含[基础寻访凭证x3]：[跨过寰宇深处·一][跨过寰宇深处·二][跨过寰宇深处·三][跨过寰宇深处·四]。\n\n用途:\n进行干员寻访。\n基础寻访凭证只能在基础寻访中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:6"
+  ],
+  "source": "终末地百科/贵重品库/id363.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145472",
+    "data": {
+      "item": {
+        "itemId": "363",
+        "document": {
+          "documentMap": {
+            "D7qRQVa8": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "SJ6RBH",
+                "L0WJHE",
+                "tN8g4R",
+                "o0vK9Q",
+                "nWJcEb",
+                "MkyuH4",
+                "XOyJqA",
+                "dlfMtm",
+                "CDKMGb",
+                "MxNZzi",
+                "7P09Qx",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "1DKVk0": {
+                  "id": "1DKVk0",
+                  "parentId": "344cBw",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "各地区"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区建设等级"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "提高时，每个等级的里程碑奖励均包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "363",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，参见词条："
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1082",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1058",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7P09Qx": {
+                  "id": "7P09Qx",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "7P09Qx",
+                    "itemIds": [
+                      "FiOIf3"
+                    ],
+                    "itemMap": {
+                      "FiOIf3": {
+                        "id": "FiOIf3",
+                        "childIds": [
+                          "yIf6Gx"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "AcGBfi": {
+                  "id": "AcGBfi",
+                  "parentId": "nHL0BR",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "完成以下每个"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "紧要任务"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后的报酬中均各包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "363",
+                          "showType": "link-imgText",
+                          "count": "3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "500",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "644",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "645",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "646",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "CDKMGb": {
+                  "id": "CDKMGb",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "L0WJHE": {
+                  "id": "L0WJHE",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "L0WJHE",
+                    "itemIds": [
+                      "RcnGdF"
+                    ],
+                    "itemMap": {
+                      "RcnGdF": {
+                        "id": "RcnGdF",
+                        "childIds": [
+                          "hI4FZT"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "MkyuH4": {
+                  "id": "MkyuH4",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "MxNZzi": {
+                  "id": "MxNZzi",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "蚀像寻遗活动奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SJ6RBH": {
+                  "id": "SJ6RBH",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "采购中心-组合包中购买特定组合包。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XOyJqA": {
+                  "id": "XOyJqA",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "特定任务报酬。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "dlfMtm": {
+                  "id": "dlfMtm",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "dlfMtm",
+                    "itemIds": [
+                      "nHL0BR"
+                    ],
+                    "itemMap": {
+                      "nHL0BR": {
+                        "id": "nHL0BR",
+                        "childIds": [
+                          "AcGBfi"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "hI4FZT": {
+                  "id": "hI4FZT",
+                  "parentId": "RcnGdF",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "采购中心出售的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "人事支援组合包"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（￥98）包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "363",
+                          "showType": "link-imgText",
+                          "count": "10"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nWJcEb": {
+                  "id": "nWJcEb",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "nWJcEb",
+                    "itemIds": [
+                      "hEaMDx",
+                      "344cBw"
+                    ],
+                    "itemMap": {
+                      "344cBw": {
+                        "id": "344cBw",
+                        "childIds": [
+                          "1DKVk0"
+                        ]
+                      },
+                      "hEaMDx": {
+                        "id": "hEaMDx",
+                        "childIds": [
+                          "yX2WIb"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "o0vK9Q": {
+                  "id": "o0vK9Q",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区建设获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "tN8g4R": {
+                  "id": "tN8g4R",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "yIf6Gx": {
+                  "id": "yIf6Gx",
+                  "parentId": "FiOIf3",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取一定数量的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1116",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后每次均"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "可获得"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "363",
+                          "showType": "link-imgText",
+                          "count": "2"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "yX2WIb": {
+                  "id": "yX2WIb",
+                  "parentId": "hEaMDx",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "升级各地区"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度-稳定需求物资"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会补充物资"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "363",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，售价为"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "50000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "对应区域的调度券。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "PrkHgX24": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "9frzIp",
+                "aaQvNe",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "9frzIp": {
+                  "id": "9frzIp",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "进行干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "aaQvNe": {
+                  "id": "aaQvNe",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "aaQvNe",
+                    "itemIds": [
+                      "6g5O6X"
+                    ],
+                    "itemMap": {
+                      "6g5O6X": {
+                        "id": "6g5O6X",
+                        "childIds": [
+                          "d71lPc"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "d71lPc": {
+                  "id": "d71lPc",
+                  "parentId": "6g5O6X",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "基础寻访凭证只能在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "基础寻访"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "lNzYFu78",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "Gh72Rpj5",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Gh72Rpj5": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "PrkHgX24",
+                  "audioList": []
+                }
+              }
+            },
+            "lNzYFu78": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "D7qRQVa8",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "基础寻访凭证",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/15/203953/6608243980b8d5562347d2995add3be0.png",
+          "name": "基础寻访凭证",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "终末地工业在塔卫二上有着广阔的人脉与资源。每当终末地人力资源事务部准备挖掘某个领域的人才时，总会有人闻讯而来。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "终末地工业内部凭证，可用于在「基础寻访」中寻访1次。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10324"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10328"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1766895896",
+        "lastAuditPassedAt": "1772369365",
+        "tagIds": [
+          "10006",
+          "10324",
+          "10328"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1743 @@
+{
+  "key": {
+    "id": "skland.wiki.item_133"
+  },
+  "name": "硬启动",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/11/402818/1bb2b87bc26d1892f2a6c2d5b2a7b75e.png",
+  "description": "用途:\n地点 | 前置任务 | 后续任务\n北极点 【远征尽头】 | / | 进程：复苏\n进程\n·跨越前方阻碍·追上往事·使用滑索通过峡谷  ·击败敌人（[大角天使x4]）·继续前进·使用滑索通过峡谷    ·击败敌人（[大角天使x6]）    ·击败敌人（[大角天使x5]）·前往巨塔    ·通过花圃·使用滑索抵达战场·歼灭敌群·追上往事·继续前进·越过英雄的臂膀·进入过去·前往终点·击败埃尔埃格尼斯·唤醒生命",
+  "tags": [
+    "main:终末地百科",
+    "sub:任务"
+  ],
+  "source": "终末地百科/任务/id133.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145467",
+    "data": {
+      "item": {
+        "itemId": "133",
+        "document": {
+          "documentMap": {
+            "5ACjfB9K": {
+              "id": "document-id",
+              "blockIds": [
+                "qPEpte"
+              ],
+              "blockMap": {
+                "Svc7p2": {
+                  "id": "Svc7p2",
+                  "parentId": "rLOyA6_LaIeOx",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "下一章"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "a3cSap": {
+                  "id": "a3cSap",
+                  "parentId": "rR21cX_Z7Ucfc",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qPEpte": {
+                  "id": "qPEpte",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "qPEpte",
+                    "rowIds": [
+                      "rLOyA6",
+                      "rR21cX"
+                    ],
+                    "columnIds": [
+                      "Z7Ucfc",
+                      "LaIeOx"
+                    ],
+                    "rowMap": {
+                      "rLOyA6": {
+                        "id": "rLOyA6"
+                      },
+                      "rR21cX": {
+                        "id": "rR21cX"
+                      }
+                    },
+                    "columnMap": {
+                      "LaIeOx": {
+                        "id": "LaIeOx",
+                        "width": 580
+                      },
+                      "Z7Ucfc": {
+                        "id": "Z7Ucfc",
+                        "width": 580
+                      }
+                    },
+                    "cellMap": {
+                      "rLOyA6_LaIeOx": {
+                        "id": "rLOyA6_LaIeOx",
+                        "childIds": [
+                          "Svc7p2"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "rLOyA6_Z7Ucfc": {
+                        "id": "rLOyA6_Z7Ucfc",
+                        "childIds": [
+                          "uuvl5e"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "rR21cX_LaIeOx": {
+                        "id": "rR21cX_LaIeOx",
+                        "childIds": [
+                          "yEbuQg"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "rR21cX_Z7Ucfc": {
+                        "id": "rR21cX_Z7Ucfc",
+                        "childIds": [
+                          "a3cSap"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "uuvl5e": {
+                  "id": "uuvl5e",
+                  "parentId": "rLOyA6_Z7Ucfc",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "上一章"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "yEbuQg": {
+                  "id": "yEbuQg",
+                  "parentId": "rR21cX_LaIeOx",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "第一章 - 进程Ⅰ "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "碎裂大地"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "R1NAxaGc": {
+              "id": "document-id",
+              "blockIds": [
+                "SMbwSJryg2KF",
+                "0XkwQZiLH5Gu"
+              ],
+              "blockMap": {
+                "0XkwQZiLH5Gu": {
+                  "id": "0XkwQZiLH5Gu",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "0XkwQZiLH5Gu",
+                    "rowIds": [
+                      "t4wy8K",
+                      "GUMTat"
+                    ],
+                    "columnIds": [
+                      "ovEAAu"
+                    ],
+                    "rowMap": {
+                      "GUMTat": {
+                        "id": "GUMTat"
+                      },
+                      "t4wy8K": {
+                        "id": "t4wy8K"
+                      }
+                    },
+                    "columnMap": {
+                      "ovEAAu": {
+                        "id": "ovEAAu",
+                        "width": 1160
+                      }
+                    },
+                    "cellMap": {
+                      "GUMTat_ovEAAu": {
+                        "id": "GUMTat_ovEAAu",
+                        "childIds": [
+                          "zecTF7TfdsWc",
+                          "grEQpaI2iGsp"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "t4wy8K_ovEAAu": {
+                        "id": "t4wy8K_ovEAAu",
+                        "childIds": [
+                          "CQBF220IJNTm"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "CQBF220IJNTm": {
+                  "id": "CQBF220IJNTm",
+                  "parentId": "t4wy8K_ovEAAu",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "进程"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GBpHiTuDDw0T": {
+                  "id": "GBpHiTuDDw0T",
+                  "parentId": "rNkGQ8_afNHOR",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "基地解围"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QsRCwkt2U64y": {
+                  "id": "QsRCwkt2U64y",
+                  "parentId": "JgQeMe_zqJ4HR",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "地点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RLEqSQrsNhPS": {
+                  "id": "RLEqSQrsNhPS",
+                  "parentId": "JgQeMe_L6DHZk",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "前置任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SMbwSJryg2KF": {
+                  "id": "SMbwSJryg2KF",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "SMbwSJryg2KF",
+                    "rowIds": [
+                      "JgQeMe",
+                      "rNkGQ8"
+                    ],
+                    "columnIds": [
+                      "zqJ4HR",
+                      "L6DHZk",
+                      "afNHOR"
+                    ],
+                    "rowMap": {
+                      "JgQeMe": {
+                        "id": "JgQeMe"
+                      },
+                      "rNkGQ8": {
+                        "id": "rNkGQ8"
+                      }
+                    },
+                    "columnMap": {
+                      "L6DHZk": {
+                        "id": "L6DHZk",
+                        "width": 386.6666666666667
+                      },
+                      "afNHOR": {
+                        "id": "afNHOR",
+                        "width": 386.6666666666667
+                      },
+                      "zqJ4HR": {
+                        "id": "zqJ4HR",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "JgQeMe_L6DHZk": {
+                        "id": "JgQeMe_L6DHZk",
+                        "childIds": [
+                          "RLEqSQrsNhPS"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "JgQeMe_afNHOR": {
+                        "id": "JgQeMe_afNHOR",
+                        "childIds": [
+                          "TdTzW5gPHUpR"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "JgQeMe_zqJ4HR": {
+                        "id": "JgQeMe_zqJ4HR",
+                        "childIds": [
+                          "QsRCwkt2U64y"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "rNkGQ8_L6DHZk": {
+                        "id": "rNkGQ8_L6DHZk",
+                        "childIds": [
+                          "etAh2YlxElkI"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "rNkGQ8_afNHOR": {
+                        "id": "rNkGQ8_afNHOR",
+                        "childIds": [
+                          "GBpHiTuDDw0T"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "rNkGQ8_zqJ4HR": {
+                        "id": "rNkGQ8_zqJ4HR",
+                        "childIds": [
+                          "vA9WH6iFlOGA"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "TdTzW5gPHUpR": {
+                  "id": "TdTzW5gPHUpR",
+                  "parentId": "JgQeMe_afNHOR",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "后续任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "etAh2YlxElkI": {
+                  "id": "etAh2YlxElkI",
+                  "parentId": "rNkGQ8_L6DHZk",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "进程：冷启动"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "grEQpaI2iGsp": {
+                  "id": "grEQpaI2iGsp",
+                  "parentId": "GUMTat_ovEAAu",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "跟随佩丽卡前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "舰桥"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vA9WH6iFlOGA": {
+                  "id": "vA9WH6iFlOGA",
+                  "parentId": "rNkGQ8_zqJ4HR",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "O.M.V帝江号"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zecTF7TfdsWc": {
+                  "id": "zecTF7TfdsWc",
+                  "parentId": "GUMTat_ovEAAu",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "为了重新了解关于自己的一切，醒来的管理员决定跟随佩丽卡四处转转。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "URNiDQaT": {
+              "id": "document-id",
+              "blockIds": [
+                "YHQlKoJ64iiz",
+                "qqVBUQ18uwN6"
+              ],
+              "blockMap": {
+                "0VfL7a5KpCZL": {
+                  "id": "0VfL7a5KpCZL",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·追上"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "往事"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "0nUSw2Egf817": {
+                  "id": "0nUSw2Egf817",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·继续前进"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "3uOhlV7dgLY7": {
+                  "id": "3uOhlV7dgLY7",
+                  "parentId": "YUaOs1_TIwNIq",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "前置任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "4eWKkXxnverb": {
+                  "id": "4eWKkXxnverb",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "    ·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "击败"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1",
+                          "showType": "link-imgText",
+                          "count": "6"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "4ykAhqS3NBrb": {
+                  "id": "4ykAhqS3NBrb",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·继续前进"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "62pwZ9Ay9pa9": {
+                  "id": "62pwZ9Ay9pa9",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·跨越前方"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "阻碍"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8F2jpYb3eBUD": {
+                  "id": "8F2jpYb3eBUD",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "    "
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JEmXAzF0ZsAm": {
+                  "id": "JEmXAzF0ZsAm",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "滑索"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "通过峡谷"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "KyA9EyNTceTH": {
+                  "id": "KyA9EyNTceTH",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "终点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "MlaaKRIatHfz": {
+                  "id": "MlaaKRIatHfz",
+                  "parentId": "YUaOs1_xMTI1H",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "地点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PFGFVA8KjEku": {
+                  "id": "PFGFVA8KjEku",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·进入"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "过去"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RJ5XtVTGbOyE": {
+                  "id": "RJ5XtVTGbOyE",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "  ·击败"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1",
+                          "showType": "link-imgText",
+                          "count": "4"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Sienyq1hjP8L": {
+                  "id": "Sienyq1hjP8L",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·追上"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "往事"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "YHQlKoJ64iiz": {
+                  "id": "YHQlKoJ64iiz",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "YHQlKoJ64iiz",
+                    "rowIds": [
+                      "YUaOs1",
+                      "HerkUg"
+                    ],
+                    "columnIds": [
+                      "xMTI1H",
+                      "TIwNIq",
+                      "9FGodv"
+                    ],
+                    "rowMap": {
+                      "HerkUg": {
+                        "id": "HerkUg"
+                      },
+                      "YUaOs1": {
+                        "id": "YUaOs1"
+                      }
+                    },
+                    "columnMap": {
+                      "9FGodv": {
+                        "id": "9FGodv",
+                        "width": 386.6666666666667
+                      },
+                      "TIwNIq": {
+                        "id": "TIwNIq",
+                        "width": 386.6666666666667
+                      },
+                      "xMTI1H": {
+                        "id": "xMTI1H",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "HerkUg_9FGodv": {
+                        "id": "HerkUg_9FGodv",
+                        "childIds": [
+                          "am6wJtGaIeT3"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "HerkUg_TIwNIq": {
+                        "id": "HerkUg_TIwNIq",
+                        "childIds": [
+                          "oNuDvvL4W8Uz"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "HerkUg_xMTI1H": {
+                        "id": "HerkUg_xMTI1H",
+                        "childIds": [
+                          "hy4fXQIQZAtu"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "YUaOs1_9FGodv": {
+                        "id": "YUaOs1_9FGodv",
+                        "childIds": [
+                          "sVUwoZ6sqvCd"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "YUaOs1_TIwNIq": {
+                        "id": "YUaOs1_TIwNIq",
+                        "childIds": [
+                          "3uOhlV7dgLY7"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "YUaOs1_xMTI1H": {
+                        "id": "YUaOs1_xMTI1H",
+                        "childIds": [
+                          "MlaaKRIatHfz"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "Zy1lGc8wbx4F": {
+                  "id": "Zy1lGc8wbx4F",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·越过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "英雄的臂膀"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "am6wJtGaIeT3": {
+                  "id": "am6wJtGaIeT3",
+                  "parentId": "HerkUg_9FGodv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "进程：复苏"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cSrDRJGDDYVl": {
+                  "id": "cSrDRJGDDYVl",
+                  "parentId": "qKLu7j_hcWuyK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "进程"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fijqiHX57g9f": {
+                  "id": "fijqiHX57g9f",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·唤醒"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "生命"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gFy3pu3Sg0Q2": {
+                  "id": "gFy3pu3Sg0Q2",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "滑索"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "通过峡谷"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hy4fXQIQZAtu": {
+                  "id": "hy4fXQIQZAtu",
+                  "parentId": "HerkUg_xMTI1H",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "北极点 【远征尽头】"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lc5lG8S6LDdH": {
+                  "id": "lc5lG8S6LDdH",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "巨塔"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "o3k5NhtU7qJr": {
+                  "id": "o3k5NhtU7qJr",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "滑索"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "抵达战场"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oNuDvvL4W8Uz": {
+                  "id": "oNuDvvL4W8Uz",
+                  "parentId": "HerkUg_TIwNIq",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qqVBUQ18uwN6": {
+                  "id": "qqVBUQ18uwN6",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "qqVBUQ18uwN6",
+                    "rowIds": [
+                      "qKLu7j",
+                      "w85eFt"
+                    ],
+                    "columnIds": [
+                      "hcWuyK"
+                    ],
+                    "rowMap": {
+                      "qKLu7j": {
+                        "id": "qKLu7j"
+                      },
+                      "w85eFt": {
+                        "id": "w85eFt"
+                      }
+                    },
+                    "columnMap": {
+                      "hcWuyK": {
+                        "id": "hcWuyK",
+                        "width": 1160
+                      }
+                    },
+                    "cellMap": {
+                      "qKLu7j_hcWuyK": {
+                        "id": "qKLu7j_hcWuyK",
+                        "childIds": [
+                          "cSrDRJGDDYVl"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "w85eFt_hcWuyK": {
+                        "id": "w85eFt_hcWuyK",
+                        "childIds": [
+                          "62pwZ9Ay9pa9",
+                          "0VfL7a5KpCZL",
+                          "JEmXAzF0ZsAm",
+                          "RJ5XtVTGbOyE",
+                          "4ykAhqS3NBrb",
+                          "gFy3pu3Sg0Q2",
+                          "4eWKkXxnverb",
+                          "uai0Ozqf2SGY",
+                          "lc5lG8S6LDdH",
+                          "8F2jpYb3eBUD",
+                          "uya8xQdDozaS",
+                          "o3k5NhtU7qJr",
+                          "sVFHVPlJlZLU",
+                          "Sienyq1hjP8L",
+                          "0nUSw2Egf817",
+                          "Zy1lGc8wbx4F",
+                          "PFGFVA8KjEku",
+                          "KyA9EyNTceTH",
+                          "zDBVybFxnnUM",
+                          "fijqiHX57g9f"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "sVFHVPlJlZLU": {
+                  "id": "sVFHVPlJlZLU",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·歼灭"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "敌群"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "sVUwoZ6sqvCd": {
+                  "id": "sVUwoZ6sqvCd",
+                  "parentId": "YUaOs1_9FGodv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "后续任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uai0Ozqf2SGY": {
+                  "id": "uai0Ozqf2SGY",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "    ·"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "击败"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1",
+                          "showType": "link-imgText",
+                          "count": "5"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uya8xQdDozaS": {
+                  "id": "uya8xQdDozaS",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·通过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "花圃"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zDBVybFxnnUM": {
+                  "id": "zDBVybFxnnUM",
+                  "parentId": "w85eFt_hcWuyK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·击败"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "埃尔埃格尼斯"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "任务信息",
+              "widgets": [
+                {
+                  "id": "DFhs0tQZ",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "任务章节",
+              "widgets": [
+                {
+                  "id": "aG1nlvfs",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "DFhs0tQZ": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "5ACjfB9K",
+                  "audioList": []
+                }
+              }
+            },
+            "aG1nlvfs": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1764406696061",
+                  "title": "进程：冷启动",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1764406713618",
+                  "title": "进程：复苏",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1764406696061": {
+                  "intro": null,
+                  "content": "URNiDQaT",
+                  "audioList": []
+                },
+                "tab_1764406713618": {
+                  "intro": null,
+                  "content": "R1NAxaGc",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "硬启动",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "8",
+          "name": "任务",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 10,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10270",
+              "children": [
+                {
+                  "id": "10272",
+                  "children": [],
+                  "name": "主线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10274",
+                  "children": [],
+                  "name": "探索任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10273",
+                  "children": [],
+                  "name": "支线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10275",
+                  "children": [],
+                  "name": "活动任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10271",
+                  "children": [],
+                  "name": "委托任务",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "任务类型",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10362",
+              "children": [
+                {
+                  "id": "10365",
+                  "children": [],
+                  "name": "紧要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10363",
+                  "children": [],
+                  "name": "重要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10364",
+                  "children": [],
+                  "name": "次要",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "重要程度",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "2260070249320",
+          "nickname": "小丁淘气",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"
+        },
+        "createdUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/bbb11da63be72ec2cbdb4de59393aaab.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/11/402818/1bb2b87bc26d1892f2a6c2d5b2a7b75e.png",
+          "name": "硬启动",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "xLLjow",
+              "5vwEjP"
+            ],
+            "blockMap": {
+              "5vwEjP": {
+                "id": "5vwEjP",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              },
+              "xLLjow": {
+                "id": "xLLjow",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "序章"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10270",
+              "value": "10272"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1768150356",
+        "lastAuditPassedAt": "1770641712",
+        "tagIds": [
+          "10272"
+        ]
+      }
+    }
+  }
+}

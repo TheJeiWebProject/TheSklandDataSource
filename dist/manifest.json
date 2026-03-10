@@ -1,0 +1,37 @@
+{
+  "packId": "skland",
+  "gameId": "skland",
+  "displayName": "Skland Wiki Pack",
+  "version": "2026-03-10",
+  "files": {
+    "items": "items/",
+    "itemsIndex": "itemsIndex.json",
+    "itemsLite": "itemsLite.json",
+    "recipeTypes": "recipeTypes.json",
+    "recipes": "recipes.json"
+  },
+  "planner": {
+    "targetRatePresets": {
+      "halfPerMinute": 3,
+      "fullPerMinute": 6
+    }
+  },
+  "startupDialog": {
+    "id": "skland-data-notice-v1",
+    "title": "重要说明",
+    "message": "请注意：本工具中显示的物品 ID（如 endfield.xxx）仅供本站内部索引与配方关联使用，并非游戏内的真实物品 ID。请勿将其作为游戏内控制台代码或其他修改工具的参考依据。\n\n合成表数据来自Wiki，可能存在错误或与游戏实际不符，请以游戏内数据为准。",
+    "confirmText": "我知道了"
+  },
+  "imageProxy": {
+    "enabled": true,
+    "urlTemplate": "https://end-api.shallow.ink/api/proxy/image?url={url}",
+    "domains": [
+      "bbs.hycdn.cn",
+      "ak.hycdn.cn",
+      "web.hycdn.cn"
+    ],
+    "tokenQuery": {
+      "enabled": false
+    }
+  }
+}

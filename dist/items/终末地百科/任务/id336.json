@@ -1,0 +1,1439 @@
+{
+  "key": {
+    "id": "skland.wiki.item_336"
+  },
+  "name": "据点建设·重建指挥部·其三",
+  "icon": "https://bbs.hycdn.cn/image/common/20260201/856392/697e3a7bdeae33c4ae12bcb4_56331367.png",
+  "description": "用途:\n地点 | 开启条件 | 后续任务\n供能高地 | 完成[据点建设·重建指挥部·其二] | /\n进程\n·提升据点发展值至当前上限·查看克劳发来的消息（BAKER/事务通讯克劳：管理员，我们的大型地质探针很快就要建造完成了。克劳：多亏了终末地的帮助，重建指挥部的所有人都想向你们表示感激。克劳：如果不忙的话，要不要抽空来指挥部一趟？我们只剩下最后的调试工作了。克劳：那两个不争气的小崽子也想见见你们。）\n大型地质探针的建设进入尾声，去看看重建指挥部的工作是否还顺利。·前往重建指挥部·向克劳询问情况\n邓恩和克莱维尔在地质探针的攻坚阶段遇到了麻烦，问问他们发生了什么，帮他们解决问题。·帮助两位学徒处理问题·帮助二人修好勘察单元\n击败被机器震动吸引过来的潜地虬兽。·击败潜地虬兽（[潜地虬兽x1]）\n邓恩和克莱维尔似乎还遇到了其他问题。向二人了解情况，并尝试帮助他们。·帮助二人解决新的问题\n样本仓无法正常使用，而里面放置的错误生物样本也需要替换，邓恩和克莱维尔向管理员请求帮助。·将正确的样本放入样本仓 \n击败被震动吸引过来的潜地虬兽。·击败潜地虬兽（[潜地虬兽x2]）·帮助两位学徒处理问题\n平息种种意外后，大型地质探针的启动计划终于可以推进了。·尝试启动大型地质探针",
+  "tags": [
+    "main:终末地百科",
+    "sub:任务"
+  ],
+  "source": "终末地百科/任务/id336.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145471",
+    "data": {
+      "item": {
+        "itemId": "336",
+        "document": {
+          "documentMap": {
+            "1tcQaetK": {
+              "id": "document-id",
+              "blockIds": [
+                "04TssmZ4R2eh"
+              ],
+              "blockMap": {
+                "04TssmZ4R2eh": {
+                  "id": "04TssmZ4R2eh",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "04TssmZ4R2eh",
+                    "rowIds": [
+                      "XnHExS"
+                    ],
+                    "columnIds": [
+                      "WDWlJB",
+                      "8Tfndg"
+                    ],
+                    "rowMap": {
+                      "XnHExS": {
+                        "id": "XnHExS"
+                      }
+                    },
+                    "columnMap": {
+                      "8Tfndg": {
+                        "id": "8Tfndg",
+                        "width": 580
+                      },
+                      "WDWlJB": {
+                        "id": "WDWlJB",
+                        "width": 580
+                      }
+                    },
+                    "cellMap": {
+                      "XnHExS_8Tfndg": {
+                        "id": "XnHExS_8Tfndg",
+                        "childIds": [
+                          "mWA32oUfJzf2"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "XnHExS_WDWlJB": {
+                        "id": "XnHExS_WDWlJB",
+                        "childIds": [
+                          "QBnD1o74SnlF"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "QBnD1o74SnlF": {
+                  "id": "QBnD1o74SnlF",
+                  "parentId": "XnHExS_WDWlJB",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "card-big",
+                          "count": "50"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mWA32oUfJzf2": {
+                  "id": "mWA32oUfJzf2",
+                  "parentId": "XnHExS_8Tfndg",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "14",
+                          "showType": "card-big",
+                          "count": "200"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "WtG9ccNS": {
+              "id": "document-id",
+              "blockIds": [
+                "DN16kx",
+                "oq1AuW",
+                "GaaML9"
+              ],
+              "blockMap": {
+                "08jTSxU6eqvm": {
+                  "id": "08jTSxU6eqvm",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·提升"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "据点发展值"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "至当前上限"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "220hn63buuAR": {
+                  "id": "220hn63buuAR",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·查看"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "克劳"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "发来的消息"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "2HYqH7yLVM8B": {
+                  "id": "2HYqH7yLVM8B",
+                  "parentId": "6nmmY1_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "平息种种意外后，大型地质探针的启动计划终于可以推进了。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5VENv5": {
+                  "id": "5VENv5",
+                  "parentId": "YTG4BU_5esAwe",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "335",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "6SGDb5vKoXcD": {
+                  "id": "6SGDb5vKoXcD",
+                  "parentId": "Gwx2D9_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "邓恩和克莱维尔似乎还遇到了其他问题。向二人了解情况，并尝试帮助他们。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "78YVWpUltnzO": {
+                  "id": "78YVWpUltnzO",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "克劳："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "管理员，我们的大型地质探针很快就要建造完成了。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DN16kx": {
+                  "id": "DN16kx",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "DN16kx",
+                    "rowIds": [
+                      "oGzhDa",
+                      "YTG4BU"
+                    ],
+                    "columnIds": [
+                      "7FdVFz",
+                      "5esAwe",
+                      "gveGYT"
+                    ],
+                    "rowMap": {
+                      "YTG4BU": {
+                        "id": "YTG4BU"
+                      },
+                      "oGzhDa": {
+                        "id": "oGzhDa"
+                      }
+                    },
+                    "columnMap": {
+                      "5esAwe": {
+                        "id": "5esAwe",
+                        "width": 386.6666666666667
+                      },
+                      "7FdVFz": {
+                        "id": "7FdVFz",
+                        "width": 386.6666666666667
+                      },
+                      "gveGYT": {
+                        "id": "gveGYT",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "YTG4BU_5esAwe": {
+                        "id": "YTG4BU_5esAwe",
+                        "childIds": [
+                          "5VENv5"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "YTG4BU_7FdVFz": {
+                        "id": "YTG4BU_7FdVFz",
+                        "childIds": [
+                          "kV3mbF"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "YTG4BU_gveGYT": {
+                        "id": "YTG4BU_gveGYT",
+                        "childIds": [
+                          "mDgUsp"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "oGzhDa_5esAwe": {
+                        "id": "oGzhDa_5esAwe",
+                        "childIds": [
+                          "kgEDOr"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "oGzhDa_7FdVFz": {
+                        "id": "oGzhDa_7FdVFz",
+                        "childIds": [
+                          "WsFsd8"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "oGzhDa_gveGYT": {
+                        "id": "oGzhDa_gveGYT",
+                        "childIds": [
+                          "LLK0nc"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "EVPxEbEWHEwN": {
+                  "id": "EVPxEbEWHEwN",
+                  "parentId": "6nmmY1_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·尝试启动"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "大型地质探针"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GaaML9": {
+                  "id": "GaaML9",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "GaaML9",
+                    "rowIds": [
+                      "R0Pfzb",
+                      "aoC65N",
+                      "ga5L9u",
+                      "p97FCR",
+                      "tgmNo5",
+                      "Gwx2D9",
+                      "tQsBXL",
+                      "2ZG3MP",
+                      "6nmmY1"
+                    ],
+                    "columnIds": [
+                      "yLhime"
+                    ],
+                    "rowMap": {
+                      "2ZG3MP": {
+                        "id": "2ZG3MP"
+                      },
+                      "6nmmY1": {
+                        "id": "6nmmY1"
+                      },
+                      "Gwx2D9": {
+                        "id": "Gwx2D9"
+                      },
+                      "R0Pfzb": {
+                        "id": "R0Pfzb"
+                      },
+                      "aoC65N": {
+                        "id": "aoC65N"
+                      },
+                      "ga5L9u": {
+                        "id": "ga5L9u"
+                      },
+                      "p97FCR": {
+                        "id": "p97FCR"
+                      },
+                      "tQsBXL": {
+                        "id": "tQsBXL"
+                      },
+                      "tgmNo5": {
+                        "id": "tgmNo5"
+                      }
+                    },
+                    "columnMap": {
+                      "yLhime": {
+                        "id": "yLhime",
+                        "width": 1160
+                      }
+                    },
+                    "cellMap": {
+                      "2ZG3MP_yLhime": {
+                        "id": "2ZG3MP_yLhime",
+                        "childIds": [
+                          "JGmmoEk3fbdn",
+                          "s2GpN84jQApZ",
+                          "weECWfDWWUHx"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "6nmmY1_yLhime": {
+                        "id": "6nmmY1_yLhime",
+                        "childIds": [
+                          "2HYqH7yLVM8B",
+                          "EVPxEbEWHEwN"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Gwx2D9_yLhime": {
+                        "id": "Gwx2D9_yLhime",
+                        "childIds": [
+                          "6SGDb5vKoXcD",
+                          "wQ1Inf586McS"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "R0Pfzb_yLhime": {
+                        "id": "R0Pfzb_yLhime",
+                        "childIds": [
+                          "bw3DRg"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aoC65N_yLhime": {
+                        "id": "aoC65N_yLhime",
+                        "childIds": [
+                          "08jTSxU6eqvm",
+                          "220hn63buuAR",
+                          "rAMZgtJ43MWn",
+                          "78YVWpUltnzO",
+                          "oaWIKOvPZd4d",
+                          "ilX2yuWNAjeZ",
+                          "OXzO2QjsxI67"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ga5L9u_yLhime": {
+                        "id": "ga5L9u_yLhime",
+                        "childIds": [
+                          "evoHOr",
+                          "kFggMBt34ZpH",
+                          "LqDJnBkBRRS9"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "p97FCR_yLhime": {
+                        "id": "p97FCR_yLhime",
+                        "childIds": [
+                          "qz2RYbt73HZA",
+                          "uwfMPfJJeSZl",
+                          "PjwXfGDutznX"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "tQsBXL_yLhime": {
+                        "id": "tQsBXL_yLhime",
+                        "childIds": [
+                          "H98zkJaNgSxv",
+                          "VrRcxf5VQAHq",
+                          "zu10sCmLXv7j"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "tgmNo5_yLhime": {
+                        "id": "tgmNo5_yLhime",
+                        "childIds": [
+                          "Z09WsqcuLWg1",
+                          "MA6hBYzq3RMa"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "H98zkJaNgSxv": {
+                  "id": "H98zkJaNgSxv",
+                  "parentId": "tQsBXL_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "样本仓无法正常使用，而里面放置的错误生物样本也需要替换，邓恩和克莱维尔向管理员请求帮助。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JGmmoEk3fbdn": {
+                  "id": "JGmmoEk3fbdn",
+                  "parentId": "2ZG3MP_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "击败被震动吸引过来的潜地虬兽。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LLK0nc": {
+                  "id": "LLK0nc",
+                  "parentId": "oGzhDa_gveGYT",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "后续任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LqDJnBkBRRS9": {
+                  "id": "LqDJnBkBRRS9",
+                  "parentId": "ga5L9u_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·向克劳询问情况"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "MA6hBYzq3RMa": {
+                  "id": "MA6hBYzq3RMa",
+                  "parentId": "tgmNo5_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·击败"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "潜地虬兽"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "908",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "OXzO2QjsxI67": {
+                  "id": "OXzO2QjsxI67",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "克劳："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "那两个不争气的小崽子也想见见你们。）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PjwXfGDutznX": {
+                  "id": "PjwXfGDutznX",
+                  "parentId": "p97FCR_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·帮助二人修好"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "勘察单元"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VrRcxf5VQAHq": {
+                  "id": "VrRcxf5VQAHq",
+                  "parentId": "tQsBXL_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "WsFsd8": {
+                  "id": "WsFsd8",
+                  "parentId": "oGzhDa_7FdVFz",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "地点"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Z09WsqcuLWg1": {
+                  "id": "Z09WsqcuLWg1",
+                  "parentId": "tgmNo5_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "击败被机器震动吸引过来的潜地虬兽。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bw3DRg": {
+                  "id": "bw3DRg",
+                  "parentId": "R0Pfzb_yLhime",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "进程"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "evoHOr": {
+                  "id": "evoHOr",
+                  "parentId": "ga5L9u_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "大型地质探针的建设进入尾声，去看看重建指挥部的工作是否还顺利。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ilX2yuWNAjeZ": {
+                  "id": "ilX2yuWNAjeZ",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "克劳："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "如果不忙的话，要不要抽空来指挥部一趟？我们只剩下最后的调试工作了。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kFggMBt34ZpH": {
+                  "id": "kFggMBt34ZpH",
+                  "parentId": "ga5L9u_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·前往重建指挥部"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kV3mbF": {
+                  "id": "kV3mbF",
+                  "parentId": "YTG4BU_7FdVFz",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "供能高地"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kgEDOr": {
+                  "id": "kgEDOr",
+                  "parentId": "oGzhDa_5esAwe",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "开启条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mDgUsp": {
+                  "id": "mDgUsp",
+                  "parentId": "YTG4BU_gveGYT",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oaWIKOvPZd4d": {
+                  "id": "oaWIKOvPZd4d",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "克劳："
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "多亏了终末地的帮助，重建指挥部的所有人都想向你们表示感激。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oq1AuW": {
+                  "id": "oq1AuW",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "qz2RYbt73HZA": {
+                  "id": "qz2RYbt73HZA",
+                  "parentId": "p97FCR_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "邓恩和克莱维尔在地质探针的攻坚阶段遇到了麻烦，问问他们发生了什么，帮他们解决问题。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "rAMZgtJ43MWn": {
+                  "id": "rAMZgtJ43MWn",
+                  "parentId": "aoC65N_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "BAKER/事务通讯"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "s2GpN84jQApZ": {
+                  "id": "s2GpN84jQApZ",
+                  "parentId": "2ZG3MP_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·击败"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "潜地虬兽"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "908",
+                          "showType": "link-imgText",
+                          "count": "2"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uwfMPfJJeSZl": {
+                  "id": "uwfMPfJJeSZl",
+                  "parentId": "p97FCR_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·帮助"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "两位学徒"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "处理问题"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wQ1Inf586McS": {
+                  "id": "wQ1Inf586McS",
+                  "parentId": "Gwx2D9_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·帮助"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "二人"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "解决新的问题"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "weECWfDWWUHx": {
+                  "id": "weECWfDWWUHx",
+                  "parentId": "2ZG3MP_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·帮助"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "两位学徒"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "处理问题"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zu10sCmLXv7j": {
+                  "id": "zu10sCmLXv7j",
+                  "parentId": "tQsBXL_yLhime",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "·将"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "正确的样本"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "放入样本仓 "
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "任务信息",
+              "widgets": [
+                {
+                  "id": "imf0VpOS",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "任务奖励",
+              "widgets": [
+                {
+                  "id": "k6XLrVk2",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "imf0VpOS": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "WtG9ccNS",
+                  "audioList": []
+                }
+              }
+            },
+            "k6XLrVk2": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "1tcQaetK",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "据点建设·重建指挥部·其三",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "8",
+          "name": "任务",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 10,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10270",
+              "children": [
+                {
+                  "id": "10272",
+                  "children": [],
+                  "name": "主线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10274",
+                  "children": [],
+                  "name": "探索任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10273",
+                  "children": [],
+                  "name": "支线任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10275",
+                  "children": [],
+                  "name": "活动任务",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10271",
+                  "children": [],
+                  "name": "委托任务",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "任务类型",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10362",
+              "children": [
+                {
+                  "id": "10365",
+                  "children": [],
+                  "name": "紧要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10363",
+                  "children": [],
+                  "name": "重要",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10364",
+                  "children": [],
+                  "name": "次要",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "重要程度",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/bbb11da63be72ec2cbdb4de59393aaab.png"
+        },
+        "createdUser": {
+          "id": "2260070249320",
+          "nickname": "小丁淘气",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260201/856392/697e3a7bdeae33c4ae12bcb4_56331367.png",
+          "name": "据点建设·重建指挥部·其三",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "BqFApb",
+              "5vwEjP"
+            ],
+            "blockMap": {
+              "5vwEjP": {
+                "id": "5vwEjP",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              },
+              "BqFApb": {
+                "id": "BqFApb",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10270",
+              "value": "10274"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1769883122",
+        "lastAuditPassedAt": "1769889345",
+        "tagIds": [
+          "10274"
+        ]
+      }
+    }
+  }
+}

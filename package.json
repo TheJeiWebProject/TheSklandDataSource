@@ -1,0 +1,24 @@
+{
+  "name": "skland-data-source",
+  "version": "1.0.0",
+  "description": "Independent data source generator for Skland Wiki Pack",
+  "type": "module",
+  "scripts": {
+    "proxy": "node src/proxy-server.mjs",
+    "crawl": "node src/crawler.mjs --proxy-endpoint http://localhost:12345/proxy-request",
+    "extract": "node src/extractor.mjs",
+    "build": "tsx src/pack-builder.ts",
+    "pipeline": "node src/run-pipeline.mjs",
+    "all": "npm run pipeline"
+  },
+  "dependencies": {
+    "axios": "^1.7.4",
+    "express": "^4.18.2",
+    "jsdom": "25.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,1127 @@
+{
+  "key": {
+    "id": "skland.wiki.item_21"
+  },
+  "name": "秘方醒神茶",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/20/203953/802da9b5c52f455cbf383060ca4804bc.png",
+  "description": "获取方式:\n特定任务中获取配方。\n在重要任务[据点建设·难民暂居处·其三]中，于谷地通道-临时避难所的卡贾处可以获取秘方醒神茶的配方。获取配方后即可通过简易制作合成秘方醒神茶。\n\n用途:\n干员直接使用时：\n使用后净化法术异常和法术附着，然后立刻恢复10%最大生命值，再恢复504点生命值。\n干员装备为战术物品时：\n队伍中有干员受到法术异常时自动对其使用，单场战斗中最多可使用2次。\n用于仓储节点货物装箱。\n每装箱[秘方醒神茶x1]需要200点货箱容量。",
+  "rarity": {
+    "stars": 3,
+    "label": "3星",
+    "color": "#66bb6a",
+    "token": "rarity_3",
+    "tagId": "10003"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:物品",
+    "rarity:3"
+  ],
+  "source": "终末地百科/物品/id21.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145464",
+    "data": {
+      "item": {
+        "itemId": "21",
+        "document": {
+          "documentMap": {
+            "QIO8WBov": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "m7VnlH",
+                "Jefg56",
+                "IRysK1",
+                "PbU9SV",
+                "r9cDMi",
+                "czI8jF",
+                "VLHJm1",
+                "Vn5hvf",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "91w3Ju": {
+                  "id": "91w3Ju",
+                  "parentId": "kwPhM2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "21",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要200点货箱容量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "IRysK1": {
+                  "id": "IRysK1",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "1"
+                  }
+                },
+                "Jefg56": {
+                  "id": "Jefg56",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Jefg56",
+                    "itemIds": [
+                      "Jkmet8"
+                    ],
+                    "itemMap": {
+                      "Jkmet8": {
+                        "id": "Jkmet8",
+                        "childIds": [
+                          "abLcHQ"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "PbU9SV": {
+                  "id": "PbU9SV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "干员装备为战术物品时："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VLHJm1": {
+                  "id": "VLHJm1",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于仓储节点货物装箱。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Vn5hvf": {
+                  "id": "Vn5hvf",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Vn5hvf",
+                    "itemIds": [
+                      "kwPhM2"
+                    ],
+                    "itemMap": {
+                      "kwPhM2": {
+                        "id": "kwPhM2",
+                        "childIds": [
+                          "91w3Ju"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Y7RSjz": {
+                  "id": "Y7RSjz",
+                  "parentId": "GvubJH",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "队伍中有干员受到"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_rank_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "法术异常"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "时自动对其使用，单场战斗中最多可使用"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "2"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "abLcHQ": {
+                  "id": "abLcHQ",
+                  "parentId": "Jkmet8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用后"
+                        }
+                      },
+                      {
+                        "color": "light_rank_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "净化"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_rank_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "法术异常"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "和"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_rank_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "法术附着"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，然后立刻恢复"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "10%"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "最大生命值，再恢复"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "504"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "点生命值。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "czI8jF": {
+                  "id": "czI8jF",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "m7VnlH": {
+                  "id": "m7VnlH",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "干员直接使用时："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "r9cDMi": {
+                  "id": "r9cDMi",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "r9cDMi",
+                    "itemIds": [
+                      "GvubJH"
+                    ],
+                    "itemMap": {
+                      "GvubJH": {
+                        "id": "GvubJH",
+                        "childIds": [
+                          "Y7RSjz"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "TjjUQezY": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "vFbtrV",
+                "3n7uuh",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "3n7uuh": {
+                  "id": "3n7uuh",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "3n7uuh",
+                    "itemIds": [
+                      "HVohGa"
+                    ],
+                    "itemMap": {
+                      "HVohGa": {
+                        "id": "HVohGa",
+                        "childIds": [
+                          "gGidB6"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "gGidB6": {
+                  "id": "gGidB6",
+                  "parentId": "HVohGa",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "重要任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "366",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中，于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地通道-临时避难所"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "卡贾"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "处可以获取秘方醒神茶的配方。获取配方后即可通过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "简易制作"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "合成秘方醒神茶。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vFbtrV": {
+                  "id": "vFbtrV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特定任务中获取配方。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "hSWMYfKd": {
+              "id": "document-id",
+              "blockIds": [
+                "GJmaYW",
+                "3OsOze"
+              ],
+              "blockMap": {
+                "3OsOze": {
+                  "id": "3OsOze",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "41uK6D": {
+                  "id": "41uK6D",
+                  "parentId": "EMwV9T_UAHBQV",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "精制食药"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5U8VDq": {
+                  "id": "5U8VDq",
+                  "parentId": "zIB5HG_m3Onvo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5vrQ3j": {
+                  "id": "5vrQ3j",
+                  "parentId": "zIB5HG_UAHBQV",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "制作类型"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GJmaYW": {
+                  "id": "GJmaYW",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "GJmaYW",
+                    "rowIds": [
+                      "zIB5HG",
+                      "EMwV9T"
+                    ],
+                    "columnIds": [
+                      "UAHBQV",
+                      "m3Onvo",
+                      "MwWWgq"
+                    ],
+                    "rowMap": {
+                      "EMwV9T": {
+                        "id": "EMwV9T"
+                      },
+                      "zIB5HG": {
+                        "id": "zIB5HG"
+                      }
+                    },
+                    "columnMap": {
+                      "MwWWgq": {
+                        "id": "MwWWgq",
+                        "width": 386.6666666666667
+                      },
+                      "UAHBQV": {
+                        "id": "UAHBQV",
+                        "width": 386.6666666666667
+                      },
+                      "m3Onvo": {
+                        "id": "m3Onvo",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "EMwV9T_MwWWgq": {
+                        "id": "EMwV9T_MwWWgq",
+                        "childIds": [
+                          "i5fEQy"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "EMwV9T_UAHBQV": {
+                        "id": "EMwV9T_UAHBQV",
+                        "childIds": [
+                          "41uK6D"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "EMwV9T_m3Onvo": {
+                        "id": "EMwV9T_m3Onvo",
+                        "childIds": [
+                          "JTHnxn"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zIB5HG_MwWWgq": {
+                        "id": "zIB5HG_MwWWgq",
+                        "childIds": [
+                          "QjWcIG"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zIB5HG_UAHBQV": {
+                        "id": "zIB5HG_UAHBQV",
+                        "childIds": [
+                          "5vrQ3j"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zIB5HG_m3Onvo": {
+                        "id": "zIB5HG_m3Onvo",
+                        "childIds": [
+                          "5U8VDq"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "JTHnxn": {
+                  "id": "JTHnxn",
+                  "parentId": "EMwV9T_m3Onvo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "30",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "380",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "370",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": " "
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QjWcIG": {
+                  "id": "QjWcIG",
+                  "parentId": "zIB5HG_MwWWgq",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "制作产物"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "i5fEQy": {
+                  "id": "i5fEQy",
+                  "parentId": "EMwV9T_MwWWgq",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "21",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "JRRTRIUi",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "BrfRWXDB",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "参与配方",
+              "widgets": [
+                {
+                  "id": "mRBEdn8A",
+                  "title": "简易制作",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "BrfRWXDB": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "QIO8WBov",
+                  "audioList": []
+                }
+              }
+            },
+            "JRRTRIUi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "TjjUQezY",
+                  "audioList": []
+                }
+              }
+            },
+            "mRBEdn8A": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "hSWMYfKd",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "秘方醒神茶",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "6",
+          "name": "物品",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 7,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10253",
+              "children": [
+                {
+                  "id": "10261",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10260",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10263",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10257",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10259",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10313",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10254",
+              "children": [
+                {
+                  "id": "10320",
+                  "children": [],
+                  "name": "自然资源",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10255",
+                  "children": [],
+                  "name": "采集材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10332",
+                  "children": [],
+                  "name": "珍贵材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10318",
+                  "children": [],
+                  "name": "工业产物",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10317",
+                  "children": [],
+                  "name": "可用道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10316",
+                  "children": [],
+                  "name": "功能道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10256",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/20/203953/802da9b5c52f455cbf383060ca4804bc.png",
+          "name": "秘方醒神茶",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "根据卡贾提供的秘方制备的提神饮料，最好不要在白天就喝它。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "使用后可以回复干员生命值的消耗品。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10003"
+            },
+            {
+              "subTypeId": "10253",
+              "value": "10263"
+            },
+            {
+              "subTypeId": "10254",
+              "value": "10317"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1766384703",
+        "lastAuditPassedAt": "1771771466",
+        "tagIds": [
+          "10003",
+          "10263",
+          "10317"
+        ]
+      }
+    }
+  }
+}

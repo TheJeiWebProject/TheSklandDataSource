@@ -1,0 +1,593 @@
+{
+  "key": {
+    "id": "skland.wiki.item_1091"
+  },
+  "name": "自选调用凭证",
+  "icon": "https://bbs.hycdn.cn/image/common/20260227/3048259/69a18e114da9605d665f18fa_f1525633.png",
+  "description": "获取方式:\n邮件获取。\n2026/02/05至2027/02/05期间接收邮件菲奥娜的人事支援并领取附件。\n\n用途:\n在特定范围内调用一位六星干员。\n在贵重品库中使用[自选调用凭证x1]并从以下六星干员中选择一位，可以获得其相应的招募合同。\n[艾尔黛拉][骏卫][别礼][余烬][黎风]",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:6"
+  ],
+  "source": "终末地百科/贵重品库/id1091.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145487",
+    "data": {
+      "item": {
+        "itemId": "1091",
+        "document": {
+          "documentMap": {
+            "Dmf0AfeJ": {
+              "id": "document-id",
+              "blockIds": [
+                "VYvm4xMzKxg4",
+                "lULtlpM4X8GR",
+                "vt9p4PBkzwhf",
+                "E4g1PRbHFK8B",
+                "DoLNflNTkSKu"
+              ],
+              "blockMap": {
+                "DoLNflNTkSKu": {
+                  "id": "DoLNflNTkSKu",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "E4g1PRbHFK8B": {
+                  "id": "E4g1PRbHFK8B",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "11",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "131",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "4",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "24",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "130",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Shh0c9L39sZQ": {
+                  "id": "Shh0c9L39sZQ",
+                  "parentId": "PMQv0kxhAsmB",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在贵重品库中使用"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1091",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并从以下六星干员中选择一位，可以获得其相应的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "招募合同"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VYvm4xMzKxg4": {
+                  "id": "VYvm4xMzKxg4",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "lULtlpM4X8GR": {
+                  "id": "lULtlpM4X8GR",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在特定范围内调用一位六星干员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vt9p4PBkzwhf": {
+                  "id": "vt9p4PBkzwhf",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "vt9p4PBkzwhf",
+                    "itemIds": [
+                      "PMQv0kxhAsmB"
+                    ],
+                    "itemMap": {
+                      "PMQv0kxhAsmB": {
+                        "id": "PMQv0kxhAsmB",
+                        "childIds": [
+                          "Shh0c9L39sZQ"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "q19dpNRV": {
+              "id": "document-id",
+              "blockIds": [
+                "C9nfIfLcZsYG",
+                "Yl4kJlX4GN0y",
+                "cw70JW1RN4JY",
+                "lT5JxBXdskgt"
+              ],
+              "blockMap": {
+                "C9nfIfLcZsYG": {
+                  "id": "C9nfIfLcZsYG",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "W7RRQeMe6D8j": {
+                  "id": "W7RRQeMe6D8j",
+                  "parentId": "2seeDu6NkJfJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "2026/02/05至2027/02/05期间接收邮件"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "菲奥娜的人事支援"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并领取附件。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Yl4kJlX4GN0y": {
+                  "id": "Yl4kJlX4GN0y",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "邮件获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cw70JW1RN4JY": {
+                  "id": "cw70JW1RN4JY",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "cw70JW1RN4JY",
+                    "itemIds": [
+                      "2seeDu6NkJfJ"
+                    ],
+                    "itemMap": {
+                      "2seeDu6NkJfJ": {
+                        "id": "2seeDu6NkJfJ",
+                        "childIds": [
+                          "W7RRQeMe6D8j"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lT5JxBXdskgt": {
+                  "id": "lT5JxBXdskgt",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "B7qSxGEw",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "f5ERKsCN",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "B7qSxGEw": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "q19dpNRV",
+                  "audioList": []
+                }
+              }
+            },
+            "f5ERKsCN": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "Dmf0AfeJ",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "自选调用凭证",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260227/3048259/69a18e114da9605d665f18fa_f1525633.png",
+          "name": "自选调用凭证",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "4wsn9GfKAGof",
+              "zOwkKIqtcJa8"
+            ],
+            "blockMap": {
+              "4wsn9GfKAGof": {
+                "id": "4wsn9GfKAGof",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "使用后可从6星干员艾尔黛拉/骏卫/别礼/余烬/黎风中任选一位干员调用。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "zOwkKIqtcJa8": {
+                "id": "zOwkKIqtcJa8",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "kind": "text",
+                      "text": {
+                        "text": "一张厚重的调用凭证。为了能够支援您，干员们在凭证上签下了自己的名字。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10324"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10328"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1771149772",
+        "lastAuditPassedAt": "1772369344",
+        "tagIds": [
+          "10006",
+          "10324",
+          "10328"
+        ]
+      }
+    }
+  }
+}

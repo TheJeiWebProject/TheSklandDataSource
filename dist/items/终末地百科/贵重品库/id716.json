@@ -1,0 +1,771 @@
+{
+  "key": {
+    "id": "skland.wiki.item_716"
+  },
+  "name": "异彩斑斓寻访凭证",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/20/203953/485c4e9d0f260736fa55b67b0512c769.png",
+  "description": "获取方式:\n采购中心-配额兑换所购买。\n特许寻访热烈色彩期间，配额兑换所-集成配额交易会以[集成配额x175]的价格与-60%的折扣（即实际价格为[集成配额x70]）出售[异彩斑斓寻访凭证x1]，存量 5 份。\n特定活动奖励。\n特许寻访热烈色彩期间，参与活动异彩斑斓签到，可以在第1天、第4天与第7天的签到奖励中获得共计[异彩斑斓寻访凭证x5]。\n\n用途:\n进行干员寻访。\n异彩斑斓寻访凭证只能在特许寻访热烈色彩中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。 特许寻访热烈色彩结束时，贵重品库中的异彩斑斓寻访凭证会被自动移除。",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:6"
+  ],
+  "source": "终末地百科/贵重品库/id716.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145479",
+    "data": {
+      "item": {
+        "itemId": "716",
+        "document": {
+          "documentMap": {
+            "IZE0poeT": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "2xMNK5",
+                "oOKq9q",
+                "pvxJaS5p3NaC",
+                "UHA8vwZd1K4s",
+                "yuvyWaT2UeGO",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "2xMNK5": {
+                  "id": "2xMNK5",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "采购中心-配额兑换所购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "UHA8vwZd1K4s": {
+                  "id": "UHA8vwZd1K4s",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特定活动奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "nmjG2M": {
+                  "id": "nmjG2M",
+                  "parentId": "8bcNH8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "热烈色彩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "配额兑换所-集成配额交易"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会以"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "250",
+                          "showType": "link-imgText",
+                          "count": "175"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的价格与"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "-60%"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的折扣（即实际价格为"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "250",
+                          "showType": "link-imgText",
+                          "count": "70"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "）出售"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "716",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，存量 "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "5"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " 份。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oOKq9q": {
+                  "id": "oOKq9q",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "oOKq9q",
+                    "itemIds": [
+                      "8bcNH8"
+                    ],
+                    "itemMap": {
+                      "8bcNH8": {
+                        "id": "8bcNH8",
+                        "childIds": [
+                          "nmjG2M"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "pvxJaS5p3NaC": {
+                  "id": "pvxJaS5p3NaC",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "wtr435vzCKcW": {
+                  "id": "wtr435vzCKcW",
+                  "parentId": "ZJvYc6ikBzse",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "热烈色彩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间，参与活动"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "异彩斑斓签到"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，可以在第1天、第4天与第7天的签到奖励中获得共计"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "716",
+                          "showType": "link-imgText",
+                          "count": "5"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "yuvyWaT2UeGO": {
+                  "id": "yuvyWaT2UeGO",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "yuvyWaT2UeGO",
+                    "itemIds": [
+                      "ZJvYc6ikBzse"
+                    ],
+                    "itemMap": {
+                      "ZJvYc6ikBzse": {
+                        "id": "ZJvYc6ikBzse",
+                        "childIds": [
+                          "wtr435vzCKcW"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "V81xaJaX": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "BUTvWX",
+                "kvcOpG",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "BUTvWX": {
+                  "id": "BUTvWX",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "进行干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "kvcOpG": {
+                  "id": "kvcOpG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "kvcOpG",
+                    "itemIds": [
+                      "61kXOM",
+                      "xXuis0"
+                    ],
+                    "itemMap": {
+                      "61kXOM": {
+                        "id": "61kXOM",
+                        "childIds": [
+                          "q4pHgG"
+                        ]
+                      },
+                      "xXuis0": {
+                        "id": "xXuis0",
+                        "childIds": [
+                          "wQNrVx"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "q4pHgG": {
+                  "id": "q4pHgG",
+                  "parentId": "61kXOM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "异彩斑斓寻访凭证只能在特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "热烈色彩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wQNrVx": {
+                  "id": "wQNrVx",
+                  "parentId": "xXuis0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "热烈色彩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "结束时，贵重品库中的异彩斑斓寻访凭证会被自动移除。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "lNzYFu78",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "Gh72Rpj5",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Gh72Rpj5": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "V81xaJaX",
+                  "audioList": []
+                }
+              }
+            },
+            "lNzYFu78": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "IZE0poeT",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "异彩斑斓寻访凭证",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/20/203953/485c4e9d0f260736fa55b67b0512c769.png",
+          "name": "异彩斑斓寻访凭证",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "9bzHRe",
+              "LXY1iB"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "终末地工业限时凭证，可用于在「热烈色彩」特许寻访中寻访1次。该凭证将在「热烈色彩」特许寻访结束后失效。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "一张特殊的人事凭证，为招选具备某些特殊条件的干员而准备，由于准备紧急，它不可避免地受困于时效性。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10324"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10328"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1766895435",
+        "lastAuditPassedAt": "1772597178",
+        "tagIds": [
+          "10006",
+          "10324",
+          "10328"
+        ]
+      }
+    }
+  }
+}

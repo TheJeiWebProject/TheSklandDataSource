@@ -1,0 +1,1063 @@
+{
+  "key": {
+    "id": "skland.wiki.item_22"
+  },
+  "name": "驮兽粪便",
+  "icon": "https://bbs.hycdn.cn/image/2026/01/08/279234/83a80c130b56275129175fe465ea7bac.png",
+  "description": "获取方式:\n与野外的驮兽交互。\n武陵地图中出现的部分驮兽在靠近时可以进行“拍一拍”，交互后会使驮兽做出特定的回应动作，并产出可拾取的[驮兽粪便x1]。 一天内对已经进行过拍一拍的驮兽再次交互时，不会产出驮兽粪便，同时出现提示：“这只驮兽今天已经被拍过了，让它休息一天吧。”\n\n用途:\n对生长期的田块进行施肥。\n放置田块并对其完成育苗阶段和浇水阶段后会使其进入生长阶段，此时靠近田块可以进行交互以使用肥料。 当[驮兽粪便x1]作为肥料对田块使用时，会使其该次生长周期中获得生长速度加快的效果，并且该次生长周期内不能再对该田块使用肥料。",
+  "rarity": {
+    "stars": 1,
+    "label": "1星",
+    "color": "#9e9e9e",
+    "token": "rarity_1",
+    "tagId": "10001"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:物品",
+    "rarity:1"
+  ],
+  "source": "终末地百科/物品/id22.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145464",
+    "data": {
+      "item": {
+        "itemId": "22",
+        "document": {
+          "documentMap": {
+            "Dhall16B": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "CUX8WO",
+                "cPatx0",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "9Dp1yo": {
+                  "id": "9Dp1yo",
+                  "parentId": "pc1Mun",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "一天内对已经进行过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "拍一拍"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "驮兽"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "再次交互时，不会产出驮兽粪便，同时出现提示：“"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "这只驮兽今天已经被拍过了，让它休息一天吧。"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "”"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "CUX8WO": {
+                  "id": "CUX8WO",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "与野外的驮兽交互。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "c90awA": {
+                  "id": "c90awA",
+                  "parentId": "2R6waw",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "地图中出现的部分"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "驮兽"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在靠近时可以进行“"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "拍一拍"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "”，交互后会使"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "驮兽"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "做出特定的回应动作，并产出可拾取的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "22",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cPatx0": {
+                  "id": "cPatx0",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "cPatx0",
+                    "itemIds": [
+                      "2R6waw",
+                      "pc1Mun"
+                    ],
+                    "itemMap": {
+                      "2R6waw": {
+                        "id": "2R6waw",
+                        "childIds": [
+                          "c90awA"
+                        ]
+                      },
+                      "pc1Mun": {
+                        "id": "pc1Mun",
+                        "childIds": [
+                          "9Dp1yo"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "Zyt9M8O1": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "LXY1iB",
+                "dwmCsN",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "IloDxC": {
+                  "id": "IloDxC",
+                  "parentId": "H55oPU",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "当"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "22",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "作为肥料对田块使用时，会使其该次生长周期中获得生长速度加快的效果，并且该次生长周期内不能再对该田块"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用肥料"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LXY1iB": {
+                  "id": "LXY1iB",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "对生长期的田块进行施肥。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "dwmCsN": {
+                  "id": "dwmCsN",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "dwmCsN",
+                    "itemIds": [
+                      "BwlFpM",
+                      "H55oPU"
+                    ],
+                    "itemMap": {
+                      "BwlFpM": {
+                        "id": "BwlFpM",
+                        "childIds": [
+                          "iSmf5B"
+                        ]
+                      },
+                      "H55oPU": {
+                        "id": "H55oPU",
+                        "childIds": [
+                          "IloDxC"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "iSmf5B": {
+                  "id": "iSmf5B",
+                  "parentId": "BwlFpM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "放置田块并对其完成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "育苗阶段"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "和"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "浇水阶段"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后会使其进入"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "生长阶段"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，此时靠近田块可以进行交互以"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用肥料"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "eSapEzTi": {
+              "id": "document-id",
+              "blockIds": [
+                "0Un0Pl9NCi9w",
+                "WhxPOlTw0n21"
+              ],
+              "blockMap": {
+                "0Un0Pl9NCi9w": {
+                  "id": "0Un0Pl9NCi9w",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "0Un0Pl9NCi9w",
+                    "rowIds": [
+                      "nfVjM2",
+                      "DGEvCF"
+                    ],
+                    "columnIds": [
+                      "THKBsG",
+                      "LZA6jJ",
+                      "hYCCqm"
+                    ],
+                    "rowMap": {
+                      "DGEvCF": {
+                        "id": "DGEvCF"
+                      },
+                      "nfVjM2": {
+                        "id": "nfVjM2"
+                      }
+                    },
+                    "columnMap": {
+                      "LZA6jJ": {
+                        "id": "LZA6jJ",
+                        "width": 386.6666666666667
+                      },
+                      "THKBsG": {
+                        "id": "THKBsG",
+                        "width": 386.6666666666667
+                      },
+                      "hYCCqm": {
+                        "id": "hYCCqm",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "DGEvCF_LZA6jJ": {
+                        "id": "DGEvCF_LZA6jJ",
+                        "childIds": [
+                          "6R0VZoAzfFiu"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "DGEvCF_THKBsG": {
+                        "id": "DGEvCF_THKBsG",
+                        "childIds": [
+                          "eCe3NEJim8GA"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "DGEvCF_hYCCqm": {
+                        "id": "DGEvCF_hYCCqm",
+                        "childIds": [
+                          "50SkPzctnZLt"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "nfVjM2_LZA6jJ": {
+                        "id": "nfVjM2_LZA6jJ",
+                        "childIds": [
+                          "8OCvYbpmIGpU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "nfVjM2_THKBsG": {
+                        "id": "nfVjM2_THKBsG",
+                        "childIds": [
+                          "e8QiO38Yo5aO"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "nfVjM2_hYCCqm": {
+                        "id": "nfVjM2_hYCCqm",
+                        "childIds": [
+                          "EPAMdStVmb7w"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "50SkPzctnZLt": {
+                  "id": "50SkPzctnZLt",
+                  "parentId": "DGEvCF_hYCCqm",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "558",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "6R0VZoAzfFiu": {
+                  "id": "6R0VZoAzfFiu",
+                  "parentId": "DGEvCF_LZA6jJ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "892",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "22",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8OCvYbpmIGpU": {
+                  "id": "8OCvYbpmIGpU",
+                  "parentId": "nfVjM2_LZA6jJ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "EPAMdStVmb7w": {
+                  "id": "EPAMdStVmb7w",
+                  "parentId": "nfVjM2_hYCCqm",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "合成产物"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WhxPOlTw0n21": {
+                  "id": "WhxPOlTw0n21",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "e8QiO38Yo5aO": {
+                  "id": "e8QiO38Yo5aO",
+                  "parentId": "nfVjM2_THKBsG",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "合成设备"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "eCe3NEJim8GA": {
+                  "id": "eCe3NEJim8GA",
+                  "parentId": "DGEvCF_THKBsG",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "752",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "JRRTRIUi",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "BrfRWXDB",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "参与配方",
+              "widgets": [
+                {
+                  "id": "e8D2Wfry",
+                  "title": "工业合成",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "BrfRWXDB": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "Zyt9M8O1",
+                  "audioList": []
+                }
+              }
+            },
+            "JRRTRIUi": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "Dhall16B",
+                  "audioList": []
+                }
+              }
+            },
+            "e8D2Wfry": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "eSapEzTi",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "驮兽粪便",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "6",
+          "name": "物品",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 7,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10253",
+              "children": [
+                {
+                  "id": "10261",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10260",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10263",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10257",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10259",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10313",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10254",
+              "children": [
+                {
+                  "id": "10320",
+                  "children": [],
+                  "name": "自然资源",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10255",
+                  "children": [],
+                  "name": "采集材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10332",
+                  "children": [],
+                  "name": "珍贵材料",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10318",
+                  "children": [],
+                  "name": "工业产物",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10317",
+                  "children": [],
+                  "name": "可用道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10316",
+                  "children": [],
+                  "name": "功能道具",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10256",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2026/01/08/279234/83a80c130b56275129175fe465ea7bac.png",
+          "name": "驮兽粪便",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe",
+              "3h863J"
+            ],
+            "blockMap": {
+              "3h863J": {
+                "id": "3h863J",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "在野外遇见驮兽时，只要拍一拍，就能收获……一个惊喜。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "驮兽粪便，可以为土壤提供丰富养分。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "驮兽的粪便，可以在生长期的田块施肥时作为肥料，有缩短田块生长期时间的效果。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10001"
+            },
+            {
+              "subTypeId": "10253",
+              "value": "10261"
+            },
+            {
+              "subTypeId": "10254",
+              "value": "10255"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1766384763",
+        "lastAuditPassedAt": "1770376860",
+        "tagIds": [
+          "10001",
+          "10261",
+          "10255"
+        ]
+      }
+    }
+  }
+}

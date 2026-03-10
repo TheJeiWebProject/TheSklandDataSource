@@ -1,0 +1,1204 @@
+{
+  "key": {
+    "id": "skland.wiki.item_930"
+  },
+  "name": "武库配额",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/25/203953/a7eb9a6cb3b5ef2bae2cd3131a680855.png",
+  "description": "获取方式:\n干员寻访。\n通过干员寻访获得4星干员时，可以获得[武库配额x20]。 通过干员寻访获得5星干员时，可以获得[武库配额x200]。 通过干员寻访获得6星干员时，可以获得[武库配额x2000].\n协议通行证等级奖励。\n购买通行证申请·协议后，通过协议通行证等级奖励可以获得最多[武库配额x2400]。\n采购中心购买。\n信用交易所中有概率出售武库配额。 采购中心以下组合包的内容中包含武库配额： 启程组合包全面人才组合包（￥128）包含[武库配额x2000]。 限时组合包协议源流组合包（￥198）包含[武库配额x2000]。 武库组合包特惠武库配额包（￥88）、优惠武库配额包（￥108）、标准武库配额包（￥128）各包含[武库配额x2000]。\n\n用途:\n用于武器申领或购买特定武器。\n武库交易所中花费武库配额获取武器的方式有两种： 进行武器申领，每次消耗[武库配额x1980]，获得 10 把随机武器，具体概率视不同类型的申领而定。 直接购买特定武器，4星武器售价为[武库配额x20]，5星武器售价为[武库配额x400]，6星武器售价为[武库配额x2480]。",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:6"
+  ],
+  "source": "终末地百科/贵重品库/id930.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1773145483",
+    "data": {
+      "item": {
+        "itemId": "930",
+        "document": {
+          "documentMap": {
+            "JqlgjSe0": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "FVkn53",
+                "Dd55mo",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "Dd55mo": {
+                  "id": "Dd55mo",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Dd55mo",
+                    "itemIds": [
+                      "cDu0KK"
+                    ],
+                    "itemMap": {
+                      "cDu0KK": {
+                        "id": "cDu0KK",
+                        "childIds": [
+                          "hIBSVC",
+                          "nltOYz"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "FVkn53": {
+                  "id": "FVkn53",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于武器申领或购买特定武器。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "fChbZR": {
+                  "id": "fChbZR",
+                  "parentId": "9e0jOT",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "直接购买特定武器，4星武器售价为"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，5星武器售价为"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "400"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，6星武器售价为"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "2480"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hIBSVC": {
+                  "id": "hIBSVC",
+                  "parentId": "cDu0KK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武库交易所"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中花费武库配额获取武器的方式有两种："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nltOYz": {
+                  "id": "nltOYz",
+                  "parentId": "cDu0KK",
+                  "kind": "list",
+                  "list": {
+                    "id": "nltOYz",
+                    "itemIds": [
+                      "hAiszn",
+                      "9e0jOT"
+                    ],
+                    "itemMap": {
+                      "9e0jOT": {
+                        "id": "9e0jOT",
+                        "childIds": [
+                          "fChbZR"
+                        ]
+                      },
+                      "hAiszn": {
+                        "id": "hAiszn",
+                        "childIds": [
+                          "sPw4F0"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "sPw4F0": {
+                  "id": "sPw4F0",
+                  "parentId": "hAiszn",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "进行"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武器申领"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，每次消耗"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "1980"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，获得 "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "10"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " 把随机武器，具体概率视不同类型的申领而定。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "e1TI9g7v": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "QB7bLN",
+                "2nHcjG",
+                "g2xcVp",
+                "WaSlpD",
+                "LXn0UP",
+                "TsRmcO",
+                "VNI1YF",
+                "cX2TkC",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "2nHcjG": {
+                  "id": "2nHcjG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2nHcjG",
+                    "itemIds": [
+                      "ZQeKqJ",
+                      "1C4KUi",
+                      "lMxjom"
+                    ],
+                    "itemMap": {
+                      "1C4KUi": {
+                        "id": "1C4KUi",
+                        "childIds": [
+                          "BoYoU6"
+                        ]
+                      },
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "zGKMUB"
+                        ]
+                      },
+                      "lMxjom": {
+                        "id": "lMxjom",
+                        "childIds": [
+                          "R3E8op"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "5LZs1x": {
+                  "id": "5LZs1x",
+                  "parentId": "R5u0ID",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "采购中心以下"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "组合包"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的内容中包含"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武库配额"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "BoYoU6": {
+                  "id": "BoYoU6",
+                  "parentId": "1C4KUi",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过干员寻访获得5星干员时，可以获得"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "200"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FlafrH": {
+                  "id": "FlafrH",
+                  "parentId": "ixZMrV",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "购买"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通行证申请·协议"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后，通过协议通行证等级奖励可以获得最多"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "2400"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "J7hi58": {
+                  "id": "J7hi58",
+                  "parentId": "DJPQtb",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "信用交易所"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "中有概率出售"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "武库配额"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LXn0UP": {
+                  "id": "LXn0UP",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "LXn0UP",
+                    "itemIds": [
+                      "ixZMrV"
+                    ],
+                    "itemMap": {
+                      "ixZMrV": {
+                        "id": "ixZMrV",
+                        "childIds": [
+                          "FlafrH"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "R3E8op": {
+                  "id": "R3E8op",
+                  "parentId": "lMxjom",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过干员寻访获得6星干员时，可以获得"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "2000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "."
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "TsRmcO": {
+                  "id": "TsRmcO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "VNI1YF": {
+                  "id": "VNI1YF",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "采购中心购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WaSlpD": {
+                  "id": "WaSlpD",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证等级奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cX2TkC": {
+                  "id": "cX2TkC",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "cX2TkC",
+                    "itemIds": [
+                      "DJPQtb",
+                      "R5u0ID"
+                    ],
+                    "itemMap": {
+                      "DJPQtb": {
+                        "id": "DJPQtb",
+                        "childIds": [
+                          "J7hi58"
+                        ]
+                      },
+                      "R5u0ID": {
+                        "id": "R5u0ID",
+                        "childIds": [
+                          "5LZs1x",
+                          "mY2SfM"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "g2xcVp": {
+                  "id": "g2xcVp",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "kaI5j4": {
+                  "id": "kaI5j4",
+                  "parentId": "vWdAOw",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "限时组合包"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议源流组合包"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（￥198）包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "2000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mY2SfM": {
+                  "id": "mY2SfM",
+                  "parentId": "R5u0ID",
+                  "kind": "list",
+                  "list": {
+                    "id": "mY2SfM",
+                    "itemIds": [
+                      "CRV9dc",
+                      "vWdAOw",
+                      "I9ZPjS"
+                    ],
+                    "itemMap": {
+                      "CRV9dc": {
+                        "id": "CRV9dc",
+                        "childIds": [
+                          "wYzMVf"
+                        ]
+                      },
+                      "I9ZPjS": {
+                        "id": "I9ZPjS",
+                        "childIds": [
+                          "urp9D2"
+                        ]
+                      },
+                      "vWdAOw": {
+                        "id": "vWdAOw",
+                        "childIds": [
+                          "kaI5j4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "urp9D2": {
+                  "id": "urp9D2",
+                  "parentId": "I9ZPjS",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武库组合包"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "特惠武库配额包"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（￥88）、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "优惠武库配额包"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（￥108）、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "标准武库配额包"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（￥128）各包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "2000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wYzMVf": {
+                  "id": "wYzMVf",
+                  "parentId": "CRV9dc",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "启程组合包"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "全面人才组合包"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（￥128）包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "2000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zGKMUB": {
+                  "id": "zGKMUB",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过干员寻访获得4星干员时，可以获得"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "930",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "lNzYFu78",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "Gh72Rpj5",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Gh72Rpj5": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "JqlgjSe0",
+                  "audioList": []
+                }
+              }
+            },
+            "lNzYFu78": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "e1TI9g7v",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "武库配额",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/25/203953/a7eb9a6cb3b5ef2bae2cd3131a680855.png",
+          "name": "武库配额",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "“武装到牙齿总不会有坏处。”——肖恩·卡拉德\""
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "武库申领时使用的配额资源，可用于购买武器。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10324"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10328"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1767108902",
+        "lastAuditPassedAt": "1767157828",
+        "tagIds": [
+          "10006",
+          "10324",
+          "10328"
+        ]
+      }
+    }
+  }
+}
