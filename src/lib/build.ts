@@ -37,6 +37,61 @@ function deepClone<T>(value: T): T {
   return JSON.parse(JSON.stringify(value)) as T;
 }
 
+function splitRecipesForLazyDetail(
+  recipes: Array<Record<string, unknown>>,
+  outDirAbs: string,
+): { liteRecipes: Array<Record<string, unknown>>; splitCount: number } {
+  const liteRecipes: Array<Record<string, unknown>> = [];
+  const usedPaths = new Set<string>();
+  let splitCount = 0;
+
+  for (let i = 0; i < recipes.length; i += 1) {
+    const recipe = recipes[i] ?? {};
+    const params = asRecord(recipe.params);
+    const hasHeavyFields =
+      ('wikiDoc' in params)
+      || ('markdown' in params)
+      || ('html' in params)
+      || ('methods' in params);
+    if (!hasHeavyFields) {
+      liteRecipes.push(recipe);
+      continue;
+    }
+    const paramsLite = { ...params };
+    delete paramsLite.wikiDoc;
+    delete paramsLite.markdown;
+    delete paramsLite.html;
+    delete paramsLite.methods;
+
+    const rawId = asString(recipe.id) || `recipe-${i}`;
+    const baseName = sanitizePathSegment(rawId) || `recipe-${i}`;
+    let detailRel = `recipes/details/${baseName}.json`;
+    let suffix = 1;
+    while (usedPaths.has(detailRel)) {
+      detailRel = `recipes/details/${baseName}-${suffix}.json`;
+      suffix += 1;
+    }
+    usedPaths.add(detailRel);
+
+    const detailRecipe: Record<string, unknown> = {
+      ...recipe,
+      params,
+      detailLoaded: true,
+    };
+    writeJson(path.join(outDirAbs, detailRel), detailRecipe);
+
+    liteRecipes.push({
+      ...recipe,
+      params: paramsLite,
+      detailPath: detailRel,
+      detailLoaded: false,
+    });
+    splitCount += 1;
+  }
+
+  return { liteRecipes, splitCount };
+}
+
 interface WikiTagNode {
   id?: string | number;
   name?: string;
@@ -74,7 +129,10 @@ function flattenTagNodes(nodes: WikiTagNode[] | undefined): WikiTagNode[] {
     if (!node || typeof node !== 'object') continue;
     out.push(node);
     const children = Array.isArray(node.children) ? node.children : [];
-    for (let i = children.length - 1; i >= 0; i -= 1) stack.push(children[i]);
+    for (let i = children.length - 1; i >= 0; i -= 1) {
+      const child = children[i];
+      if (child) stack.push(child);
+    }
   }
   return out;
 }
@@ -317,6 +375,10 @@ export async function buildSklandPack(args: BuildArgs, repoRoot: string): Promis
 
   const recipeTypes = postprocessResult.recipeTypes;
   const recipes = postprocessResult.recipes;
+  const { liteRecipes, splitCount: recipeDetailSplitCount } = splitRecipesForLazyDetail(
+    recipes as unknown as Array<Record<string, unknown>>,
+    outDirAbs,
+  );
 
   itemFiles.sort((a, b) => a.localeCompare(b));
   itemsLite.sort((a, b) => String(a.name || '').localeCompare(String(b.name || '')));
@@ -324,7 +386,7 @@ export async function buildSklandPack(args: BuildArgs, repoRoot: string): Promis
   writeJson(path.join(outDirAbs, 'itemsIndex.json'), itemFiles);
   writeJson(path.join(outDirAbs, 'itemsLite.json'), itemsLite);
   writeJson(path.join(outDirAbs, 'recipeTypes.json'), recipeTypes);
-  writeJson(path.join(outDirAbs, 'recipes.json'), recipes);
+  writeJson(path.join(outDirAbs, 'recipes.json'), liteRecipes);
   writeJson(path.join(outDirAbs, 'manifest.json'), {
     packId: args.packId,
     gameId: args.gameId,
@@ -475,6 +537,7 @@ export async function buildSklandPack(args: BuildArgs, repoRoot: string): Promis
   console.log(
     `images: rewritten=${imageHandling.rewriteUrlByOriginal.size}, downloaded=${downloadedImageUrlMap.size}`,
   );
+  console.log(`recipe detail split: ${recipeDetailSplitCount}`);
 
   return summary;
 }
