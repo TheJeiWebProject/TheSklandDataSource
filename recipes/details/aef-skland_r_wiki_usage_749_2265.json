@@ -10,116 +10,53 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方式 / 相关信息",
+    "title": "使用方式 / 面积需求",
     "context": {
       "groupTitle": "使用方式",
-      "widgetTitle": "相关信息",
+      "widgetTitle": "面积需求",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "4zUt73",
-        "IpaTCN",
-        "R5ZVbo",
-        "sgnF9R",
-        "HtVUMc",
-        "hdzQ1c"
+        "xsEBNp",
+        "JrwKWH",
+        "Iv4o2r",
+        "H9KlRF"
       ],
       "blockMap": {
-        "4zUt73": {
-          "id": "4zUt73",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
-          }
-        },
-        "HtVUMc": {
-          "id": "HtVUMc",
+        "H9KlRF": {
+          "id": "H9KlRF",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "息壤中继器"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "不需要电力维持运转。"
-                }
-              }
-            ],
+            "inlineElements": [],
             "kind": "body"
           }
         },
-        "IpaTCN": {
-          "id": "IpaTCN",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "息壤中继器"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "是运输电力的重要连接设备。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "R5ZVbo": {
-          "id": "R5ZVbo",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "电力可通过中继器运输至其他的中继器、供电桩及供电终端，使其接入电网，息壤中继器在放置后会自动连接至附近可连接电力的设备。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "hdzQ1c": {
-          "id": "hdzQ1c",
+        "Iv4o2r": {
+          "id": "Iv4o2r",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "sgnF9R": {
-          "id": "sgnF9R",
+        "JrwKWH": {
+          "id": "JrwKWH",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              },
               {
                 "bold": true,
                 "color": "light_text_primary",
@@ -132,7 +69,7 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "可放置在"
+                  "text": "需要长"
                 }
               },
               {
@@ -140,14 +77,14 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "协议核心"
+                  "text": "3"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "或"
+                  "text": "格、宽"
                 }
               },
               {
@@ -155,18 +92,26 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "次级核心"
+                  "text": "3"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "范围外。"
+                  "text": "格的可用空地。"
                 }
               }
             ],
             "kind": "body"
+          }
+        },
+        "xsEBNp": {
+          "id": "xsEBNp",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
           }
         }
       },

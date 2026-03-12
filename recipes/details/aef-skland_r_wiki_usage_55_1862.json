@@ -10,120 +10,30 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方式 / 相关信息",
+    "title": "使用方式 / 面积需求",
     "context": {
       "groupTitle": "使用方式",
-      "widgetTitle": "相关信息",
+      "widgetTitle": "面积需求",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "1WTlpz",
-        "QVMU9x",
-        "044sIK",
-        "o0yABL",
-        "c2ITB9"
+        "k7oiwY",
+        "XbWEoo",
+        "6vmeiZ"
       ],
       "blockMap": {
-        "044sIK": {
-          "id": "044sIK",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "便携源石矿机"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "可放置在"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "协议核心"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "或"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "次级核心"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "范围外。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "1WTlpz": {
-          "id": "1WTlpz",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
-          }
-        },
-        "QVMU9x": {
-          "id": "QVMU9x",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "便携源石矿机"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "是资源开采类型的机器，可以用于源矿开采。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "c2ITB9": {
-          "id": "c2ITB9",
+        "6vmeiZ": {
+          "id": "6vmeiZ",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "o0yABL": {
-          "id": "o0yABL",
+        "XbWEoo": {
+          "id": "XbWEoo",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
@@ -131,21 +41,34 @@
             "inlineElements": [
               {
                 "bold": true,
-                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
                   "text": "便携源石矿机"
                 }
               },
               {
-                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "不需要电力维持运转。"
+                  "text": "必须放置在可用矿点上"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "。"
                 }
               }
             ],
             "kind": "body"
+          }
+        },
+        "k7oiwY": {
+          "id": "k7oiwY",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
           }
         }
       },

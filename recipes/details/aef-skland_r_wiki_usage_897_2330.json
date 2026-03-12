@@ -1,6 +1,6 @@
 {
   "id": "aef-skland:r/wiki_usage_897/2330",
-  "type": "aef-skland:wiki/usage/list_entry",
+  "type": "aef-skland:wiki/usage/table_entry",
   "slotContents": {
     "in1": {
       "kind": "item",
@@ -10,17 +10,62 @@
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_925",
-      "amount": 20
+      "amount": 16
     },
     "out2": {
       "kind": "item",
-      "id": "aef-skland.wiki.item_15",
-      "amount": 12001
+      "id": "aef-skland.wiki.item_930",
+      "amount": 2400
     },
     "out3": {
       "kind": "item",
-      "id": "aef-skland.wiki.item_929",
+      "id": "aef-skland.wiki.item_19",
+      "amount": 690000
+    },
+    "out4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_248",
+      "amount": 170
+    },
+    "out5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_259",
+      "amount": 10
+    },
+    "out6": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_260",
+      "amount": 7
+    },
+    "out7": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_257",
       "amount": 1
+    },
+    "out8": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_258",
+      "amount": 1
+    },
+    "out9": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_331",
+      "amount": 1
+    },
+    "out10": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_213",
+      "amount": 50
+    },
+    "out11": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_225",
+      "amount": 50
+    },
+    "out12": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_216",
+      "amount": 10
     }
   },
   "params": {
@@ -29,307 +74,546 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "协议通行证",
-      "panelTitle": "概述"
+      "panelTitle": "唤醒"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "Xs9L5Z",
-        "EnKT33",
-        "W6VcnYuHmfZS",
-        "MXbqlgKEGRoI",
-        "Q2PyJPUrSqFW",
-        "pCnuhO"
+        "X3Ch5lFynyYD",
+        "1rc6p4OcYbPT"
       ],
       "blockMap": {
-        "EnKT33": {
-          "id": "EnKT33",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "购买"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "897",
-                  "showType": "link-imgText",
-                  "count": "0"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "后，提高"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_rank_yellow",
-                "kind": "text",
-                "text": {
-                  "text": "协议通行证"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "等级可以获得"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "协议通行证-协议定制"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "档位的额外奖励。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "MXbqlgKEGRoI": {
-          "id": "MXbqlgKEGRoI",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "Q2PyJPUrSqFW": {
-          "id": "Q2PyJPUrSqFW",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "关于公测后各期协议通行证相关奖励的汇总，可以通过该栏的分页查看。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "QKx246AZnYWl": {
-          "id": "QKx246AZnYWl",
-          "parentId": "KB9vOY4srrzS",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "购买"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "897",
-                  "showType": "link-imgText",
-                  "count": "0"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "且协议通行证达到"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "60"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "级后，每次升级将获得循环奖励"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "929",
-                  "showType": "link-imgText",
-                  "count": "1"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "并自动使用。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "W6VcnYuHmfZS": {
-          "id": "W6VcnYuHmfZS",
-          "parentId": "document-id",
-          "kind": "list",
-          "list": {
-            "id": "W6VcnYuHmfZS",
-            "itemIds": [
-              "i8mU5bbDajsS",
-              "KB9vOY4srrzS"
-            ],
-            "itemMap": {
-              "KB9vOY4srrzS": {
-                "id": "KB9vOY4srrzS",
-                "childIds": [
-                  "QKx246AZnYWl"
-                ]
-              },
-              "i8mU5bbDajsS": {
-                "id": "i8mU5bbDajsS",
-                "childIds": [
-                  "xyHHvVCqkHD4"
-                ]
-              }
-            },
-            "kind": "unordered"
-          }
-        },
-        "Xs9L5Z": {
-          "id": "Xs9L5Z",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
-          }
-        },
-        "pCnuhO": {
-          "id": "pCnuhO",
+        "1rc6p4OcYbPT": {
+          "id": "1rc6p4OcYbPT",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "xyHHvVCqkHD4": {
-          "id": "xyHHvVCqkHD4",
-          "parentId": "i8mU5bbDajsS",
-          "align": "left",
+        "33GBGcPIcTea": {
+          "id": "33GBGcPIcTea",
+          "parentId": "IdnR9R_R91glS",
+          "align": "center",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "color": "light_text_primary",
+                "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "购买"
+                  "text": "理智物品"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "7q715hd1UsAe": {
+          "id": "7q715hd1UsAe",
+          "parentId": "SoSNgk_qAExDH",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "254",
+                  "showType": "card-big",
+                  "count": "1"
                 }
               },
               {
                 "kind": "entry",
                 "entry": {
-                  "id": "897",
-                  "showType": "link-imgText",
-                  "count": "0"
+                  "id": "209",
+                  "showType": "card-big",
+                  "count": "2"
                 }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "可以立即获得"
-                }
-              },
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "BVEKMbOJz5ym": {
+          "id": "BVEKMbOJz5ym",
+          "parentId": "SoSNgk_yuXLAr",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
               {
                 "kind": "entry",
                 "entry": {
                   "id": "925",
-                  "showType": "link-imgText",
-                  "count": "20"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "与"
+                  "showType": "card-big",
+                  "count": "16"
                 }
               },
               {
                 "kind": "entry",
                 "entry": {
-                  "id": "15",
-                  "showType": "link-imgText",
-                  "count": "12000"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "，当期协议通行证内获得"
+                  "id": "930",
+                  "showType": "card-big",
+                  "count": "2400"
                 }
               },
               {
                 "kind": "entry",
                 "entry": {
-                  "id": "15",
-                  "showType": "link-imgText",
-                  "count": "0"
+                  "id": "19",
+                  "showType": "card-big",
+                  "count": "690000"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "C2QeMTHBqZeu": {
+          "id": "C2QeMTHBqZeu",
+          "parentId": "SoSNgk_Gk20mG",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "213",
+                  "showType": "card-big",
+                  "count": "50"
                 }
               },
               {
+                "kind": "entry",
+                "entry": {
+                  "id": "225",
+                  "showType": "card-big",
+                  "count": "50"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "216",
+                  "showType": "card-big",
+                  "count": "10"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "SeKveIA6ybxJ": {
+          "id": "SeKveIA6ybxJ",
+          "parentId": "shbv2Q_yuXLAr",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
                 "kind": "text",
                 "text": {
-                  "text": "额外增加"
+                  "text": "版本："
                 }
               },
               {
                 "bold": true,
-                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "3%"
+                  "text": "零号委托"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "X3Ch5lFynyYD": {
+          "id": "X3Ch5lFynyYD",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "X3Ch5lFynyYD",
+            "rowIds": [
+              "shbv2Q",
+              "IdnR9R",
+              "SoSNgk",
+              "d2tL8L"
+            ],
+            "columnIds": [
+              "yuXLAr",
+              "R91glS",
+              "Gk20mG",
+              "qAExDH"
+            ],
+            "rowMap": {
+              "IdnR9R": {
+                "id": "IdnR9R"
+              },
+              "SoSNgk": {
+                "id": "SoSNgk"
+              },
+              "d2tL8L": {
+                "id": "d2tL8L"
+              },
+              "shbv2Q": {
+                "id": "shbv2Q"
+              }
+            },
+            "columnMap": {
+              "Gk20mG": {
+                "id": "Gk20mG",
+                "width": 202
+              },
+              "R91glS": {
+                "id": "R91glS",
+                "width": 321
+              },
+              "qAExDH": {
+                "id": "qAExDH",
+                "width": 447
+              },
+              "yuXLAr": {
+                "id": "yuXLAr",
+                "width": 190
+              }
+            },
+            "cellMap": {
+              "IdnR9R_Gk20mG": {
+                "id": "IdnR9R_Gk20mG",
+                "childIds": [
+                  "usfApIy9rrDU"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IdnR9R_R91glS": {
+                "id": "IdnR9R_R91glS",
+                "childIds": [
+                  "33GBGcPIcTea"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IdnR9R_qAExDH": {
+                "id": "IdnR9R_qAExDH",
+                "childIds": [
+                  "qN3ax8MBDEQe"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IdnR9R_yuXLAr": {
+                "id": "IdnR9R_yuXLAr",
+                "childIds": [
+                  "aprY8uPKmZN5"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "SoSNgk_Gk20mG": {
+                "id": "SoSNgk_Gk20mG",
+                "childIds": [
+                  "C2QeMTHBqZeu"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "SoSNgk_R91glS": {
+                "id": "SoSNgk_R91glS",
+                "childIds": [
+                  "mS6bmET8HkEd"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "SoSNgk_qAExDH": {
+                "id": "SoSNgk_qAExDH",
+                "childIds": [
+                  "yHoJNJ4lZr54",
+                  "7q715hd1UsAe"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "SoSNgk_yuXLAr": {
+                "id": "SoSNgk_yuXLAr",
+                "childIds": [
+                  "BVEKMbOJz5ym"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "d2tL8L_yuXLAr": {
+                "id": "d2tL8L_yuXLAr",
+                "childIds": [
+                  "bhf4GPt2viMq"
+                ],
+                "rowSpan": "1",
+                "colSpan": "4",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "shbv2Q_yuXLAr": {
+                "id": "shbv2Q_yuXLAr",
+                "childIds": [
+                  "SeKveIA6ybxJ"
+                ],
+                "rowSpan": "1",
+                "colSpan": "4",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": true,
+            "colHeader": false
+          }
+        },
+        "aprY8uPKmZN5": {
+          "id": "aprY8uPKmZN5",
+          "parentId": "IdnR9R_yuXLAr",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "货币获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bhf4GPt2viMq": {
+          "id": "bhf4GPt2viMq",
+          "parentId": "d2tL8L_yuXLAr",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "【名片主题·"
                 }
               },
               {
-                "color": "light_text_primary",
+                "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "（可叠加）"
+                  "text": "启程"
                 }
               },
               {
                 "kind": "text",
                 "text": {
-                  "text": "。"
+                  "text": "】【头像·"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "启程"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "】【头像框·"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "启程"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "】"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "mS6bmET8HkEd": {
+          "id": "mS6bmET8HkEd",
+          "parentId": "SoSNgk_R91glS",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "248",
+                  "showType": "card-big",
+                  "count": "170"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "259",
+                  "showType": "card-big",
+                  "count": "10"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "260",
+                  "showType": "card-big",
+                  "count": "7"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "257",
+                  "showType": "card-big",
+                  "count": "1"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "258",
+                  "showType": "card-big",
+                  "count": "1"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "331",
+                  "showType": "card-big",
+                  "count": "1"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "qN3ax8MBDEQe": {
+          "id": "qN3ax8MBDEQe",
+          "parentId": "IdnR9R_qAExDH",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "物资箱"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "usfApIy9rrDU": {
+          "id": "usfApIy9rrDU",
+          "parentId": "IdnR9R_Gk20mG",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "培养材料"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "yHoJNJ4lZr54": {
+          "id": "yHoJNJ4lZr54",
+          "parentId": "SoSNgk_qAExDH",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "290",
+                  "showType": "card-big",
+                  "count": "34"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "251",
+                  "showType": "card-big",
+                  "count": "27"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "253",
+                  "showType": "card-big",
+                  "count": "38"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "252",
+                  "showType": "card-big",
+                  "count": "7"
                 }
               }
             ],
@@ -340,7 +624,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "list_entry"
+    "usagePattern": "table_entry"
   },
   "detailLoaded": true
 }

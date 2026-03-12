@@ -1,0 +1,171 @@
+{
+  "id": "aef-skland:r/wiki_usage_259/1988",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_259",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_17",
+      "amount": 120
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_385",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "FVkn53",
+        "1oPZvH",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "1oPZvH": {
+          "id": "1oPZvH",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "1oPZvH",
+            "itemIds": [
+              "BSG75b"
+            ],
+            "itemMap": {
+              "BSG75b": {
+                "id": "BSG75b",
+                "childIds": [
+                  "QIbncI"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "FVkn53": {
+          "id": "FVkn53",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "获取理智精粹药剂。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QIbncI": {
+          "id": "QIbncI",
+          "parentId": "BSG75b",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "贵重品库-珍贵物品"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中可以使用理智萃取器，使用后消耗"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "259",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "link-imgText",
+                  "count": "120"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，并获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "385",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

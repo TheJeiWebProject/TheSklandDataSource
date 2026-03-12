@@ -10,144 +10,87 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方式 / 相关信息",
+    "title": "使用方式 / 面积需求",
     "context": {
       "groupTitle": "使用方式",
-      "widgetTitle": "相关信息",
+      "widgetTitle": "面积需求",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "1WTlpz",
-        "QVMU9x",
-        "Qv9Snk",
-        "044sIK",
-        "o0yABL",
-        "c2ITB9"
+        "k7oiwY",
+        "XbWEoo",
+        "aFN8fG",
+        "6vmeiZ"
       ],
       "blockMap": {
-        "044sIK": {
-          "id": "044sIK",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "给水器"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "可放置在"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "协议核心"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "或"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "次级核心"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "范围外。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "1WTlpz": {
-          "id": "1WTlpz",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
-          }
-        },
-        "QVMU9x": {
-          "id": "QVMU9x",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "给水器"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "是功能类型的机器，可以用于供给液体。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "Qv9Snk": {
-          "id": "Qv9Snk",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "给水器"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "接入电网后，可以将液体输出到对应的场景内。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "c2ITB9": {
-          "id": "c2ITB9",
+        "6vmeiZ": {
+          "id": "6vmeiZ",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "o0yABL": {
-          "id": "o0yABL",
+        "XbWEoo": {
+          "id": "XbWEoo",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "给水器"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "需要长"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "3"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格、宽"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "3"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格的可用空地。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "aFN8fG": {
+          "id": "aFN8fG",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
@@ -155,36 +98,27 @@
             "inlineElements": [
               {
                 "bold": true,
-                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
                   "text": "给水器"
                 }
               },
               {
-                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "需要电力维持运转，1个"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "给水器"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "耗电功率值为10。"
+                  "text": "只能在湖泊或水池附近建造，且给水器的输水口必须悬于液面上方。"
                 }
               }
             ],
             "kind": "body"
+          }
+        },
+        "k7oiwY": {
+          "id": "k7oiwY",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
           }
         }
       },

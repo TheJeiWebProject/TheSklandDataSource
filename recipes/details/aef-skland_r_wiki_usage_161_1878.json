@@ -10,140 +10,90 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方式 / 相关信息",
+    "title": "使用方式 / 面积需求",
     "context": {
       "groupTitle": "使用方式",
-      "widgetTitle": "相关信息",
+      "widgetTitle": "面积需求",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "fOYMrw",
-        "QVMU9x",
-        "044sIK",
-        "o0yABL",
-        "aaepXV"
+        "zxiNWo",
+        "XbWEoo",
+        "6vmeiZ"
       ],
       "blockMap": {
-        "044sIK": {
-          "id": "044sIK",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "传送带"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "仅能放置在"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "协议核心"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "或"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "次级核心"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "范围内。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "QVMU9x": {
-          "id": "QVMU9x",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "传送带"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "是物流类型的机器，可以用于运输固体。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "aaepXV": {
-          "id": "aaepXV",
+        "6vmeiZ": {
+          "id": "6vmeiZ",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
-            "kind": "3"
+            "kind": "2"
           }
         },
-        "fOYMrw": {
-          "id": "fOYMrw",
+        "XbWEoo": {
+          "id": "XbWEoo",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "传送带"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "需要长"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格、宽"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格的可用空地。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "zxiNWo": {
+          "id": "zxiNWo",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "5"
-          }
-        },
-        "o0yABL": {
-          "id": "o0yABL",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "传送带"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "不消耗电力。"
-                }
-              }
-            ],
-            "kind": "body"
           }
         }
       },
