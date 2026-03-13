@@ -7,6 +7,11 @@
       "id": "aef-skland.wiki.item_158",
       "amount": 1
     },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1130",
+      "amount": 1
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_1056",
@@ -135,22 +140,22 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "入口的大门前与 "
+                  "text": "入口的大门前与"
                 }
               },
               {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "汤汤"
+                "kind": "entry",
+                "entry": {
+                  "id": "1130",
+                  "showType": "link-imgText",
+                  "count": "0"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": " 对话后获取。"
+                  "text": "对话后获取。"
                 }
               }
             ],

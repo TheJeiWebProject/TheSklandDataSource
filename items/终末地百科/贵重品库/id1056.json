@@ -4,7 +4,7 @@
   },
   "name": "“汤汤券”",
   "icon": "https://bbs.hycdn.cn/image/common/20260216/203953/6992bfd409128d45e0659459_3eac6ad0.png",
-  "description": "获取方式:\n冒险探索获取。\n紧要任务[迷津]前往武陵城中，在景玉谷-踩道入口的大门前与 汤汤 对话后获取。",
+  "description": "获取方式:\n冒险探索获取。\n紧要任务[迷津]前往武陵城中，在景玉谷-踩道入口的大门前与[汤汤]对话后获取。\n\n用途:\n用于推进任务。\n紧要任务阋墙中，在清波寨-祖泉推进特定剧情并击败阮一后，会将贵重品库中的[“汤汤券”x1]替换为被打湿的“汤汤券”（1）。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,175 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773284948",
+    "timestamp": "1773371275",
     "data": {
       "item": {
         "itemId": "1056",
         "document": {
           "documentMap": {
-            "K8Spudnk": {
+            "1iFQTWmm": {
+              "id": "document-id",
+              "blockIds": [
+                "c7vL0H8RpW1B",
+                "zyK8TvH21BJk",
+                "yNdqRZSTk9Ke",
+                "MN6Sn6s0PuRi"
+              ],
+              "blockMap": {
+                "MN6Sn6s0PuRi": {
+                  "id": "MN6Sn6s0PuRi",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "c7vL0H8RpW1B": {
+                  "id": "c7vL0H8RpW1B",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "xDcKD88iscT1": {
+                  "id": "xDcKD88iscT1",
+                  "parentId": "8ziK2ejhilUo",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "紧要任务"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "阋墙"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中，在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "清波寨-祖泉"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "推进特定剧情并击败"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "阮一"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后，会将贵重品库中的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1056",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "替换为"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "被打湿的“汤汤券”"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "yNdqRZSTk9Ke": {
+                  "id": "yNdqRZSTk9Ke",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "yNdqRZSTk9Ke",
+                    "itemIds": [
+                      "8ziK2ejhilUo"
+                    ],
+                    "itemMap": {
+                      "8ziK2ejhilUo": {
+                        "id": "8ziK2ejhilUo",
+                        "childIds": [
+                          "xDcKD88iscT1"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "zyK8TvH21BJk": {
+                  "id": "zyK8TvH21BJk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于推进任务。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "uehRFPsg": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -141,22 +303,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "入口的大门前与 "
+                          "text": "入口的大门前与"
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "汤汤"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1130",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": " 对话后获取。"
+                          "text": "对话后获取。"
                         }
                       }
                     ],
@@ -178,6 +340,16 @@
                   "size": "large"
                 }
               ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "8mmjTKYY",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
             }
           ],
           "extraInfo": {
@@ -186,6 +358,18 @@
             "composite": ""
           },
           "widgetCommonMap": {
+            "8mmjTKYY": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "1iFQTWmm",
+                  "audioList": []
+                }
+              }
+            },
             "lNzYFu78": {
               "type": "common",
               "tableList": [],
@@ -193,7 +377,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "K8Spudnk",
+                  "content": "uehRFPsg",
                   "audioList": []
                 }
               }
@@ -432,7 +616,7 @@
         },
         "status": 2,
         "publishedAtTs": "1770030433",
-        "lastAuditPassedAt": "1771259868",
+        "lastAuditPassedAt": "1773326559",
         "tagIds": [
           "10005",
           "10330",

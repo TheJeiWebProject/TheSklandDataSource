@@ -4,7 +4,7 @@
   },
   "name": "高级作战记录",
   "icon": "https://bbs.hycdn.cn/image/2025/12/15/3048259/beb045e23a83825463129c6c9d26d724.png",
-  "description": "获取方式:\n采购中心-配额交易所-集成配额交易可以购买。\n采购中心-信用交易所有概率刷新。\n协议空间-干员经验一到五级奖励。\n帝江号-制造舱生产。\n冒险探索获取。\n\n用途:\n用于干员1-60级等级提升的素材。",
+  "description": "获取方式:\n采购中心-配额交易所-集成配额交易可以购买。\n采购中心-信用交易所有概率刷新。\n协议空间-干员经验一到五级奖励。\n帝江号-制造舱生产。\n冒险探索获取。\n\n用途:\n用于干员1-60级等级提升的素材。\n每个[高级作战记录]可以为干员增加10000EXP。",
   "rarity": {
     "stars": 3,
     "label": "3星",
@@ -21,17 +21,18 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773282859",
+    "timestamp": "1773369146",
     "data": {
       "item": {
         "itemId": "212",
         "document": {
           "documentMap": {
-            "IHQhsgor": {
+            "31pA4haX": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
                 "9bzHRe",
+                "YC1jEUdLscj5",
                 "pCnuhO"
               ],
               "blockMap": {
@@ -62,6 +63,73 @@
                     "kind": "5"
                   }
                 },
+                "YC1jEUdLscj5": {
+                  "id": "YC1jEUdLscj5",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "YC1jEUdLscj5",
+                    "itemIds": [
+                      "tAnSLLvyhp2l"
+                    ],
+                    "itemMap": {
+                      "tAnSLLvyhp2l": {
+                        "id": "tAnSLLvyhp2l",
+                        "childIds": [
+                          "Z530x6FqJJJy"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Z530x6FqJJJy": {
+                  "id": "Z530x6FqJJJy",
+                  "parentId": "tAnSLLvyhp2l",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每个"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "212",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可以为干员增加"
+                        }
+                      },
+                      {
+                        "color": "light_rank_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "10000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "EXP。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "pCnuhO": {
                   "id": "pCnuhO",
                   "parentId": "document-id",
@@ -74,7 +142,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "MjjyC8pg": {
+            "PBEprzzA": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -256,7 +324,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "IHQhsgor",
+                  "content": "31pA4haX",
                   "audioList": []
                 }
               }
@@ -268,7 +336,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "MjjyC8pg",
+                  "content": "PBEprzzA",
                   "audioList": []
                 }
               }
@@ -426,10 +494,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -507,7 +575,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765800502",
-        "lastAuditPassedAt": "1765800396",
+        "lastAuditPassedAt": "1773292872",
         "tagIds": [
           "10003",
           "10325",

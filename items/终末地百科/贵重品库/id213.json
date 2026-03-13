@@ -4,7 +4,7 @@
   },
   "name": "中级作战记录",
   "icon": "https://bbs.hycdn.cn/image/2025/12/15/3048259/8e9f7ff50afa5e7f8c2315212c5df5ad.png",
-  "description": "获取方式:\n采购中心-配额交易所-集成配额交易可以购买。\n采购中心-信用交易所有概率刷新。\n协议空间-干员经验一到五级奖励。\n帝江号-制造舱生产。\n冒险探索获取。\n\n用途:\n用于干员1-60级等级提升的素材。",
+  "description": "获取方式:\n采购中心-配额交易所-集成配额交易可以购买。\n采购中心-信用交易所有概率刷新。\n协议空间-干员经验一到五级奖励。\n帝江号-制造舱生产。\n冒险探索获取。\n\n用途:\n用于干员1-60级等级提升的素材。\n每个[中级作战记录]可以为干员增加1000EXP。",
   "rarity": {
     "stars": 2,
     "label": "2星",
@@ -21,60 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773282861",
+    "timestamp": "1773369148",
     "data": {
       "item": {
         "itemId": "213",
         "document": {
           "documentMap": {
-            "1AN5YyDW": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "9bzHRe",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "9bzHRe": {
-                  "id": "9bzHRe",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于干员1-60级等级提升的素材。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "iDw4oPPB": {
+            "0GjLpctd": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -219,6 +172,128 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "6EG6qtq1": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "9bzHRe",
+                "slEXsVGLqTm0",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "9bzHRe": {
+                  "id": "9bzHRe",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于干员1-60级等级提升的素材。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "greKwVHkP81f": {
+                  "id": "greKwVHkP81f",
+                  "parentId": "rw4JMxl4oUFv",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每个"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "213",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可以为干员增加"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "100"
+                        }
+                      },
+                      {
+                        "color": "light_rank_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "EXP。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "slEXsVGLqTm0": {
+                  "id": "slEXsVGLqTm0",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "slEXsVGLqTm0",
+                    "itemIds": [
+                      "rw4JMxl4oUFv"
+                    ],
+                    "itemMap": {
+                      "rw4JMxl4oUFv": {
+                        "id": "rw4JMxl4oUFv",
+                        "childIds": [
+                          "greKwVHkP81f"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -256,7 +331,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "1AN5YyDW",
+                  "content": "6EG6qtq1",
                   "audioList": []
                 }
               }
@@ -268,7 +343,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "iDw4oPPB",
+                  "content": "0GjLpctd",
                   "audioList": []
                 }
               }
@@ -426,10 +501,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -507,7 +582,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765796967",
-        "lastAuditPassedAt": "1765791424",
+        "lastAuditPassedAt": "1773292864",
         "tagIds": [
           "10002",
           "10326",

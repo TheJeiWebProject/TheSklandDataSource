@@ -4,7 +4,7 @@
   },
   "name": "碾骨焰术师",
   "icon": "https://bbs.hycdn.cn/image/2025/12/22/139426/e350c75b02c4c14c375acdfee4642f3c.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | B | D | D | D\n拥有强大的远程攻击手段，能够造成灼热伤害，但移动能力较差。 会使地面喷出雾火造成灼热伤害，注意躲避。 被靠近时会瞬间移动到远处。\nysyjy\n|敌人分布区域\n广泛分布于四号谷地各处",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | B | D | D | D\n拥有强大的远程攻击手段，能够造成灼热伤害，但移动能力较差。 会使地面喷出雾火造成灼热伤害，注意躲避。 被靠近时会瞬间移动到远处。\n|敌人分布区域\n枢纽区 谷地通道 源石研究园 矿脉源区 供能高地 能量淤积点·源石研究园\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773284147",
+    "timestamp": "1773370455",
     "data": {
       "item": {
         "itemId": "732",
         "document": {
           "documentMap": {
-            "0znVN2NP": {
+            "82nclOtt": {
               "id": "document-id",
               "blockIds": [
                 "DCLySTjXhZKV",
@@ -218,7 +218,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "EuAYqOIP": {
+            "Uyn3zlTB": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -246,7 +246,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "a5kbA3dm": {
+            "gizxmBtY": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -256,7 +256,6 @@
                 "AJFEIh",
                 "gLi8Lo",
                 "6tyDgx",
-                "Sq6b1SsFIdTd",
                 "ZoTWjI",
                 "nPw7b2nFFtaB",
                 "7rQgpl",
@@ -542,6 +541,23 @@
                     "kind": "body"
                   }
                 },
+                "KqmULusyRne7": {
+                  "id": "KqmULusyRne7",
+                  "parentId": "XoKmozP9Tz2w",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地通道"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "Qh78Jk": {
                   "id": "Qh78Jk",
                   "parentId": "document-id",
@@ -550,23 +566,6 @@
                   "text": {
                     "inlineElements": [],
                     "kind": "heading3"
-                  }
-                },
-                "Sq6b1SsFIdTd": {
-                  "id": "Sq6b1SsFIdTd",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "ysyjy"
-                        }
-                      }
-                    ],
-                    "kind": "body"
                   }
                 },
                 "T5LbIE": {
@@ -595,6 +594,23 @@
                         "kind": "text",
                         "text": {
                           "text": "，但移动能力较差。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VCtNGIFrKUpC": {
+                  "id": "VCtNGIFrKUpC",
+                  "parentId": "Y5yxMbyMKu53",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "供能高地"
                         }
                       }
                     ],
@@ -698,7 +714,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "广泛分布于四号谷地各处"
+                          "text": "枢纽区"
                         }
                       }
                     ],
@@ -737,6 +753,40 @@
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "gwejjGYAqjho": {
+                  "id": "gwejjGYAqjho",
+                  "parentId": "mNM3n8JpRteZ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "矿脉源区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hFm1A30setEo": {
+                  "id": "hFm1A30setEo",
+                  "parentId": "DDjiBi4DdI8G",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "hpvaRa": {
@@ -816,13 +866,48 @@
                   "list": {
                     "id": "nPw7b2nFFtaB",
                     "itemIds": [
-                      "G4YrCm"
+                      "G4YrCm",
+                      "XoKmozP9Tz2w",
+                      "DDjiBi4DdI8G",
+                      "mNM3n8JpRteZ",
+                      "Y5yxMbyMKu53",
+                      "6WkvCR2jWLJQ"
                     ],
                     "itemMap": {
+                      "6WkvCR2jWLJQ": {
+                        "id": "6WkvCR2jWLJQ",
+                        "childIds": [
+                          "pBxEA9r0k8Or"
+                        ]
+                      },
+                      "DDjiBi4DdI8G": {
+                        "id": "DDjiBi4DdI8G",
+                        "childIds": [
+                          "hFm1A30setEo"
+                        ]
+                      },
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
                           "exSotq"
+                        ]
+                      },
+                      "XoKmozP9Tz2w": {
+                        "id": "XoKmozP9Tz2w",
+                        "childIds": [
+                          "KqmULusyRne7"
+                        ]
+                      },
+                      "Y5yxMbyMKu53": {
+                        "id": "Y5yxMbyMKu53",
+                        "childIds": [
+                          "VCtNGIFrKUpC"
+                        ]
+                      },
+                      "mNM3n8JpRteZ": {
+                        "id": "mNM3n8JpRteZ",
+                        "childIds": [
+                          "gwejjGYAqjho"
                         ]
                       }
                     },
@@ -865,6 +950,23 @@
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "pBxEA9r0k8Or": {
+                  "id": "pBxEA9r0k8Or",
+                  "parentId": "6WkvCR2jWLJQ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "tHc2KO": {
@@ -923,6 +1025,226 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "vCtn2ArA": {
+              "id": "document-id",
+              "blockIds": [
+                "iTykrEm3XC6Z",
+                "hEuDW0Vz6ziB",
+                "h5ZSXsdlK3Dk",
+                "1jmt2m7zcwnP",
+                "0AQ569xefp6x",
+                "zc4WpFbCf3Pd",
+                "xwdxrxAB1vds"
+              ],
+              "blockMap": {
+                "0AQ569xefp6x": {
+                  "id": "0AQ569xefp6x",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "0AQ569xefp6x",
+                    "itemIds": [
+                      "4HYaHW6WRWQA"
+                    ],
+                    "itemMap": {
+                      "4HYaHW6WRWQA": {
+                        "id": "4HYaHW6WRWQA",
+                        "childIds": [
+                          "zPM4KFX22omr"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "1jmt2m7zcwnP": {
+                  "id": "1jmt2m7zcwnP",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "掌握源石技艺的裂地者武装人员。他们操纵塑能转换系源石技艺，在战场上播撒烈焰，是不折不扣的高威胁目标。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "E67QdVyQf0lS": {
+                  "id": "E67QdVyQf0lS",
+                  "parentId": "ipncDKxkjTdM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "h5ZSXsdlK3Dk": {
+                  "id": "h5ZSXsdlK3Dk",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "h5ZSXsdlK3Dk",
+                    "itemIds": [
+                      "ipncDKxkjTdM"
+                    ],
+                    "itemMap": {
+                      "ipncDKxkjTdM": {
+                        "id": "ipncDKxkjTdM",
+                        "childIds": [
+                          "E67QdVyQf0lS"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "hEuDW0Vz6ziB": {
+                  "id": "hEuDW0Vz6ziB",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "iTykrEm3XC6Z": {
+                  "id": "iTykrEm3XC6Z",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·源石研究园"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中的碾骨焰术师。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "xwdxrxAB1vds": {
+                  "id": "xwdxrxAB1vds",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会使地面喷出雾火造成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_red",
+                        "kind": "text",
+                        "text": {
+                          "text": "灼热伤害"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，注意躲避。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zPM4KFX22omr": {
+                  "id": "zPM4KFX22omr",
+                  "parentId": "4HYaHW6WRWQA",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zc4WpFbCf3Pd": {
+                  "id": "zc4WpFbCf3Pd",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "拥有强大的远程攻击手段，能够造成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_red",
+                        "kind": "text",
+                        "text": {
+                          "text": "灼热伤害"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，但移动能力较差。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -933,6 +1255,11 @@
                   "id": "MX3syh2E",
                   "title": "敌人简介",
                   "size": "large"
+                },
+                {
+                  "id": "EP7QiKuz",
+                  "title": "碾骨焰术师(能量淤积点·源石研究园)",
+                  "size": "small"
                 },
                 {
                   "id": "QjcVBhJD",
@@ -948,6 +1275,18 @@
             "composite": ""
           },
           "widgetCommonMap": {
+            "EP7QiKuz": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "vCtn2ArA",
+                  "audioList": []
+                }
+              }
+            },
             "MX3syh2E": {
               "type": "common",
               "tableList": [],
@@ -964,9 +1303,9 @@
                     "name": "碾骨焰术师",
                     "type": "裂地者",
                     "imgUrl": "",
-                    "description": "EuAYqOIP"
+                    "description": "Uyn3zlTB"
                   },
-                  "content": "a5kbA3dm",
+                  "content": "gizxmBtY",
                   "audioList": []
                 }
               }
@@ -978,7 +1317,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "0znVN2NP",
+                  "content": "82nclOtt",
                   "audioList": []
                 }
               }
@@ -1116,7 +1455,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798085",
-        "lastAuditPassedAt": "1772720274",
+        "lastAuditPassedAt": "1773317424",
         "tagIds": [
           "10232"
         ]

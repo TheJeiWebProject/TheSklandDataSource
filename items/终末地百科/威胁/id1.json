@@ -4,7 +4,7 @@
   },
   "name": "大角天使",
   "icon": "https://bbs.hycdn.cn/image/2025/12/13/139426/c604c871c64f7f28428c97cc698cb905.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n广泛分布于四号谷地各处\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n阿伯莉采石场 矿脉源区 能量淤积点·矿脉源区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,53 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773282334",
+    "timestamp": "1773368610",
     "data": {
       "item": {
         "itemId": "1",
         "document": {
           "documentMap": {
-            "HOYPjxRo": {
-              "id": "document-id",
-              "blockIds": [
-                "pIwDw1"
-              ],
-              "blockMap": {
-                "pIwDw1": {
-                  "id": "pIwDw1",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "“"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "克利俄松"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "”（归档编号：ACL071），能用角冲撞敌人。它们是最早被记录的天使形成模式之一，于各处都较常见。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "d3OJathg": {
+            "UoJnKA96": {
               "id": "document-id",
               "blockIds": [
                 "DCLySTjXhZKV",
@@ -270,7 +230,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "e1Rk4o6R": {
+            "W37LseOA": {
               "id": "document-id",
               "blockIds": [
                 "pIwDw1",
@@ -684,6 +644,23 @@
                     "kind": "body"
                   }
                 },
+                "exSotq": {
+                  "id": "exSotq",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "阿伯莉采石场"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "f8YwdO": {
                   "id": "f8YwdO",
                   "parentId": "document-id",
@@ -701,9 +678,9 @@
                     "kind": "heading3"
                   }
                 },
-                "gdcZqa": {
-                  "id": "gdcZqa",
-                  "parentId": "oib0OZ",
+                "gwejjGYAqjho": {
+                  "id": "gwejjGYAqjho",
+                  "parentId": "mNM3n8JpRteZ",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -711,7 +688,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "广泛分布于四号谷地各处"
+                          "text": "矿脉源区"
                         }
                       }
                     ],
@@ -729,6 +706,23 @@
                         "kind": "text",
                         "text": {
                           "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pBxEA9r0k8Or": {
+                  "id": "pBxEA9r0k8Or",
+                  "parentId": "6WkvCR2jWLJQ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·矿脉源区"
                         }
                       }
                     ],
@@ -770,13 +764,27 @@
                   "list": {
                     "id": "qTz5W2",
                     "itemIds": [
-                      "oib0OZ"
+                      "G4YrCm",
+                      "mNM3n8JpRteZ",
+                      "6WkvCR2jWLJQ"
                     ],
                     "itemMap": {
-                      "oib0OZ": {
-                        "id": "oib0OZ",
+                      "6WkvCR2jWLJQ": {
+                        "id": "6WkvCR2jWLJQ",
                         "childIds": [
-                          "gdcZqa"
+                          "pBxEA9r0k8Or"
+                        ]
+                      },
+                      "G4YrCm": {
+                        "id": "G4YrCm",
+                        "childIds": [
+                          "exSotq"
+                        ]
+                      },
+                      "mNM3n8JpRteZ": {
+                        "id": "mNM3n8JpRteZ",
+                        "childIds": [
+                          "gwejjGYAqjho"
                         ]
                       }
                     },
@@ -847,6 +855,46 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "wrg2l2Fw": {
+              "id": "document-id",
+              "blockIds": [
+                "pIwDw1"
+              ],
+              "blockMap": {
+                "pIwDw1": {
+                  "id": "pIwDw1",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "克利俄松"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "”（归档编号：ACL071），能用角冲撞敌人。它们是最早被记录的天使形成模式之一，于各处都较常见。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -888,9 +936,9 @@
                     "name": "大角天使",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/30/139426/42893e8420b0b350d5d83faaae1ae1fc.png",
-                    "description": "HOYPjxRo"
+                    "description": "wrg2l2Fw"
                   },
-                  "content": "e1Rk4o6R",
+                  "content": "W37LseOA",
                   "audioList": []
                 }
               }
@@ -902,7 +950,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "d3OJathg",
+                  "content": "UoJnKA96",
                   "audioList": []
                 }
               }
@@ -1051,7 +1099,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767700367",
-        "lastAuditPassedAt": "1772721205",
+        "lastAuditPassedAt": "1773317491",
         "tagIds": [
           "10231"
         ]

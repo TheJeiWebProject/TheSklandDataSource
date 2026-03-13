@@ -4,7 +4,7 @@
   },
   "name": "罗曼的食材处理笔记",
   "icon": "https://bbs.hycdn.cn/image/common/20260216/203953/6992c27b3a7e1688fbe6b9ed_56331367.png",
-  "description": "获取方式:\n冒险探索获取。\n重要任务[据点建设·难民暂居处·其一]中，于枢纽区-工人之家与对话后，可在枢纽区-旧工厂区附近的任务标识处拾取。\n\n用途:\n用于提交重要任务目标。\n前往谷地通道-次级核心区域向NPC提交罗曼的食材处理笔记（1）[荞花x5][柑实x5]以推进任务。",
+  "description": "获取方式:\n冒险探索获取。\n重要任务[据点建设·难民暂居处·其一]中，于枢纽区-工人之家与对话后，可在枢纽区-旧工厂区附近的任务标识处拾取。\n\n用途:\n用于提交重要任务目标。\n前往谷地通道-次级核心区域向NPC提交[罗曼的食材处理笔记x1][荞花x5][柑实x5]以推进任务。",
   "rarity": {
     "stars": 1,
     "label": "1星",
@@ -21,165 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773284963",
+    "timestamp": "1773371290",
     "data": {
       "item": {
         "itemId": "1062",
         "document": {
           "documentMap": {
-            "K2sPqShX": {
-              "id": "document-id",
-              "blockIds": [
-                "cTBk9BIFtmWJ",
-                "engVLrDEy3Zi",
-                "xD8x7YNIcXec",
-                "uERGYb7d0anb"
-              ],
-              "blockMap": {
-                "1GbG8JETusKI": {
-                  "id": "1GbG8JETusKI",
-                  "parentId": "yXkYHpTz9DOT",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "前往"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "谷地通道-次级核心区域"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "向NPC"
-                        }
-                      },
-                      {
-                        "kind": "pronunciation",
-                        "pronunciation": {
-                          "content": "罗曼|面包店老板"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "提交"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "罗曼的食材处理笔记"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "（1）"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "31",
-                          "showType": "link-imgText",
-                          "count": "5"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "42",
-                          "showType": "link-imgText",
-                          "count": "5"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "以推进任务。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "cTBk9BIFtmWJ": {
-                  "id": "cTBk9BIFtmWJ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "engVLrDEy3Zi": {
-                  "id": "engVLrDEy3Zi",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于提交重要任务目标。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "uERGYb7d0anb": {
-                  "id": "uERGYb7d0anb",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "xD8x7YNIcXec": {
-                  "id": "xD8x7YNIcXec",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "xD8x7YNIcXec",
-                    "itemIds": [
-                      "yXkYHpTz9DOT"
-                    ],
-                    "itemMap": {
-                      "yXkYHpTz9DOT": {
-                        "id": "yXkYHpTz9DOT",
-                        "childIds": [
-                          "1GbG8JETusKI"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "siiI3oQR": {
+            "yjfZwShc": {
               "id": "document-id",
               "blockIds": [
                 "6doKZl63Uqth",
@@ -323,6 +171,151 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "z7WtkdcO": {
+              "id": "document-id",
+              "blockIds": [
+                "cTBk9BIFtmWJ",
+                "engVLrDEy3Zi",
+                "xD8x7YNIcXec",
+                "uERGYb7d0anb"
+              ],
+              "blockMap": {
+                "1GbG8JETusKI": {
+                  "id": "1GbG8JETusKI",
+                  "parentId": "yXkYHpTz9DOT",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地通道-次级核心区域"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "向NPC"
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "罗曼|面包店老板"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "提交"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1062",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "31",
+                          "showType": "link-imgText",
+                          "count": "5"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "42",
+                          "showType": "link-imgText",
+                          "count": "5"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "以推进任务。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cTBk9BIFtmWJ": {
+                  "id": "cTBk9BIFtmWJ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "engVLrDEy3Zi": {
+                  "id": "engVLrDEy3Zi",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于提交重要任务目标。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uERGYb7d0anb": {
+                  "id": "uERGYb7d0anb",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "xD8x7YNIcXec": {
+                  "id": "xD8x7YNIcXec",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "xD8x7YNIcXec",
+                    "itemIds": [
+                      "yXkYHpTz9DOT"
+                    ],
+                    "itemMap": {
+                      "yXkYHpTz9DOT": {
+                        "id": "yXkYHpTz9DOT",
+                        "childIds": [
+                          "1GbG8JETusKI"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -360,7 +353,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "siiI3oQR",
+                  "content": "yjfZwShc",
                   "audioList": []
                 }
               }
@@ -372,7 +365,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "K2sPqShX",
+                  "content": "z7WtkdcO",
                   "audioList": []
                 }
               }
@@ -609,7 +602,7 @@
         },
         "status": 2,
         "publishedAtTs": "1770030447",
-        "lastAuditPassedAt": "1771316143",
+        "lastAuditPassedAt": "1773326570",
         "tagIds": [
           "10001",
           "10323",
