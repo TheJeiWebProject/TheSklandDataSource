@@ -4,7 +4,7 @@
   },
   "name": "蓝铁矿",
   "icon": "https://bbs.hycdn.cn/image/2025/12/21/3048259/8f7f6fd730cc558456b478535b51e5f6.png",
-  "description": "获取方式:\n源石研究院等地采集。\n蓝铁矿的矿点会在地图上以集中矿点标记。 采集蓝铁矿需要在相应的矿点上部署[二型电驱矿机]或更高级的资源开采设备。\n\n用途:\n用于仓储节点货物装箱。\n每装箱[蓝铁矿x1]需要1点货箱容量。",
+  "description": "获取方式:\n源石研究院等地采集。\n蓝铁矿的矿点会在地图上以集中矿点标记。 采集蓝铁矿需要在相应的矿点上部署[二型电驱矿机]或更高级的资源开采设备，或者通过干员攻击等方式破坏矿簇后掉落。\n\n用途:\n用于仓储节点货物装箱。\n每装箱[蓝铁矿x1]需要1点货箱容量。",
   "rarity": {
     "stars": 1,
     "label": "1星",
@@ -21,13 +21,168 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773369128",
+    "timestamp": "1773454919",
     "data": {
       "item": {
         "itemId": "205",
         "document": {
           "documentMap": {
-            "Jsr2Bgox": {
+            "GMSd8ySE": {
+              "id": "document-id",
+              "blockIds": [
+                "ozuELH",
+                "HhhDmf",
+                "8FSvwZ",
+                "JJut1c"
+              ],
+              "blockMap": {
+                "2wVgSq": {
+                  "id": "2wVgSq",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "蓝铁矿的矿点会在地图上以"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "集中矿点"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "标记。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8FSvwZ": {
+                  "id": "8FSvwZ",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "8FSvwZ",
+                    "itemIds": [
+                      "ZQeKqJ",
+                      "jngAHR"
+                    ],
+                    "itemMap": {
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "2wVgSq"
+                        ]
+                      },
+                      "jngAHR": {
+                        "id": "jngAHR",
+                        "childIds": [
+                          "u2OFDb"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "HhhDmf": {
+                  "id": "HhhDmf",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究院等地采集。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JJut1c": {
+                  "id": "JJut1c",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "ozuELH": {
+                  "id": "ozuELH",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "u2OFDb": {
+                  "id": "u2OFDb",
+                  "parentId": "jngAHR",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "采集蓝铁矿需要在相应的矿点上部署"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "167",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或更高级的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "资源开采"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "设备，或者通过干员攻击等方式破坏矿簇后掉落。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "MeSQerRQ": {
               "id": "document-id",
               "blockIds": [
                 "AnmudQ",
@@ -128,7 +283,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "wxxJ1VPA": {
+            "W0pxSXJJ": {
               "id": "document-id",
               "blockIds": [
                 "8tOz73",
@@ -373,161 +528,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "x77wGdSO": {
-              "id": "document-id",
-              "blockIds": [
-                "ozuELH",
-                "HhhDmf",
-                "8FSvwZ",
-                "JJut1c"
-              ],
-              "blockMap": {
-                "2wVgSq": {
-                  "id": "2wVgSq",
-                  "parentId": "ZQeKqJ",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "蓝铁矿的矿点会在地图上以"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "集中矿点"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "标记。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "8FSvwZ": {
-                  "id": "8FSvwZ",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "8FSvwZ",
-                    "itemIds": [
-                      "ZQeKqJ",
-                      "jngAHR"
-                    ],
-                    "itemMap": {
-                      "ZQeKqJ": {
-                        "id": "ZQeKqJ",
-                        "childIds": [
-                          "2wVgSq"
-                        ]
-                      },
-                      "jngAHR": {
-                        "id": "jngAHR",
-                        "childIds": [
-                          "u2OFDb"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "HhhDmf": {
-                  "id": "HhhDmf",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "源石研究院等地采集。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "JJut1c": {
-                  "id": "JJut1c",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "ozuELH": {
-                  "id": "ozuELH",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "u2OFDb": {
-                  "id": "u2OFDb",
-                  "parentId": "jngAHR",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "采集蓝铁矿需要在相应的矿点上部署"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "167",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或更高级的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "资源开采"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "设备。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -536,7 +536,7 @@
               "widgets": [
                 {
                   "id": "JRRTRIUi",
-                  "title": "野外采集",
+                  "title": "相关来源",
                   "size": "large"
                 }
               ]
@@ -575,7 +575,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Jsr2Bgox",
+                  "content": "MeSQerRQ",
                   "audioList": []
                 }
               }
@@ -587,7 +587,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "x77wGdSO",
+                  "content": "GMSd8ySE",
                   "audioList": []
                 }
               }
@@ -599,7 +599,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "wxxJ1VPA",
+                  "content": "W0pxSXJJ",
                   "audioList": []
                 }
               }
@@ -866,7 +866,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765461727",
-        "lastAuditPassedAt": "1771777172",
+        "lastAuditPassedAt": "1773401896",
         "tagIds": [
           "10001",
           "10261",

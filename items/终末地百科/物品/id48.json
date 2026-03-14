@@ -4,7 +4,7 @@
   },
   "name": "源矿",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/203953/7ab3c9cb579e65fc229644d6ffd8e3a2.png",
-  "description": "获取方式:\n枢纽区等地采集。\n源矿的矿点会在地图上以集中矿点标记。 采集源矿需要在相应的矿点上部署[便携源石矿机]或更高级别的资源开采设备。\n\n用途:\n用于仓储节点货物装箱。\n每装箱[源矿x1]需要1点货箱容量。\n供能设备 | 单次消耗 | 提供功率值\n[热能池] | [源矿x1] | 50",
+  "description": "获取方式:\n枢纽区等地采集。\n源矿的矿点会在地图上以集中矿点标记。 采集源矿需要在相应的矿点上部署[便携源石矿机]或更高级别的资源开采设备，或者通过干员攻击等方式破坏矿簇后掉落。\n\n用途:\n用于仓储节点货物装箱。\n每装箱[源矿x1]需要1点货箱容量。\n供能设备 | 单次消耗 | 提供功率值\n[热能池] | [源矿x1] | 50",
   "rarity": {
     "stars": 1,
     "label": "1星",
@@ -21,13 +21,248 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773368725",
+    "timestamp": "1773454527",
     "data": {
       "item": {
         "itemId": "48",
         "document": {
           "documentMap": {
-            "HRrpfan0": {
+            "GkT2eUKV": {
+              "id": "document-id",
+              "blockIds": [
+                "5zopgUDDjXu7"
+              ],
+              "blockMap": {
+                "5zopgUDDjXu7": {
+                  "id": "5zopgUDDjXu7",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "5zopgUDDjXu7",
+                    "rowIds": [
+                      "O3wuMU",
+                      "EnmwsP"
+                    ],
+                    "columnIds": [
+                      "MR9jOv",
+                      "3L08q2",
+                      "450bqc"
+                    ],
+                    "rowMap": {
+                      "EnmwsP": {
+                        "id": "EnmwsP"
+                      },
+                      "O3wuMU": {
+                        "id": "O3wuMU"
+                      }
+                    },
+                    "columnMap": {
+                      "3L08q2": {
+                        "id": "3L08q2",
+                        "width": 386.6666666666667
+                      },
+                      "450bqc": {
+                        "id": "450bqc",
+                        "width": 386.6666666666667
+                      },
+                      "MR9jOv": {
+                        "id": "MR9jOv",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "EnmwsP_3L08q2": {
+                        "id": "EnmwsP_3L08q2",
+                        "childIds": [
+                          "KrIYPf0jwKwn"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "EnmwsP_450bqc": {
+                        "id": "EnmwsP_450bqc",
+                        "childIds": [
+                          "QTGlz7pQZLtR"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "EnmwsP_MR9jOv": {
+                        "id": "EnmwsP_MR9jOv",
+                        "childIds": [
+                          "nnnBnGgiSJAk"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "O3wuMU_3L08q2": {
+                        "id": "O3wuMU_3L08q2",
+                        "childIds": [
+                          "HMbM9nEd5t57"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "O3wuMU_450bqc": {
+                        "id": "O3wuMU_450bqc",
+                        "childIds": [
+                          "qWsaMoZ8ZJC0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "O3wuMU_MR9jOv": {
+                        "id": "O3wuMU_MR9jOv",
+                        "childIds": [
+                          "9QPmwk4uLY0Z"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "9QPmwk4uLY0Z": {
+                  "id": "9QPmwk4uLY0Z",
+                  "parentId": "O3wuMU_MR9jOv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "供能设备"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "HMbM9nEd5t57": {
+                  "id": "HMbM9nEd5t57",
+                  "parentId": "O3wuMU_3L08q2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "单次消耗"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "KrIYPf0jwKwn": {
+                  "id": "KrIYPf0jwKwn",
+                  "parentId": "EnmwsP_3L08q2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "48",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QTGlz7pQZLtR": {
+                  "id": "QTGlz7pQZLtR",
+                  "parentId": "EnmwsP_450bqc",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "50"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nnnBnGgiSJAk": {
+                  "id": "nnnBnGgiSJAk",
+                  "parentId": "EnmwsP_MR9jOv",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "178",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qWsaMoZ8ZJC0": {
+                  "id": "qWsaMoZ8ZJC0",
+                  "parentId": "O3wuMU_450bqc",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "提供功率值"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "H6UKgLEk": {
               "id": "document-id",
               "blockIds": [
                 "OTGnqF",
@@ -273,242 +508,108 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "PYhjFKJn": {
+            "JIVR7Ph3": {
               "id": "document-id",
               "blockIds": [
-                "5zopgUDDjXu7"
+                "AnmudQ",
+                "SYPA1V",
+                "od4PSL",
+                "2Z6uKQ"
               ],
               "blockMap": {
-                "5zopgUDDjXu7": {
-                  "id": "5zopgUDDjXu7",
+                "2Z6uKQ": {
+                  "id": "2Z6uKQ",
                   "parentId": "document-id",
-                  "kind": "table",
-                  "table": {
-                    "id": "5zopgUDDjXu7",
-                    "rowIds": [
-                      "O3wuMU",
-                      "EnmwsP"
-                    ],
-                    "columnIds": [
-                      "MR9jOv",
-                      "3L08q2",
-                      "450bqc"
-                    ],
-                    "rowMap": {
-                      "EnmwsP": {
-                        "id": "EnmwsP"
-                      },
-                      "O3wuMU": {
-                        "id": "O3wuMU"
-                      }
-                    },
-                    "columnMap": {
-                      "3L08q2": {
-                        "id": "3L08q2",
-                        "width": 386.6666666666667
-                      },
-                      "450bqc": {
-                        "id": "450bqc",
-                        "width": 386.6666666666667
-                      },
-                      "MR9jOv": {
-                        "id": "MR9jOv",
-                        "width": 386.6666666666667
-                      }
-                    },
-                    "cellMap": {
-                      "EnmwsP_3L08q2": {
-                        "id": "EnmwsP_3L08q2",
-                        "childIds": [
-                          "KrIYPf0jwKwn"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "EnmwsP_450bqc": {
-                        "id": "EnmwsP_450bqc",
-                        "childIds": [
-                          "QTGlz7pQZLtR"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "EnmwsP_MR9jOv": {
-                        "id": "EnmwsP_MR9jOv",
-                        "childIds": [
-                          "nnnBnGgiSJAk"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "O3wuMU_3L08q2": {
-                        "id": "O3wuMU_3L08q2",
-                        "childIds": [
-                          "HMbM9nEd5t57"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "O3wuMU_450bqc": {
-                        "id": "O3wuMU_450bqc",
-                        "childIds": [
-                          "qWsaMoZ8ZJC0"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "O3wuMU_MR9jOv": {
-                        "id": "O3wuMU_MR9jOv",
-                        "childIds": [
-                          "9QPmwk4uLY0Z"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      }
-                    },
-                    "description": "",
-                    "rowHeader": true,
-                    "colHeader": false
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
                   }
                 },
-                "9QPmwk4uLY0Z": {
-                  "id": "9QPmwk4uLY0Z",
-                  "parentId": "O3wuMU_MR9jOv",
-                  "align": "center",
+                "AnmudQ": {
+                  "id": "AnmudQ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "KPm0z4": {
+                  "id": "KPm0z4",
+                  "parentId": "Pyq2As",
+                  "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
-                        "bold": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "供能设备"
+                          "text": "每装箱"
                         }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "HMbM9nEd5t57": {
-                  "id": "HMbM9nEd5t57",
-                  "parentId": "O3wuMU_3L08q2",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "单次消耗"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "KrIYPf0jwKwn": {
-                  "id": "KrIYPf0jwKwn",
-                  "parentId": "EnmwsP_3L08q2",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
+                      },
                       {
                         "kind": "entry",
                         "entry": {
                           "id": "48",
-                          "showType": "card-big",
+                          "showType": "link-imgText",
                           "count": "1"
                         }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "QTGlz7pQZLtR": {
-                  "id": "QTGlz7pQZLtR",
-                  "parentId": "EnmwsP_450bqc",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
+                      },
                       {
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "50"
+                          "text": "需要1点货箱容量。"
                         }
                       }
                     ],
                     "kind": "body"
                   }
                 },
-                "nnnBnGgiSJAk": {
-                  "id": "nnnBnGgiSJAk",
-                  "parentId": "EnmwsP_MR9jOv",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "178",
-                          "showType": "card-big",
-                          "count": "0"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "qWsaMoZ8ZJC0": {
-                  "id": "qWsaMoZ8ZJC0",
-                  "parentId": "O3wuMU_450bqc",
-                  "align": "center",
+                "SYPA1V": {
+                  "id": "SYPA1V",
+                  "parentId": "document-id",
+                  "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
                         "bold": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "提供功率值"
+                          "text": "用于仓储节点货物装箱。"
                         }
                       }
                     ],
                     "kind": "body"
+                  }
+                },
+                "od4PSL": {
+                  "id": "od4PSL",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "od4PSL",
+                    "itemIds": [
+                      "Pyq2As"
+                    ],
+                    "itemMap": {
+                      "Pyq2As": {
+                        "id": "Pyq2As",
+                        "childIds": [
+                          "KPm0z4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
                   }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "ZGZMHOxg": {
+            "TQEjDIGJ": {
               "id": "document-id",
               "blockIds": [
                 "R2cOTL",
@@ -637,7 +738,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "设备。"
+                          "text": "设备，或者通过干员攻击等方式破坏矿簇后掉落。"
                         }
                       }
                     ],
@@ -664,108 +765,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "urVxr4qq": {
-              "id": "document-id",
-              "blockIds": [
-                "AnmudQ",
-                "SYPA1V",
-                "od4PSL",
-                "2Z6uKQ"
-              ],
-              "blockMap": {
-                "2Z6uKQ": {
-                  "id": "2Z6uKQ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "AnmudQ": {
-                  "id": "AnmudQ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "KPm0z4": {
-                  "id": "KPm0z4",
-                  "parentId": "Pyq2As",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "每装箱"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "48",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要1点货箱容量。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "SYPA1V": {
-                  "id": "SYPA1V",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于仓储节点货物装箱。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "od4PSL": {
-                  "id": "od4PSL",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "od4PSL",
-                    "itemIds": [
-                      "Pyq2As"
-                    ],
-                    "itemMap": {
-                      "Pyq2As": {
-                        "id": "Pyq2As",
-                        "childIds": [
-                          "KPm0z4"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "y238NQMc": {
+            "pj0Wt4lH": {
               "id": "document-id",
               "blockIds": [
                 "ktCyNp",
@@ -1154,7 +1154,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ZGZMHOxg",
+                  "content": "TQEjDIGJ",
                   "audioList": []
                 }
               }
@@ -1166,7 +1166,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "urVxr4qq",
+                  "content": "JIVR7Ph3",
                   "audioList": []
                 }
               }
@@ -1194,17 +1194,17 @@
               "tabDataMap": {
                 "tab_1767145196959": {
                   "intro": null,
-                  "content": "y238NQMc",
+                  "content": "pj0Wt4lH",
                   "audioList": []
                 },
                 "tab_1767145200262": {
                   "intro": null,
-                  "content": "HRrpfan0",
+                  "content": "H6UKgLEk",
                   "audioList": []
                 },
                 "tab_1771749987695": {
                   "intro": null,
-                  "content": "PYhjFKJn",
+                  "content": "GkT2eUKV",
                   "audioList": []
                 }
               }
@@ -1471,7 +1471,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765099288",
-        "lastAuditPassedAt": "1771777169",
+        "lastAuditPassedAt": "1773408559",
         "tagIds": [
           "10001",
           "10261",

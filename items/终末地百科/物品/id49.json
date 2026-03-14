@@ -4,7 +4,7 @@
   },
   "name": "紫晶矿",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/203953/3cfffd99b1d509c4963adcc8258d67fc.png",
-  "description": "获取方式:\n枢纽区等地采集。\n紫晶矿的矿点会在地图上以集中矿点标记。 采集紫晶矿需要在相应的矿点上部署[电驱矿机]或更高级别的资源开采设备。\n\n用途:\n用于仓储节点货物装箱。\n每装箱[紫晶矿x1]需要1点货箱容量。",
+  "description": "获取方式:\n枢纽区等地采集。\n紫晶矿的矿点会在地图上以集中矿点标记。 采集紫晶矿需要在相应的矿点上部署[电驱矿机]或更高级别的资源开采设备，或者通过干员攻击等方式破坏矿簇后掉落。\n\n用途:\n用于仓储节点货物装箱。\n每装箱[紫晶矿x1]需要1点货箱容量。",
   "rarity": {
     "stars": 1,
     "label": "1星",
@@ -21,40 +21,32 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773368727",
+    "timestamp": "1773454530",
     "data": {
       "item": {
         "itemId": "49",
         "document": {
           "documentMap": {
-            "E037LjGZ": {
+            "lXdB8dev": {
               "id": "document-id",
               "blockIds": [
-                "AnmudQ",
-                "SYPA1V",
-                "od4PSL",
-                "2Z6uKQ"
+                "DswZaz",
+                "K06tGP",
+                "kYdCQa",
+                "dpJYr8"
               ],
               "blockMap": {
-                "2Z6uKQ": {
-                  "id": "2Z6uKQ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "AnmudQ": {
-                  "id": "AnmudQ",
+                "DswZaz": {
+                  "id": "DswZaz",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "5"
                   }
                 },
-                "KPm0z4": {
-                  "id": "KPm0z4",
-                  "parentId": "Pyq2As",
+                "FaotEh": {
+                  "id": "FaotEh",
+                  "parentId": "mujdv4",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -63,30 +55,45 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "每装箱"
+                          "text": "采集紫晶矿需要在相应的矿点上部署"
                         }
                       },
                       {
                         "kind": "entry",
                         "entry": {
-                          "id": "49",
+                          "id": "166",
                           "showType": "link-imgText",
-                          "count": "1"
+                          "count": "0"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "需要1点货箱容量。"
+                          "text": "或更高级别的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "资源开采"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "设备，或者通过干员攻击等方式破坏矿簇后掉落。"
                         }
                       }
                     ],
                     "kind": "body"
                   }
                 },
-                "SYPA1V": {
-                  "id": "SYPA1V",
+                "K06tGP": {
+                  "id": "K06tGP",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -97,27 +104,75 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "用于仓储节点货物装箱。"
+                          "text": "枢纽区等地采集。"
                         }
                       }
                     ],
                     "kind": "body"
                   }
                 },
-                "od4PSL": {
-                  "id": "od4PSL",
+                "YHgKVN": {
+                  "id": "YHgKVN",
+                  "parentId": "bHJ2I3",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "紫晶矿的矿点会在地图上以"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "集中矿点"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "标记。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dpJYr8": {
+                  "id": "dpJYr8",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "kYdCQa": {
+                  "id": "kYdCQa",
                   "parentId": "document-id",
                   "kind": "list",
                   "list": {
-                    "id": "od4PSL",
+                    "id": "kYdCQa",
                     "itemIds": [
-                      "Pyq2As"
+                      "bHJ2I3",
+                      "mujdv4"
                     ],
                     "itemMap": {
-                      "Pyq2As": {
-                        "id": "Pyq2As",
+                      "bHJ2I3": {
+                        "id": "bHJ2I3",
                         "childIds": [
-                          "KPm0z4"
+                          "YHgKVN"
+                        ]
+                      },
+                      "mujdv4": {
+                        "id": "mujdv4",
+                        "childIds": [
+                          "FaotEh"
                         ]
                       }
                     },
@@ -128,7 +183,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "HysLab8F": {
+            "sWKy0y04": {
               "id": "document-id",
               "blockIds": [
                 "bGKSuM",
@@ -374,152 +429,97 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "gmGnqudn": {
+            "xC14yzM4": {
               "id": "document-id",
               "blockIds": [
-                "DswZaz",
-                "K06tGP",
-                "kYdCQa",
-                "dpJYr8"
+                "AnmudQ",
+                "SYPA1V",
+                "od4PSL",
+                "2Z6uKQ"
               ],
               "blockMap": {
-                "DswZaz": {
-                  "id": "DswZaz",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "FaotEh": {
-                  "id": "FaotEh",
-                  "parentId": "mujdv4",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "采集紫晶矿需要在相应的矿点上部署"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "166",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或更高级别的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "资源开采"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "设备。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "K06tGP": {
-                  "id": "K06tGP",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "枢纽区等地采集。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "YHgKVN": {
-                  "id": "YHgKVN",
-                  "parentId": "bHJ2I3",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "紫晶矿的矿点会在地图上以"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "集中矿点"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "标记。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "dpJYr8": {
-                  "id": "dpJYr8",
+                "2Z6uKQ": {
+                  "id": "2Z6uKQ",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
                   }
                 },
-                "kYdCQa": {
-                  "id": "kYdCQa",
+                "AnmudQ": {
+                  "id": "AnmudQ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "KPm0z4": {
+                  "id": "KPm0z4",
+                  "parentId": "Pyq2As",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "49",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要1点货箱容量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SYPA1V": {
+                  "id": "SYPA1V",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于仓储节点货物装箱。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "od4PSL": {
+                  "id": "od4PSL",
                   "parentId": "document-id",
                   "kind": "list",
                   "list": {
-                    "id": "kYdCQa",
+                    "id": "od4PSL",
                     "itemIds": [
-                      "bHJ2I3",
-                      "mujdv4"
+                      "Pyq2As"
                     ],
                     "itemMap": {
-                      "bHJ2I3": {
-                        "id": "bHJ2I3",
+                      "Pyq2As": {
+                        "id": "Pyq2As",
                         "childIds": [
-                          "YHgKVN"
-                        ]
-                      },
-                      "mujdv4": {
-                        "id": "mujdv4",
-                        "childIds": [
-                          "FaotEh"
+                          "KPm0z4"
                         ]
                       }
                     },
@@ -576,7 +576,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "gmGnqudn",
+                  "content": "lXdB8dev",
                   "audioList": []
                 }
               }
@@ -588,7 +588,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "HysLab8F",
+                  "content": "sWKy0y04",
                   "audioList": []
                 }
               }
@@ -600,7 +600,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "E037LjGZ",
+                  "content": "xC14yzM4",
                   "audioList": []
                 }
               }
@@ -867,7 +867,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765099297",
-        "lastAuditPassedAt": "1771777171",
+        "lastAuditPassedAt": "1773401900",
         "tagIds": [
           "10001",
           "10261",
