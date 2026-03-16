@@ -1,0 +1,247 @@
+{
+  "id": "aef-skland:r/wiki_usage_377/2146",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_377",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_153",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "POJC5u",
+        "9756fp",
+        "aBjl1N",
+        "EKyr195kK3Iq",
+        "ETRlsd97K0z9",
+        "Co48vtiY21Ql",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "9756fp": {
+          "id": "9756fp",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于仓储节点货物装箱。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Co48vtiY21Ql": {
+          "id": "Co48vtiY21Ql",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Co48vtiY21Ql",
+            "itemIds": [
+              "WrXq7iiX6DfI"
+            ],
+            "itemMap": {
+              "WrXq7iiX6DfI": {
+                "id": "WrXq7iiX6DfI",
+                "childIds": [
+                  "U9Z2kZVZHYlV"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "EKyr195kK3Iq": {
+          "id": "EKyr195kK3Iq",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "ETRlsd97K0z9": {
+          "id": "ETRlsd97K0z9",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于提交紧要任务目标。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "H9omq8": {
+          "id": "H9omq8",
+          "parentId": "naoKF2",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每装箱"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "377",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要1点货箱容量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "U9Z2kZVZHYlV": {
+          "id": "U9Z2kZVZHYlV",
+          "parentId": "WrXq7iiX6DfI",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "紧要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "153",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "推开园门"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "中任务目标的三台"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "发电机"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "需要花费共计"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "377",
+                  "showType": "link-imgText",
+                  "count": "30"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "进行修复。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "aBjl1N": {
+          "id": "aBjl1N",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "aBjl1N",
+            "itemIds": [
+              "naoKF2"
+            ],
+            "itemMap": {
+              "naoKF2": {
+                "id": "naoKF2",
+                "childIds": [
+                  "H9omq8"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

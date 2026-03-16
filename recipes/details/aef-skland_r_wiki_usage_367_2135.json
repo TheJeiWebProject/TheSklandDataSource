@@ -1,0 +1,122 @@
+{
+  "id": "aef-skland:r/wiki_usage_367/2135",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_367",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "E2nUmq",
+        "eaobwZ",
+        "sC1S9y",
+        "h5706d"
+      ],
+      "blockMap": {
+        "DRGDUp": {
+          "id": "DRGDUp",
+          "parentId": "Y1bI3Y",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每装箱"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "367",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要1点货箱容量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "E2nUmq": {
+          "id": "E2nUmq",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "eaobwZ": {
+          "id": "eaobwZ",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "用于仓储节点货物装箱。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "h5706d": {
+          "id": "h5706d",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "sC1S9y": {
+          "id": "sC1S9y",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "sC1S9y",
+            "itemIds": [
+              "Y1bI3Y"
+            ],
+            "itemMap": {
+              "Y1bI3Y": {
+                "id": "Y1bI3Y",
+                "childIds": [
+                  "DRGDUp"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

@@ -1,0 +1,131 @@
+{
+  "id": "aef-skland:r/wiki_usage_737/2287",
+  "type": "aef-skland:wiki/usage/text_only",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_737",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "使用方式 / 面积需求",
+    "context": {
+      "groupTitle": "使用方式",
+      "widgetTitle": "面积需求",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "k7oiwY",
+        "XbWEoo",
+        "T19LYL",
+        "6vmeiZ"
+      ],
+      "blockMap": {
+        "6vmeiZ": {
+          "id": "6vmeiZ",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "T19LYL": {
+          "id": "T19LYL",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "管道"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "可以与传送带路径有所重合，但必须从设备与物流出口或其他管道处开始连接。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "XbWEoo": {
+          "id": "XbWEoo",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "管道"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "需要长"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格、宽"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格的可用空地。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "k7oiwY": {
+          "id": "k7oiwY",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "text_only"
+  },
+  "detailLoaded": true
+}

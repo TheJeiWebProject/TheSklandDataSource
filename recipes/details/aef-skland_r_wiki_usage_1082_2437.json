@@ -1,10 +1,40 @@
 {
   "id": "aef-skland:r/wiki_usage_1082/2437",
-  "type": "aef-skland:wiki/usage/text_only",
+  "type": "aef-skland:wiki/usage/table_entry",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_1082",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_363",
+      "amount": 1
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 200
+    },
+    "out3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_19",
+      "amount": 30000
+    },
+    "out4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_211",
+      "amount": 40
+    },
+    "out5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_222",
+      "amount": 15
+    },
+    "out6": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_382",
       "amount": 1
     }
   },
@@ -14,28 +44,42 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "地区建设等级",
-      "panelTitle": "后续地区建设等级尚未开放"
+      "panelTitle": "2"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "PjKm0EKTYMeA",
-        "vyNya2br8ZmL",
-        "Hj8EtqVgYYC8",
-        "HTxbIdMzCjrl"
+        "rEOHiDv2xGRO"
       ],
       "blockMap": {
-        "HTxbIdMzCjrl": {
-          "id": "HTxbIdMzCjrl",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "3"
+        "IP5y8A9QctSg": {
+          "id": "IP5y8A9QctSg",
+          "parentId": "LvgunJ_FOPsd4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "382",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "持有上限提升。"
+                }
+              }
+            ],
+            "kind": "body"
           }
         },
-        "Hj8EtqVgYYC8": {
-          "id": "Hj8EtqVgYYC8",
-          "parentId": "document-id",
+        "Pb9LYbsSqhSP": {
+          "id": "Pb9LYbsSqhSP",
+          "parentId": "FdEUIT_FOPsd4",
           "align": "center",
           "kind": "text",
           "text": {
@@ -44,36 +88,551 @@
                 "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "后续地区建设等级尚未开放。"
+                  "text": "里程碑奖励"
                 }
               }
             ],
-            "kind": "heading1"
+            "kind": "body"
           }
         },
-        "PjKm0EKTYMeA": {
-          "id": "PjKm0EKTYMeA",
-          "parentId": "document-id",
+        "RzIeDmoAWOq4": {
+          "id": "RzIeDmoAWOq4",
+          "parentId": "YqUllW_FOPsd4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "矿物纯度"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "提升。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "XGdRbCXuzbaQ": {
+          "id": "XGdRbCXuzbaQ",
+          "parentId": "tMGxXK_FOPsd4",
           "align": "center",
           "kind": "text",
           "text": {
-            "inlineElements": [],
-            "kind": "heading1"
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "363",
+                  "showType": "card-big",
+                  "count": "1"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "200"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "19",
+                  "showType": "card-big",
+                  "count": "30000"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "211",
+                  "showType": "card-big",
+                  "count": "40"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "222",
+                  "showType": "card-big",
+                  "count": "15"
+                }
+              }
+            ],
+            "kind": "body"
           }
         },
-        "vyNya2br8ZmL": {
-          "id": "vyNya2br8ZmL",
+        "XmLHkFJQd4hY": {
+          "id": "XmLHkFJQd4hY",
+          "parentId": "LvgunJ_NUC7ks",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "f6nGzrvtlLuD": {
+          "id": "f6nGzrvtlLuD",
+          "parentId": "eYNLnt_uMkz3W",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "130→150"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "fZI7kvthxm6T": {
+          "id": "fZI7kvthxm6T",
+          "parentId": "YEUkYO_FOPsd4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "滑索"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "可放置数量提升。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ftpymoMHuPEa": {
+          "id": "ftpymoMHuPEa",
+          "parentId": "3r3MNB_FOPsd4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "作战设备"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "可放置数量提升。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "h8aCBiEFHmmx": {
+          "id": "h8aCBiEFHmmx",
+          "parentId": "FdEUIT_NUC7ks",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "地区建设等级"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "kGWo8Iawks70": {
+          "id": "kGWo8Iawks70",
+          "parentId": "eYNLnt_FOPsd4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "协议容量"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "提升。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "rEOHiDv2xGRO": {
+          "id": "rEOHiDv2xGRO",
           "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "3"
+          "kind": "table",
+          "table": {
+            "id": "rEOHiDv2xGRO",
+            "rowIds": [
+              "FdEUIT",
+              "tMGxXK",
+              "LvgunJ",
+              "YqUllW",
+              "eYNLnt",
+              "YEUkYO",
+              "3r3MNB"
+            ],
+            "columnIds": [
+              "NUC7ks",
+              "FOPsd4",
+              "uMkz3W"
+            ],
+            "rowMap": {
+              "3r3MNB": {
+                "id": "3r3MNB"
+              },
+              "FdEUIT": {
+                "id": "FdEUIT"
+              },
+              "LvgunJ": {
+                "id": "LvgunJ"
+              },
+              "YEUkYO": {
+                "id": "YEUkYO"
+              },
+              "YqUllW": {
+                "id": "YqUllW"
+              },
+              "eYNLnt": {
+                "id": "eYNLnt"
+              },
+              "tMGxXK": {
+                "id": "tMGxXK"
+              }
+            },
+            "columnMap": {
+              "FOPsd4": {
+                "id": "FOPsd4",
+                "width": 798
+              },
+              "NUC7ks": {
+                "id": "NUC7ks",
+                "width": 117
+              },
+              "uMkz3W": {
+                "id": "uMkz3W",
+                "width": 245
+              }
+            },
+            "cellMap": {
+              "3r3MNB_FOPsd4": {
+                "id": "3r3MNB_FOPsd4",
+                "childIds": [
+                  "ftpymoMHuPEa"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "3r3MNB_uMkz3W": {
+                "id": "3r3MNB_uMkz3W",
+                "childIds": [
+                  "tgByRj2fXVhc"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "FdEUIT_FOPsd4": {
+                "id": "FdEUIT_FOPsd4",
+                "childIds": [
+                  "Pb9LYbsSqhSP"
+                ],
+                "rowSpan": "1",
+                "colSpan": "2",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "FdEUIT_NUC7ks": {
+                "id": "FdEUIT_NUC7ks",
+                "childIds": [
+                  "h8aCBiEFHmmx"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "LvgunJ_FOPsd4": {
+                "id": "LvgunJ_FOPsd4",
+                "childIds": [
+                  "IP5y8A9QctSg"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "LvgunJ_NUC7ks": {
+                "id": "LvgunJ_NUC7ks",
+                "childIds": [
+                  "XmLHkFJQd4hY"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "LvgunJ_uMkz3W": {
+                "id": "LvgunJ_uMkz3W",
+                "childIds": [
+                  "z8vpuNr3z7em"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "YEUkYO_FOPsd4": {
+                "id": "YEUkYO_FOPsd4",
+                "childIds": [
+                  "fZI7kvthxm6T"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "YEUkYO_uMkz3W": {
+                "id": "YEUkYO_uMkz3W",
+                "childIds": [
+                  "scoiKB8zvhyh"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "YqUllW_FOPsd4": {
+                "id": "YqUllW_FOPsd4",
+                "childIds": [
+                  "RzIeDmoAWOq4"
+                ],
+                "rowSpan": "1",
+                "colSpan": "2",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "YqUllW_NUC7ks": {
+                "id": "YqUllW_NUC7ks",
+                "childIds": [
+                  "yOStHnGVM5P4"
+                ],
+                "rowSpan": "4",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "eYNLnt_FOPsd4": {
+                "id": "eYNLnt_FOPsd4",
+                "childIds": [
+                  "kGWo8Iawks70"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "eYNLnt_uMkz3W": {
+                "id": "eYNLnt_uMkz3W",
+                "childIds": [
+                  "f6nGzrvtlLuD"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "tMGxXK_FOPsd4": {
+                "id": "tMGxXK_FOPsd4",
+                "childIds": [
+                  "XGdRbCXuzbaQ"
+                ],
+                "rowSpan": "1",
+                "colSpan": "2",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "tMGxXK_NUC7ks": {
+                "id": "tMGxXK_NUC7ks",
+                "childIds": [
+                  "wxVMGyYR5dVX"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": true,
+            "colHeader": false
+          }
+        },
+        "scoiKB8zvhyh": {
+          "id": "scoiKB8zvhyh",
+          "parentId": "YEUkYO_uMkz3W",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "14→16"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "tgByRj2fXVhc": {
+          "id": "tgByRj2fXVhc",
+          "parentId": "3r3MNB_uMkz3W",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "7→8"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "wxVMGyYR5dVX": {
+          "id": "wxVMGyYR5dVX",
+          "parentId": "tMGxXK_NUC7ks",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "2"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "yOStHnGVM5P4": {
+          "id": "yOStHnGVM5P4",
+          "parentId": "YqUllW_NUC7ks",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "景玉谷"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "z8vpuNr3z7em": {
+          "id": "z8vpuNr3z7em",
+          "parentId": "LvgunJ_uMkz3W",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "6万→25万"
+                }
+              }
+            ],
+            "kind": "body"
           }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "text_only"
+    "usagePattern": "table_entry"
   },
   "detailLoaded": true
 }
