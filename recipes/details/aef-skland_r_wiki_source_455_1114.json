@@ -21,7 +21,7 @@
       "blockIds": [
         "LUtplL",
         "6dYVnY",
-        "QgtnF6Gt3kFV"
+        "WPCLRyc3FfPT"
       ],
       "blockMap": {
         "6dYVnY": {
@@ -36,7 +36,7 @@
         },
         "E0ULWK": {
           "id": "E0ULWK",
-          "parentId": "o9A7tt",
+          "parentId": "IlfE8hA4GPve",
           "align": "left",
           "kind": "text",
           "text": {
@@ -59,20 +59,41 @@
           "list": {
             "id": "LUtplL",
             "itemIds": [
-              "o9A7tt",
+              "IlfE8hA4GPve",
               "J6PClp"
             ],
             "itemMap": {
+              "IlfE8hA4GPve": {
+                "id": "IlfE8hA4GPve",
+                "childIds": [
+                  "E0ULWK",
+                  "PS0O3INyQizS"
+                ]
+              },
               "J6PClp": {
                 "id": "J6PClp",
                 "childIds": [
                   "hYoSQH"
                 ]
-              },
-              "o9A7tt": {
-                "id": "o9A7tt",
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "PS0O3INyQizS": {
+          "id": "PS0O3INyQizS",
+          "parentId": "IlfE8hA4GPve",
+          "kind": "list",
+          "list": {
+            "id": "PS0O3INyQizS",
+            "itemIds": [
+              "oZQfR0z7NWRT"
+            ],
+            "itemMap": {
+              "oZQfR0z7NWRT": {
+                "id": "oZQfR0z7NWRT",
                 "childIds": [
-                  "E0ULWK"
+                  "gqxvbTLHYaOr"
                 ]
               }
             },
@@ -81,7 +102,7 @@
         },
         "QgtnF6Gt3kFV": {
           "id": "QgtnF6Gt3kFV",
-          "parentId": "document-id",
+          "parentId": "pSgsEDq6OdAL",
           "align": "left",
           "kind": "text",
           "text": {
@@ -97,7 +118,45 @@
                 "color": "light_text_tertiary",
                 "kind": "text",
                 "text": {
-                  "text": "当前区域尚未实装掉落该基质的重度能量淤积点"
+                  "text": "通过预刻写获得的基质必定同时出现三类属性词条"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "WPCLRyc3FfPT": {
+          "id": "WPCLRyc3FfPT",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "WPCLRyc3FfPT",
+            "itemIds": [
+              "pSgsEDq6OdAL"
+            ],
+            "itemMap": {
+              "pSgsEDq6OdAL": {
+                "id": "pSgsEDq6OdAL",
+                "childIds": [
+                  "QgtnF6Gt3kFV"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "gqxvbTLHYaOr": {
+          "id": "gqxvbTLHYaOr",
+          "parentId": "oZQfR0z7NWRT",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·清波寨"
                 }
               }
             ],
