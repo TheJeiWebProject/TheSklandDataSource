@@ -471,9 +471,17 @@
     },
     "name": "【玩家攻略】汤汤",
     "icon": "https://bbs.hycdn.cn/image/common/20260311/132207/69b043e8c18f320561a5cfb4_3eac6ad0.png",
+    "rarity": {
+      "stars": 6,
+      "label": "6星",
+      "color": "#bd1c1c",
+      "token": "rarity_6",
+      "tagId": "10006"
+    },
     "tags": [
       "main:游戏攻略辑",
-      "sub:干员攻略"
+      "sub:干员攻略",
+      "rarity:6"
     ],
     "source": "游戏攻略辑/干员攻略/id1171.json",
     "detailPath": "items/游戏攻略辑/干员攻略/id1171.json"
@@ -5512,6 +5520,32 @@
     ],
     "source": "终末地百科/活动/id1111.json",
     "detailPath": "items/终末地百科/活动/id1111.json"
+  },
+  {
+    "key": {
+      "id": "aef-skland.wiki.item_ref_derived_liquid_container__container__liquid_769__f2db0285658e"
+    },
+    "name": "容器(芽针溶液)",
+    "tags": [
+      "main:终末地百科",
+      "sub:物品",
+      "rarity:3"
+    ],
+    "source": "derived",
+    "detailPath": "items/_extra/idderived_liquid_container__container__liquid_769__f2db0285658e.json"
+  },
+  {
+    "key": {
+      "id": "aef-skland.wiki.item_ref_derived_liquid_container__container__liquid_201__eb90ed907d54"
+    },
+    "name": "容器(锦草溶液)",
+    "tags": [
+      "main:终末地百科",
+      "sub:物品",
+      "rarity:3"
+    ],
+    "source": "derived",
+    "detailPath": "items/_extra/idderived_liquid_container__container__liquid_201__eb90ed907d54.json"
   },
   {
     "key": {
@@ -17318,6 +17352,28 @@
     ],
     "source": "终末地百科/系统蓝图/id1237.json",
     "detailPath": "items/终末地百科/系统蓝图/id1237.json"
+  },
+  {
+    "key": {
+      "id": "aef-skland.wiki.item_1128"
+    },
+    "name": "赤铜零件",
+    "icon": "https://bbs.hycdn.cn/image/common/20260318/4863030/69ba3fcc45f7d92a73c8575e_56331367.png",
+    "description": "用途:\n用于仓储节点货物装箱。\n每装箱赤铜零件需要2点货箱容量。\n合成设备 | 原料需求 | 合成产物\n[封装机] | 赤铜零件*10+ 赤铜瓶*5已盛装[芽针溶液] | 优质芽针针剂*1\n[封装机] | 赤铜零件*10+ 赤铜瓶*5已盛装[锦草溶液] | 优质锦草软软*1\n[配件机] | 赤铜块*1 | 赤铜零件*1\n[装备原件机] | 赤铜零件*10+[息壤x10] | 赤铜装备原件*1",
+    "rarity": {
+      "stars": 3,
+      "label": "3星",
+      "color": "#66bb6a",
+      "token": "rarity_3",
+      "tagId": "10003"
+    },
+    "tags": [
+      "main:终末地百科",
+      "sub:物品",
+      "rarity:3"
+    ],
+    "source": "终末地百科/物品/id1128.json",
+    "detailPath": "items/终末地百科/物品/id1128.json"
   },
   {
     "key": {

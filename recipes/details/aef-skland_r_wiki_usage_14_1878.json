@@ -10,17 +10,52 @@
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_926",
-      "amount": 500
+      "amount": 450
     },
     "out2": {
       "kind": "item",
-      "id": "aef-skland.wiki.item_375",
-      "amount": 600
+      "id": "aef-skland.wiki.item_484",
+      "amount": 1
     },
     "out3": {
       "kind": "item",
+      "id": "aef-skland.wiki.item_485",
+      "amount": 1
+    },
+    "out4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_414",
+      "amount": 1
+    },
+    "out5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_418",
+      "amount": 1
+    },
+    "out6": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_706",
+      "amount": 1
+    },
+    "out7": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_705",
+      "amount": 1
+    },
+    "out8": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_633",
+      "amount": 1
+    },
+    "out9": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_635",
+      "amount": 1
+    },
+    "out10": {
+      "kind": "item",
       "id": "aef-skland.wiki.item_17",
-      "amount": 1975
+      "amount": 1475
     }
   },
   "params": {
@@ -29,17 +64,34 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "权限等阶奖励",
-      "panelTitle": "11-20"
+      "panelTitle": "1-10"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "6elnSSytUOI3"
+        "vCbeFx7wKEGU"
       ],
       "blockMap": {
-        "54otBFOWAgUQ": {
-          "id": "54otBFOWAgUQ",
-          "parentId": "N2ejtu_RJXAeE",
+        "0T0VrIws0ZTD": {
+          "id": "0T0VrIws0ZTD",
+          "parentId": "IX2Mvj_ZWAjbw",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "2ejA3T7IgMv6": {
+          "id": "2ejA3T7IgMv6",
+          "parentId": "ncUIeX_LEKFYq",
           "align": "center",
           "kind": "text",
           "text": {
@@ -56,29 +108,9 @@
             "kind": "body"
           }
         },
-        "5DkCHCEF9XN7": {
-          "id": "5DkCHCEF9XN7",
-          "parentId": "TESrWA_K3DDiG",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "5s3zAm6N6JqP": {
-          "id": "5s3zAm6N6JqP",
-          "parentId": "TESrWA_kY0Jwa",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "6Y0f9e4ISPL7": {
-          "id": "6Y0f9e4ISPL7",
-          "parentId": "U34fNm_fRPd8F",
+        "33CFwPhlQR3w": {
+          "id": "33CFwPhlQR3w",
+          "parentId": "vjasLv_BNUJgc",
           "align": "center",
           "kind": "text",
           "text": {
@@ -88,788 +120,16 @@
                 "entry": {
                   "id": "17",
                   "showType": "card-big",
-                  "count": "180"
+                  "count": "155"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "6elnSSytUOI3": {
-          "id": "6elnSSytUOI3",
-          "parentId": "document-id",
-          "kind": "table",
-          "table": {
-            "id": "6elnSSytUOI3",
-            "rowIds": [
-              "8Tbfb5",
-              "oaMW4R",
-              "N2ejtu",
-              "TESrWA",
-              "PmbF2S",
-              "U34fNm"
-            ],
-            "columnIds": [
-              "Kg28o9",
-              "sTPoRK",
-              "fRPd8F",
-              "iAGku7",
-              "yW4Goc",
-              "RoStyG",
-              "OaRZmv",
-              "kY0Jwa",
-              "RJXAeE",
-              "cSisjS",
-              "K3DDiG"
-            ],
-            "rowMap": {
-              "8Tbfb5": {
-                "id": "8Tbfb5"
-              },
-              "N2ejtu": {
-                "id": "N2ejtu"
-              },
-              "PmbF2S": {
-                "id": "PmbF2S"
-              },
-              "TESrWA": {
-                "id": "TESrWA"
-              },
-              "U34fNm": {
-                "id": "U34fNm"
-              },
-              "oaMW4R": {
-                "id": "oaMW4R"
-              }
-            },
-            "columnMap": {
-              "K3DDiG": {
-                "id": "K3DDiG",
-                "width": 105.45454545454545
-              },
-              "Kg28o9": {
-                "id": "Kg28o9",
-                "width": 105.45454545454545
-              },
-              "OaRZmv": {
-                "id": "OaRZmv",
-                "width": 105.45454545454545
-              },
-              "RJXAeE": {
-                "id": "RJXAeE",
-                "width": 105.45454545454545
-              },
-              "RoStyG": {
-                "id": "RoStyG",
-                "width": 105.45454545454545
-              },
-              "cSisjS": {
-                "id": "cSisjS",
-                "width": 105.45454545454545
-              },
-              "fRPd8F": {
-                "id": "fRPd8F",
-                "width": 105.45454545454545
-              },
-              "iAGku7": {
-                "id": "iAGku7",
-                "width": 105.45454545454545
-              },
-              "kY0Jwa": {
-                "id": "kY0Jwa",
-                "width": 105.45454545454545
-              },
-              "sTPoRK": {
-                "id": "sTPoRK",
-                "width": 105
-              },
-              "yW4Goc": {
-                "id": "yW4Goc",
-                "width": 105.45454545454545
-              }
-            },
-            "cellMap": {
-              "8Tbfb5_Kg28o9": {
-                "id": "8Tbfb5_Kg28o9",
-                "childIds": [
-                  "HpEfrptoqqMa"
-                ],
-                "rowSpan": "2",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "8Tbfb5_sTPoRK": {
-                "id": "8Tbfb5_sTPoRK",
-                "childIds": [
-                  "MEcPJXT2YOlm"
-                ],
-                "rowSpan": "1",
-                "colSpan": "10",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_K3DDiG": {
-                "id": "N2ejtu_K3DDiG",
-                "childIds": [
-                  "Y2IPa4xthdaQ"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_Kg28o9": {
-                "id": "N2ejtu_Kg28o9",
-                "childIds": [
-                  "NtTBuLn5GeeW"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_OaRZmv": {
-                "id": "N2ejtu_OaRZmv",
-                "childIds": [
-                  "VaWp7JRuRVw1"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_RJXAeE": {
-                "id": "N2ejtu_RJXAeE",
-                "childIds": [
-                  "54otBFOWAgUQ"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_RoStyG": {
-                "id": "N2ejtu_RoStyG",
-                "childIds": [
-                  "BCv6xe67Tpla"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_cSisjS": {
-                "id": "N2ejtu_cSisjS",
-                "childIds": [
-                  "RKOSgRsfbzh9"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_fRPd8F": {
-                "id": "N2ejtu_fRPd8F",
-                "childIds": [
-                  "HbVDrY2fYt31"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_iAGku7": {
-                "id": "N2ejtu_iAGku7",
-                "childIds": [
-                  "XU03GESmcNyU"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_kY0Jwa": {
-                "id": "N2ejtu_kY0Jwa",
-                "childIds": [
-                  "I3vP4jr1FnO7"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_sTPoRK": {
-                "id": "N2ejtu_sTPoRK",
-                "childIds": [
-                  "kchNykxCOw9H"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "N2ejtu_yW4Goc": {
-                "id": "N2ejtu_yW4Goc",
-                "childIds": [
-                  "bRddtKV7hoX0"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_K3DDiG": {
-                "id": "PmbF2S_K3DDiG",
-                "childIds": [
-                  "ZoaT6Q4kKBSk"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_Kg28o9": {
-                "id": "PmbF2S_Kg28o9",
-                "childIds": [
-                  "TzgTNpq6A8wz"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_OaRZmv": {
-                "id": "PmbF2S_OaRZmv",
-                "childIds": [
-                  "DuC0qwPMrqfA"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_RJXAeE": {
-                "id": "PmbF2S_RJXAeE",
-                "childIds": [
-                  "Mw6ez8GpLzxd"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_RoStyG": {
-                "id": "PmbF2S_RoStyG",
-                "childIds": [
-                  "pfX8RJYuEfa8"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_cSisjS": {
-                "id": "PmbF2S_cSisjS",
-                "childIds": [
-                  "pfeOufSd5Je3"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_fRPd8F": {
-                "id": "PmbF2S_fRPd8F",
-                "childIds": [
-                  "bbr1DEq5KE9s"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_iAGku7": {
-                "id": "PmbF2S_iAGku7",
-                "childIds": [
-                  "rZTy1RW3yJsQ"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_kY0Jwa": {
-                "id": "PmbF2S_kY0Jwa",
-                "childIds": [
-                  "CUvmBEUB2Cg3"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_sTPoRK": {
-                "id": "PmbF2S_sTPoRK",
-                "childIds": [
-                  "DtFJXXVSlIdw"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "PmbF2S_yW4Goc": {
-                "id": "PmbF2S_yW4Goc",
-                "childIds": [
-                  "PRCWyZulr1Jy"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_K3DDiG": {
-                "id": "TESrWA_K3DDiG",
-                "childIds": [
-                  "5DkCHCEF9XN7"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_Kg28o9": {
-                "id": "TESrWA_Kg28o9",
-                "childIds": [
-                  "zGlzoa7xvqKN"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_OaRZmv": {
-                "id": "TESrWA_OaRZmv",
-                "childIds": [
-                  "ReZEm3XcMqA9"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_RJXAeE": {
-                "id": "TESrWA_RJXAeE",
-                "childIds": [
-                  "xpMlKKjCLKgR"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_RoStyG": {
-                "id": "TESrWA_RoStyG",
-                "childIds": [
-                  "xAtkEBWwEj9C"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_cSisjS": {
-                "id": "TESrWA_cSisjS",
-                "childIds": [
-                  "Do5IiJ3ZtIsr"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_fRPd8F": {
-                "id": "TESrWA_fRPd8F",
-                "childIds": [
-                  "vMfhloqoEnhd"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_iAGku7": {
-                "id": "TESrWA_iAGku7",
-                "childIds": [
-                  "iPvAYepiSymx"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_kY0Jwa": {
-                "id": "TESrWA_kY0Jwa",
-                "childIds": [
-                  "5s3zAm6N6JqP"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_sTPoRK": {
-                "id": "TESrWA_sTPoRK",
-                "childIds": [
-                  "qQVyF36fYfUl"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TESrWA_yW4Goc": {
-                "id": "TESrWA_yW4Goc",
-                "childIds": [
-                  "RO6YWsk31g7L"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_K3DDiG": {
-                "id": "U34fNm_K3DDiG",
-                "childIds": [
-                  "EWIekbvCwGwr"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_Kg28o9": {
-                "id": "U34fNm_Kg28o9",
-                "childIds": [
-                  "NpsVmiltbL0c"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_OaRZmv": {
-                "id": "U34fNm_OaRZmv",
-                "childIds": [
-                  "khwxnmofdQ77"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_RJXAeE": {
-                "id": "U34fNm_RJXAeE",
-                "childIds": [
-                  "kiYZzyCI5ZPj"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_RoStyG": {
-                "id": "U34fNm_RoStyG",
-                "childIds": [
-                  "yBTDZggaGNEr"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_cSisjS": {
-                "id": "U34fNm_cSisjS",
-                "childIds": [
-                  "LTNYUk1huuqz"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_fRPd8F": {
-                "id": "U34fNm_fRPd8F",
-                "childIds": [
-                  "6Y0f9e4ISPL7"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_iAGku7": {
-                "id": "U34fNm_iAGku7",
-                "childIds": [
-                  "a4o7oLVCr3lv"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_kY0Jwa": {
-                "id": "U34fNm_kY0Jwa",
-                "childIds": [
-                  "Zo81Gv0Yo9vN"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_sTPoRK": {
-                "id": "U34fNm_sTPoRK",
-                "childIds": [
-                  "jzIiAodbgZ3a"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "U34fNm_yW4Goc": {
-                "id": "U34fNm_yW4Goc",
-                "childIds": [
-                  "94w7rANVJw0i"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_K3DDiG": {
-                "id": "oaMW4R_K3DDiG",
-                "childIds": [
-                  "BB7a3OXueEB1"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_OaRZmv": {
-                "id": "oaMW4R_OaRZmv",
-                "childIds": [
-                  "o12O9EbDPNTQ"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_RJXAeE": {
-                "id": "oaMW4R_RJXAeE",
-                "childIds": [
-                  "J084QP1z9vZO"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_RoStyG": {
-                "id": "oaMW4R_RoStyG",
-                "childIds": [
-                  "QWxUZvZPzDmJ"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_cSisjS": {
-                "id": "oaMW4R_cSisjS",
-                "childIds": [
-                  "C5OLt9htDgK0"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_fRPd8F": {
-                "id": "oaMW4R_fRPd8F",
-                "childIds": [
-                  "TpepeLGeZwIN"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_iAGku7": {
-                "id": "oaMW4R_iAGku7",
-                "childIds": [
-                  "a5xtA2qTrnuR"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_kY0Jwa": {
-                "id": "oaMW4R_kY0Jwa",
-                "childIds": [
-                  "IDPfJezhfHLI"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_sTPoRK": {
-                "id": "oaMW4R_sTPoRK",
-                "childIds": [
-                  "BAPVxO1iV3px"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "oaMW4R_yW4Goc": {
-                "id": "oaMW4R_yW4Goc",
-                "childIds": [
-                  "R6CZ3Umgk673"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              }
-            },
-            "description": "",
-            "rowHeader": true,
-            "colHeader": true
-          }
-        },
-        "94w7rANVJw0i": {
-          "id": "94w7rANVJw0i",
-          "parentId": "U34fNm_yW4Goc",
+        "3Ki16WxffTZ2": {
+          "id": "3Ki16WxffTZ2",
+          "parentId": "vjasLv_o76vJo",
           "align": "center",
           "kind": "text",
           "text": {
@@ -879,16 +139,16 @@
                 "entry": {
                   "id": "17",
                   "showType": "card-big",
-                  "count": "190"
+                  "count": "160"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "BAPVxO1iV3px": {
-          "id": "BAPVxO1iV3px",
-          "parentId": "oaMW4R_sTPoRK",
+        "4MVncQtU5Lxw": {
+          "id": "4MVncQtU5Lxw",
+          "parentId": "vgiA4z_he9nyT",
           "align": "center",
           "kind": "text",
           "text": {
@@ -898,35 +158,35 @@
                 "color": "light_rank_blue",
                 "kind": "text",
                 "text": {
-                  "text": "11"
+                  "text": "2"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "BB7a3OXueEB1": {
-          "id": "BB7a3OXueEB1",
-          "parentId": "oaMW4R_K3DDiG",
+        "4j7jrV23q5IF": {
+          "id": "4j7jrV23q5IF",
+          "parentId": "vjasLv_MGFJOK",
           "align": "center",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "bold": true,
-                "color": "light_rank_purple",
-                "kind": "text",
-                "text": {
-                  "text": "20"
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "card-big",
+                  "count": "140"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "BCv6xe67Tpla": {
-          "id": "BCv6xe67Tpla",
-          "parentId": "N2ejtu_RoStyG",
+        "4nfL1pf0RtrK": {
+          "id": "4nfL1pf0RtrK",
+          "parentId": "ncUIeX_BNUJgc",
           "align": "center",
           "kind": "text",
           "text": {
@@ -943,86 +203,53 @@
             "kind": "body"
           }
         },
-        "C5OLt9htDgK0": {
-          "id": "C5OLt9htDgK0",
-          "parentId": "oaMW4R_cSisjS",
+        "70I3d2VNkqyg": {
+          "id": "70I3d2VNkqyg",
+          "parentId": "2jIm8P_d2V1TV",
           "align": "center",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "bold": true,
-                "color": "light_rank_blue",
+                "kind": "entry",
+                "entry": {
+                  "id": "706",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "705",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "8Vcc9pY1bEec": {
+          "id": "8Vcc9pY1bEec",
+          "parentId": "IX2Mvj_LEKFYq",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
                 "kind": "text",
                 "text": {
-                  "text": "19"
+                  "text": "-"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "CUvmBEUB2Cg3": {
-          "id": "CUvmBEUB2Cg3",
-          "parentId": "PmbF2S_kY0Jwa",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "375",
-                  "showType": "card-big",
-                  "count": "200"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "Do5IiJ3ZtIsr": {
-          "id": "Do5IiJ3ZtIsr",
-          "parentId": "TESrWA_cSisjS",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "DtFJXXVSlIdw": {
-          "id": "DtFJXXVSlIdw",
-          "parentId": "PmbF2S_sTPoRK",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "DuC0qwPMrqfA": {
-          "id": "DuC0qwPMrqfA",
-          "parentId": "PmbF2S_OaRZmv",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "375",
-                  "showType": "card-big",
-                  "count": "200"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "EWIekbvCwGwr": {
-          "id": "EWIekbvCwGwr",
-          "parentId": "U34fNm_K3DDiG",
+        "8coudfzIek4E": {
+          "id": "8coudfzIek4E",
+          "parentId": "vjasLv_d2V1TV",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1032,16 +259,52 @@
                 "entry": {
                   "id": "17",
                   "showType": "card-big",
-                  "count": "220"
+                  "count": "165"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "HbVDrY2fYt31": {
-          "id": "HbVDrY2fYt31",
-          "parentId": "N2ejtu_fRPd8F",
+        "986WgNOkT2VJ": {
+          "id": "986WgNOkT2VJ",
+          "parentId": "2jIm8P_LEKFYq",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "9RR4msYw5qHF": {
+          "id": "9RR4msYw5qHF",
+          "parentId": "vgiA4z_d2V1TV",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_blue",
+                "kind": "text",
+                "text": {
+                  "text": "9"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ABg8OEghhGJO": {
+          "id": "ABg8OEghhGJO",
+          "parentId": "ncUIeX_qSC3Ih",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1058,27 +321,28 @@
             "kind": "body"
           }
         },
-        "HpEfrptoqqMa": {
-          "id": "HpEfrptoqqMa",
-          "parentId": "8Tbfb5_Kg28o9",
+        "BWCOz8RSw0JG": {
+          "id": "BWCOz8RSw0JG",
+          "parentId": "2jIm8P_o76vJo",
           "align": "center",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "奖励类别"
+                "kind": "entry",
+                "entry": {
+                  "id": "418",
+                  "showType": "card-big",
+                  "count": "0"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "I3vP4jr1FnO7": {
-          "id": "I3vP4jr1FnO7",
-          "parentId": "N2ejtu_kY0Jwa",
+        "ELlJekgAPl0H": {
+          "id": "ELlJekgAPl0H",
+          "parentId": "ncUIeX_fCTaB1",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1095,47 +359,9 @@
             "kind": "body"
           }
         },
-        "IDPfJezhfHLI": {
-          "id": "IDPfJezhfHLI",
-          "parentId": "oaMW4R_kY0Jwa",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "color": "light_rank_blue",
-                "kind": "text",
-                "text": {
-                  "text": "17"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "J084QP1z9vZO": {
-          "id": "J084QP1z9vZO",
-          "parentId": "oaMW4R_RJXAeE",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "color": "light_rank_blue",
-                "kind": "text",
-                "text": {
-                  "text": "18"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "LTNYUk1huuqz": {
-          "id": "LTNYUk1huuqz",
-          "parentId": "U34fNm_cSisjS",
+        "FHH4lqEYIP14": {
+          "id": "FHH4lqEYIP14",
+          "parentId": "vjasLv_he9nyT",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1145,71 +371,16 @@
                 "entry": {
                   "id": "17",
                   "showType": "card-big",
-                  "count": "215"
+                  "count": "130"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "MEcPJXT2YOlm": {
-          "id": "MEcPJXT2YOlm",
-          "parentId": "8Tbfb5_sTPoRK",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "权限等阶"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "Mw6ez8GpLzxd": {
-          "id": "Mw6ez8GpLzxd",
-          "parentId": "PmbF2S_RJXAeE",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "375",
-                  "showType": "card-big",
-                  "count": "200"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "NpsVmiltbL0c": {
-          "id": "NpsVmiltbL0c",
-          "parentId": "U34fNm_Kg28o9",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "理智上限"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "NtTBuLn5GeeW": {
-          "id": "NtTBuLn5GeeW",
-          "parentId": "N2ejtu_Kg28o9",
+        "HRFTyLlPzEjc": {
+          "id": "HRFTyLlPzEjc",
+          "parentId": "ncUIeX_wLmwMb",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1225,9 +396,9 @@
             "kind": "body"
           }
         },
-        "PRCWyZulr1Jy": {
-          "id": "PRCWyZulr1Jy",
-          "parentId": "PmbF2S_yW4Goc",
+        "J8j9ZZRL8CUu": {
+          "id": "J8j9ZZRL8CUu",
+          "parentId": "IX2Mvj_d2V1TV",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1242,28 +413,43 @@
             "kind": "body"
           }
         },
-        "QWxUZvZPzDmJ": {
-          "id": "QWxUZvZPzDmJ",
-          "parentId": "oaMW4R_RoStyG",
+        "K3Xn6CwAZm7I": {
+          "id": "K3Xn6CwAZm7I",
+          "parentId": "IX2Mvj_qSC3Ih",
           "align": "center",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "bold": true,
-                "color": "light_rank_purple",
                 "kind": "text",
                 "text": {
-                  "text": "15"
+                  "text": "-"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "R6CZ3Umgk673": {
-          "id": "R6CZ3Umgk673",
-          "parentId": "oaMW4R_yW4Goc",
+        "KBaXGBBFB0HB": {
+          "id": "KBaXGBBFB0HB",
+          "parentId": "IX2Mvj_fCTaB1",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "LMoBkRVQD9gr": {
+          "id": "LMoBkRVQD9gr",
+          "parentId": "vgiA4z_BNUJgc",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1273,16 +459,126 @@
                 "color": "light_rank_blue",
                 "kind": "text",
                 "text": {
-                  "text": "14"
+                  "text": "7"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "RKOSgRsfbzh9": {
-          "id": "RKOSgRsfbzh9",
-          "parentId": "N2ejtu_cSisjS",
+        "MWi5U4Zwo6sV": {
+          "id": "MWi5U4Zwo6sV",
+          "parentId": "ncUIeX_62RKwA",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "O93YSk1xrSJV": {
+          "id": "O93YSk1xrSJV",
+          "parentId": "vjasLv_62RKwA",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "card-big",
+                  "count": "125"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "OwEO5svigClO": {
+          "id": "OwEO5svigClO",
+          "parentId": "vgiA4z_qSC3Ih",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_purple",
+                "kind": "text",
+                "text": {
+                  "text": "10"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "P43OkZI7Edux": {
+          "id": "P43OkZI7Edux",
+          "parentId": "vgiA4z_MGFJOK",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_blue",
+                "kind": "text",
+                "text": {
+                  "text": "4"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Q6hPZtJO2Ygl": {
+          "id": "Q6hPZtJO2Ygl",
+          "parentId": "2jIm8P_he9nyT",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QOIoLSEiXFvV": {
+          "id": "QOIoLSEiXFvV",
+          "parentId": "vjasLv_LEKFYq",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "card-big",
+                  "count": "135"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "RB1h4enUmqIM": {
+          "id": "RB1h4enUmqIM",
+          "parentId": "ncUIeX_ZWAjbw",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1299,29 +595,27 @@
             "kind": "body"
           }
         },
-        "RO6YWsk31g7L": {
-          "id": "RO6YWsk31g7L",
-          "parentId": "TESrWA_yW4Goc",
+        "RCiQ16DpfagZ": {
+          "id": "RCiQ16DpfagZ",
+          "parentId": "2jIm8P_wLmwMb",
           "align": "center",
           "kind": "text",
           "text": {
-            "inlineElements": [],
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "制造模板"
+                }
+              }
+            ],
             "kind": "body"
           }
         },
-        "ReZEm3XcMqA9": {
-          "id": "ReZEm3XcMqA9",
-          "parentId": "TESrWA_OaRZmv",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "TpepeLGeZwIN": {
-          "id": "TpepeLGeZwIN",
-          "parentId": "oaMW4R_fRPd8F",
+        "RMgjK7wUeKJF": {
+          "id": "RMgjK7wUeKJF",
+          "parentId": "vgiA4z_62RKwA",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1331,16 +625,73 @@
                 "color": "light_rank_blue",
                 "kind": "text",
                 "text": {
-                  "text": "12"
+                  "text": "1"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "TzgTNpq6A8wz": {
-          "id": "TzgTNpq6A8wz",
-          "parentId": "PmbF2S_Kg28o9",
+        "Rl8xMM2DXi7m": {
+          "id": "Rl8xMM2DXi7m",
+          "parentId": "vgiA4z_o76vJo",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_blue",
+                "kind": "text",
+                "text": {
+                  "text": "8"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "SVcshy2b7SQe": {
+          "id": "SVcshy2b7SQe",
+          "parentId": "ncUIeX_o76vJo",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "50"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "URwlLCxHPPMm": {
+          "id": "URwlLCxHPPMm",
+          "parentId": "vjasLv_fCTaB1",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "card-big",
+                  "count": "150"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "WiNHARL2VaQG": {
+          "id": "WiNHARL2VaQG",
+          "parentId": "IX2Mvj_wLmwMb",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1356,66 +707,9 @@
             "kind": "body"
           }
         },
-        "VaWp7JRuRVw1": {
-          "id": "VaWp7JRuRVw1",
-          "parentId": "N2ejtu_OaRZmv",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "926",
-                  "showType": "card-big",
-                  "count": "50"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "XU03GESmcNyU": {
-          "id": "XU03GESmcNyU",
-          "parentId": "N2ejtu_iAGku7",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "926",
-                  "showType": "card-big",
-                  "count": "50"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "Y2IPa4xthdaQ": {
-          "id": "Y2IPa4xthdaQ",
-          "parentId": "N2ejtu_K3DDiG",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "926",
-                  "showType": "card-big",
-                  "count": "100"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "Zo81Gv0Yo9vN": {
-          "id": "Zo81Gv0Yo9vN",
-          "parentId": "U34fNm_kY0Jwa",
+        "X3qeC1yf8QUI": {
+          "id": "X3qeC1yf8QUI",
+          "parentId": "vjasLv_qSC3Ih",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1425,16 +719,147 @@
                 "entry": {
                   "id": "17",
                   "showType": "card-big",
-                  "count": "205"
+                  "count": "170"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "ZoaT6Q4kKBSk": {
-          "id": "ZoaT6Q4kKBSk",
-          "parentId": "PmbF2S_K3DDiG",
+        "X56rOc6rqE3B": {
+          "id": "X56rOc6rqE3B",
+          "parentId": "U6HJy3_wLmwMb",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "奖励类别"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "cNjALPHdyOhr": {
+          "id": "cNjALPHdyOhr",
+          "parentId": "2jIm8P_ZWAjbw",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "484",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "d5k1AMIR2F82": {
+          "id": "d5k1AMIR2F82",
+          "parentId": "ncUIeX_d2V1TV",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "50"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "dDNRnk9tAbck": {
+          "id": "dDNRnk9tAbck",
+          "parentId": "ncUIeX_MGFJOK",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "50"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "fd2x1pmXUpGd": {
+          "id": "fd2x1pmXUpGd",
+          "parentId": "ncUIeX_he9nyT",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "50"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "hnF5yLHUoQau": {
+          "id": "hnF5yLHUoQau",
+          "parentId": "vjasLv_wLmwMb",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "理智上限"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "hsIPIdARk1np": {
+          "id": "hsIPIdARk1np",
+          "parentId": "vjasLv_ZWAjbw",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "card-big",
+                  "count": "145"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "lC8G8lgvLkph": {
+          "id": "lC8G8lgvLkph",
+          "parentId": "IX2Mvj_BNUJgc",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1449,28 +874,9 @@
             "kind": "body"
           }
         },
-        "a4o7oLVCr3lv": {
-          "id": "a4o7oLVCr3lv",
-          "parentId": "U34fNm_iAGku7",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "17",
-                  "showType": "card-big",
-                  "count": "185"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "a5xtA2qTrnuR": {
-          "id": "a5xtA2qTrnuR",
-          "parentId": "oaMW4R_iAGku7",
+        "lpNUTr91Dt6B": {
+          "id": "lpNUTr91Dt6B",
+          "parentId": "vgiA4z_LEKFYq",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1480,129 +886,16 @@
                 "color": "light_rank_blue",
                 "kind": "text",
                 "text": {
-                  "text": "13"
+                  "text": "3"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "bRddtKV7hoX0": {
-          "id": "bRddtKV7hoX0",
-          "parentId": "N2ejtu_yW4Goc",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "926",
-                  "showType": "card-big",
-                  "count": "50"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "bbr1DEq5KE9s": {
-          "id": "bbr1DEq5KE9s",
-          "parentId": "PmbF2S_fRPd8F",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "-"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "iPvAYepiSymx": {
-          "id": "iPvAYepiSymx",
-          "parentId": "TESrWA_iAGku7",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "jzIiAodbgZ3a": {
-          "id": "jzIiAodbgZ3a",
-          "parentId": "U34fNm_sTPoRK",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "17",
-                  "showType": "card-big",
-                  "count": "175"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "kchNykxCOw9H": {
-          "id": "kchNykxCOw9H",
-          "parentId": "N2ejtu_sTPoRK",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "khwxnmofdQ77": {
-          "id": "khwxnmofdQ77",
-          "parentId": "U34fNm_OaRZmv",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "17",
-                  "showType": "card-big",
-                  "count": "200"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "kiYZzyCI5ZPj": {
-          "id": "kiYZzyCI5ZPj",
-          "parentId": "U34fNm_RJXAeE",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "17",
-                  "showType": "card-big",
-                  "count": "210"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "o12O9EbDPNTQ": {
-          "id": "o12O9EbDPNTQ",
-          "parentId": "oaMW4R_OaRZmv",
+        "mtDbuqcW6QRq": {
+          "id": "mtDbuqcW6QRq",
+          "parentId": "vgiA4z_fCTaB1",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1612,107 +905,16 @@
                 "color": "light_rank_blue",
                 "kind": "text",
                 "text": {
-                  "text": "16"
+                  "text": "6"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "pfX8RJYuEfa8": {
-          "id": "pfX8RJYuEfa8",
-          "parentId": "PmbF2S_RoStyG",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "-"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "pfeOufSd5Je3": {
-          "id": "pfeOufSd5Je3",
-          "parentId": "PmbF2S_cSisjS",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "-"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "qQVyF36fYfUl": {
-          "id": "qQVyF36fYfUl",
-          "parentId": "TESrWA_sTPoRK",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "rZTy1RW3yJsQ": {
-          "id": "rZTy1RW3yJsQ",
-          "parentId": "PmbF2S_iAGku7",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "-"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "vMfhloqoEnhd": {
-          "id": "vMfhloqoEnhd",
-          "parentId": "TESrWA_fRPd8F",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "xAtkEBWwEj9C": {
-          "id": "xAtkEBWwEj9C",
-          "parentId": "TESrWA_RoStyG",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "xpMlKKjCLKgR": {
-          "id": "xpMlKKjCLKgR",
-          "parentId": "TESrWA_RJXAeE",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "yBTDZggaGNEr": {
-          "id": "yBTDZggaGNEr",
-          "parentId": "U34fNm_RoStyG",
+        "os2pKRWXW7oE": {
+          "id": "os2pKRWXW7oE",
+          "parentId": "2jIm8P_BNUJgc",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1720,18 +922,69 @@
               {
                 "kind": "entry",
                 "entry": {
-                  "id": "17",
+                  "id": "414",
                   "showType": "card-big",
-                  "count": "195"
+                  "count": "0"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "zGlzoa7xvqKN": {
-          "id": "zGlzoa7xvqKN",
-          "parentId": "TESrWA_Kg28o9",
+        "p6wFzml3pFC6": {
+          "id": "p6wFzml3pFC6",
+          "parentId": "IX2Mvj_o76vJo",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pao2AIwKeDYB": {
+          "id": "pao2AIwKeDYB",
+          "parentId": "2jIm8P_MGFJOK",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "rCreEOzFrJnq": {
+          "id": "rCreEOzFrJnq",
+          "parentId": "IX2Mvj_MGFJOK",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "uZGZzpoIBlYW": {
+          "id": "uZGZzpoIBlYW",
+          "parentId": "U6HJy3_62RKwA",
           "align": "center",
           "kind": "text",
           "text": {
@@ -1740,7 +993,837 @@
                 "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "制造模板"
+                  "text": "权限等阶"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "upfFJTs3hCwp": {
+          "id": "upfFJTs3hCwp",
+          "parentId": "IX2Mvj_he9nyT",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "-"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "vCbeFx7wKEGU": {
+          "id": "vCbeFx7wKEGU",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "vCbeFx7wKEGU",
+            "rowIds": [
+              "U6HJy3",
+              "vgiA4z",
+              "ncUIeX",
+              "2jIm8P",
+              "IX2Mvj",
+              "vjasLv"
+            ],
+            "columnIds": [
+              "wLmwMb",
+              "62RKwA",
+              "he9nyT",
+              "LEKFYq",
+              "MGFJOK",
+              "ZWAjbw",
+              "fCTaB1",
+              "BNUJgc",
+              "o76vJo",
+              "d2V1TV",
+              "qSC3Ih"
+            ],
+            "rowMap": {
+              "2jIm8P": {
+                "id": "2jIm8P"
+              },
+              "IX2Mvj": {
+                "id": "IX2Mvj"
+              },
+              "U6HJy3": {
+                "id": "U6HJy3"
+              },
+              "ncUIeX": {
+                "id": "ncUIeX"
+              },
+              "vgiA4z": {
+                "id": "vgiA4z"
+              },
+              "vjasLv": {
+                "id": "vjasLv"
+              }
+            },
+            "columnMap": {
+              "62RKwA": {
+                "id": "62RKwA",
+                "width": 105.45454545454545
+              },
+              "BNUJgc": {
+                "id": "BNUJgc",
+                "width": 105.45454545454545
+              },
+              "LEKFYq": {
+                "id": "LEKFYq",
+                "width": 105.45454545454545
+              },
+              "MGFJOK": {
+                "id": "MGFJOK",
+                "width": 105.45454545454545
+              },
+              "ZWAjbw": {
+                "id": "ZWAjbw",
+                "width": 105.45454545454545
+              },
+              "d2V1TV": {
+                "id": "d2V1TV",
+                "width": 105.45454545454545
+              },
+              "fCTaB1": {
+                "id": "fCTaB1",
+                "width": 105.45454545454545
+              },
+              "he9nyT": {
+                "id": "he9nyT",
+                "width": 105.45454545454545
+              },
+              "o76vJo": {
+                "id": "o76vJo",
+                "width": 105.45454545454545
+              },
+              "qSC3Ih": {
+                "id": "qSC3Ih",
+                "width": 105.45454545454545
+              },
+              "wLmwMb": {
+                "id": "wLmwMb",
+                "width": 105.45454545454545
+              }
+            },
+            "cellMap": {
+              "2jIm8P_BNUJgc": {
+                "id": "2jIm8P_BNUJgc",
+                "childIds": [
+                  "os2pKRWXW7oE"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_LEKFYq": {
+                "id": "2jIm8P_LEKFYq",
+                "childIds": [
+                  "986WgNOkT2VJ"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_MGFJOK": {
+                "id": "2jIm8P_MGFJOK",
+                "childIds": [
+                  "pao2AIwKeDYB"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_ZWAjbw": {
+                "id": "2jIm8P_ZWAjbw",
+                "childIds": [
+                  "cNjALPHdyOhr"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_d2V1TV": {
+                "id": "2jIm8P_d2V1TV",
+                "childIds": [
+                  "70I3d2VNkqyg"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_fCTaB1": {
+                "id": "2jIm8P_fCTaB1",
+                "childIds": [
+                  "xzvv0uD3MuWR"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_he9nyT": {
+                "id": "2jIm8P_he9nyT",
+                "childIds": [
+                  "Q6hPZtJO2Ygl"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_o76vJo": {
+                "id": "2jIm8P_o76vJo",
+                "childIds": [
+                  "BWCOz8RSw0JG"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_qSC3Ih": {
+                "id": "2jIm8P_qSC3Ih",
+                "childIds": [
+                  "z9nktnPI3ADr"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2jIm8P_wLmwMb": {
+                "id": "2jIm8P_wLmwMb",
+                "childIds": [
+                  "RCiQ16DpfagZ"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_BNUJgc": {
+                "id": "IX2Mvj_BNUJgc",
+                "childIds": [
+                  "lC8G8lgvLkph"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_LEKFYq": {
+                "id": "IX2Mvj_LEKFYq",
+                "childIds": [
+                  "8Vcc9pY1bEec"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_MGFJOK": {
+                "id": "IX2Mvj_MGFJOK",
+                "childIds": [
+                  "rCreEOzFrJnq"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_ZWAjbw": {
+                "id": "IX2Mvj_ZWAjbw",
+                "childIds": [
+                  "0T0VrIws0ZTD"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_d2V1TV": {
+                "id": "IX2Mvj_d2V1TV",
+                "childIds": [
+                  "J8j9ZZRL8CUu"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_fCTaB1": {
+                "id": "IX2Mvj_fCTaB1",
+                "childIds": [
+                  "KBaXGBBFB0HB"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_he9nyT": {
+                "id": "IX2Mvj_he9nyT",
+                "childIds": [
+                  "upfFJTs3hCwp"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_o76vJo": {
+                "id": "IX2Mvj_o76vJo",
+                "childIds": [
+                  "p6wFzml3pFC6"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_qSC3Ih": {
+                "id": "IX2Mvj_qSC3Ih",
+                "childIds": [
+                  "K3Xn6CwAZm7I"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "IX2Mvj_wLmwMb": {
+                "id": "IX2Mvj_wLmwMb",
+                "childIds": [
+                  "WiNHARL2VaQG"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "U6HJy3_62RKwA": {
+                "id": "U6HJy3_62RKwA",
+                "childIds": [
+                  "uZGZzpoIBlYW"
+                ],
+                "rowSpan": "1",
+                "colSpan": "10",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "U6HJy3_wLmwMb": {
+                "id": "U6HJy3_wLmwMb",
+                "childIds": [
+                  "X56rOc6rqE3B"
+                ],
+                "rowSpan": "2",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_62RKwA": {
+                "id": "ncUIeX_62RKwA",
+                "childIds": [
+                  "MWi5U4Zwo6sV"
+                ],
+                "rowSpan": "3",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_BNUJgc": {
+                "id": "ncUIeX_BNUJgc",
+                "childIds": [
+                  "4nfL1pf0RtrK"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_LEKFYq": {
+                "id": "ncUIeX_LEKFYq",
+                "childIds": [
+                  "2ejA3T7IgMv6"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_MGFJOK": {
+                "id": "ncUIeX_MGFJOK",
+                "childIds": [
+                  "dDNRnk9tAbck"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_ZWAjbw": {
+                "id": "ncUIeX_ZWAjbw",
+                "childIds": [
+                  "RB1h4enUmqIM"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_d2V1TV": {
+                "id": "ncUIeX_d2V1TV",
+                "childIds": [
+                  "d5k1AMIR2F82"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_fCTaB1": {
+                "id": "ncUIeX_fCTaB1",
+                "childIds": [
+                  "ELlJekgAPl0H"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_he9nyT": {
+                "id": "ncUIeX_he9nyT",
+                "childIds": [
+                  "fd2x1pmXUpGd"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_o76vJo": {
+                "id": "ncUIeX_o76vJo",
+                "childIds": [
+                  "SVcshy2b7SQe"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_qSC3Ih": {
+                "id": "ncUIeX_qSC3Ih",
+                "childIds": [
+                  "ABg8OEghhGJO"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "ncUIeX_wLmwMb": {
+                "id": "ncUIeX_wLmwMb",
+                "childIds": [
+                  "HRFTyLlPzEjc"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_62RKwA": {
+                "id": "vgiA4z_62RKwA",
+                "childIds": [
+                  "RMgjK7wUeKJF"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_BNUJgc": {
+                "id": "vgiA4z_BNUJgc",
+                "childIds": [
+                  "LMoBkRVQD9gr"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_LEKFYq": {
+                "id": "vgiA4z_LEKFYq",
+                "childIds": [
+                  "lpNUTr91Dt6B"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_MGFJOK": {
+                "id": "vgiA4z_MGFJOK",
+                "childIds": [
+                  "P43OkZI7Edux"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_ZWAjbw": {
+                "id": "vgiA4z_ZWAjbw",
+                "childIds": [
+                  "xmI0eAb8UX5e"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_d2V1TV": {
+                "id": "vgiA4z_d2V1TV",
+                "childIds": [
+                  "9RR4msYw5qHF"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_fCTaB1": {
+                "id": "vgiA4z_fCTaB1",
+                "childIds": [
+                  "mtDbuqcW6QRq"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_he9nyT": {
+                "id": "vgiA4z_he9nyT",
+                "childIds": [
+                  "4MVncQtU5Lxw"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_o76vJo": {
+                "id": "vgiA4z_o76vJo",
+                "childIds": [
+                  "Rl8xMM2DXi7m"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vgiA4z_qSC3Ih": {
+                "id": "vgiA4z_qSC3Ih",
+                "childIds": [
+                  "OwEO5svigClO"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_62RKwA": {
+                "id": "vjasLv_62RKwA",
+                "childIds": [
+                  "O93YSk1xrSJV"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_BNUJgc": {
+                "id": "vjasLv_BNUJgc",
+                "childIds": [
+                  "33CFwPhlQR3w"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_LEKFYq": {
+                "id": "vjasLv_LEKFYq",
+                "childIds": [
+                  "QOIoLSEiXFvV"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_MGFJOK": {
+                "id": "vjasLv_MGFJOK",
+                "childIds": [
+                  "4j7jrV23q5IF"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_ZWAjbw": {
+                "id": "vjasLv_ZWAjbw",
+                "childIds": [
+                  "hsIPIdARk1np"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_d2V1TV": {
+                "id": "vjasLv_d2V1TV",
+                "childIds": [
+                  "8coudfzIek4E"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_fCTaB1": {
+                "id": "vjasLv_fCTaB1",
+                "childIds": [
+                  "URwlLCxHPPMm"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_he9nyT": {
+                "id": "vjasLv_he9nyT",
+                "childIds": [
+                  "FHH4lqEYIP14"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_o76vJo": {
+                "id": "vjasLv_o76vJo",
+                "childIds": [
+                  "3Ki16WxffTZ2"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_qSC3Ih": {
+                "id": "vjasLv_qSC3Ih",
+                "childIds": [
+                  "X3qeC1yf8QUI"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "vjasLv_wLmwMb": {
+                "id": "vjasLv_wLmwMb",
+                "childIds": [
+                  "hnF5yLHUoQau"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": true,
+            "colHeader": true
+          }
+        },
+        "xmI0eAb8UX5e": {
+          "id": "xmI0eAb8UX5e",
+          "parentId": "vgiA4z_ZWAjbw",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_blue",
+                "kind": "text",
+                "text": {
+                  "text": "5"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "xzvv0uD3MuWR": {
+          "id": "xzvv0uD3MuWR",
+          "parentId": "2jIm8P_fCTaB1",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "485",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "z9nktnPI3ADr": {
+          "id": "z9nktnPI3ADr",
+          "parentId": "2jIm8P_qSC3Ih",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "633",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "635",
+                  "showType": "card-big",
+                  "count": "0"
                 }
               }
             ],

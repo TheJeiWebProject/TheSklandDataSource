@@ -4,27 +4,350 @@
   },
   "name": "【玩家攻略】汤汤",
   "icon": "https://bbs.hycdn.cn/image/common/20260311/132207/69b043e8c18f320561a5cfb4_3eac6ad0.png",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
   "tags": [
     "main:游戏攻略辑",
-    "sub:干员攻略"
+    "sub:干员攻略",
+    "rarity:6"
   ],
   "source": "游戏攻略辑/干员攻略/id1171.json",
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773803869",
+    "timestamp": "1773890345",
     "data": {
       "item": {
         "itemId": "1171",
         "document": {
-          "documentMap": {},
-          "chapterGroup": [],
+          "documentMap": {
+            "59IhN8EY": {
+              "id": "document-id",
+              "blockIds": [
+                "2aWn6wJFWZbq",
+                "5xW8WVwNCX0k"
+              ],
+              "blockMap": {
+                "2aWn6wJFWZbq": {
+                  "id": "2aWn6wJFWZbq",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ba97668beddd4c8ef787e2",
+                    "url": "https://bbs.hycdn.cn/image/common/20260318/132207/69ba97668beddd4c8ef787e2_96d20048.webp",
+                    "width": "2480",
+                    "height": "5322",
+                    "size": "949254",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "5xW8WVwNCX0k": {
+                  "id": "5xW8WVwNCX0k",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "FkhxjEmo": {
+              "id": "document-id",
+              "blockIds": [
+                "NwdTIGQGkivW",
+                "kC2pu6WIyPHV"
+              ],
+              "blockMap": {
+                "NwdTIGQGkivW": {
+                  "id": "NwdTIGQGkivW",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ba98398beddd4c8ef787e5",
+                    "url": "https://bbs.hycdn.cn/image/common/20260318/132207/69ba98398beddd4c8ef787e5_004865de.webp",
+                    "width": "1001",
+                    "height": "4333",
+                    "size": "483894",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "kC2pu6WIyPHV": {
+                  "id": "kC2pu6WIyPHV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "HxmOLHVh": {
+              "id": "document-id",
+              "blockIds": [
+                "F3YkqSdsSGEp",
+                "2CZmCMx9wKux",
+                "T3CqhT8DsIVy",
+                "7C21n39mPNDt",
+                "ZF88uLjJAPaE"
+              ],
+              "blockMap": {
+                "2CZmCMx9wKux": {
+                  "id": "2CZmCMx9wKux",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ba9720c18f320561a604c0",
+                    "url": "https://bbs.hycdn.cn/image/common/20260318/132207/69ba9720c18f320561a604c0_65de0095.webp",
+                    "width": "2000",
+                    "height": "3200",
+                    "size": "754812",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "7C21n39mPNDt": {
+                  "id": "7C21n39mPNDt",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ba972b4298be0edf045c21",
+                    "url": "https://bbs.hycdn.cn/image/common/20260318/132207/69ba972b4298be0edf045c21_004865de.webp",
+                    "width": "2000",
+                    "height": "3200",
+                    "size": "440624",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "F3YkqSdsSGEp": {
+                  "id": "F3YkqSdsSGEp",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ba9715d04467ac08dc828f",
+                    "url": "https://bbs.hycdn.cn/image/common/20260318/132207/69ba9715d04467ac08dc828f_0095c241.webp",
+                    "width": "1440",
+                    "height": "3200",
+                    "size": "452262",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "T3CqhT8DsIVy": {
+                  "id": "T3CqhT8DsIVy",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ba972645f7d92a73c85937",
+                    "url": "https://bbs.hycdn.cn/image/common/20260318/132207/69ba972645f7d92a73c85937_004865de.webp",
+                    "width": "2000",
+                    "height": "3200",
+                    "size": "367180",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "ZF88uLjJAPaE": {
+                  "id": "ZF88uLjJAPaE",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "XPPYYNiw": {
+              "id": "document-id",
+              "blockIds": [
+                "yyiBEXcnIYMY",
+                "jyWeua0trvTm"
+              ],
+              "blockMap": {
+                "jyWeua0trvTm": {
+                  "id": "jyWeua0trvTm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "yyiBEXcnIYMY": {
+                  "id": "yyiBEXcnIYMY",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ba97440b797bd73811dd07",
+                    "url": "https://bbs.hycdn.cn/image/common/20260318/132207/69ba97440b797bd73811dd07_004865de.webp",
+                    "width": "1280",
+                    "height": "14000",
+                    "size": "1103152",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "wVPVNbvS": {
+              "id": "document-id",
+              "blockIds": [
+                "QEpGJKi6soRS",
+                "K1gLQ0TiiuZj"
+              ],
+              "blockMap": {
+                "K1gLQ0TiiuZj": {
+                  "id": "K1gLQ0TiiuZj",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "QEpGJKi6soRS": {
+                  "id": "QEpGJKi6soRS",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ba98110b797bd73811dd09",
+                    "url": "https://bbs.hycdn.cn/image/common/20260318/132207/69ba98110b797bd73811dd09_91c496d2.webp",
+                    "width": "1024",
+                    "height": "4733",
+                    "size": "480202",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "攻略",
+              "widgets": [
+                {
+                  "id": "yAMsSarM",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
           "extraInfo": {
             "showType": "",
             "illustration": "",
             "composite": ""
           },
-          "widgetCommonMap": {}
+          "widgetCommonMap": {
+            "yAMsSarM": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1773835987334",
+                  "title": "苏祁风-beta",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1773836018728",
+                  "title": "星语Poistars",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1773836079664",
+                  "title": "tomo",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1773836182196",
+                  "title": "长籽夜",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1773836320301",
+                  "title": "CarpeDiem",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1773835987334": {
+                  "intro": null,
+                  "content": "59IhN8EY",
+                  "audioList": []
+                },
+                "tab_1773836018728": {
+                  "intro": null,
+                  "content": "HxmOLHVh",
+                  "audioList": []
+                },
+                "tab_1773836079664": {
+                  "intro": null,
+                  "content": "XPPYYNiw",
+                  "audioList": []
+                },
+                "tab_1773836182196": {
+                  "intro": null,
+                  "content": "wVPVNbvS",
+                  "audioList": []
+                },
+                "tab_1773836320301": {
+                  "intro": null,
+                  "content": "FkhxjEmo",
+                  "audioList": []
+                }
+              }
+            }
+          }
         },
         "name": "【玩家攻略】汤汤",
         "mainType": {
@@ -322,13 +645,45 @@
           "name": "【玩家攻略】汤汤",
           "description": null,
           "associate": null,
-          "subTypeList": [],
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10278",
+              "value": "10282"
+            },
+            {
+              "subTypeId": "10285",
+              "value": "10286"
+            },
+            {
+              "subTypeId": "10291",
+              "value": "10300"
+            },
+            {
+              "subTypeId": "10292",
+              "value": "10296"
+            },
+            {
+              "subTypeId": "10293",
+              "value": "10306"
+            }
+          ],
           "composite": null
         },
         "status": 2,
         "publishedAtTs": "1773375873",
-        "lastAuditPassedAt": "1773159439",
-        "tagIds": []
+        "lastAuditPassedAt": "1773836390",
+        "tagIds": [
+          "10006",
+          "10282",
+          "10300",
+          "10296",
+          "10286",
+          "10306"
+        ]
       }
     }
   }

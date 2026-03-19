@@ -1,430 +1,60 @@
 {
   "id": "aef-skland:r/wiki_usage_746/2324",
-  "type": "aef-skland:wiki/usage/table_entry",
+  "type": "aef-skland:wiki/usage/text_only",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_746",
       "amount": 1
-    },
-    "out1": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_586",
-      "amount": 1
-    },
-    "out2": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_381",
-      "amount": 3
-    },
-    "out3": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_201",
-      "amount": 1
-    },
-    "out4": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_587",
-      "amount": 1
-    },
-    "out5": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_769",
-      "amount": 1
-    },
-    "out6": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_771",
-      "amount": 1
-    },
-    "out7": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_892",
-      "amount": 1
     }
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方法",
+    "title": "使用方法 / 面积需求",
     "context": {
       "groupTitle": "使用方法",
-      "widgetTitle": "",
+      "widgetTitle": "面积需求",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "ksc5Lq",
-        "hgpO1j",
-        "Tcwcup",
-        "wSYtgO"
+        "bsHMAg",
+        "fiBVNe",
+        "btxrVy",
+        "qiKYeN"
       ],
       "blockMap": {
-        "6cGSa4": {
-          "id": "6cGSa4",
-          "parentId": "StgoSM_sH0tPP",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "消耗时长"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "7XvEQu": {
-          "id": "7XvEQu",
-          "parentId": "zi87tN_sH0tPP",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "2s"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "B3zoFH": {
-          "id": "B3zoFH",
-          "parentId": "StgoSM_RfFJJM",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "制造产品"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "CKvucb": {
-          "id": "CKvucb",
-          "parentId": "zi87tN_RfFJJM",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "769",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "DUG6E3": {
-          "id": "DUG6E3",
-          "parentId": "xjtHEt_RfFJJM",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "201",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "Ftqcs0": {
-          "id": "Ftqcs0",
-          "parentId": "StgoSM_lpZYGQ",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "原料需求"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "J5LjVA": {
-          "id": "J5LjVA",
-          "parentId": "fe5OA7_RfFJJM",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "892",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "Tcwcup": {
-          "id": "Tcwcup",
+        "bsHMAg": {
+          "id": "bsHMAg",
           "parentId": "document-id",
-          "kind": "table",
-          "table": {
-            "id": "Tcwcup",
-            "rowIds": [
-              "StgoSM",
-              "xjtHEt",
-              "zi87tN",
-              "fe5OA7"
-            ],
-            "columnIds": [
-              "lpZYGQ",
-              "RfFJJM",
-              "sH0tPP"
-            ],
-            "rowMap": {
-              "StgoSM": {
-                "id": "StgoSM"
-              },
-              "fe5OA7": {
-                "id": "fe5OA7"
-              },
-              "xjtHEt": {
-                "id": "xjtHEt"
-              },
-              "zi87tN": {
-                "id": "zi87tN"
-              }
-            },
-            "columnMap": {
-              "RfFJJM": {
-                "id": "RfFJJM",
-                "width": 386.6666666666667
-              },
-              "lpZYGQ": {
-                "id": "lpZYGQ",
-                "width": 386.6666666666667
-              },
-              "sH0tPP": {
-                "id": "sH0tPP",
-                "width": 386.66666666666663
-              }
-            },
-            "cellMap": {
-              "StgoSM_RfFJJM": {
-                "id": "StgoSM_RfFJJM",
-                "childIds": [
-                  "B3zoFH"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "StgoSM_lpZYGQ": {
-                "id": "StgoSM_lpZYGQ",
-                "childIds": [
-                  "Ftqcs0"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "StgoSM_sH0tPP": {
-                "id": "StgoSM_sH0tPP",
-                "childIds": [
-                  "6cGSa4"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "fe5OA7_RfFJJM": {
-                "id": "fe5OA7_RfFJJM",
-                "childIds": [
-                  "J5LjVA"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "fe5OA7_lpZYGQ": {
-                "id": "fe5OA7_lpZYGQ",
-                "childIds": [
-                  "utgQCv"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "fe5OA7_sH0tPP": {
-                "id": "fe5OA7_sH0tPP",
-                "childIds": [
-                  "V9nAoM"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "xjtHEt_RfFJJM": {
-                "id": "xjtHEt_RfFJJM",
-                "childIds": [
-                  "DUG6E3"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "xjtHEt_lpZYGQ": {
-                "id": "xjtHEt_lpZYGQ",
-                "childIds": [
-                  "ok5HxA"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "xjtHEt_sH0tPP": {
-                "id": "xjtHEt_sH0tPP",
-                "childIds": [
-                  "WXpZZA"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "zi87tN_RfFJJM": {
-                "id": "zi87tN_RfFJJM",
-                "childIds": [
-                  "CKvucb"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "zi87tN_lpZYGQ": {
-                "id": "zi87tN_lpZYGQ",
-                "childIds": [
-                  "lTBK4z"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "zi87tN_sH0tPP": {
-                "id": "zi87tN_sH0tPP",
-                "childIds": [
-                  "7XvEQu"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              }
-            },
-            "description": "",
-            "rowHeader": true,
-            "colHeader": false
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
           }
         },
-        "V9nAoM": {
-          "id": "V9nAoM",
-          "parentId": "fe5OA7_sH0tPP",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "2s"
-                }
-              }
-            ],
-            "kind": "body"
+        "btxrVy": {
+          "id": "btxrVy",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
           }
         },
-        "WXpZZA": {
-          "id": "WXpZZA",
-          "parentId": "xjtHEt_sH0tPP",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "2s"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "hgpO1j": {
-          "id": "hgpO1j",
+        "fiBVNe": {
+          "id": "fiBVNe",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              },
               {
                 "bold": true,
                 "color": "light_text_primary",
@@ -437,115 +67,58 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "支持以下合成配方。"
+                  "text": "需要长"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "5"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "格、宽"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "5"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "格的可用空地。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "ksc5Lq": {
-          "id": "ksc5Lq",
+        "qiKYeN": {
+          "id": "qiKYeN",
           "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
-          }
-        },
-        "lTBK4z": {
-          "id": "lTBK4z",
-          "parentId": "zi87tN_lpZYGQ",
-          "align": "center",
+          "align": "left",
           "kind": "text",
           "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "587",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "381",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
+            "inlineElements": [],
             "kind": "body"
-          }
-        },
-        "ok5HxA": {
-          "id": "ok5HxA",
-          "parentId": "xjtHEt_lpZYGQ",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "586",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "381",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "utgQCv": {
-          "id": "utgQCv",
-          "parentId": "fe5OA7_lpZYGQ",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "771",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "381",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "wSYtgO": {
-          "id": "wSYtgO",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "2"
           }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "table_entry"
+    "usagePattern": "text_only"
   },
   "detailLoaded": true
 }

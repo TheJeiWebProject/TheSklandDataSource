@@ -10,34 +10,29 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方法 / 面积需求",
+    "title": "使用方法 / 相关信息",
     "context": {
       "groupTitle": "使用方法",
-      "widgetTitle": "面积需求",
+      "widgetTitle": "相关信息",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "sk3Jui",
-        "aM1JiD",
-        "jELLMI"
+        "sL5UQm",
+        "Z9PH8w",
+        "R4E2QC",
+        "BCdqid",
+        "vJQKWl"
       ],
       "blockMap": {
-        "aM1JiD": {
-          "id": "aM1JiD",
+        "BCdqid": {
+          "id": "BCdqid",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "放置"
-                }
-              },
               {
                 "bold": true,
                 "color": "light_text_primary",
@@ -50,57 +45,109 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "需要长"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "4"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格、宽"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "4"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格的可用空地，且只能贴靠仓库存取线放置。"
+                  "text": "不需要电力维持运转。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "jELLMI": {
-          "id": "jELLMI",
+        "R4E2QC": {
+          "id": "R4E2QC",
           "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "2"
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "仓库存取线源桩"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "仅能放置在武陵地区的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "协议核心"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "或"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "次级核心"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "范围内。"
+                }
+              }
+            ],
+            "kind": "body"
           }
         },
-        "sk3Jui": {
-          "id": "sk3Jui",
+        "Z9PH8w": {
+          "id": "Z9PH8w",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "仓库存取线源桩"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "是仓储存取类型的机器，可以作为仓库存取线的起始点。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "sL5UQm": {
+          "id": "sL5UQm",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "5"
+          }
+        },
+        "vJQKWl": {
+          "id": "vJQKWl",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
           }
         }
       },

@@ -1,0 +1,202 @@
+{
+  "id": "aef-skland:r/wiki_usage_599/2277",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_599",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1090",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "LKcJUOyB6u7t",
+        "Y6Gq21UVVsPB",
+        "5M5imvVtgMEJ",
+        "vCXu8TpmJEd9"
+      ],
+      "blockMap": {
+        "5I8yGWsh7DVs": {
+          "id": "5I8yGWsh7DVs",
+          "parentId": "0EO1ALtbXRrj",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1090",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需求跟随指引前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "枢纽区-集成核心区域"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "将交付"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "精密零件包裹"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "至 "
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "安德烈|集成工业总工程师"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 处以推进任务，限时"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "1分钟40秒"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "送达，期间"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "不"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可进入战斗。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "5M5imvVtgMEJ": {
+          "id": "5M5imvVtgMEJ",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "5M5imvVtgMEJ",
+            "itemIds": [
+              "0EO1ALtbXRrj"
+            ],
+            "itemMap": {
+              "0EO1ALtbXRrj": {
+                "id": "0EO1ALtbXRrj",
+                "childIds": [
+                  "5I8yGWsh7DVs"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "LKcJUOyB6u7t": {
+          "id": "LKcJUOyB6u7t",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "Y6Gq21UVVsPB": {
+          "id": "Y6Gq21UVVsPB",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于提交重要任务目标"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "vCXu8TpmJEd9": {
+          "id": "vCXu8TpmJEd9",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}
