@@ -4,7 +4,7 @@
   },
   "name": "雾火牙兽",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/139426/9e8cb0cdf88ab1cf451a88490dd2dc7d.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | C | C | C\n比起普通牙兽更加凶猛但理智更低，若躲开它的全力扑击，它就会摔倒在地上。\n|敌人分布区域\n阿伯莉采石场源石研究园\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | C | C | C\n比起普通牙兽更加凶猛但理智更低，若躲开它的全力扑击，它就会摔倒在地上。\n|敌人分布区域\n源石研究园 能量淤积点·源石研究园 能量淤积点·供能高地\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,41 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889416",
+    "timestamp": "1773975371",
     "data": {
       "item": {
         "itemId": "758",
         "document": {
           "documentMap": {
-            "UOafN51Q": {
+            "Ezwjkwse": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "浸染雾火的牙兽。当这种诡异的小型危险生物成群行动时，能对全副武装的外勤小队造成巨大的威胁。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "qQmLQLj1": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -270,6 +298,23 @@
                     "kind": "body"
                   }
                 },
+                "PiRkkq67OnMR": {
+                  "id": "PiRkkq67OnMR",
+                  "parentId": "Re83OSJxDDSl",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·供能高地"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "Qh78Jk": {
                   "id": "Qh78Jk",
                   "parentId": "document-id",
@@ -424,20 +469,13 @@
                     "kind": "unordered"
                   }
                 },
-                "ioPxHs": {
-                  "id": "ioPxHs",
-                  "parentId": "G4YrCm",
+                "ipqKCbr1G2hJ": {
+                  "id": "ipqKCbr1G2hJ",
+                  "parentId": "38t9cFYJjhrD",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
-                      {
-                        "strikeThrough": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "阿伯莉采石场"
-                        }
-                      },
                       {
                         "kind": "text",
                         "text": {
@@ -541,17 +579,48 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "38t9cFYJjhrD",
+                      "spBDiZpazW3R",
+                      "Re83OSJxDDSl"
                     ],
                     "itemMap": {
-                      "G4YrCm": {
-                        "id": "G4YrCm",
+                      "38t9cFYJjhrD": {
+                        "id": "38t9cFYJjhrD",
                         "childIds": [
-                          "ioPxHs"
+                          "ipqKCbr1G2hJ"
+                        ]
+                      },
+                      "Re83OSJxDDSl": {
+                        "id": "Re83OSJxDDSl",
+                        "childIds": [
+                          "PiRkkq67OnMR"
+                        ]
+                      },
+                      "spBDiZpazW3R": {
+                        "id": "spBDiZpazW3R",
+                        "childIds": [
+                          "vd2FSPHUGsRR"
                         ]
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "vd2FSPHUGsRR": {
+                  "id": "vd2FSPHUGsRR",
+                  "parentId": "spBDiZpazW3R",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "wLyRZy": {
@@ -583,34 +652,6 @@
                         "kind": "text",
                         "text": {
                           "text": "灼热抗性"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "j4cJeXa8": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "浸染雾火的牙兽。当这种诡异的小型危险生物成群行动时，能对全副武装的外勤小队造成巨大的威胁。"
                         }
                       }
                     ],
@@ -656,9 +697,9 @@
                     "name": "雾火牙兽",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "j4cJeXa8"
+                    "description": "Ezwjkwse"
                   },
-                  "content": "UOafN51Q",
+                  "content": "qQmLQLj1",
                   "audioList": []
                 }
               }
@@ -796,7 +837,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798201",
-        "lastAuditPassedAt": "1772720398",
+        "lastAuditPassedAt": "1773931530",
         "tagIds": [
           "10232"
         ]

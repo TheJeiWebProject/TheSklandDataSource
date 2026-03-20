@@ -4,7 +4,7 @@
   },
   "name": "碾骨撕裂牙兽",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/139426/e1e67b914baddb9df0fb279707affe17.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n灵活敏捷，但受到连续攻击时几乎不能做出任何反应。\n|敌人分布区域\n广泛分布于四号谷地各处 景玉谷\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n灵活敏捷，但受到连续攻击时几乎不能做出任何反应。\n|敌人分布区域\n枢纽区 谷地通道 源石研究园 矿脉源区 供能高地 能量淤积点·源石研究园 能量淤积点·供能高地\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,208 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889414",
+    "timestamp": "1773975368",
     "data": {
       "item": {
         "itemId": "757",
         "document": {
           "documentMap": {
-            "5RzaJGa8": {
+            "RXQGY5o3": {
+              "id": "document-id",
+              "blockIds": [
+                "FxjfWpm0bltX",
+                "4G76DHzQopva",
+                "OcYKap03w6f4",
+                "nGL4PhDORrRx",
+                "Slf0WAwTIMG8",
+                "NBRDPzkTSQ8O",
+                "saF2uHZaMWuw"
+              ],
+              "blockMap": {
+                "4G76DHzQopva": {
+                  "id": "4G76DHzQopva",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7w2AE0W1hmC4": {
+                  "id": "7w2AE0W1hmC4",
+                  "parentId": "xc2BfBnNKuaT",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FxjfWpm0bltX": {
+                  "id": "FxjfWpm0bltX",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的碾骨撕裂牙兽。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "NBRDPzkTSQ8O": {
+                  "id": "NBRDPzkTSQ8O",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "NBRDPzkTSQ8O",
+                    "itemIds": [
+                      "3Y9ErbjwaB57"
+                    ],
+                    "itemMap": {
+                      "3Y9ErbjwaB57": {
+                        "id": "3Y9ErbjwaB57",
+                        "childIds": [
+                          "ttUuxmfJnczR"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OcYKap03w6f4": {
+                  "id": "OcYKap03w6f4",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "Slf0WAwTIMG8": {
+                  "id": "Slf0WAwTIMG8",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "由裂地者武装人员操纵的小型战兽。远比自然环境中的牙兽更加凶猛残暴，绝对忠诚于驯养它们的裂地者。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nGL4PhDORrRx": {
+                  "id": "nGL4PhDORrRx",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "nGL4PhDORrRx",
+                    "itemIds": [
+                      "xc2BfBnNKuaT"
+                    ],
+                    "itemMap": {
+                      "xc2BfBnNKuaT": {
+                        "id": "xc2BfBnNKuaT",
+                        "childIds": [
+                          "7w2AE0W1hmC4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "saF2uHZaMWuw": {
+                  "id": "saF2uHZaMWuw",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "灵活敏捷，但受到连续攻击时几乎不能做出任何反应。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ttUuxmfJnczR": {
+                  "id": "ttUuxmfJnczR",
+                  "parentId": "3Y9ErbjwaB57",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "S1YR3mB4": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -253,18 +448,68 @@
                     "kind": "body"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "kgjvAF",
+                "AagoTo1pnHlL": {
+                  "id": "AagoTo1pnHlL",
+                  "parentId": "qpfrYEGVug2q",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
-                        "strikeThrough": true,
                         "kind": "text",
                         "text": {
-                          "text": "景玉谷"
+                          "text": "谷地通道"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "BrTjpHGmiYBO": {
+                  "id": "BrTjpHGmiYBO",
+                  "parentId": "aaCddqwGqqA8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "供能高地"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FTMfQs2jU7nz": {
+                  "id": "FTMfQs2jU7nz",
+                  "parentId": "kWYv2htCKcgD",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GlFKZR0Kd1Dy": {
+                  "id": "GlFKZR0Kd1Dy",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区"
                         }
                       }
                     ],
@@ -282,6 +527,57 @@
                         "kind": "text",
                         "text": {
                           "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JWTgbaGFdTvb": {
+                  "id": "JWTgbaGFdTvb",
+                  "parentId": "ekGdMUO75yav",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "矿脉源区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "KHupdbBYNNio": {
+                  "id": "KHupdbBYNNio",
+                  "parentId": "EmJTMsHPnqn8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "M8XOYcPeebgn": {
+                  "id": "M8XOYcPeebgn",
+                  "parentId": "AEdN6Szk4uD4",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·供能高地"
                         }
                       }
                     ],
@@ -442,23 +738,6 @@
                     "kind": "unordered"
                   }
                 },
-                "ioPxHs": {
-                  "id": "ioPxHs",
-                  "parentId": "G4YrCm",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "广泛分布于四号谷地各处"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
                 "iz7J9H": {
                   "id": "iz7J9H",
                   "parentId": "document-id",
@@ -553,19 +832,54 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "kgjvAF"
+                      "qpfrYEGVug2q",
+                      "kWYv2htCKcgD",
+                      "ekGdMUO75yav",
+                      "aaCddqwGqqA8",
+                      "EmJTMsHPnqn8",
+                      "AEdN6Szk4uD4"
                     ],
                     "itemMap": {
+                      "AEdN6Szk4uD4": {
+                        "id": "AEdN6Szk4uD4",
+                        "childIds": [
+                          "M8XOYcPeebgn"
+                        ]
+                      },
+                      "EmJTMsHPnqn8": {
+                        "id": "EmJTMsHPnqn8",
+                        "childIds": [
+                          "KHupdbBYNNio"
+                        ]
+                      },
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
-                          "ioPxHs"
+                          "GlFKZR0Kd1Dy"
                         ]
                       },
-                      "kgjvAF": {
-                        "id": "kgjvAF",
+                      "aaCddqwGqqA8": {
+                        "id": "aaCddqwGqqA8",
                         "childIds": [
-                          "I4qfh4"
+                          "BrTjpHGmiYBO"
+                        ]
+                      },
+                      "ekGdMUO75yav": {
+                        "id": "ekGdMUO75yav",
+                        "childIds": [
+                          "JWTgbaGFdTvb"
+                        ]
+                      },
+                      "kWYv2htCKcgD": {
+                        "id": "kWYv2htCKcgD",
+                        "childIds": [
+                          "FTMfQs2jU7nz"
+                        ]
+                      },
+                      "qpfrYEGVug2q": {
+                        "id": "qpfrYEGVug2q",
+                        "childIds": [
+                          "AagoTo1pnHlL"
                         ]
                       }
                     },
@@ -611,202 +925,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "B9xTTLHZ": {
-              "id": "document-id",
-              "blockIds": [
-                "FxjfWpm0bltX",
-                "4G76DHzQopva",
-                "OcYKap03w6f4",
-                "nGL4PhDORrRx",
-                "Slf0WAwTIMG8",
-                "NBRDPzkTSQ8O",
-                "saF2uHZaMWuw"
-              ],
-              "blockMap": {
-                "4G76DHzQopva": {
-                  "id": "4G76DHzQopva",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "italic": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "分布于部分据点的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "italic": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "区域防护作战"
-                        }
-                      },
-                      {
-                        "italic": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "内：打开预警终端即可进行区域防护作战。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "7w2AE0W1hmC4": {
-                  "id": "7w2AE0W1hmC4",
-                  "parentId": "xc2BfBnNKuaT",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "描述"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "FxjfWpm0bltX": {
-                  "id": "FxjfWpm0bltX",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "italic": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "“塔防模式”中的碾骨撕裂牙兽。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "NBRDPzkTSQ8O": {
-                  "id": "NBRDPzkTSQ8O",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "NBRDPzkTSQ8O",
-                    "itemIds": [
-                      "3Y9ErbjwaB57"
-                    ],
-                    "itemMap": {
-                      "3Y9ErbjwaB57": {
-                        "id": "3Y9ErbjwaB57",
-                        "childIds": [
-                          "ttUuxmfJnczR"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "OcYKap03w6f4": {
-                  "id": "OcYKap03w6f4",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "|敌人详情"
-                        }
-                      }
-                    ],
-                    "kind": "heading3"
-                  }
-                },
-                "Slf0WAwTIMG8": {
-                  "id": "Slf0WAwTIMG8",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "由裂地者武装人员操纵的小型战兽。远比自然环境中的牙兽更加凶猛残暴，绝对忠诚于驯养它们的裂地者。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "nGL4PhDORrRx": {
-                  "id": "nGL4PhDORrRx",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "nGL4PhDORrRx",
-                    "itemIds": [
-                      "xc2BfBnNKuaT"
-                    ],
-                    "itemMap": {
-                      "xc2BfBnNKuaT": {
-                        "id": "xc2BfBnNKuaT",
-                        "childIds": [
-                          "7w2AE0W1hmC4"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "saF2uHZaMWuw": {
-                  "id": "saF2uHZaMWuw",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "灵活敏捷，但受到连续攻击时几乎不能做出任何反应。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "ttUuxmfJnczR": {
-                  "id": "ttUuxmfJnczR",
-                  "parentId": "3Y9ErbjwaB57",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "能力"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "hqerm0XX": {
+            "yuhvgo2Q": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -865,7 +984,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "B9xTTLHZ",
+                  "content": "RXQGY5o3",
                   "audioList": []
                 }
               }
@@ -886,9 +1005,9 @@
                     "name": "碾骨撕裂牙兽",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "hqerm0XX"
+                    "description": "yuhvgo2Q"
                   },
-                  "content": "5RzaJGa8",
+                  "content": "S1YR3mB4",
                   "audioList": []
                 }
               }
@@ -1026,7 +1145,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798191",
-        "lastAuditPassedAt": "1772724671",
+        "lastAuditPassedAt": "1773931499",
         "tagIds": [
           "10232"
         ]

@@ -4,7 +4,7 @@
   },
   "name": "碾骨清道夫",
   "icon": "https://bbs.hycdn.cn/image/2025/12/22/139426/5c5e6435c0272a1dca09af0c2cdb8423.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | B | D | D | D\n会持续朝着干员喷射火焰，尽量绕到背后来避免被波及。 生命值较低时，会使用喷射器往四周喷射火焰并把自己点燃，大幅增加所有抗性，可用寒冷附着使其熄灭或等待一段时间再发起进攻。\n|敌人分布区域\n源石研究园 矿脉源区 供能高地\n|敌人掉落\n\n用途:\n装备火焰喷射器的裂地者武装人员。他们使用造型粗劣但工艺精良的焚化装备，清扫坚固的掩体与顽固的抵抗者。\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | B | D | D | D\n会持续朝着干员喷射火焰，尽量绕到背后来避免被波及。 生命值较低时，会使用喷射器往四周喷射火焰并把自己点燃，大幅增加所有抗性，可用寒冷附着使其熄灭或等待一段时间再发起进攻。\n|敌人分布区域\n源石研究园 矿脉源区 供能高地",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | B | D | D | D\n会持续朝着干员喷射火焰，尽量绕到背后来避免被波及。\n|敌人分布区域\n源石研究园 供能高地 能量淤积点·源石研究园\n|敌人掉落\n\n用途:\n装备火焰喷射器的裂地者武装人员。他们使用造型粗劣但工艺精良的焚化装备，清扫坚固的掩体与顽固的抵抗者。",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889351",
+    "timestamp": "1773975305",
     "data": {
       "item": {
         "itemId": "733",
         "document": {
           "documentMap": {
-            "jAWiZKoV": {
+            "RW1Em2zx": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -47,7 +47,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "pZ6jhBlq": {
+            "vB6KonAZ": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -298,40 +298,6 @@
                     "kind": "body"
                   }
                 },
-                "8HX27c": {
-                  "id": "8HX27c",
-                  "parentId": "lSEc0n",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "生命值较低时，会使用喷射器往四周喷射火焰并把自己点燃，大幅增加所有抗性，可用寒冷附着使其熄灭或等待一段时间再发起进攻。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "kgjvAF",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "矿脉源区"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
                 "JAeXlS": {
                   "id": "JAeXlS",
                   "parentId": "ImXoPN_lGo6ja",
@@ -490,16 +456,9 @@
                   "list": {
                     "id": "gLi8Lo",
                     "itemIds": [
-                      "nx2AAl",
-                      "lSEc0n"
+                      "nx2AAl"
                     ],
                     "itemMap": {
-                      "lSEc0n": {
-                        "id": "lSEc0n",
-                        "childIds": [
-                          "8HX27c"
-                        ]
-                      },
                       "nx2AAl": {
                         "id": "nx2AAl",
                         "childIds": [
@@ -542,6 +501,23 @@
                       }
                     ],
                     "kind": "heading3"
+                  }
+                },
+                "jkpZGVXg1S28": {
+                  "id": "jkpZGVXg1S28",
+                  "parentId": "BLkcSBTczA64",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "l2RXET": {
@@ -621,20 +597,20 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "kgjvAF",
-                      "oCtAU9"
+                      "oCtAU9",
+                      "BLkcSBTczA64"
                     ],
                     "itemMap": {
+                      "BLkcSBTczA64": {
+                        "id": "BLkcSBTczA64",
+                        "childIds": [
+                          "jkpZGVXg1S28"
+                        ]
+                      },
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
                           "ioPxHs"
-                        ]
-                      },
-                      "kgjvAF": {
-                        "id": "kgjvAF",
-                        "childIds": [
-                          "I4qfh4"
                         ]
                       },
                       "oCtAU9": {
@@ -721,9 +697,9 @@
                     "name": "碾骨清道夫",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "jAWiZKoV"
+                    "description": "RW1Em2zx"
                   },
-                  "content": "pZ6jhBlq",
+                  "content": "vB6KonAZ",
                   "audioList": []
                 }
               }
@@ -788,10 +764,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -825,19 +801,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "（"
-                      }
-                    },
-                    {
-                      "kind": "pronunciation",
-                      "pronunciation": {
-                        "content": "Bonekrusher Arsonist|来   源   请   求"
-                      }
-                    },
-                    {
-                      "kind": "text",
-                      "text": {
-                        "text": "）是《明日方舟：终末地》中的一类"
+                        "text": "（Bonekrusher Arsonist）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -873,7 +837,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798140",
-        "lastAuditPassedAt": "1767796618",
+        "lastAuditPassedAt": "1773930756",
         "tagIds": [
           "10232"
         ]

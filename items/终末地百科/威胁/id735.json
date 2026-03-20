@@ -4,7 +4,7 @@
   },
   "name": "雾火爪牙",
   "icon": "https://bbs.hycdn.cn/image/2025/12/22/139426/9cb40062fa34cfd778cfd63ad0062c8f.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | C | C | C\n若躲开它的连续撕咬，它就会摔倒在地上。\n|敌人分布区域\n阿伯莉采石场\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | C | C | C\n若躲开它的连续撕咬，它就会摔倒在地上。\n|敌人分布区域\n谷地通道 源石研究园 能量淤积点·源石研究园\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889356",
+    "timestamp": "1773975310",
     "data": {
       "item": {
         "itemId": "735",
         "document": {
           "documentMap": {
-            "HSBYO6Ax": {
+            "CzQC24u8": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -36,7 +36,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "浸染雾火的裂地者武装人员。汲取雾火并不一定时一件幸运的事，这些裂地者遭到了严重的扭曲。"
+                          "text": "浸染雾火的裂地者武装人员。汲取雾火并不一定是一件幸运的事，这些裂地者遭到了严重的扭曲。"
                         }
                       }
                     ],
@@ -47,7 +47,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "oqmUhXFj": {
+            "c8MUfHmB": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -281,9 +281,9 @@
                     "kind": "body"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
+                "HIytyblG8Feu": {
+                  "id": "HIytyblG8Feu",
+                  "parentId": "UWTsWlYDeO3E",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -291,7 +291,24 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "阿伯莉采石场"
+                          "text": "源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "J7kQMoNmHRvh": {
+                  "id": "J7kQMoNmHRvh",
+                  "parentId": "TMl3t09o5yjr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·源石研究园"
                         }
                       }
                     ],
@@ -562,13 +579,27 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "CMpJXbIF8nyL",
+                      "UWTsWlYDeO3E",
+                      "TMl3t09o5yjr"
                     ],
                     "itemMap": {
-                      "G4YrCm": {
-                        "id": "G4YrCm",
+                      "CMpJXbIF8nyL": {
+                        "id": "CMpJXbIF8nyL",
                         "childIds": [
-                          "I4qfh4"
+                          "wU9Q56mxE32f"
+                        ]
+                      },
+                      "TMl3t09o5yjr": {
+                        "id": "TMl3t09o5yjr",
+                        "childIds": [
+                          "J7kQMoNmHRvh"
+                        ]
+                      },
+                      "UWTsWlYDeO3E": {
+                        "id": "UWTsWlYDeO3E",
+                        "childIds": [
+                          "HIytyblG8Feu"
                         ]
                       }
                     },
@@ -590,6 +621,23 @@
                       }
                     ],
                     "kind": "heading3"
+                  }
+                },
+                "wU9Q56mxE32f": {
+                  "id": "wU9Q56mxE32f",
+                  "parentId": "CMpJXbIF8nyL",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地通道"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "xyqW3g": {
@@ -649,9 +697,9 @@
                     "name": "雾火爪牙",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "HSBYO6Ax"
+                    "description": "CzQC24u8"
                   },
-                  "content": "oqmUhXFj",
+                  "content": "c8MUfHmB",
                   "audioList": []
                 }
               }
@@ -716,10 +764,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -753,20 +801,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "（"
-                      }
-                    },
-                    {
-                      "italic": true,
-                      "kind": "text",
-                      "text": {
-                        "text": "Blighted Klaw"
-                      }
-                    },
-                    {
-                      "kind": "text",
-                      "text": {
-                        "text": "）是《明日方舟：终末地》中的一类"
+                        "text": "（Hazefyre Claw）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -802,7 +837,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798176",
-        "lastAuditPassedAt": "1767796492",
+        "lastAuditPassedAt": "1773931464",
         "tagIds": [
           "10232"
         ]

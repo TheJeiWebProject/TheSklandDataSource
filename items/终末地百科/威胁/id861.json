@@ -4,7 +4,7 @@
   },
   "name": "仿生翅天使α",
   "icon": "https://bbs.hycdn.cn/image/2025/12/22/139426/c0827f478348d266d56e4a47397444a8.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n施放的小型旋风会同时减速干员。\n|敌人掉落\n[中空异香石]",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n施放的小型旋风会同时减速干员。\n|敌人分布区域\n能量淤积点·矿脉源区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,71 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889685",
+    "timestamp": "1773975637",
     "data": {
       "item": {
         "itemId": "861",
         "document": {
           "documentMap": {
-            "MqNNlcIi": {
+            "BB6GSXHL": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "苏索泰隆·阿纳翁"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”（归档编号：ARA07Cα），ARA07C的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_red",
+                        "kind": "text",
+                        "text": {
+                          "text": "激发种"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。一般认为它与原形成模式的区别只有颜色。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "Ekki7QqA": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -27,6 +85,9 @@
                 "iz7J9H",
                 "1RUIiq",
                 "gLi8Lo",
+                "KOVjVXyKdTmV",
+                "xp7rb9sKgP9k",
+                "83e0ywZCg1dr",
                 "nMuAMC",
                 "wLyRZy",
                 "ZfKXtf"
@@ -242,6 +303,26 @@
                     "kind": "body"
                   }
                 },
+                "83e0ywZCg1dr": {
+                  "id": "83e0ywZCg1dr",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "83e0ywZCg1dr",
+                    "itemIds": [
+                      "R3lVTFO3HE95"
+                    ],
+                    "itemMap": {
+                      "R3lVTFO3HE95": {
+                        "id": "R3lVTFO3HE95",
+                        "childIds": [
+                          "gEAod6i8iv4t"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
                 "JAeXlS": {
                   "id": "JAeXlS",
                   "parentId": "ImXoPN_lGo6ja",
@@ -257,6 +338,14 @@
                       }
                     ],
                     "kind": "body"
+                  }
+                },
+                "KOVjVXyKdTmV": {
+                  "id": "KOVjVXyKdTmV",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
                   }
                 },
                 "Qh78Jk": {
@@ -371,6 +460,24 @@
                         "kind": "text",
                         "text": {
                           "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gEAod6i8iv4t": {
+                  "id": "gEAod6i8iv4t",
+                  "parentId": "R3lVTFO3HE95",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·矿脉源区"
                         }
                       }
                     ],
@@ -500,6 +607,24 @@
                     "kind": "heading3"
                   }
                 },
+                "xp7rb9sKgP9k": {
+                  "id": "xp7rb9sKgP9k",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人分布区域"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
                 "xyqW3g": {
                   "id": "xyqW3g",
                   "parentId": "GstY0r_lGo6ja",
@@ -512,64 +637,6 @@
                         "kind": "text",
                         "text": {
                           "text": "灼热抗性"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "TFC3suuT": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "“"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "苏索泰隆·阿纳翁"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "”（归档编号：ARA07Cα），ARA07C的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_function_red",
-                        "kind": "text",
-                        "text": {
-                          "text": "激发种"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。一般认为它与原形成模式的区别只有颜色。"
                         }
                       }
                     ],
@@ -615,9 +682,9 @@
                     "name": "仿生翅天使α",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "TFC3suuT"
+                    "description": "BB6GSXHL"
                   },
-                  "content": "MqNNlcIi",
+                  "content": "Ekki7QqA",
                   "audioList": []
                 }
               }
@@ -755,7 +822,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798570",
-        "lastAuditPassedAt": "1772721900",
+        "lastAuditPassedAt": "1773930349",
         "tagIds": [
           "10231"
         ]

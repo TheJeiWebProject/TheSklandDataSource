@@ -4,7 +4,7 @@
   },
   "name": "钉刺天使α",
   "icon": "https://bbs.hycdn.cn/image/2025/12/13/139426/78656ad937070208722d4fe24c37db14.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n枢纽区阿伯莉采石场 供能高地矿脉源区\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n阿伯莉采石场 矿脉源区 能量淤积点·矿脉源区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,71 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773888390",
+    "timestamp": "1773974347",
     "data": {
       "item": {
         "itemId": "356",
         "document": {
           "documentMap": {
-            "RHqWsVbi": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "“"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "肯托隆·阿纳翁"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "”（归档编号：ARL121α），ARL121的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_function_red",
-                        "kind": "text",
-                        "text": {
-                          "text": "激发种"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。单纯靠更高的能量密度来提高火力，能量利用效率仍然很低。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "Vwah9QVD": {
+            "3N4gyj3A": {
               "id": "document-id",
               "blockIds": [
                 "d9o3q2dsiAMq",
@@ -282,7 +224,65 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "ousNTQlQ": {
+            "cLuM88Bs": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "肯托隆·阿纳翁"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”（归档编号：ARL121α），ARL121的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_red",
+                        "kind": "text",
+                        "text": {
+                          "text": "激发种"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。单纯靠更高的能量密度来提高火力，能量利用效率仍然很低。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "rLAWuRgk": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -517,6 +517,24 @@
                     "kind": "body"
                   }
                 },
+                "P98LzKr3Ytnv": {
+                  "id": "P98LzKr3Ytnv",
+                  "parentId": "WpcGaPhjXyT7",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·矿脉源区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "Qh78Jk": {
                   "id": "Qh78Jk",
                   "parentId": "document-id",
@@ -654,20 +672,13 @@
                     "kind": "unordered"
                   }
                 },
-                "ioPxHs": {
-                  "id": "ioPxHs",
+                "higKfKi5uVLy": {
+                  "id": "higKfKi5uVLy",
                   "parentId": "G4YrCm",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
-                      {
-                        "strikeThrough": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "枢纽区"
-                        }
-                      },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
@@ -765,6 +776,24 @@
                     "kind": "body"
                   }
                 },
+                "nkHXaIQUhK3N": {
+                  "id": "nkHXaIQUhK3N",
+                  "parentId": "0ivpNfw2qcvf",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "矿脉源区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "pBJm9B": {
                   "id": "pBJm9B",
                   "parentId": "document-id",
@@ -800,47 +829,30 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "dpLoXG"
+                      "0ivpNfw2qcvf",
+                      "WpcGaPhjXyT7"
                     ],
                     "itemMap": {
+                      "0ivpNfw2qcvf": {
+                        "id": "0ivpNfw2qcvf",
+                        "childIds": [
+                          "nkHXaIQUhK3N"
+                        ]
+                      },
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
-                          "ioPxHs"
+                          "higKfKi5uVLy"
                         ]
                       },
-                      "dpLoXG": {
-                        "id": "dpLoXG",
+                      "WpcGaPhjXyT7": {
+                        "id": "WpcGaPhjXyT7",
                         "childIds": [
-                          "uKe8vy"
+                          "P98LzKr3Ytnv"
                         ]
                       }
                     },
                     "kind": "unordered"
-                  }
-                },
-                "uKe8vy": {
-                  "id": "uKe8vy",
-                  "parentId": "dpLoXG",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "strikeThrough": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "供能高地"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "矿脉源区"
-                        }
-                      }
-                    ],
-                    "kind": "body"
                   }
                 },
                 "wLyRZy": {
@@ -930,7 +942,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Vwah9QVD",
+                  "content": "3N4gyj3A",
                   "audioList": []
                 }
               }
@@ -951,9 +963,9 @@
                     "name": "钉刺天使α",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "RHqWsVbi"
+                    "description": "cLuM88Bs"
                   },
-                  "content": "ousNTQlQ",
+                  "content": "rLAWuRgk",
                   "audioList": []
                 }
               }
@@ -1091,7 +1103,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767797729",
-        "lastAuditPassedAt": "1772725763",
+        "lastAuditPassedAt": "1773930299",
         "tagIds": [
           "10231"
         ]

@@ -4,7 +4,7 @@
   },
   "name": "碾骨劫掠者",
   "icon": "https://bbs.hycdn.cn/image/2025/12/15/139426/cbc619ca626da890af6fdc2d7a8cade0.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n广泛分布于四号谷地各处 景玉谷\n|敌人掉落\n\n用途:\n装备基础近战武器的裂地者武装人员。他们是组成裂地者团体的“大多数”，装备简陋，但常常成群出现。\n“塔防模式”中的碾骨劫掠者。\n分布于部分据点的区域防护作战内：打开预警终端即可进行区域防护作战。\n|敌人详情\n描述\n能力",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n枢纽区 谷地通道 源石研究园 矿脉源区 能量淤积点·源石研究园\n|敌人掉落\n\n用途:\n装备基础近战武器的裂地者武装人员。他们是组成裂地者团体的“大多数”，装备简陋，但常常成群出现。\n“塔防模式”中的碾骨劫掠者。\n分布于部分据点的区域防护作战内：打开预警终端即可进行区域防护作战。\n|敌人详情\n描述\n能力",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,20 +13,191 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889304",
+    "timestamp": "1773975259",
     "data": {
       "item": {
         "itemId": "715",
         "document": {
           "documentMap": {
-            "bs7Xhv5o": {
+            "1Zntwms5": {
               "id": "document-id",
               "blockIds": [
-                "ZLjAzk"
+                "DCLySTjXhZKV",
+                "lgybkXs9iGy0",
+                "4q5KJ3oVq7JF",
+                "WIPKnxeeHMbE",
+                "no2rid9ZR9Ts",
+                "GE6JnXJXT4z2",
+                "bY6sdpoXw6Qm"
               ],
               "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
+                "4q5KJ3oVq7JF": {
+                  "id": "4q5KJ3oVq7JF",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "D9mXb6uDrMFC": {
+                  "id": "D9mXb6uDrMFC",
+                  "parentId": "2xEFsnUD9QoN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DCLySTjXhZKV": {
+                  "id": "DCLySTjXhZKV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的碾骨劫掠者。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GE6JnXJXT4z2": {
+                  "id": "GE6JnXJXT4z2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "GE6JnXJXT4z2",
+                    "itemIds": [
+                      "pWpeRBTKCRKW"
+                    ],
+                    "itemMap": {
+                      "pWpeRBTKCRKW": {
+                        "id": "pWpeRBTKCRKW",
+                        "childIds": [
+                          "OeRek7UaUqG4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OeRek7UaUqG4": {
+                  "id": "OeRek7UaUqG4",
+                  "parentId": "pWpeRBTKCRKW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WIPKnxeeHMbE": {
+                  "id": "WIPKnxeeHMbE",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WIPKnxeeHMbE",
+                    "itemIds": [
+                      "2xEFsnUD9QoN"
+                    ],
+                    "itemMap": {
+                      "2xEFsnUD9QoN": {
+                        "id": "2xEFsnUD9QoN",
+                        "childIds": [
+                          "D9mXb6uDrMFC"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "bY6sdpoXw6Qm": {
+                  "id": "bY6sdpoXw6Qm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "该敌人无特殊能力。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lgybkXs9iGy0": {
+                  "id": "lgybkXs9iGy0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "no2rid9ZR9Ts": {
+                  "id": "no2rid9ZR9Ts",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -47,7 +218,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "oHPJQGPc": {
+            "4226Ds7n": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -75,6 +246,24 @@
                         "kind": "text",
                         "text": {
                           "text": "寒冷抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "4HxNFi1T5zps": {
+                  "id": "4HxNFi1T5zps",
+                  "parentId": "nnc3VRoaRzob",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
                         }
                       }
                     ],
@@ -143,23 +332,6 @@
                     "kind": "body"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "广泛分布于四号谷地各处"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
                 "Qh78Jk": {
                   "id": "Qh78Jk",
                   "parentId": "document-id",
@@ -222,6 +394,42 @@
                     "kind": "body"
                   }
                 },
+                "YN3kCXLRa3yh": {
+                  "id": "YN3kCXLRa3yh",
+                  "parentId": "XVDMRi80EV6e",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "矿脉源区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "YaEc8nw3wCRP": {
+                  "id": "YaEc8nw3wCRP",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "ZfKXtf": {
                   "id": "ZfKXtf",
                   "parentId": "document-id",
@@ -276,18 +484,18 @@
                     "kind": "body"
                   }
                 },
-                "exSotq": {
-                  "id": "exSotq",
-                  "parentId": "Yd1jgA",
+                "d8HO5iUudPHX": {
+                  "id": "d8HO5iUudPHX",
+                  "parentId": "7lhEDoLXOBOG",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
-                        "strikeThrough": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "景玉谷"
+                          "text": "谷地通道"
                         }
                       }
                     ],
@@ -407,19 +615,40 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "Yd1jgA"
+                      "7lhEDoLXOBOG",
+                      "nnc3VRoaRzob",
+                      "XVDMRi80EV6e",
+                      "52qKZ1AZUZAa"
                     ],
                     "itemMap": {
+                      "52qKZ1AZUZAa": {
+                        "id": "52qKZ1AZUZAa",
+                        "childIds": [
+                          "vdnfpk01RtM9"
+                        ]
+                      },
+                      "7lhEDoLXOBOG": {
+                        "id": "7lhEDoLXOBOG",
+                        "childIds": [
+                          "d8HO5iUudPHX"
+                        ]
+                      },
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
-                          "I4qfh4"
+                          "YaEc8nw3wCRP"
                         ]
                       },
-                      "Yd1jgA": {
-                        "id": "Yd1jgA",
+                      "XVDMRi80EV6e": {
+                        "id": "XVDMRi80EV6e",
                         "childIds": [
-                          "exSotq"
+                          "YN3kCXLRa3yh"
+                        ]
+                      },
+                      "nnc3VRoaRzob": {
+                        "id": "nnc3VRoaRzob",
+                        "childIds": [
+                          "4HxNFi1T5zps"
                         ]
                       }
                     },
@@ -438,6 +667,24 @@
                         "kind": "text",
                         "text": {
                           "text": "电磁抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vdnfpk01RtM9": {
+                  "id": "vdnfpk01RtM9",
+                  "parentId": "52qKZ1AZUZAa",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·源石研究园"
                         }
                       }
                     ],
@@ -639,185 +886,14 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "uvBWLDua": {
+            "7s40dp4C": {
               "id": "document-id",
               "blockIds": [
-                "DCLySTjXhZKV",
-                "lgybkXs9iGy0",
-                "4q5KJ3oVq7JF",
-                "WIPKnxeeHMbE",
-                "no2rid9ZR9Ts",
-                "GE6JnXJXT4z2",
-                "bY6sdpoXw6Qm"
+                "ZLjAzk"
               ],
               "blockMap": {
-                "4q5KJ3oVq7JF": {
-                  "id": "4q5KJ3oVq7JF",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "|敌人详情"
-                        }
-                      }
-                    ],
-                    "kind": "heading3"
-                  }
-                },
-                "D9mXb6uDrMFC": {
-                  "id": "D9mXb6uDrMFC",
-                  "parentId": "2xEFsnUD9QoN",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "描述"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "DCLySTjXhZKV": {
-                  "id": "DCLySTjXhZKV",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "“塔防模式”中的碾骨劫掠者。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "GE6JnXJXT4z2": {
-                  "id": "GE6JnXJXT4z2",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "GE6JnXJXT4z2",
-                    "itemIds": [
-                      "pWpeRBTKCRKW"
-                    ],
-                    "itemMap": {
-                      "pWpeRBTKCRKW": {
-                        "id": "pWpeRBTKCRKW",
-                        "childIds": [
-                          "OeRek7UaUqG4"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "OeRek7UaUqG4": {
-                  "id": "OeRek7UaUqG4",
-                  "parentId": "pWpeRBTKCRKW",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "能力"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "WIPKnxeeHMbE": {
-                  "id": "WIPKnxeeHMbE",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "WIPKnxeeHMbE",
-                    "itemIds": [
-                      "2xEFsnUD9QoN"
-                    ],
-                    "itemMap": {
-                      "2xEFsnUD9QoN": {
-                        "id": "2xEFsnUD9QoN",
-                        "childIds": [
-                          "D9mXb6uDrMFC"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "bY6sdpoXw6Qm": {
-                  "id": "bY6sdpoXw6Qm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "该敌人无特殊能力。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "lgybkXs9iGy0": {
-                  "id": "lgybkXs9iGy0",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "分布于部分据点的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "区域防护作战"
-                        }
-                      },
-                      {
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "内：打开预警终端即可进行区域防护作战。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "no2rid9ZR9Ts": {
-                  "id": "no2rid9ZR9Ts",
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -869,7 +945,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "uvBWLDua",
+                  "content": "1Zntwms5",
                   "audioList": []
                 }
               }
@@ -890,9 +966,9 @@
                     "name": "碾骨劫掠者",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "bs7Xhv5o"
+                    "description": "7s40dp4C"
                   },
-                  "content": "oHPJQGPc",
+                  "content": "4226Ds7n",
                   "audioList": []
                 }
               }
@@ -1030,7 +1106,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798017",
-        "lastAuditPassedAt": "1772724602",
+        "lastAuditPassedAt": "1773930658",
         "tagIds": [
           "10232"
         ]

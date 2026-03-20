@@ -4,7 +4,7 @@
   },
   "name": "潜地虬兽",
   "icon": "https://bbs.hycdn.cn/image/2025/12/25/139426/bb126003c1044746ab814c3cea9888c0.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | C\n小心它喷出的毒液。陷入其中会持续受到超域伤害。\n|敌人分布区域\n广泛分布于四号谷地各处\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | C\n小心它喷出的毒液，陷入其中会持续受到自然伤害。\n|敌人分布区域\n枢纽区 谷地通道 阿伯莉采石场 源石研究园 矿脉源区 武陵城 能量淤积点·枢纽区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889805",
+    "timestamp": "1773975758",
     "data": {
       "item": {
         "itemId": "908",
         "document": {
           "documentMap": {
-            "5pcA9cfP": {
+            "8jjQkjDt": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -47,7 +47,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "D9FFZCEM": {
+            "9r6LGQjA": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -281,9 +281,9 @@
                     "kind": "body"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
+                "BjH9BUOl5sR5": {
+                  "id": "BjH9BUOl5sR5",
+                  "parentId": "bwVyDVsrNIm0",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -291,7 +291,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "广泛分布于四号谷地各处"
+                          "text": "武陵城"
                         }
                       }
                     ],
@@ -335,15 +335,15 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "小心它喷出的毒液。陷入其中会持续受到"
+                          "text": "小心它喷出的毒液，陷入其中会持续受到"
                         }
                       },
                       {
                         "bold": true,
-                        "color": "light_rank_purple",
+                        "color": "light_function_green",
                         "kind": "text",
                         "text": {
-                          "text": "超域伤害"
+                          "text": "自然伤害"
                         }
                       },
                       {
@@ -483,6 +483,23 @@
                     "kind": "unordered"
                   }
                 },
+                "if022ggL0td2": {
+                  "id": "if022ggL0td2",
+                  "parentId": "LPGGb9XHZU4a",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "iz7J9H": {
                   "id": "iz7J9H",
                   "parentId": "document-id",
@@ -526,6 +543,40 @@
                     "kind": "body"
                   }
                 },
+                "mGnkbrqt3CBA": {
+                  "id": "mGnkbrqt3CBA",
+                  "parentId": "3AuGCNdHFRwB",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "阿伯莉采石场"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nK4Kz4SswKiu": {
+                  "id": "nK4Kz4SswKiu",
+                  "parentId": "iDjDfVxsfZ5k",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "nMuAMC": {
                   "id": "nMuAMC",
                   "parentId": "document-id",
@@ -546,6 +597,23 @@
                         "kind": "text",
                         "text": {
                           "text": "寒冷抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nd7xwFkCDQpn": {
+                  "id": "nd7xwFkCDQpn",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区"
                         }
                       }
                     ],
@@ -576,13 +644,55 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "G4YrCm",
+                      "qewofPIlVcrR",
+                      "3AuGCNdHFRwB",
+                      "LPGGb9XHZU4a",
+                      "aAZ08tuqOHBj",
+                      "bwVyDVsrNIm0",
+                      "iDjDfVxsfZ5k"
                     ],
                     "itemMap": {
+                      "3AuGCNdHFRwB": {
+                        "id": "3AuGCNdHFRwB",
+                        "childIds": [
+                          "mGnkbrqt3CBA"
+                        ]
+                      },
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
-                          "I4qfh4"
+                          "nd7xwFkCDQpn"
+                        ]
+                      },
+                      "LPGGb9XHZU4a": {
+                        "id": "LPGGb9XHZU4a",
+                        "childIds": [
+                          "if022ggL0td2"
+                        ]
+                      },
+                      "aAZ08tuqOHBj": {
+                        "id": "aAZ08tuqOHBj",
+                        "childIds": [
+                          "z00Qx4KZfnk3"
+                        ]
+                      },
+                      "bwVyDVsrNIm0": {
+                        "id": "bwVyDVsrNIm0",
+                        "childIds": [
+                          "BjH9BUOl5sR5"
+                        ]
+                      },
+                      "iDjDfVxsfZ5k": {
+                        "id": "iDjDfVxsfZ5k",
+                        "childIds": [
+                          "nK4Kz4SswKiu"
+                        ]
+                      },
+                      "qewofPIlVcrR": {
+                        "id": "qewofPIlVcrR",
+                        "childIds": [
+                          "yYppDyDB18XF"
                         ]
                       }
                     },
@@ -618,6 +728,40 @@
                         "kind": "text",
                         "text": {
                           "text": "灼热抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "yYppDyDB18XF": {
+                  "id": "yYppDyDB18XF",
+                  "parentId": "qewofPIlVcrR",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地通道"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "z00Qx4KZfnk3": {
+                  "id": "z00Qx4KZfnk3",
+                  "parentId": "aAZ08tuqOHBj",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "矿脉源区"
                         }
                       }
                     ],
@@ -663,9 +807,9 @@
                     "name": "潜地虬兽",
                     "type": "野外生物",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "5pcA9cfP"
+                    "description": "8jjQkjDt"
                   },
-                  "content": "D9FFZCEM",
+                  "content": "9r6LGQjA",
                   "audioList": []
                 }
               }
@@ -730,10 +874,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -767,7 +911,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Tunneling Nidwyrm）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -803,7 +947,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849378",
-        "lastAuditPassedAt": "1767848432",
+        "lastAuditPassedAt": "1773932067",
         "tagIds": [
           "10230"
         ]

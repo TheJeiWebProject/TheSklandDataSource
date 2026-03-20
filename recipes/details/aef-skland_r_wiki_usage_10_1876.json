@@ -10,30 +10,119 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方式 / 面积需求",
+    "title": "使用方式 / 相关信息",
     "context": {
       "groupTitle": "使用方式",
-      "widgetTitle": "面积需求",
+      "widgetTitle": "相关信息",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "k7oiwY",
-        "XbWEoo",
-        "6vmeiZ"
+        "1WTlpz",
+        "dR0kGD",
+        "mrBFBw",
+        "044sIK",
+        "o0yABL",
+        "c2ITB9"
       ],
       "blockMap": {
-        "6vmeiZ": {
-          "id": "6vmeiZ",
+        "044sIK": {
+          "id": "044sIK",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "物品准入口"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "仅能放置在"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "协议核心"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "或"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "次级核心"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "范围内。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "1WTlpz": {
+          "id": "1WTlpz",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "c2ITB9": {
+          "id": "c2ITB9",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "XbWEoo": {
-          "id": "XbWEoo",
+        "dR0kGD": {
+          "id": "dR0kGD",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "物品准入口"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "是物流类型的机器，可限制传送带上允许通过的物品。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "mrBFBw": {
+          "id": "mrBFBw",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
@@ -42,7 +131,7 @@
               {
                 "kind": "text",
                 "text": {
-                  "text": "放置"
+                  "text": "可通过"
                 }
               },
               {
@@ -55,45 +144,42 @@
               {
                 "kind": "text",
                 "text": {
-                  "text": "需要长"
-                }
-              },
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "1"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "格、宽"
-                }
-              },
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "1"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "格的可用空地，且必须放置在传送带上。"
+                  "text": "限制通过物品的数量，并在蓝图中标记此段传送带运送的物品。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "k7oiwY": {
-          "id": "k7oiwY",
+        "o0yABL": {
+          "id": "o0yABL",
           "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "物品准入口"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "不"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要电力维持运转。"
+                }
+              }
+            ],
+            "kind": "body"
           }
         }
       },

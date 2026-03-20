@@ -4,7 +4,7 @@
   },
   "name": "激流塔",
   "icon": "https://bbs.hycdn.cn/image/common/20260317/2696356/69b91202c18f320561a5fcb4_2f76db19.png",
-  "description": "获取方式:\n在研究完成激流塔后可获得1台激流塔。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 赤铜零件（20）→ 激流塔（1）\n在工业计划-武陵工业二期研究激流塔获取。\n\n用途:\n激流塔是战斗辅助类型的机器，可以用于辅助攻击敌人。\n激流塔可放置在协议核心及次级核心范围外。\n激流塔需要电力维持运转，1个激流塔耗电功率值为20。\n激流塔的战斗性能： 攻击间隔：5秒 攻击范围：7米\n放置激流塔需要长3格、宽3格的可用空地，且与其他战斗辅助设备间隔≥3格。",
+  "description": "获取方式:\n在研究完成激流塔后可获得1台激流塔。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赤铜零件x20]→[激流塔x1]\n在工业计划-武陵工业二期研究激流塔获取。\n\n用途:\n激流塔是战斗辅助类型的机器，可以用于辅助攻击敌人。\n激流塔可放置在协议核心及次级核心范围外。\n激流塔需要电力维持运转，1个激流塔耗电功率值为20。\n激流塔的战斗性能： 攻击间隔：5秒 攻击范围：7米\n放置激流塔需要长3格、宽3格的可用空地，且与其他战斗辅助设备间隔≥3格。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,105 +21,39 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773890410",
+    "timestamp": "1773976359",
     "data": {
       "item": {
         "itemId": "1201",
         "document": {
           "documentMap": {
-            "17CC64q9": {
+            "875lwqBB": {
               "id": "document-id",
               "blockIds": [
-                "9VmF2q",
-                "7ONjqy",
-                "QOP1hV"
+                "E1hNMw",
+                "gQ7KDY",
+                "5iumDx"
               ],
               "blockMap": {
-                "0w0lxy": {
-                  "id": "0w0lxy",
-                  "parentId": "xowYkN",
-                  "kind": "list",
-                  "list": {
-                    "id": "0w0lxy",
-                    "itemIds": [
-                      "tufDCM"
-                    ],
-                    "itemMap": {
-                      "tufDCM": {
-                        "id": "tufDCM",
-                        "childIds": [
-                          "5482eu"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "5482eu": {
-                  "id": "5482eu",
-                  "parentId": "tufDCM",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "赤铜零件（20）→ 激流塔（1）"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "7ONjqy": {
-                  "id": "7ONjqy",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "7ONjqy",
-                    "itemIds": [
-                      "zepTkr",
-                      "xowYkN"
-                    ],
-                    "itemMap": {
-                      "xowYkN": {
-                        "id": "xowYkN",
-                        "childIds": [
-                          "zEHbeI",
-                          "0w0lxy"
-                        ]
-                      },
-                      "zepTkr": {
-                        "id": "zepTkr",
-                        "childIds": [
-                          "VchwKv"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "9VmF2q": {
-                  "id": "9VmF2q",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QOP1hV": {
-                  "id": "QOP1hV",
+                "5iumDx": {
+                  "id": "5iumDx",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
                   }
                 },
-                "VchwKv": {
-                  "id": "VchwKv",
-                  "parentId": "zepTkr",
+                "E1hNMw": {
+                  "id": "E1hNMw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gQ7KDY": {
+                  "id": "gQ7KDY",
+                  "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -127,7 +61,20 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "在研究完成"
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-武陵工业二期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
                         }
                       },
                       {
@@ -140,55 +87,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "后可获得1台激流塔。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "zEHbeI": {
-                  "id": "zEHbeI",
-                  "parentId": "xowYkN",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围内，点击"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "工具箱-设备列表-制造设备"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "通过以下配方制造。"
+                          "text": "获取。"
                         }
                       }
                     ],
@@ -199,7 +98,119 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "OpHWnnrT": {
+            "9mcSB7w8": {
+              "id": "document-id",
+              "blockIds": [
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
+              ],
+              "blockMap": {
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XbWEoo": {
+                  "id": "XbWEoo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "激流塔"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，且与其他战斗辅助设备间隔"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "≥3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "cAqyEJ5m": {
               "id": "document-id",
               "blockIds": [
                 "1WTlpz",
@@ -504,38 +515,151 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "XmVEYB6U": {
+            "uYAV2Z8t": {
               "id": "document-id",
               "blockIds": [
-                "E1hNMw",
-                "gQ7KDY",
-                "5iumDx"
+                "9VmF2q",
+                "7ONjqy",
+                "QOP1hV"
               ],
               "blockMap": {
-                "5iumDx": {
-                  "id": "5iumDx",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
+                "0w0lxy": {
+                  "id": "0w0lxy",
+                  "parentId": "xowYkN",
+                  "kind": "list",
+                  "list": {
+                    "id": "0w0lxy",
+                    "itemIds": [
+                      "tufDCM"
+                    ],
+                    "itemMap": {
+                      "tufDCM": {
+                        "id": "tufDCM",
+                        "childIds": [
+                          "5482eu"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
                   }
                 },
-                "E1hNMw": {
-                  "id": "E1hNMw",
+                "5482eu": {
+                  "id": "5482eu",
+                  "parentId": "tufDCM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1128",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "→"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1201",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7ONjqy": {
+                  "id": "7ONjqy",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "7ONjqy",
+                    "itemIds": [
+                      "zepTkr",
+                      "xowYkN"
+                    ],
+                    "itemMap": {
+                      "xowYkN": {
+                        "id": "xowYkN",
+                        "childIds": [
+                          "zEHbeI",
+                          "0w0lxy"
+                        ]
+                      },
+                      "zepTkr": {
+                        "id": "zepTkr",
+                        "childIds": [
+                          "VchwKv"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "9VmF2q": {
+                  "id": "9VmF2q",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "5"
                   }
                 },
-                "gQ7KDY": {
-                  "id": "gQ7KDY",
+                "QOP1hV": {
+                  "id": "QOP1hV",
                   "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "VchwKv": {
+                  "id": "VchwKv",
+                  "parentId": "zepTkr",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
+                        "kind": "text",
+                        "text": {
+                          "text": "在研究完成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "激流塔"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后可获得1台激流塔。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zEHbeI": {
+                  "id": "zEHbeI",
+                  "parentId": "xowYkN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
                           "text": "在"
@@ -543,144 +667,36 @@
                       },
                       {
                         "bold": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "工业计划-武陵工业二期"
+                          "text": "协议核心"
                         }
                       },
                       {
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "研究"
+                          "text": "范围内，点击"
                         }
                       },
                       {
                         "bold": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "激流塔"
+                          "text": "工具箱-设备列表-制造设备"
                         }
                       },
                       {
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "获取。"
+                          "text": "通过以下配方制造。"
                         }
                       }
                     ],
                     "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "fUKVRTD4": {
-              "id": "document-id",
-              "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
-              ],
-              "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "XbWEoo": {
-                  "id": "XbWEoo",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "放置"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "激流塔"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "需要长"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格、宽"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格的可用空地"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "，且与其他战斗辅助设备间隔"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "≥3"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "格"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "k7oiwY": {
-                  "id": "k7oiwY",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
                   }
                 }
               },
@@ -733,7 +749,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "fUKVRTD4",
+                  "content": "9mcSB7w8",
                   "audioList": []
                 }
               }
@@ -745,7 +761,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "17CC64q9",
+                  "content": "uYAV2Z8t",
                   "audioList": []
                 }
               }
@@ -757,7 +773,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "OpHWnnrT",
+                  "content": "cAqyEJ5m",
                   "audioList": []
                 }
               }
@@ -769,7 +785,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "XmVEYB6U",
+                  "content": "875lwqBB",
                   "audioList": []
                 }
               }
@@ -1079,7 +1095,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773761970",
-        "lastAuditPassedAt": "1773740388",
+        "lastAuditPassedAt": "1773907766",
         "tagIds": [
           "10004",
           "10312",

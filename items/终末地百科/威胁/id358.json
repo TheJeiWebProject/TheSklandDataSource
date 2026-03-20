@@ -4,7 +4,7 @@
   },
   "name": "重刺天使α",
   "icon": "https://bbs.hycdn.cn/image/2025/12/13/139426/5cb9303b1cbd6d5a68dfed154b0b7584.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | D | D | C\n会在干员脚下伸出源石柱进行攻击。 当它被靠近时，会在自身周围召唤石柱保护自己。\n|敌人分布区域\n枢纽区阿伯莉采石场 供能高地\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | D | D | C\n会在干员脚下伸出源石柱进行攻击。 当它被靠近时，会在自身周围召唤石柱保护自己。\n|敌人分布区域\n阿伯莉采石场 能量淤积点·矿脉源区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773888395",
+    "timestamp": "1773974352",
     "data": {
       "item": {
         "itemId": "358",
         "document": {
           "documentMap": {
-            "e6NztQAU": {
+            "5GKxD0dU": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -77,7 +77,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "uB7lqDkt": {
+            "zJehdu8q": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -131,6 +131,24 @@
                           "id": "35",
                           "showType": "link-imgText",
                           "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "E18tb6U2hooi": {
+                  "id": "E18tb6U2hooi",
+                  "parentId": "QR74KchvADg4",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·矿脉源区"
                         }
                       }
                     ],
@@ -198,18 +216,18 @@
                     "kind": "body"
                   }
                 },
-                "URbGuD": {
-                  "id": "URbGuD",
-                  "parentId": "yBHpMT",
+                "UX2XI0ywSE9t": {
+                  "id": "UX2XI0ywSE9t",
+                  "parentId": "G4YrCm",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
-                        "strikeThrough": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "供能高地"
+                          "text": "阿伯莉采石场"
                         }
                       }
                     ],
@@ -348,31 +366,6 @@
                       }
                     },
                     "kind": "unordered"
-                  }
-                },
-                "ioPxHs": {
-                  "id": "ioPxHs",
-                  "parentId": "G4YrCm",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "strikeThrough": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "枢纽区"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "阿伯莉采石场"
-                        }
-                      }
-                    ],
-                    "kind": "body"
                   }
                 },
                 "iz7J9H": {
@@ -626,19 +619,19 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "yBHpMT"
+                      "QR74KchvADg4"
                     ],
                     "itemMap": {
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
-                          "ioPxHs"
+                          "UX2XI0ywSE9t"
                         ]
                       },
-                      "yBHpMT": {
-                        "id": "yBHpMT",
+                      "QR74KchvADg4": {
+                        "id": "QR74KchvADg4",
                         "childIds": [
-                          "URbGuD"
+                          "E18tb6U2hooi"
                         ]
                       }
                     },
@@ -736,9 +729,9 @@
                     "name": "重刺天使α",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "e6NztQAU"
+                    "description": "5GKxD0dU"
                   },
-                  "content": "uB7lqDkt",
+                  "content": "zJehdu8q",
                   "audioList": []
                 }
               }
@@ -876,7 +869,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767797836",
-        "lastAuditPassedAt": "1772725508",
+        "lastAuditPassedAt": "1773930436",
         "tagIds": [
           "10231"
         ]

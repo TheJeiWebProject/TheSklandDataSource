@@ -4,7 +4,7 @@
   },
   "name": "精锐撕裂牙兽",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/139426/4f6c9b1189f269b122d893896d40cf24.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n灵活敏捷，但受到连续攻击时几乎不能做出任何反应。\n|敌人分布区域\n供能高地\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n灵活敏捷，持续接近攻击被盯上的目标。\n|敌人分布区域\n枢纽区 源石研究园 供能高地 能量淤积点·源石研究园\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889424",
+    "timestamp": "1773975378",
     "data": {
       "item": {
         "itemId": "761",
         "document": {
           "documentMap": {
-            "cH5OT7O5": {
+            "eA0IJRoT": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -220,7 +220,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "灵活敏捷，但受到连续攻击时几乎不能做出任何反应。"
+                          "text": "灵活敏捷，持续接近攻击被盯上的目标。"
                         }
                       }
                     ],
@@ -271,9 +271,9 @@
                     "kind": "body"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
+                "B0BjtjxQtLQa": {
+                  "id": "B0BjtjxQtLQa",
+                  "parentId": "v63WgOn9kGRl",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -299,6 +299,23 @@
                         "kind": "text",
                         "text": {
                           "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "MZtULAl8sNyv": {
+                  "id": "MZtULAl8sNyv",
+                  "parentId": "dsue02Re4mC0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
                         }
                       }
                     ],
@@ -442,6 +459,23 @@
                     "kind": "unordered"
                   }
                 },
+                "iEWyIDC8ley4": {
+                  "id": "iEWyIDC8ley4",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "iz7J9H": {
                   "id": "iz7J9H",
                   "parentId": "document-id",
@@ -535,17 +569,55 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "G4YrCm",
+                      "dsue02Re4mC0",
+                      "v63WgOn9kGRl",
+                      "OEOHa1qoDRhx"
                     ],
                     "itemMap": {
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
-                          "I4qfh4"
+                          "iEWyIDC8ley4"
+                        ]
+                      },
+                      "OEOHa1qoDRhx": {
+                        "id": "OEOHa1qoDRhx",
+                        "childIds": [
+                          "v6EcJ8BGVBGl"
+                        ]
+                      },
+                      "dsue02Re4mC0": {
+                        "id": "dsue02Re4mC0",
+                        "childIds": [
+                          "MZtULAl8sNyv"
+                        ]
+                      },
+                      "v63WgOn9kGRl": {
+                        "id": "v63WgOn9kGRl",
+                        "childIds": [
+                          "B0BjtjxQtLQa"
                         ]
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "v6EcJ8BGVBGl": {
+                  "id": "v6EcJ8BGVBGl",
+                  "parentId": "OEOHa1qoDRhx",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "wLyRZy": {
@@ -587,7 +659,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "rkg55aKd": {
+            "t7wpLddE": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -604,7 +676,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "受雾火强化，由裂地者武装人员操作的精锐战兽。比普通的牙兽更加残暴狡诈，行为诡异、难以预料。"
+                          "text": "受雾火强化，由裂地者武装人员操纵的精锐战兽。比普通的牙兽更加残暴狡诈，行为诡异、难以预料。"
                         }
                       }
                     ],
@@ -650,9 +722,9 @@
                     "name": "精锐撕裂牙兽",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "rkg55aKd"
+                    "description": "t7wpLddE"
                   },
-                  "content": "cH5OT7O5",
+                  "content": "eA0IJRoT",
                   "audioList": []
                 }
               }
@@ -717,10 +789,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -754,20 +826,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "（"
-                      }
-                    },
-                    {
-                      "italic": true,
-                      "kind": "text",
-                      "text": {
-                        "text": "Elite Ripptusk"
-                      }
-                    },
-                    {
-                      "kind": "text",
-                      "text": {
-                        "text": "）是《明日方舟：终末地》中的一类"
+                        "text": "（Elite Ripptusk）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -803,7 +862,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767797516",
-        "lastAuditPassedAt": "1767796806",
+        "lastAuditPassedAt": "1773931677",
         "tagIds": [
           "10232"
         ]

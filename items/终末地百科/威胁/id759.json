@@ -4,7 +4,7 @@
   },
   "name": "精锐劫掠者",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/139426/66bde4ea3ab38b823221184fb9e29e69.png",
-  "description": "用途:\n受雾火强化，装备近战武器的裂地者精锐武装人员。他们的装备、体能与白刃战技术得到了全面强化。",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n枢纽区 谷地通道 源石研究园 供能高地 能量淤积点·供能高地\n|敌人掉落\n\n用途:\n受雾火强化，装备近战武器的裂地者精锐武装人员。他们的装备、体能与白刃战技术得到了全面强化。",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889419",
+    "timestamp": "1773975373",
     "data": {
       "item": {
         "itemId": "759",
         "document": {
           "documentMap": {
-            "B1vSusNI": {
+            "W6zmVFiJ": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -29,7 +29,10 @@
                 "gLi8Lo",
                 "6tyDgx",
                 "ZoTWjI",
-                "r3E9Ve"
+                "r3E9Ve",
+                "5rKXKrk76KgR",
+                "uc3dR9MsZpj6",
+                "wgrFDST9h8Ok"
               ],
               "blockMap": {
                 "1RUIiq": {
@@ -206,6 +209,14 @@
                     "colHeader": false
                   }
                 },
+                "5rKXKrk76KgR": {
+                  "id": "5rKXKrk76KgR",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
                 "6ZFT7b": {
                   "id": "6ZFT7b",
                   "parentId": "ImXoPN_GAVhL9",
@@ -231,31 +242,6 @@
                     "kind": "3"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "strikeThrough": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "分布于特定协议空间"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "广泛分布于四号谷地各处"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
                 "JAeXlS": {
                   "id": "JAeXlS",
                   "parentId": "ImXoPN_lGo6ja",
@@ -273,6 +259,23 @@
                     "kind": "body"
                   }
                 },
+                "PYNQcrHMqhJI": {
+                  "id": "PYNQcrHMqhJI",
+                  "parentId": "fJQn3sFLT7oi",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "供能高地"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "Qh78Jk": {
                   "id": "Qh78Jk",
                   "parentId": "document-id",
@@ -281,6 +284,23 @@
                   "text": {
                     "inlineElements": [],
                     "kind": "heading3"
+                  }
+                },
+                "SEGFBxPAPzHN": {
+                  "id": "SEGFBxPAPzHN",
+                  "parentId": "h8d9ahZuA8V6",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地通道"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "T5LbIE": {
@@ -293,7 +313,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "该敌人无特殊能力"
+                          "text": "该敌人无特殊能力。"
                         }
                       }
                     ],
@@ -387,6 +407,24 @@
                     "kind": "body"
                   }
                 },
+                "cZn7KmNKQuqv": {
+                  "id": "cZn7KmNKQuqv",
+                  "parentId": "UJxGiz3MaSm5",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·供能高地"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "gLi8Lo": {
                   "id": "gLi8Lo",
                   "parentId": "document-id",
@@ -468,6 +506,23 @@
                     "kind": "body"
                   }
                 },
+                "oRHIEZ1Fse2s": {
+                  "id": "oRHIEZ1Fse2s",
+                  "parentId": "jkhDgAoOW8OH",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "pxEmsK": {
                   "id": "pxEmsK",
                   "parentId": "ImXoPN_TSscPK",
@@ -492,17 +547,119 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "G4YrCm",
+                      "h8d9ahZuA8V6",
+                      "jkhDgAoOW8OH",
+                      "fJQn3sFLT7oi",
+                      "UJxGiz3MaSm5"
                     ],
                     "itemMap": {
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
-                          "I4qfh4"
+                          "xvNCl2kEKZUt"
+                        ]
+                      },
+                      "UJxGiz3MaSm5": {
+                        "id": "UJxGiz3MaSm5",
+                        "childIds": [
+                          "cZn7KmNKQuqv"
+                        ]
+                      },
+                      "fJQn3sFLT7oi": {
+                        "id": "fJQn3sFLT7oi",
+                        "childIds": [
+                          "PYNQcrHMqhJI"
+                        ]
+                      },
+                      "h8d9ahZuA8V6": {
+                        "id": "h8d9ahZuA8V6",
+                        "childIds": [
+                          "SEGFBxPAPzHN"
+                        ]
+                      },
+                      "jkhDgAoOW8OH": {
+                        "id": "jkhDgAoOW8OH",
+                        "childIds": [
+                          "oRHIEZ1Fse2s"
                         ]
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "uc3dR9MsZpj6": {
+                  "id": "uc3dR9MsZpj6",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人掉落"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "ukLH6YV6dw0n": {
+                  "id": "ukLH6YV6dw0n",
+                  "parentId": "cuFfNbQzGaZd",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "30",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wgrFDST9h8Ok": {
+                  "id": "wgrFDST9h8Ok",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "wgrFDST9h8Ok",
+                    "itemIds": [
+                      "cuFfNbQzGaZd"
+                    ],
+                    "itemMap": {
+                      "cuFfNbQzGaZd": {
+                        "id": "cuFfNbQzGaZd",
+                        "childIds": [
+                          "ukLH6YV6dw0n"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "xvNCl2kEKZUt": {
+                  "id": "xvNCl2kEKZUt",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "xyqW3g": {
@@ -527,7 +684,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "qR1BINaY": {
+            "gL4YbJXB": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -590,9 +747,9 @@
                     "name": "精锐劫掠者",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "qR1BINaY"
+                    "description": "gL4YbJXB"
                   },
-                  "content": "B1vSusNI",
+                  "content": "W6zmVFiJ",
                   "audioList": []
                 }
               }
@@ -730,7 +887,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798362",
-        "lastAuditPassedAt": "1772725338",
+        "lastAuditPassedAt": "1773931621",
         "tagIds": [
           "10232"
         ]

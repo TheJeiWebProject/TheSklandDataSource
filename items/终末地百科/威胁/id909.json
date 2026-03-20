@@ -4,7 +4,7 @@
   },
   "name": "斧甲兽",
   "icon": "https://bbs.hycdn.cn/image/2025/12/25/139426/6e8037893fb9423de13a8e01c7af9a27.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n愤怒的斧甲兽会把一切闯入领地的敌人用巨角驱赶出去，一定要小心他的冲撞。 会进行各种大范围的攻击，在它愤怒时及时打断。\n|敌人分布区域\n枢纽区\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n愤怒的斧甲兽会把一切闯入领地的敌人用巨角驱赶出去，一定要小心他的冲撞。 会进行各种大范围的攻击，在它愤怒时及时打断。\n|敌人分布区域\n枢纽区 能量淤积点·枢纽区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889808",
+    "timestamp": "1773975761",
     "data": {
       "item": {
         "itemId": "909",
         "document": {
           "documentMap": {
-            "0fCzYoQu": {
+            "J9SoLy2k": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -47,7 +47,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "5smP9VRb": {
+            "bZPRUIVW": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -309,6 +309,23 @@
                         "kind": "text",
                         "text": {
                           "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ODuMNVecuZ1U": {
+                  "id": "ODuMNVecuZ1U",
+                  "parentId": "uB8TeeaIFRP5",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·枢纽区"
                         }
                       }
                     ],
@@ -586,13 +603,20 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "G4YrCm",
+                      "uB8TeeaIFRP5"
                     ],
                     "itemMap": {
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
                           "I4qfh4"
+                        ]
+                      },
+                      "uB8TeeaIFRP5": {
+                        "id": "uB8TeeaIFRP5",
+                        "childIds": [
+                          "ODuMNVecuZ1U"
                         ]
                       }
                     },
@@ -638,7 +662,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "OLUxHdB8": {
+            "uoVHZlUr": {
               "id": "document-id",
               "blockIds": [
                 "DCLySTjXhZKV",
@@ -877,9 +901,9 @@
                     "name": "斧甲兽",
                     "type": "野外生物",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "0fCzYoQu"
+                    "description": "J9SoLy2k"
                   },
-                  "content": "5smP9VRb",
+                  "content": "bZPRUIVW",
                   "audioList": []
                 }
               }
@@ -891,7 +915,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "OLUxHdB8",
+                  "content": "uoVHZlUr",
                   "audioList": []
                 }
               }
@@ -1029,7 +1053,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849573",
-        "lastAuditPassedAt": "1772721299",
+        "lastAuditPassedAt": "1773932094",
         "tagIds": [
           "10230"
         ]

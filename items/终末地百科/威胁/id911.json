@@ -4,7 +4,7 @@
   },
   "name": "酸液源石虫",
   "icon": "https://bbs.hycdn.cn/image/2025/12/26/139426/ad2ce63fa44873b6a240287db0e3eb8d.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n胆小的它们会缩进壳中保护自己，向四周无脑发射身上的源石来吓走敌人。\n|敌人分布区域\n枢纽区 源石研究园 矿脉源区 供能高地\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n胆小的它们会缩进壳中保护自己，向四周无脑发射身上的源石来吓走敌人。\n|敌人分布区域\n枢纽区 源石研究园 矿脉源区 供能高地 能量淤积点·枢纽区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889813",
+    "timestamp": "1773975766",
     "data": {
       "item": {
         "itemId": "911",
         "document": {
           "documentMap": {
-            "CGra9G4v": {
+            "1wy2VgrZ": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -47,7 +47,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "TOmbRghD": {
+            "N60rANbd": {
               "id": "document-id",
               "blockIds": [
                 "DCLySTjXhZKV",
@@ -246,7 +246,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "r4NehIxU": {
+            "TTZ1XeWb": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -592,6 +592,23 @@
                     "kind": "body"
                   }
                 },
+                "Tjbv4fGAl2Eb": {
+                  "id": "Tjbv4fGAl2Eb",
+                  "parentId": "Yx6iXfiByYvJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "VVctjw": {
                   "id": "VVctjw",
                   "parentId": "ImXoPN_ksedC1",
@@ -815,7 +832,8 @@
                       "G4YrCm",
                       "uIg2De",
                       "G2MsK1",
-                      "Zarfc0"
+                      "Zarfc0",
+                      "Yx6iXfiByYvJ"
                     ],
                     "itemMap": {
                       "G2MsK1": {
@@ -828,6 +846,12 @@
                         "id": "G4YrCm",
                         "childIds": [
                           "I4qfh4"
+                        ]
+                      },
+                      "Yx6iXfiByYvJ": {
+                        "id": "Yx6iXfiByYvJ",
+                        "childIds": [
+                          "Tjbv4fGAl2Eb"
                         ]
                       },
                       "Zarfc0": {
@@ -916,7 +940,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "TOmbRghD",
+                  "content": "N60rANbd",
                   "audioList": []
                 }
               }
@@ -937,9 +961,9 @@
                     "name": "酸液源石虫",
                     "type": "野外生物",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "CGra9G4v"
+                    "description": "1wy2VgrZ"
                   },
-                  "content": "r4NehIxU",
+                  "content": "TTZ1XeWb",
                   "audioList": []
                 }
               }
@@ -1077,7 +1101,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849558",
-        "lastAuditPassedAt": "1772721346",
+        "lastAuditPassedAt": "1773932169",
         "tagIds": [
           "10230"
         ]

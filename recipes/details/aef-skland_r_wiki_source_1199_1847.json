@@ -1,7 +1,12 @@
 {
   "id": "aef-skland:r/wiki_source_1199/1847",
-  "type": "aef-skland:wiki/source/list_text",
+  "type": "aef-skland:wiki/source/list_entry",
   "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1128",
+      "amount": 20
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_1199",
@@ -52,10 +57,26 @@
           "text": {
             "inlineElements": [
               {
+                "kind": "entry",
+                "entry": {
+                  "id": "1128",
+                  "showType": "link-imgText",
+                  "count": "20"
+                }
+              },
+              {
                 "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "赤铜零件（20）→ 暗管出口（1）"
+                  "text": "→"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1199",
+                  "showType": "link-imgText",
+                  "count": "1"
                 }
               }
             ],
@@ -188,7 +209,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "list_text"
+    "sourcePattern": "list_entry"
   },
   "detailLoaded": true
 }

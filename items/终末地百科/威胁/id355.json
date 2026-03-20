@@ -4,7 +4,7 @@
   },
   "name": "大角天使α",
   "icon": "https://bbs.hycdn.cn/image/2025/12/13/139426/8c343e54cc7eb685636085ae05908b33.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n供能高地阿伯莉采石场\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n阿伯莉采石场 能量淤积点·矿脉源区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,71 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773888387",
+    "timestamp": "1773974344",
     "data": {
       "item": {
         "itemId": "355",
         "document": {
           "documentMap": {
-            "MbZwMglu": {
+            "ZGRxf2Fg": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "克利俄松·阿纳翁"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”（归档编号：ACL071α），ACL071的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_red",
+                        "kind": "text",
+                        "text": {
+                          "text": "激发种"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。溢出的能量给了它们标志性的亮红外观，比模式种更为坚固、灵活。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "gWr2hqRD": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -175,14 +233,6 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "strikeThrough": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "供能高地"
-                        }
-                      },
-                      {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
@@ -286,13 +336,20 @@
                   "list": {
                     "id": "gwM5sEAUanUY",
                     "itemIds": [
-                      "hgUF9N5jttZR"
+                      "hgUF9N5jttZR",
+                      "m3RpPfFpDaQF"
                     ],
                     "itemMap": {
                       "hgUF9N5jttZR": {
                         "id": "hgUF9N5jttZR",
                         "childIds": [
                           "XvMBABS8JzZX"
+                        ]
+                      },
+                      "m3RpPfFpDaQF": {
+                        "id": "m3RpPfFpDaQF",
+                        "childIds": [
+                          "lvl4a4FPUi6E"
                         ]
                       }
                     },
@@ -336,6 +393,24 @@
                         "kind": "text",
                         "text": {
                           "text": "自然抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lvl4a4FPUi6E": {
+                  "id": "lvl4a4FPUi6E",
+                  "parentId": "m3RpPfFpDaQF",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·矿脉源区"
                         }
                       }
                     ],
@@ -606,64 +681,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "tzgFCV95": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "“"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "克利俄松·阿纳翁"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "”（归档编号：ACL071α），ACL071的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_function_red",
-                        "kind": "text",
-                        "text": {
-                          "text": "激发种"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。溢出的能量给了它们标志性的亮红外观，比模式种更为坚固、灵活。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -700,9 +717,9 @@
                     "name": "大角天使",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "tzgFCV95"
+                    "description": "ZGRxf2Fg"
                   },
-                  "content": "MbZwMglu",
+                  "content": "gWr2hqRD",
                   "audioList": []
                 }
               }
@@ -840,7 +857,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767797680",
-        "lastAuditPassedAt": "1772724798",
+        "lastAuditPassedAt": "1773930273",
         "tagIds": [
           "10231"
         ]

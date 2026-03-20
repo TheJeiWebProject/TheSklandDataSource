@@ -3,6 +3,7 @@
     "id": "aef-skland.wiki.item_1196"
   },
   "name": "武陵拓展核心",
+  "icon": "https://bbs.hycdn.cn/image/common/20260319/3048259/69bb94ae0b797bd73811e207_56331367.png",
   "description": "获取方式:\n主线任务完成后的报酬。\n\n用途:\n用于解锁新一期的武陵工业计划。",
   "rarity": {
     "stars": 5,
@@ -20,59 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773890400",
+    "timestamp": "1773976349",
     "data": {
       "item": {
         "itemId": "1196",
         "document": {
           "documentMap": {
-            "6jnFBzYI": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "9frzIp",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "9frzIp": {
-                  "id": "9frzIp",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "用于解锁新一期的武陵工业计划。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "ruHF4Ftv": {
+            "8776DRT1": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -145,6 +100,52 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "VaZr0Ckv": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "9frzIp",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "9frzIp": {
+                  "id": "9frzIp",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "用于解锁新一期的武陵工业计划。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -182,7 +183,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "6jnFBzYI",
+                  "content": "VaZr0Ckv",
                   "audioList": []
                 }
               }
@@ -194,7 +195,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ruHF4Ftv",
+                  "content": "8776DRT1",
                   "audioList": []
                 }
               }
@@ -364,7 +365,7 @@
           "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
         },
         "brief": {
-          "cover": "",
+          "cover": "https://bbs.hycdn.cn/image/common/20260319/3048259/69bb94ae0b797bd73811e207_56331367.png",
           "name": "武陵拓展核心",
           "description": {
             "id": "document-id",
@@ -432,7 +433,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773397453",
-        "lastAuditPassedAt": "1773293318",
+        "lastAuditPassedAt": "1773901040",
         "tagIds": [
           "10005",
           "10330",

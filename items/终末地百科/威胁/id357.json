@@ -4,7 +4,7 @@
   },
   "name": "刚角天使α",
   "icon": "https://bbs.hycdn.cn/image/2025/12/13/139426/8b9086e6c31b4f5e7d47e966dde1de1d.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | D | D | C\n该敌人无特殊能力。\n|敌人分布区域\n枢纽区阿伯莉采石场 矿脉源区\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | D | D | C\n该敌人无特殊能力。\n|敌人分布区域\n能量淤积点·矿脉源区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773888393",
+    "timestamp": "1773974349",
     "data": {
       "item": {
         "itemId": "357",
         "document": {
           "documentMap": {
-            "CaKzN5mn": {
+            "Jaix3mQM": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -254,6 +254,24 @@
                     "colHeader": false
                   }
                 },
+                "Lbtomt18xWqO": {
+                  "id": "Lbtomt18xWqO",
+                  "parentId": "P3XZKRjpnus2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·矿脉源区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "MsR0fG": {
                   "id": "MsR0fG",
                   "parentId": "document-id",
@@ -398,24 +416,6 @@
                     "kind": "body"
                   }
                 },
-                "exSotq": {
-                  "id": "exSotq",
-                  "parentId": "Yd1jgA",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "strikeThrough": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "矿脉源区"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
                 "gLi8Lo": {
                   "id": "gLi8Lo",
                   "parentId": "document-id",
@@ -434,31 +434,6 @@
                       }
                     },
                     "kind": "unordered"
-                  }
-                },
-                "ioPxHs": {
-                  "id": "ioPxHs",
-                  "parentId": "G4YrCm",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "strikeThrough": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "枢纽区"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "阿伯莉采石场"
-                        }
-                      }
-                    ],
-                    "kind": "body"
                   }
                 },
                 "iz7J9H": {
@@ -537,20 +512,13 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm",
-                      "Yd1jgA"
+                      "P3XZKRjpnus2"
                     ],
                     "itemMap": {
-                      "G4YrCm": {
-                        "id": "G4YrCm",
+                      "P3XZKRjpnus2": {
+                        "id": "P3XZKRjpnus2",
                         "childIds": [
-                          "ioPxHs"
-                        ]
-                      },
-                      "Yd1jgA": {
-                        "id": "Yd1jgA",
-                        "childIds": [
-                          "exSotq"
+                          "Lbtomt18xWqO"
                         ]
                       }
                     },
@@ -630,7 +598,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "yJtOwVWE": {
+            "r17c7cRi": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -723,9 +691,9 @@
                     "name": "刚角天使α",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "yJtOwVWE"
+                    "description": "r17c7cRi"
                   },
-                  "content": "CaKzN5mn",
+                  "content": "Jaix3mQM",
                   "audioList": []
                 }
               }
@@ -863,7 +831,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767797740",
-        "lastAuditPassedAt": "1772805743",
+        "lastAuditPassedAt": "1773930470",
         "tagIds": [
           "10231"
         ]

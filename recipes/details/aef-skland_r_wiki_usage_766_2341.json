@@ -1,49 +1,57 @@
 {
   "id": "aef-skland:r/wiki_usage_766/2341",
-  "type": "aef-skland:wiki/usage/text_only",
+  "type": "aef-skland:wiki/usage/text_entry",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_766",
       "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_743",
+      "amount": 1
     }
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方式 / 面积需求",
+    "title": "使用方式 / 相关信息",
     "context": {
       "groupTitle": "使用方式",
-      "widgetTitle": "面积需求",
+      "widgetTitle": "相关信息",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "k7oiwY",
-        "XbWEoo",
-        "6vmeiZ"
+        "1WTlpz",
+        "7N6osD",
+        "l9Doyn4u6D02",
+        "vGj4yNvHIFRM",
+        "55qhQ8JP749l",
+        "c2ITB9"
       ],
       "blockMap": {
-        "6vmeiZ": {
-          "id": "6vmeiZ",
+        "1WTlpz": {
+          "id": "1WTlpz",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
-            "kind": "2"
+            "kind": "5"
           }
         },
-        "XbWEoo": {
-          "id": "XbWEoo",
+        "55qhQ8JP749l": {
+          "id": "55qhQ8JP749l",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "color": "light_text_primary",
+                "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "放置"
+                  "text": "琼叶参"
                 }
               },
               {
@@ -58,7 +66,109 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "需要在"
+                  "text": "配合"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "743",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用，效果更加。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "7N6osD": {
+          "id": "7N6osD",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "琼叶参"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "田块"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "是种植调配类型的设备，可以用于培植"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "琼叶参"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "c2ITB9": {
+          "id": "c2ITB9",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "l9Doyn4u6D02": {
+          "id": "l9Doyn4u6D02",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "琼叶参"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "田块"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "仅能放置在"
                 }
               },
               {
@@ -73,71 +183,81 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "的长"
+                  "text": "和"
                 }
               },
               {
                 "bold": true,
-                "color": "light_text_primary",
+                "color": "light_rank_yellow",
                 "kind": "text",
                 "text": {
-                  "text": "4"
+                  "text": "武陵城-实验作物试点区"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "格、宽"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "4"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格的可用空地，且与其他田块间隔"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "≥3"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格。"
+                  "text": "范围内。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "k7oiwY": {
-          "id": "k7oiwY",
+        "vGj4yNvHIFRM": {
+          "id": "vGj4yNvHIFRM",
           "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "琼叶参"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "田块"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "育苗后，需要浇水3次，生长3次，每次浇水后生长4小时，"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "一共需要12小时"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "即可成熟。"
+                }
+              }
+            ],
+            "kind": "body"
           }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "text_only"
+    "usagePattern": "text_entry"
   },
   "detailLoaded": true
 }

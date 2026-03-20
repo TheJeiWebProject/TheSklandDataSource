@@ -4,7 +4,7 @@
   },
   "name": "仿生翅天使",
   "icon": "https://bbs.hycdn.cn/image/2025/12/13/139426/1a2352b080b6fb5cbb3b865f1f908ccb.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n施放的小型旋风会同时减速干员。\n|敌人分布区域\n矿脉源区\n|敌人掉落\n\n用途:\n“苏索泰隆”（归档编号：ARA07C），飞行能力与其外形无关。这种形成模式最早被认为是对生物的模仿，但如今，共识已演变为模仿泰拉人所使用的飞行器。",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n施放的小型旋风会同时减速干员。\n|敌人分布区域\n矿脉源区 能量淤积点·矿脉源区\n|敌人掉落\n\n用途:\n“苏索泰隆”（归档编号：ARA07C），飞行能力与其外形无关。这种形成模式最早被认为是对生物的模仿，但如今，共识已演变为模仿泰拉人所使用的飞行器。",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773888400",
+    "timestamp": "1773974357",
     "data": {
       "item": {
         "itemId": "360",
         "document": {
           "documentMap": {
-            "U0EEUdRp": {
+            "BTWaInxO": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -56,6 +56,24 @@
                           "id": "342",
                           "showType": "link-imgText",
                           "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "B5G1oR2juxyz": {
+                  "id": "B5G1oR2juxyz",
+                  "parentId": "Al88QQIyARBN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "矿脉源区"
                         }
                       }
                     ],
@@ -387,17 +405,18 @@
                     "kind": "body"
                   }
                 },
-                "exSotq": {
-                  "id": "exSotq",
-                  "parentId": "Yd1jgA",
+                "cvie3EGSNBmC": {
+                  "id": "cvie3EGSNBmC",
+                  "parentId": "0gOMUX4xxaXp",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "矿脉源区"
+                          "text": "能量淤积点·矿脉源区"
                         }
                       }
                     ],
@@ -431,13 +450,20 @@
                   "list": {
                     "id": "gdSfnt",
                     "itemIds": [
-                      "Yd1jgA"
+                      "Al88QQIyARBN",
+                      "0gOMUX4xxaXp"
                     ],
                     "itemMap": {
-                      "Yd1jgA": {
-                        "id": "Yd1jgA",
+                      "0gOMUX4xxaXp": {
+                        "id": "0gOMUX4xxaXp",
                         "childIds": [
-                          "exSotq"
+                          "cvie3EGSNBmC"
+                        ]
+                      },
+                      "Al88QQIyARBN": {
+                        "id": "Al88QQIyARBN",
+                        "childIds": [
+                          "B5G1oR2juxyz"
                         ]
                       }
                     },
@@ -586,7 +612,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "oRU4WcHz": {
+            "iVfMYJvt": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -664,9 +690,9 @@
                     "name": "仿生翅天使",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "oRU4WcHz"
+                    "description": "iVfMYJvt"
                   },
-                  "content": "U0EEUdRp",
+                  "content": "BTWaInxO",
                   "audioList": []
                 }
               }
@@ -804,7 +830,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767797878",
-        "lastAuditPassedAt": "1772721850",
+        "lastAuditPassedAt": "1773930368",
         "tagIds": [
           "10231"
         ]

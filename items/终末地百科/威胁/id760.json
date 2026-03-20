@@ -4,7 +4,7 @@
   },
   "name": "精锐伏击射手",
   "icon": "https://bbs.hycdn.cn/image/2025/12/30/139426/b3732b67bb070564240b6b3453c277fd.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n分布于特定协议空间\n|敌人掉落\n\n用途:\n受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素、射击精准，使用的弩箭得到了全面强化。",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n枢纽区 源石研究园 供能高地 能量淤积点·供能高地\n|敌人掉落\n\n用途:\n受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素，射击精准，使用的弩箭得到了全面强化。\n影拓丰碑-大地的弃子-旁门外道中的精锐伏击射手。\n|敌方情报\n描述\n能力\n更难被打断、无法移动并不断提高攻击力。",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,188 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1773889422",
+    "timestamp": "1773975376",
     "data": {
       "item": {
         "itemId": "760",
         "document": {
           "documentMap": {
-            "ZuUhaCEd": {
+            "DFxuWSEr": {
+              "id": "document-id",
+              "blockIds": [
+                "Xfmwy9GXeFH2",
+                "BOkNBaWD2W6W",
+                "rodvehtVcW5C",
+                "dA0XyrSzBiSu",
+                "2H0Kx1RXPWlw",
+                "eL3HtifkV0qd"
+              ],
+              "blockMap": {
+                "1JhfI1FiRCgN": {
+                  "id": "1JhfI1FiRCgN",
+                  "parentId": "p5nhT72F7Boj",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "2H0Kx1RXPWlw": {
+                  "id": "2H0Kx1RXPWlw",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2H0Kx1RXPWlw",
+                    "itemIds": [
+                      "p5nhT72F7Boj"
+                    ],
+                    "itemMap": {
+                      "p5nhT72F7Boj": {
+                        "id": "p5nhT72F7Boj",
+                        "childIds": [
+                          "1JhfI1FiRCgN"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "BOkNBaWD2W6W": {
+                  "id": "BOkNBaWD2W6W",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌方情报"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "Xfmwy9GXeFH2": {
+                  "id": "Xfmwy9GXeFH2",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "影拓丰碑-大地的弃子-旁门外道"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中的精锐伏击射手。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dA0XyrSzBiSu": {
+                  "id": "dA0XyrSzBiSu",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素，射击精准，使用的弩箭得到了全面强化。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "eL3HtifkV0qd": {
+                  "id": "eL3HtifkV0qd",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "更难被打断、无法移动并不断提高攻击力。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "prYFEiyordIS": {
+                  "id": "prYFEiyordIS",
+                  "parentId": "T7UhnkAY1w8j",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "rodvehtVcW5C": {
+                  "id": "rodvehtVcW5C",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "rodvehtVcW5C",
+                    "itemIds": [
+                      "T7UhnkAY1w8j"
+                    ],
+                    "itemMap": {
+                      "T7UhnkAY1w8j": {
+                        "id": "T7UhnkAY1w8j",
+                        "childIds": [
+                          "prYFEiyordIS"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "IRMNCOSB": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -36,7 +211,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素、射击精准，使用的弩箭得到了全面强化。"
+                          "text": "受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素，射击精准，使用的弩箭得到了全面强化。"
                         }
                       }
                     ],
@@ -47,7 +222,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "gimxBexP": {
+            "jaD71ZMQ": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -281,9 +456,9 @@
                     "kind": "body"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
+                "BBV2MkLlmRxB": {
+                  "id": "BBV2MkLlmRxB",
+                  "parentId": "bDGAuiiURgoi",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -291,7 +466,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "分布于特定协议空间"
+                          "text": "供能高地"
                         }
                       }
                     ],
@@ -371,6 +546,23 @@
                         "kind": "text",
                         "text": {
                           "text": "电磁抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WiyTQPR8lK19": {
+                  "id": "WiyTQPR8lK19",
+                  "parentId": "n57Ei1jDBiqd",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·供能高地"
                         }
                       }
                     ],
@@ -486,6 +678,23 @@
                     "kind": "heading3"
                   }
                 },
+                "jdvkKz49OWc9": {
+                  "id": "jdvkKz49OWc9",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "l2RXET": {
                   "id": "l2RXET",
                   "parentId": "document-id",
@@ -562,13 +771,34 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "G4YrCm",
+                      "3396sGj7fQRa",
+                      "bDGAuiiURgoi",
+                      "n57Ei1jDBiqd"
                     ],
                     "itemMap": {
+                      "3396sGj7fQRa": {
+                        "id": "3396sGj7fQRa",
+                        "childIds": [
+                          "xGlmERkdv7Vm"
+                        ]
+                      },
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
-                          "I4qfh4"
+                          "jdvkKz49OWc9"
+                        ]
+                      },
+                      "bDGAuiiURgoi": {
+                        "id": "bDGAuiiURgoi",
+                        "childIds": [
+                          "BBV2MkLlmRxB"
+                        ]
+                      },
+                      "n57Ei1jDBiqd": {
+                        "id": "n57Ei1jDBiqd",
+                        "childIds": [
+                          "WiyTQPR8lK19"
                         ]
                       }
                     },
@@ -590,6 +820,23 @@
                       }
                     ],
                     "kind": "heading3"
+                  }
+                },
+                "xGlmERkdv7Vm": {
+                  "id": "xGlmERkdv7Vm",
+                  "parentId": "3396sGj7fQRa",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "源石研究园"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "xyqW3g": {
@@ -623,6 +870,11 @@
                   "id": "MX3syh2E",
                   "title": "敌人简介",
                   "size": "large"
+                },
+                {
+                  "id": "FOoDuijl",
+                  "title": "精锐伏击射手(旁门外道)",
+                  "size": "small"
                 }
               ]
             }
@@ -633,6 +885,18 @@
             "composite": ""
           },
           "widgetCommonMap": {
+            "FOoDuijl": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "DFxuWSEr",
+                  "audioList": []
+                }
+              }
+            },
             "MX3syh2E": {
               "type": "common",
               "tableList": [],
@@ -649,9 +913,9 @@
                     "name": "精锐伏击射手",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "ZuUhaCEd"
+                    "description": "IRMNCOSB"
                   },
-                  "content": "gimxBexP",
+                  "content": "jaD71ZMQ",
                   "audioList": []
                 }
               }
@@ -716,10 +980,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -753,20 +1017,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "（"
-                      }
-                    },
-                    {
-                      "italic": true,
-                      "kind": "text",
-                      "text": {
-                        "text": "Elite Ambusher"
-                      }
-                    },
-                    {
-                      "kind": "text",
-                      "text": {
-                        "text": "）是《明日方舟：终末地》中的一类"
+                        "text": "（Elite Ambusher）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -802,7 +1053,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798384",
-        "lastAuditPassedAt": "1767796781",
+        "lastAuditPassedAt": "1773931395",
         "tagIds": [
           "10232"
         ]

@@ -10,34 +10,28 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方法 / 面积需求",
+    "title": "使用方法 / 相关信息",
     "context": {
       "groupTitle": "使用方法",
-      "widgetTitle": "面积需求",
+      "widgetTitle": "相关信息",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "q7ls4l",
-        "AXPrqD",
-        "ddz0Jc"
+        "rDAMbw",
+        "oBLOzn",
+        "cySkAJ",
+        "nKo3mS"
       ],
       "blockMap": {
-        "AXPrqD": {
-          "id": "AXPrqD",
+        "cySkAJ": {
+          "id": "cySkAJ",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "放置"
-                }
-              },
               {
                 "bold": true,
                 "kind": "text",
@@ -57,7 +51,7 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "需要在"
+                  "text": "仅能放置在"
                 }
               },
               {
@@ -72,68 +66,69 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "的长"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "4"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格、宽"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "4"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格的可用空地，且与其他田块间隔"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "≥3"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格。"
+                  "text": "范围内。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "ddz0Jc": {
-          "id": "ddz0Jc",
+        "nKo3mS": {
+          "id": "nKo3mS",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "q7ls4l": {
-          "id": "q7ls4l",
+        "oBLOzn": {
+          "id": "oBLOzn",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "灰芦麦"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "田块"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "是种植调配类型的设备，可以用于培植"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "灰芦麦"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "rDAMbw": {
+          "id": "rDAMbw",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
