@@ -1,0 +1,123 @@
+{
+  "id": "aef-skland:r/wiki_source_1091/1792",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1091",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "C9nfIfLcZsYG",
+        "Yl4kJlX4GN0y",
+        "cw70JW1RN4JY",
+        "lT5JxBXdskgt"
+      ],
+      "blockMap": {
+        "C9nfIfLcZsYG": {
+          "id": "C9nfIfLcZsYG",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "W7RRQeMe6D8j": {
+          "id": "W7RRQeMe6D8j",
+          "parentId": "2seeDu6NkJfJ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "2026/02/05至2027/02/05期间接收邮件"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "菲奥娜的人事支援"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "并领取附件。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Yl4kJlX4GN0y": {
+          "id": "Yl4kJlX4GN0y",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "邮件获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "cw70JW1RN4JY": {
+          "id": "cw70JW1RN4JY",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "cw70JW1RN4JY",
+            "itemIds": [
+              "2seeDu6NkJfJ"
+            ],
+            "itemMap": {
+              "2seeDu6NkJfJ": {
+                "id": "2seeDu6NkJfJ",
+                "childIds": [
+                  "W7RRQeMe6D8j"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "lT5JxBXdskgt": {
+          "id": "lT5JxBXdskgt",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

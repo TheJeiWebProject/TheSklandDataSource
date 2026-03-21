@@ -1,0 +1,123 @@
+{
+  "id": "aef-skland:r/wiki_usage_26/1903",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_26",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "A7adjN",
+        "1z9ivI",
+        "miRbr7",
+        "ngifi6"
+      ],
+      "blockMap": {
+        "1z9ivI": {
+          "id": "1z9ivI",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于仓储节点货物装箱。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "A7adjN": {
+          "id": "A7adjN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "miRbr7": {
+          "id": "miRbr7",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "miRbr7",
+            "itemIds": [
+              "su8Rnf"
+            ],
+            "itemMap": {
+              "su8Rnf": {
+                "id": "su8Rnf",
+                "childIds": [
+                  "v7VFRj"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "ngifi6": {
+          "id": "ngifi6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "v7VFRj": {
+          "id": "v7VFRj",
+          "parentId": "su8Rnf",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每装箱"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "26",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要5点货箱容量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

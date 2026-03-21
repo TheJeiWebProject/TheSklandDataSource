@@ -909,6 +909,57 @@
     "plannerPriority": 500
   },
   {
+    "key": "aef-skland:industrial/水驱矿机",
+    "displayName": "水驱矿机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "aef-skland.wiki.item_1168",
+      "name": "水驱矿机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
     "key": "aef-skland:industrial/灌装机",
     "displayName": "灌装机",
     "renderer": "slot_layout",

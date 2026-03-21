@@ -1,0 +1,188 @@
+{
+  "id": "aef-skland:r/wiki_source_235/857",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_39",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_235",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "l1XyNeioxgEQ",
+        "C6nKX7ISUtaH",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "C6nKX7ISUtaH": {
+          "id": "C6nKX7ISUtaH",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "C6nKX7ISUtaH",
+            "itemIds": [
+              "EPhzexGIGV9h"
+            ],
+            "itemMap": {
+              "EPhzexGIGV9h": {
+                "id": "EPhzexGIGV9h",
+                "childIds": [
+                  "VKU2fF7zrYAS"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "VKU2fF7zrYAS": {
+          "id": "VKU2fF7zrYAS",
+          "parentId": "EPhzexGIGV9h",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "帝江号-培养舱"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "进行"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "基核提取"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "基核提取"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "消耗素材"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "39",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，获取"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "235",
+                  "showType": "link-imgText",
+                  "count": "3"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "l1XyNeioxgEQ": {
+          "id": "l1XyNeioxgEQ",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "基核提取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

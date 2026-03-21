@@ -1,0 +1,226 @@
+{
+  "id": "aef-skland:r/wiki_source_511/1195",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_31",
+      "amount": 150
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_511",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "e1cUGk",
+        "AxbQud",
+        "9guom8",
+        "wKdurg258rqC",
+        "7aYexaaV95Nc",
+        "uQLtph03P3bV",
+        "uwzTJU"
+      ],
+      "blockMap": {
+        "7aYexaaV95Nc": {
+          "id": "7aYexaaV95Nc",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "9guom8": {
+          "id": "9guom8",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "9guom8",
+            "itemIds": [
+              "6NoIZn"
+            ],
+            "itemMap": {
+              "6NoIZn": {
+                "id": "6NoIZn",
+                "childIds": [
+                  "irIsvD"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "AxbQud": {
+          "id": "AxbQud",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "完成简制手册内容获取配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "R0jp8jkFL5Fl": {
+          "id": "R0jp8jkFL5Fl",
+          "parentId": "Lbc4NzcklpJq",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "破坏地图各处的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "箱子"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "等途径可以获得一定数量的优质荞愈胶囊。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "e1cUGk": {
+          "id": "e1cUGk",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "irIsvD": {
+          "id": "irIsvD",
+          "parentId": "6NoIZn",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "31",
+                  "showType": "link-imgText",
+                  "count": "150"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中领取优质荞愈胶囊的配方。获取配方后即可通过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "简易制作"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "合成优质荞愈胶囊。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "uQLtph03P3bV": {
+          "id": "uQLtph03P3bV",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "uQLtph03P3bV",
+            "itemIds": [
+              "Lbc4NzcklpJq"
+            ],
+            "itemMap": {
+              "Lbc4NzcklpJq": {
+                "id": "Lbc4NzcklpJq",
+                "childIds": [
+                  "R0jp8jkFL5Fl"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "uwzTJU": {
+          "id": "uwzTJU",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "wKdurg258rqC": {
+          "id": "wKdurg258rqC",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

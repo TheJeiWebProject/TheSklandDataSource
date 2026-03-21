@@ -1,0 +1,264 @@
+{
+  "id": "aef-skland:r/wiki_source_519/1203",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_30",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_32",
+      "amount": 200
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_519",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "TaMaGk",
+        "EhHuX5",
+        "T2BZMK",
+        "Uu3WOu",
+        "ZGZdnI",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "EhHuX5": {
+          "id": "EhHuX5",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "EhHuX5",
+            "itemIds": [
+              "ckPJ8H"
+            ],
+            "itemMap": {
+              "ckPJ8H": {
+                "id": "ckPJ8H",
+                "childIds": [
+                  "SlZcAg"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "SlZcAg": {
+          "id": "SlZcAg",
+          "parentId": "ckPJ8H",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "30",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中领取塞什卡风肉排的配方。获取配方后即可通过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "简易制作"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "合成塞什卡风肉排。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "T2BZMK": {
+          "id": "T2BZMK",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "TaMaGk": {
+          "id": "TaMaGk",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "完成简制手册内容获取配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Uu3WOu": {
+          "id": "Uu3WOu",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "特定NPC商店中购买。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ZGZdnI": {
+          "id": "ZGZdnI",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "ZGZdnI",
+            "itemIds": [
+              "kMHKV6"
+            ],
+            "itemMap": {
+              "kMHKV6": {
+                "id": "kMHKV6",
+                "childIds": [
+                  "yLBA5u"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "yLBA5u": {
+          "id": "yLBA5u",
+          "parentId": "kMHKV6",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "枢纽区-工人之家"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " "
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "玛姬|奖品兑换员"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 处购买，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "32",
+                  "showType": "link-imgText",
+                  "count": "200"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "，存量 "
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": " 份。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}
