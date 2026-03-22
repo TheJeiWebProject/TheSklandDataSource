@@ -4,7 +4,7 @@
   },
   "name": "潘师傅蛋羹",
   "icon": "https://bbs.hycdn.cn/image/common/20260312/279234/69b277fa0b797bd73811b1a1_56331367.png",
-  "description": "获取方式:\n完成简制手册内容获取配方。 累计获得竹林虫蛹*1后可以在简制手册中领取潘师傅蛋羹的配方。获取配方后即可通过简易制作合成潘师傅蛋羹。 累计获得竹林虫蛹*20后可以在简制手册中升级潘师傅蛋羹。\n\n用途:\n干员直接使用时：\n使用后，立刻回复20%最大生命值，再回复1480点生命值。\n干员装备为战术物品时：\n装备后，当队伍中任意干员生命值低于40%时自动对其使用，单场战斗中最多可使用3次。 无限制支援主控干员。 用尽后恢复次数：战斗中的可用次数用尽时，一段时间后会恢复1次可用次数。 升级效果：战斗中可使用次数+1。\n用于仓储节点货物装箱。\n每装箱潘师傅蛋羹*1需要300点货箱容量。",
+  "description": "获取方式:\n完成简制手册内容获取配方。 累计获得[竹林虫蛹x1]后可以在简制手册中领取[潘师傅蛋羹]的配方。获取配方后即可通过简易制作合成[潘师傅蛋羹]。 累计获得[竹林虫蛹x20]后可以在简制手册中升级[潘师傅蛋羹]。\n\n用途:\n干员直接使用时：\n使用后，立刻回复20%最大生命值，再回复1480点生命值。\n干员装备为战术物品时：\n装备后，当队伍中任意干员生命值低于40%时自动对其使用，单场战斗中最多可使用3次。 无限制支援主控干员。 用尽后恢复次数：战斗中的可用次数用尽时，一段时间后会恢复1次可用次数。 升级效果：战斗中可使用次数+1。\n用于仓储节点货物装箱。\n每装箱[潘师傅蛋羹x1]需要300点货箱容量。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774062008",
+    "timestamp": "1774149709",
     "data": {
       "item": {
         "itemId": "1221",
         "document": {
           "documentMap": {
-            "JogyZUcp": {
+            "6M8IDSQw": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -95,11 +95,11 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "竹林虫蛹*20"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1220",
+                          "showType": "link-imgText",
+                          "count": "20"
                         }
                       },
                       {
@@ -118,10 +118,18 @@
                         }
                       },
                       {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1221",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "潘师傅蛋羹。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -178,18 +186,33 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "竹林虫蛹*1"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1220",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "后可以在简制手册中领取潘师傅蛋羹的配方。获取配方后即可通过"
+                          "text": "后可以在简制手册中领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1221",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的配方。获取配方后即可通过"
                         }
                       },
                       {
@@ -204,275 +227,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "合成潘师傅蛋羹。"
+                          "text": "合成"
                         }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "VQ6puCB0": {
-              "id": "document-id",
-              "blockIds": [
-                "Cp7GTE",
-                "GJmaYW",
-                "SFUiQ2"
-              ],
-              "blockMap": {
-                "41uK6D": {
-                  "id": "41uK6D",
-                  "parentId": "EMwV9T_UAHBQV",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
+                      },
                       {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "精制食药"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1221",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "5U8VDq": {
-                  "id": "5U8VDq",
-                  "parentId": "zIB5HG_m3Onvo",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "原料需求"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "5vrQ3j": {
-                  "id": "5vrQ3j",
-                  "parentId": "zIB5HG_UAHBQV",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "制作类型"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Cp7GTE": {
-                  "id": "Cp7GTE",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "GJmaYW": {
-                  "id": "GJmaYW",
-                  "parentId": "document-id",
-                  "kind": "table",
-                  "table": {
-                    "id": "GJmaYW",
-                    "rowIds": [
-                      "zIB5HG",
-                      "EMwV9T"
-                    ],
-                    "columnIds": [
-                      "UAHBQV",
-                      "m3Onvo",
-                      "MwWWgq"
-                    ],
-                    "rowMap": {
-                      "EMwV9T": {
-                        "id": "EMwV9T"
                       },
-                      "zIB5HG": {
-                        "id": "zIB5HG"
-                      }
-                    },
-                    "columnMap": {
-                      "MwWWgq": {
-                        "id": "MwWWgq",
-                        "width": 386.6666666666667
-                      },
-                      "UAHBQV": {
-                        "id": "UAHBQV",
-                        "width": 386.6666666666667
-                      },
-                      "m3Onvo": {
-                        "id": "m3Onvo",
-                        "width": 386.6666666666667
-                      }
-                    },
-                    "cellMap": {
-                      "EMwV9T_MwWWgq": {
-                        "id": "EMwV9T_MwWWgq",
-                        "childIds": [
-                          "i5fEQy"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "EMwV9T_UAHBQV": {
-                        "id": "EMwV9T_UAHBQV",
-                        "childIds": [
-                          "41uK6D"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "EMwV9T_m3Onvo": {
-                        "id": "EMwV9T_m3Onvo",
-                        "childIds": [
-                          "OfsWqot95Lpk"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "zIB5HG_MwWWgq": {
-                        "id": "zIB5HG_MwWWgq",
-                        "childIds": [
-                          "QjWcIG"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "zIB5HG_UAHBQV": {
-                        "id": "zIB5HG_UAHBQV",
-                        "childIds": [
-                          "5vrQ3j"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "zIB5HG_m3Onvo": {
-                        "id": "zIB5HG_m3Onvo",
-                        "childIds": [
-                          "5U8VDq"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      }
-                    },
-                    "description": "",
-                    "rowHeader": true,
-                    "colHeader": false
-                  }
-                },
-                "OfsWqot95Lpk": {
-                  "id": "OfsWqot95Lpk",
-                  "parentId": "EMwV9T_m3Onvo",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "竹林虫蛹"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "581",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "586",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "QjWcIG": {
-                  "id": "QjWcIG",
-                  "parentId": "zIB5HG_MwWWgq",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "制作产物"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "SFUiQ2": {
-                  "id": "SFUiQ2",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "i5fEQy": {
-                  "id": "i5fEQy",
-                  "parentId": "EMwV9T_MwWWgq",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "潘师傅蛋羹*1"
+                          "text": "。"
                         }
                       }
                     ],
@@ -483,7 +253,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "cdh8oVeO": {
+            "JU0Q5TpV": {
               "id": "document-id",
               "blockIds": [
                 "POJC5u",
@@ -564,7 +334,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "每装箱潘师傅蛋羹*1需要300点货箱容量。"
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1221",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要300点货箱容量。"
                         }
                       }
                     ],
@@ -859,6 +644,277 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "ijg3g7Ye": {
+              "id": "document-id",
+              "blockIds": [
+                "Cp7GTE",
+                "GJmaYW",
+                "SFUiQ2"
+              ],
+              "blockMap": {
+                "41uK6D": {
+                  "id": "41uK6D",
+                  "parentId": "EMwV9T_UAHBQV",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "精制食药"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5U8VDq": {
+                  "id": "5U8VDq",
+                  "parentId": "zIB5HG_m3Onvo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5vrQ3j": {
+                  "id": "5vrQ3j",
+                  "parentId": "zIB5HG_UAHBQV",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "制作类型"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Cp7GTE": {
+                  "id": "Cp7GTE",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "GJmaYW": {
+                  "id": "GJmaYW",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "GJmaYW",
+                    "rowIds": [
+                      "zIB5HG",
+                      "EMwV9T"
+                    ],
+                    "columnIds": [
+                      "UAHBQV",
+                      "m3Onvo",
+                      "MwWWgq"
+                    ],
+                    "rowMap": {
+                      "EMwV9T": {
+                        "id": "EMwV9T"
+                      },
+                      "zIB5HG": {
+                        "id": "zIB5HG"
+                      }
+                    },
+                    "columnMap": {
+                      "MwWWgq": {
+                        "id": "MwWWgq",
+                        "width": 386.6666666666667
+                      },
+                      "UAHBQV": {
+                        "id": "UAHBQV",
+                        "width": 386.6666666666667
+                      },
+                      "m3Onvo": {
+                        "id": "m3Onvo",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "EMwV9T_MwWWgq": {
+                        "id": "EMwV9T_MwWWgq",
+                        "childIds": [
+                          "i5fEQy"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "EMwV9T_UAHBQV": {
+                        "id": "EMwV9T_UAHBQV",
+                        "childIds": [
+                          "41uK6D"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "EMwV9T_m3Onvo": {
+                        "id": "EMwV9T_m3Onvo",
+                        "childIds": [
+                          "OfsWqot95Lpk"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zIB5HG_MwWWgq": {
+                        "id": "zIB5HG_MwWWgq",
+                        "childIds": [
+                          "QjWcIG"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zIB5HG_UAHBQV": {
+                        "id": "zIB5HG_UAHBQV",
+                        "childIds": [
+                          "5vrQ3j"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "zIB5HG_m3Onvo": {
+                        "id": "zIB5HG_m3Onvo",
+                        "childIds": [
+                          "5U8VDq"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "OfsWqot95Lpk": {
+                  "id": "OfsWqot95Lpk",
+                  "parentId": "EMwV9T_m3Onvo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1220",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "581",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "586",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QjWcIG": {
+                  "id": "QjWcIG",
+                  "parentId": "zIB5HG_MwWWgq",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "制作产物"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SFUiQ2": {
+                  "id": "SFUiQ2",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "i5fEQy": {
+                  "id": "i5fEQy",
+                  "parentId": "EMwV9T_MwWWgq",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1221",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -906,7 +962,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "cdh8oVeO",
+                  "content": "JU0Q5TpV",
                   "audioList": []
                 }
               }
@@ -918,7 +974,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "JogyZUcp",
+                  "content": "6M8IDSQw",
                   "audioList": []
                 }
               }
@@ -930,7 +986,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "VQ6puCB0",
+                  "content": "ijg3g7Ye",
                   "audioList": []
                 }
               }
@@ -1116,10 +1172,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1485727484109",
-          "nickname": "奕行",
+          "id": "6208993443188",
+          "nickname": "肉丝饼",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/8b913b2cf42c26d53d8d9c79a1daf917.png"
+          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/9c96dd862681caf8673e940a6f338d09.png"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -1197,7 +1253,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773929875",
-        "lastAuditPassedAt": "1773825641",
+        "lastAuditPassedAt": "1774091566",
         "tagIds": [
           "10004",
           "10257",

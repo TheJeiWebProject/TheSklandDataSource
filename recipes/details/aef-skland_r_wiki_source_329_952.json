@@ -1,0 +1,171 @@
+{
+  "id": "aef-skland:r/wiki_source_329/952",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_329",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取方式 / 所属区域",
+    "context": {
+      "groupTitle": "获取方式",
+      "widgetTitle": "所属区域",
+      "panelTitle": "武陵"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "LUtplL",
+        "6dYVnY",
+        "QgtnF6Gt3kFV"
+      ],
+      "blockMap": {
+        "6dYVnY": {
+          "id": "6dYVnY",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "body"
+          }
+        },
+        "E0ULWK": {
+          "id": "E0ULWK",
+          "parentId": "o9A7tt",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "LUtplL": {
+          "id": "LUtplL",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "LUtplL",
+            "itemIds": [
+              "o9A7tt",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "o9A7tt": {
+                "id": "o9A7tt",
+                "childIds": [
+                  "E0ULWK",
+                  "yUTHY4iOhssn"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "QgtnF6Gt3kFV": {
+          "id": "QgtnF6Gt3kFV",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "注意："
+                }
+              },
+              {
+                "color": "light_text_tertiary",
+                "kind": "text",
+                "text": {
+                  "text": "通过预刻写获得的基质必定同时出现三类属性词条"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "hYoSQH": {
+          "id": "hYoSQH",
+          "parentId": "J6PClp",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "敌人掉落"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pQunlIOSPic0": {
+          "id": "pQunlIOSPic0",
+          "parentId": "0h1Es21bcsy5",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·武陵城"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "yUTHY4iOhssn": {
+          "id": "yUTHY4iOhssn",
+          "parentId": "o9A7tt",
+          "kind": "list",
+          "list": {
+            "id": "yUTHY4iOhssn",
+            "itemIds": [
+              "0h1Es21bcsy5"
+            ],
+            "itemMap": {
+              "0h1Es21bcsy5": {
+                "id": "0h1Es21bcsy5",
+                "childIds": [
+                  "pQunlIOSPic0"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

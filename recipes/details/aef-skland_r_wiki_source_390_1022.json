@@ -1,0 +1,258 @@
+{
+  "id": "aef-skland:r/wiki_source_390/1022",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_412",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_908",
+      "amount": 1
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_411",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_390",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "WLi3kC",
+        "9vrq81XVNdjo",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "7JKUyB9ATHMs": {
+          "id": "7JKUyB9ATHMs",
+          "parentId": "4PTgSa0ZEniz",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "412",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "中"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "，"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_function_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "谷底通道-临时避难所"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "中两处拾取获得，其中一处需要在击败周围的"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "908",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "后才能靠近。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "9vrq81XVNdjo": {
+          "id": "9vrq81XVNdjo",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "9vrq81XVNdjo",
+            "itemIds": [
+              "4PTgSa0ZEniz",
+              "DutZSKQgwerm"
+            ],
+            "itemMap": {
+              "4PTgSa0ZEniz": {
+                "id": "4PTgSa0ZEniz",
+                "childIds": [
+                  "7JKUyB9ATHMs"
+                ]
+              },
+              "DutZSKQgwerm": {
+                "id": "DutZSKQgwerm",
+                "childIds": [
+                  "lD1Apnmd4IyC"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "WLi3kC": {
+          "id": "WLi3kC",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "lD1Apnmd4IyC": {
+          "id": "lD1Apnmd4IyC",
+          "parentId": "DutZSKQgwerm",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "获取"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "390",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "的区域位于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_function_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "谷底通道"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "地下部分，需要先完成"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "411",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "开启"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "暗门"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "后才能进入。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

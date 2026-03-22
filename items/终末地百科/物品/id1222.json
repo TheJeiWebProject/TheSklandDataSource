@@ -4,7 +4,7 @@
   },
   "name": "清波竹铃",
   "icon": "https://bbs.hycdn.cn/image/common/20260318/4863030/69ba644f0b797bd73811dbf1_3eac6ad0.png",
-  "description": "获取方式:\n击败摧山将有概率掉落。\n以下敌人被击败时均会掉落清波竹铃：摧山将、开天将\n\n用途:\n用于仓储节点货物装箱。\n每装箱清波竹铃*1需要500点货箱容量。",
+  "description": "获取方式:\n击败摧山将有概率掉落。\n以下敌人被击败时均会掉落清波竹铃：摧山将、开天将\n\n用途:\n用于仓储节点货物装箱。\n每装箱[清波竹铃x1]需要500点货箱容量。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,99 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774062010",
+    "timestamp": "1774149713",
     "data": {
       "item": {
         "itemId": "1222",
         "document": {
           "documentMap": {
-            "1QSbllOZ": {
-              "id": "document-id",
-              "blockIds": [
-                "czI8jF",
-                "VLHJm1",
-                "Vn5hvf",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "91w3Ju": {
-                  "id": "91w3Ju",
-                  "parentId": "kwPhM2",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "每装箱清波竹铃*1需要500点货箱容量。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "VLHJm1": {
-                  "id": "VLHJm1",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于仓储节点货物装箱。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Vn5hvf": {
-                  "id": "Vn5hvf",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "Vn5hvf",
-                    "itemIds": [
-                      "kwPhM2"
-                    ],
-                    "itemMap": {
-                      "kwPhM2": {
-                        "id": "kwPhM2",
-                        "childIds": [
-                          "91w3Ju"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "czI8jF": {
-                  "id": "czI8jF",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "OSTmZoK5": {
+            "TPNjWBLN": {
               "id": "document-id",
               "blockIds": [
                 "OuJNYHu8uc5x",
@@ -421,7 +335,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "RRdMJ8D5": {
+            "VILWygoH": {
               "id": "document-id",
               "blockIds": [
                 "NAgLwL",
@@ -536,6 +450,107 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "XOu6x1Bl": {
+              "id": "document-id",
+              "blockIds": [
+                "czI8jF",
+                "VLHJm1",
+                "Vn5hvf",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "91w3Ju": {
+                  "id": "91w3Ju",
+                  "parentId": "kwPhM2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1222",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要500点货箱容量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VLHJm1": {
+                  "id": "VLHJm1",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于仓储节点货物装箱。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Vn5hvf": {
+                  "id": "Vn5hvf",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Vn5hvf",
+                    "itemIds": [
+                      "kwPhM2"
+                    ],
+                    "itemMap": {
+                      "kwPhM2": {
+                        "id": "kwPhM2",
+                        "childIds": [
+                          "91w3Ju"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "czI8jF": {
+                  "id": "czI8jF",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -583,7 +598,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "OSTmZoK5",
+                  "content": "TPNjWBLN",
                   "audioList": []
                 }
               }
@@ -595,7 +610,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "1QSbllOZ",
+                  "content": "XOu6x1Bl",
                   "audioList": []
                 }
               }
@@ -607,7 +622,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "RRdMJ8D5",
+                  "content": "VILWygoH",
                   "audioList": []
                 }
               }
@@ -793,10 +808,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1485727484109",
-          "nickname": "奕行",
+          "id": "6208993443188",
+          "nickname": "肉丝饼",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/8b913b2cf42c26d53d8d9c79a1daf917.png"
+          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/9c96dd862681caf8673e940a6f338d09.png"
         },
         "createdUser": {
           "id": "9228422493033",
@@ -873,7 +888,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774018669",
-        "lastAuditPassedAt": "1773824187",
+        "lastAuditPassedAt": "1774091564",
         "tagIds": [
           "10004",
           "10257",

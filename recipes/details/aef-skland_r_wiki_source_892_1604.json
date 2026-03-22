@@ -1,0 +1,68 @@
+{
+  "id": "aef-skland:r/wiki_source_892/1604",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_892",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "9bzHRe",
+        "lvuMVr"
+      ],
+      "blockMap": {
+        "9bzHRe": {
+          "id": "9bzHRe",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "溶解在清水中的息壤，可用于其他材料合成。常用于灌装后通过射流无人机消除武陵地区的动态侵蚀。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "lvuMVr": {
+          "id": "lvuMVr",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "将息壤溶于清水，许多人第一次听到这件事时，会认为它无比简单，但实际上，如果没有恰当的设备与技术，操作者仅能获得毫无意义的产物——如同泡在水中的砂砾。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}
