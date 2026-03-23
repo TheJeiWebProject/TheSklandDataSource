@@ -1,0 +1,399 @@
+{
+  "id": "aef-skland:r/wiki_source_592/1309",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_315",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_382",
+      "amount": 1000
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_592",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "sJx7k5",
+        "7xygDl",
+        "dh3e4m",
+        "38YqC3",
+        "2WVp6k",
+        "ktCiko",
+        "0VWOBU",
+        "oxcPVp",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "0VWOBU": {
+          "id": "0VWOBU",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "特定NPC商店中购买。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "2WVp6k": {
+          "id": "2WVp6k",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "2WVp6k",
+            "itemIds": [
+              "WMyWHs"
+            ],
+            "itemMap": {
+              "WMyWHs": {
+                "id": "WMyWHs",
+                "childIds": [
+                  "2WuLfh"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "2WuLfh": {
+          "id": "2WuLfh",
+          "parentId": "WMyWHs",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "消耗"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "315",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "并等待一段时间。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "38YqC3": {
+          "id": "38YqC3",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "帝江号-培养舱生产。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "7xygDl": {
+          "id": "7xygDl",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "7xygDl",
+            "itemIds": [
+              "PocQYb",
+              "yjuz65"
+            ],
+            "itemMap": {
+              "PocQYb": {
+                "id": "PocQYb",
+                "childIds": [
+                  "vJMVeA"
+                ]
+              },
+              "yjuz65": {
+                "id": "yjuz65",
+                "childIds": [
+                  "Kb989N"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "Kb989N": {
+          "id": "Kb989N",
+          "parentId": "yjuz65",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在达到"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "稀有矿物区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的存储上限前，"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "巨大源石虫壳"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "周围会不断生成新的重黯石采集点。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bJSKaf": {
+          "id": "bJSKaf",
+          "parentId": "OYcbhQ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵城-工人之家"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": " "
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "蒲元"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": " 处购买，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "382",
+                  "showType": "link-imgText",
+                  "count": "1000"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "，存量 "
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "3"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": " 份。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "dh3e4m": {
+          "id": "dh3e4m",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "ktCiko": {
+          "id": "ktCiko",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "oxcPVp": {
+          "id": "oxcPVp",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "oxcPVp",
+            "itemIds": [
+              "OYcbhQ"
+            ],
+            "itemMap": {
+              "OYcbhQ": {
+                "id": "OYcbhQ",
+                "childIds": [
+                  "bJSKaf"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "sJx7k5": {
+          "id": "sJx7k5",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "景玉谷等地采集。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "vJMVeA": {
+          "id": "vJMVeA",
+          "parentId": "PocQYb",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "重黯石的采集点会于野外的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "巨大源石虫壳"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "周围生成，在地图上会以"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "稀有矿物区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "标记。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

@@ -4,7 +4,7 @@
   },
   "name": "水驱矿机",
   "icon": "https://bbs.hycdn.cn/image/common/20260317/2696356/69b907cd0b797bd73811d4fa_2f76db19.png",
-  "description": "获取方式:\n在研究完成水辅矿物采掘后可获得5台水驱矿机。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [便携源石矿机x1]+[赤铜零件x10] → [水驱矿机x1]\n在工业计划-武陵工业二期研究水辅矿物采掘获取。\n\n用途:\n水驱矿机是资源开采类型的机器，可以用于矿物开采。\n水驱矿机可放置在协议核心或次级核心范围外。\n水驱矿机不需要电力维持运转。\n水驱矿机必须放置在可用矿点上。\n水驱矿机支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n[清水x1]+ 源矿矿点（1） | [源矿x1] | 3s\n[清水x1]+ 紫晶矿矿点（1） | [紫晶矿x1] | 3s\n[清水x1]+ 蓝铁矿矿点（1） | [蓝铁矿x1] | 3s\n[清水x1]+ 赤铜矿矿点（1） | 赤铜矿（1） | 3s",
+  "description": "获取方式:\n在研究完成水辅矿物采掘后可获得5台水驱矿机。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [便携源石矿机x1]+[赤铜零件x10] → [水驱矿机x1]\n在工业计划-武陵工业二期研究水辅矿物采掘获取。\n\n用途:\n水驱矿机是资源开采类型的机器，可以用于矿物开采。\n水驱矿机可放置在协议核心或次级核心范围外。\n水驱矿机不需要电力维持运转。\n水驱矿机必须放置在可用矿点上。\n水驱矿机支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n[清水x1]+ 源矿矿点（1） | [源矿x1] | 3s\n[清水x1]+ 紫晶矿矿点（1） | [紫晶矿x1] | 3s\n[清水x1]+ 蓝铁矿矿点（1） | [蓝铁矿x1] | 3s\n[清水x1]+ 赤铜矿矿点（1） | [赤铜矿x1] | 3s",
   "rarity": {
     "stars": 3,
     "label": "3星",
@@ -21,13 +21,74 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149600",
+    "timestamp": "1774235991",
     "data": {
       "item": {
         "itemId": "1168",
         "document": {
           "documentMap": {
-            "7v2t8Mb4": {
+            "Dxw0ohIR": {
+              "id": "document-id",
+              "blockIds": [
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
+              ],
+              "blockMap": {
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XbWEoo": {
+                  "id": "XbWEoo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "水驱矿机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "必须放置在可用矿点上"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "FfXaEBK3": {
               "id": "document-id",
               "blockIds": [
                 "1WTlpz",
@@ -167,7 +228,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "QMQONply": {
+            "Y4s8aAUf": {
               "id": "document-id",
               "blockIds": [
                 "E1hNMw",
@@ -238,68 +299,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "cu5hKKxu": {
-              "id": "document-id",
-              "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
-              ],
-              "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "XbWEoo": {
-                  "id": "XbWEoo",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "水驱矿机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "必须放置在可用矿点上"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "k7oiwY": {
-                  "id": "k7oiwY",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "uuMMWt0L": {
+            "dCR3RwmS": {
               "id": "document-id",
               "blockIds": [
                 "9VmF2q",
@@ -502,7 +502,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "wE245Gsx": {
+            "he4KP40O": {
               "id": "document-id",
               "blockIds": [
                 "xCzIfj",
@@ -519,16 +519,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "赤铜矿"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1127",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -1149,7 +1144,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "cu5hKKxu",
+                  "content": "Dxw0ohIR",
                   "audioList": []
                 }
               }
@@ -1161,7 +1156,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "uuMMWt0L",
+                  "content": "dCR3RwmS",
                   "audioList": []
                 }
               }
@@ -1173,7 +1168,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "wE245Gsx",
+                  "content": "he4KP40O",
                   "audioList": []
                 }
               }
@@ -1185,7 +1180,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "7v2t8Mb4",
+                  "content": "FfXaEBK3",
                   "audioList": []
                 }
               }
@@ -1197,7 +1192,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "QMQONply",
+                  "content": "Y4s8aAUf",
                   "audioList": []
                 }
               }
@@ -1471,7 +1466,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773761912",
-        "lastAuditPassedAt": "1774018601",
+        "lastAuditPassedAt": "1774196772",
         "tagIds": [
           "10003",
           "10310",

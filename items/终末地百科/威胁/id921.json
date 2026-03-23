@@ -4,7 +4,7 @@
   },
   "name": "充能球刺兽",
   "icon": "https://bbs.hycdn.cn/image/2025/12/26/139426/6a7096ac4a649c234d7c075e43206c5c.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | C | C | D | D\n会蓄力鼓起肚皮，喷出体内的高热量熔岩，在蓄力时打断可对其累积大量失衡值。 愤怒状态：愤怒状态下攻击力提升，蓄力频率更高。失衡后结束愤怒状态。\n|敌人分布区域\n武陵城\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | C | C | D | D\n会蓄力鼓起肚皮，喷出体内的高热量熔岩，在蓄力时打断可对其累积大量失衡值。 愤怒状态：愤怒状态下攻击力提升，蓄力频率更高。失衡后结束愤怒状态。\n|敌人掉落\n[球刺兽的肝脏]",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,41 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149087",
+    "timestamp": "1774235483",
     "data": {
       "item": {
         "itemId": "921",
         "document": {
           "documentMap": {
-            "JybnyzTS": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "受到活性源石粉尘影响的球刺兽。其周身上下的尖刺中已存储了相当多的能量，拥有了更强的破坏力。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "gP7ybSoQ": {
+            "JR9zap8E": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -55,9 +27,6 @@
                 "iz7J9H",
                 "1RUIiq",
                 "gLi8Lo",
-                "6tyDgx",
-                "ZoTWjI",
-                "r3E9Ve",
                 "nMuAMC",
                 "wLyRZy",
                 "ZfKXtf"
@@ -254,14 +223,6 @@
                     "kind": "body"
                   }
                 },
-                "6tyDgx": {
-                  "id": "6tyDgx",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "3"
-                  }
-                },
                 "7saaXo": {
                   "id": "7saaXo",
                   "parentId": "HEcQPm",
@@ -275,23 +236,6 @@
                           "id": "584",
                           "showType": "link-imgText",
                           "count": "0"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "武陵城"
                         }
                       }
                     ],
@@ -396,23 +340,6 @@
                       }
                     },
                     "kind": "unordered"
-                  }
-                },
-                "ZoTWjI": {
-                  "id": "ZoTWjI",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "|敌人分布区域"
-                        }
-                      }
-                    ],
-                    "kind": "heading3"
                   }
                 },
                 "bMGfGT": {
@@ -581,26 +508,6 @@
                     "kind": "body"
                   }
                 },
-                "r3E9Ve": {
-                  "id": "r3E9Ve",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "r3E9Ve",
-                    "itemIds": [
-                      "G4YrCm"
-                    ],
-                    "itemMap": {
-                      "G4YrCm": {
-                        "id": "G4YrCm",
-                        "childIds": [
-                          "I4qfh4"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
                 "wLyRZy": {
                   "id": "wLyRZy",
                   "parentId": "document-id",
@@ -630,6 +537,34 @@
                         "kind": "text",
                         "text": {
                           "text": "灼热抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "zhao2y3k": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "受到活性源石粉尘影响的球刺兽。其周身上下的尖刺中已存储了相当多的能量，拥有了更强的破坏力。"
                         }
                       }
                     ],
@@ -675,9 +610,9 @@
                     "name": "充能球刺兽",
                     "type": "野外生物",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "JybnyzTS"
+                    "description": "zhao2y3k"
                   },
-                  "content": "gP7ybSoQ",
+                  "content": "JR9zap8E",
                   "audioList": []
                 }
               }
@@ -779,7 +714,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Imbued Quillbeast）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -815,7 +750,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849338",
-        "lastAuditPassedAt": "1768909491",
+        "lastAuditPassedAt": "1774197219",
         "tagIds": [
           "10230"
         ]

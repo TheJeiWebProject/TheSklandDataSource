@@ -1,0 +1,203 @@
+{
+  "id": "aef-skland:r/wiki_source_691/1401",
+  "type": "aef-skland:wiki/source/table_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 50
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_14",
+      "amount": 200
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_691",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "任务奖励",
+    "context": {
+      "groupTitle": "任务奖励",
+      "widgetTitle": "",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "JffryKuY86vE",
+        "RzknrZs2uoLo",
+        "vHOvDHk2tOd6",
+        "s5xYQK4p8Pbg"
+      ],
+      "blockMap": {
+        "34CWysLPmJOX": {
+          "id": "34CWysLPmJOX",
+          "parentId": "8Ffqx9PeqRGk_ZR8JzXWcVSLZ",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "50"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "9r2slqnSNF56": {
+          "id": "9r2slqnSNF56",
+          "parentId": "8Ffqx9PeqRGk_0U6UsY1jU1Nb",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "14",
+                  "showType": "card-big",
+                  "count": "200"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "JffryKuY86vE": {
+          "id": "JffryKuY86vE",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "QuUUUIAtgdzr": {
+          "id": "QuUUUIAtgdzr",
+          "parentId": "s6nt9fB4cXr5",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "完成此任务可解锁"
+                }
+              },
+              {
+                "bold": true,
+                "underline": true,
+                "kind": "text",
+                "text": {
+                  "text": "据点-重建指挥部"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "RzknrZs2uoLo": {
+          "id": "RzknrZs2uoLo",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "RzknrZs2uoLo",
+            "itemIds": [
+              "s6nt9fB4cXr5"
+            ],
+            "itemMap": {
+              "s6nt9fB4cXr5": {
+                "id": "s6nt9fB4cXr5",
+                "childIds": [
+                  "QuUUUIAtgdzr"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "s5xYQK4p8Pbg": {
+          "id": "s5xYQK4p8Pbg",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "s5xYQK4p8Pbg",
+            "rowIds": [
+              "8Ffqx9PeqRGk"
+            ],
+            "columnIds": [
+              "ZR8JzXWcVSLZ",
+              "0U6UsY1jU1Nb"
+            ],
+            "rowMap": {
+              "8Ffqx9PeqRGk": {
+                "id": "8Ffqx9PeqRGk"
+              }
+            },
+            "columnMap": {
+              "0U6UsY1jU1Nb": {
+                "id": "0U6UsY1jU1Nb",
+                "width": 580
+              },
+              "ZR8JzXWcVSLZ": {
+                "id": "ZR8JzXWcVSLZ",
+                "width": 580
+              }
+            },
+            "cellMap": {
+              "8Ffqx9PeqRGk_0U6UsY1jU1Nb": {
+                "id": "8Ffqx9PeqRGk_0U6UsY1jU1Nb",
+                "childIds": [
+                  "9r2slqnSNF56"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "8Ffqx9PeqRGk_ZR8JzXWcVSLZ": {
+                "id": "8Ffqx9PeqRGk_ZR8JzXWcVSLZ",
+                "childIds": [
+                  "34CWysLPmJOX"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": false,
+            "colHeader": false
+          }
+        },
+        "vHOvDHk2tOd6": {
+          "id": "vHOvDHk2tOd6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "3"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "table_entry"
+  },
+  "detailLoaded": true
+}

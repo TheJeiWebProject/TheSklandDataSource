@@ -1,0 +1,272 @@
+{
+  "id": "aef-skland:r/wiki_usage_580/2288",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_580",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "POJC5u",
+        "m7VnlH",
+        "Jefg56",
+        "czI8jF",
+        "VLHJm1",
+        "Vn5hvf",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "91w3Ju": {
+          "id": "91w3Ju",
+          "parentId": "kwPhM2",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每装箱"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "580",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要300点货箱容量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "H1lApG": {
+          "id": "H1lApG",
+          "parentId": "Jkmet8",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用后，增加"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "113"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "点防御力，受到所有类型的伤害降低"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "18%"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，持续"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "300"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "秒。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Jefg56": {
+          "id": "Jefg56",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Jefg56",
+            "itemIds": [
+              "Jkmet8",
+              "Mt1aHn"
+            ],
+            "itemMap": {
+              "Jkmet8": {
+                "id": "Jkmet8",
+                "childIds": [
+                  "H1lApG"
+                ]
+              },
+              "Mt1aHn": {
+                "id": "Mt1aHn",
+                "childIds": [
+                  "pvuiVp"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "VLHJm1": {
+          "id": "VLHJm1",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于仓储节点货物装箱。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Vn5hvf": {
+          "id": "Vn5hvf",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Vn5hvf",
+            "itemIds": [
+              "kwPhM2"
+            ],
+            "itemMap": {
+              "kwPhM2": {
+                "id": "kwPhM2",
+                "childIds": [
+                  "91w3Ju"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "czI8jF": {
+          "id": "czI8jF",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "m7VnlH": {
+          "id": "m7VnlH",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "干员直接使用时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "pvuiVp": {
+          "id": "pvuiVp",
+          "parentId": "Mt1aHn",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "不可作为"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "战术物品"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "为干员装备。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149030",
+    "timestamp": "1774235431",
     "data": {
       "item": {
         "itemId": "901",
         "document": {
           "documentMap": {
-            "glpW1zkL": {
+            "LYbUb3oM": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -27,6 +27,53 @@
               "blockMap": {
                 "ZLjAzk": {
                   "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "阿纳伐克吕丹|Anavatklydan"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”(归档编号：AGM32L），AGM321的非模式种，个体大小并不统一。大型个体破浪而出的姿态留在了许多人的噩梦中。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "P93vKoDN": {
+              "id": "document-id",
+              "blockIds": [
+                "DCLySTjXhZKV",
+                "lgybkXs9iGy0",
+                "4q5KJ3oVq7JF",
+                "WIPKnxeeHMbE",
+                "0d31rAxffHHw",
+                "GE6JnXJXT4z2",
+                "Cp6TBAJFVZg4"
+              ],
+              "blockMap": {
+                "0d31rAxffHHw": {
+                  "id": "0d31rAxffHHw",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -57,12 +104,177 @@
                     ],
                     "kind": "body"
                   }
+                },
+                "4q5KJ3oVq7JF": {
+                  "id": "4q5KJ3oVq7JF",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "Cp6TBAJFVZg4": {
+                  "id": "Cp6TBAJFVZg4",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "每隔一段时间，破潮之像会在路径上制造一个特殊区域，其他敌方单位在该区域上移动时会大幅提升速度和防御力，并更加难以被打断。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "D9mXb6uDrMFC": {
+                  "id": "D9mXb6uDrMFC",
+                  "parentId": "2xEFsnUD9QoN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DCLySTjXhZKV": {
+                  "id": "DCLySTjXhZKV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的破潮之像。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GE6JnXJXT4z2": {
+                  "id": "GE6JnXJXT4z2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "GE6JnXJXT4z2",
+                    "itemIds": [
+                      "pWpeRBTKCRKW"
+                    ],
+                    "itemMap": {
+                      "pWpeRBTKCRKW": {
+                        "id": "pWpeRBTKCRKW",
+                        "childIds": [
+                          "OeRek7UaUqG4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OeRek7UaUqG4": {
+                  "id": "OeRek7UaUqG4",
+                  "parentId": "pWpeRBTKCRKW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WIPKnxeeHMbE": {
+                  "id": "WIPKnxeeHMbE",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WIPKnxeeHMbE",
+                    "itemIds": [
+                      "2xEFsnUD9QoN"
+                    ],
+                    "itemMap": {
+                      "2xEFsnUD9QoN": {
+                        "id": "2xEFsnUD9QoN",
+                        "childIds": [
+                          "D9mXb6uDrMFC"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lgybkXs9iGy0": {
+                  "id": "lgybkXs9iGy0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "tmrKS4xT": {
+            "vWBstfkg": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -645,6 +857,11 @@
                   "id": "MX3syh2E",
                   "title": "敌人简介",
                   "size": "large"
+                },
+                {
+                  "id": "35ynFVPO",
+                  "title": "破潮之像(预警终端)",
+                  "size": "small"
                 }
               ]
             }
@@ -655,6 +872,18 @@
             "composite": ""
           },
           "widgetCommonMap": {
+            "35ynFVPO": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "P93vKoDN",
+                  "audioList": []
+                }
+              }
+            },
             "MX3syh2E": {
               "type": "common",
               "tableList": [],
@@ -671,9 +900,9 @@
                     "name": "破潮之像",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "glpW1zkL"
+                    "description": "LYbUb3oM"
                   },
-                  "content": "tmrKS4xT",
+                  "content": "vWBstfkg",
                   "audioList": []
                 }
               }
@@ -738,10 +967,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -775,7 +1004,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Tidalklast）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -811,7 +1040,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849633",
-        "lastAuditPassedAt": "1767848095",
+        "lastAuditPassedAt": "1774199128",
         "tagIds": [
           "10231"
         ]

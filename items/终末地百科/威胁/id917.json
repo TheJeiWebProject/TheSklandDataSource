@@ -4,7 +4,7 @@
   },
   "name": "残暴原生钳兽",
   "icon": "https://bbs.hycdn.cn/image/2025/12/26/139426/cd68978d7f458a6cc70711a9e2a2afcd.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n通常成群结队出现，小心它们锋利的前肢。\n|敌人分布区域\n枢纽区 源石研究园 供能高地\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n通常成群结队出现，小心它们锋利的前肢。\n|敌人分布区域\n枢纽区 源石研究园 供能高地 能量淤积点·枢纽区\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,41 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149076",
+    "timestamp": "1774235473",
     "data": {
       "item": {
         "itemId": "917",
         "document": {
           "documentMap": {
-            "C2AUwOcl": {
+            "2fWSWnzS": {
+              "id": "document-id",
+              "blockIds": [
+                "Bra6uP"
+              ],
+              "blockMap": {
+                "Bra6uP": {
+                  "id": "Bra6uP",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "野生的被感染生物，背负大量源石晶簇，体型巨大。甲壳较之普通个体更厚，背负的源石晶簇活性更强。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "cFlrL6oR": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -304,6 +332,23 @@
                     "kind": "body"
                   }
                 },
+                "KfmbbbAcIhga": {
+                  "id": "KfmbbbAcIhga",
+                  "parentId": "APBQBO4e7jvN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "PTGlp8": {
                   "id": "PTGlp8",
                   "parentId": "nx2AAl",
@@ -563,13 +608,20 @@
                     "itemIds": [
                       "G4YrCm",
                       "0kg5M6",
-                      "UYxXUp"
+                      "UYxXUp",
+                      "APBQBO4e7jvN"
                     ],
                     "itemMap": {
                       "0kg5M6": {
                         "id": "0kg5M6",
                         "childIds": [
                           "0rLM2J"
+                        ]
+                      },
+                      "APBQBO4e7jvN": {
+                        "id": "APBQBO4e7jvN",
+                        "childIds": [
+                          "KfmbbbAcIhga"
                         ]
                       },
                       "G4YrCm": {
@@ -634,34 +686,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "usMsI5do": {
-              "id": "document-id",
-              "blockIds": [
-                "Bra6uP"
-              ],
-              "blockMap": {
-                "Bra6uP": {
-                  "id": "Bra6uP",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "野生的被感染生物，背负大量源石晶簇，体型巨大。甲壳较之普通个体更厚，背负的源石晶簇活性更强。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -698,9 +722,9 @@
                     "name": "残暴原生钳兽",
                     "type": "野外生物",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "usMsI5do"
+                    "description": "2fWSWnzS"
                   },
-                  "content": "C2AUwOcl",
+                  "content": "cFlrL6oR",
                   "audioList": []
                 }
               }
@@ -765,10 +789,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -802,7 +826,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Brutal Pincerbeast）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -838,7 +862,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849445",
-        "lastAuditPassedAt": "1767850197",
+        "lastAuditPassedAt": "1774196982",
         "tagIds": [
           "10230"
         ]

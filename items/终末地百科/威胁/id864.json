@@ -4,7 +4,7 @@
   },
   "name": "棱镜天使",
   "icon": "https://bbs.hycdn.cn/image/2025/12/22/139426/674f69cf92560a9606dc5d5804463fb0.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会大幅强化周围的同伴，使它们的能力提升。\n|敌人分布区域\n景玉谷 武陵城\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会大幅强化周围的同伴，使它们的能力提升。\n|敌人分布区域\n景玉谷 武陵城 能量淤积点·武陵城\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774148926",
+    "timestamp": "1774235338",
     "data": {
       "item": {
         "itemId": "864",
         "document": {
           "documentMap": {
-            "EeDo31OK": {
+            "PIneI7ZW": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -247,6 +247,23 @@
                           "id": "583",
                           "showType": "link-imgText",
                           "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GpHpBFIBKCOf": {
+                  "id": "GpHpBFIBKCOf",
+                  "parentId": "BRfAlrv6PEBV",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·武陵城"
                         }
                       }
                     ],
@@ -552,9 +569,16 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "kgjvAF"
+                      "kgjvAF",
+                      "BRfAlrv6PEBV"
                     ],
                     "itemMap": {
+                      "BRfAlrv6PEBV": {
+                        "id": "BRfAlrv6PEBV",
+                        "childIds": [
+                          "GpHpBFIBKCOf"
+                        ]
+                      },
                       "G4YrCm": {
                         "id": "G4YrCm",
                         "childIds": [
@@ -610,7 +634,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "KKLt2pvM": {
+            "aKgCCEXR": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -631,11 +655,9 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "普里玛塔格兰"
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "普里玛塔格兰|Prismastagran"
                         }
                       },
                       {
@@ -688,9 +710,9 @@
                     "name": "棱镜天使",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "KKLt2pvM"
+                    "description": "aKgCCEXR"
                   },
-                  "content": "EeDo31OK",
+                  "content": "PIneI7ZW",
                   "audioList": []
                 }
               }
@@ -755,10 +777,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -792,7 +814,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Prism）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -828,7 +850,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767850760",
-        "lastAuditPassedAt": "1767848034",
+        "lastAuditPassedAt": "1774198761",
         "tagIds": [
           "10231"
         ]

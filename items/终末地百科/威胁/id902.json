@@ -4,7 +4,7 @@
   },
   "name": "潮行天使",
   "icon": "https://bbs.hycdn.cn/image/2025/12/25/139426/2f5052ae46c107884dfc50635b56e6b3.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会使用带寒冷附着的能力进行攻击，在攻击命中时冻结干员。\n|敌人掉落\n[甜腻黑水]\n\n用途:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会使用带寒冷附着的能力进行攻击，在攻击命中时冻结干员。\n|敌人掉落\n[甜腻黑水]",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会使用带寒冷附着的能力进行攻击，在攻击命中时冻结干员。\n|敌人分布区域\n能量淤积点·武陵城\n|敌人掉落\n\n用途:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会使用带寒冷附着的能力进行攻击，在攻击命中时冻结干员。\n|敌人分布区域\n能量淤积点·武陵城\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,54 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149034",
+    "timestamp": "1774235433",
     "data": {
       "item": {
         "itemId": "902",
         "document": {
           "documentMap": {
-            "ItaMPkmP": {
+            "QhR4HpCs": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "杰那克吕丹|Genesklydan"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”（归档编号：AGM321），其头部和腿部带有类人特征，从这种形成模式的发现开始，是否类人成为了判断天使强度的一条不成文标准。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "T7omJBvT": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -27,6 +68,9 @@
                 "iz7J9H",
                 "1RUIiq",
                 "gLi8Lo",
+                "zbGNyQT3OjMM",
+                "ZoTWjI",
+                "IYFcxpP5ls5P",
                 "6tyDgx",
                 "wLyRZy",
                 "ZfKXtf"
@@ -250,6 +294,26 @@
                     "kind": "body"
                   }
                 },
+                "IYFcxpP5ls5P": {
+                  "id": "IYFcxpP5ls5P",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "IYFcxpP5ls5P",
+                    "itemIds": [
+                      "a9CMAVshtych"
+                    ],
+                    "itemMap": {
+                      "a9CMAVshtych": {
+                        "id": "a9CMAVshtych",
+                        "childIds": [
+                          "vCeiiHX9PNKb"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
                 "JAeXlS": {
                   "id": "JAeXlS",
                   "parentId": "ImXoPN_lGo6ja",
@@ -287,7 +351,35 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "会使用带寒冷附着的能力进行攻击，在攻击命中时冻结干员。"
+                          "text": "会使用带"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "寒冷附着"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的能力进行攻击，在攻击命中时"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "冻结"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "干员。"
                         }
                       }
                     ],
@@ -347,6 +439,23 @@
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "ZoTWjI": {
+                  "id": "ZoTWjI",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人分布区域"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
                   }
                 },
                 "bMGfGT": {
@@ -482,6 +591,23 @@
                     "kind": "body"
                   }
                 },
+                "vCeiiHX9PNKb": {
+                  "id": "vCeiiHX9PNKb",
+                  "parentId": "a9CMAVshtych",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·武陵城"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "wLyRZy": {
                   "id": "wLyRZy",
                   "parentId": "document-id",
@@ -516,19 +642,190 @@
                     ],
                     "kind": "body"
                   }
+                },
+                "zbGNyQT3OjMM": {
+                  "id": "zbGNyQT3OjMM",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "azXLIHoe": {
+            "tIxj7Yd9": {
               "id": "document-id",
               "blockIds": [
-                "ZLjAzk"
+                "DCLySTjXhZKV",
+                "lgybkXs9iGy0",
+                "4q5KJ3oVq7JF",
+                "WIPKnxeeHMbE",
+                "aXMdg06K4lnv",
+                "GE6JnXJXT4z2",
+                "Cp6TBAJFVZg4"
               ],
               "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
+                "4q5KJ3oVq7JF": {
+                  "id": "4q5KJ3oVq7JF",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "Cp6TBAJFVZg4": {
+                  "id": "Cp6TBAJFVZg4",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "会使用带"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "寒冷附着"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的能力进行攻击，在攻击命中时"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "冻结"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "干员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "D9mXb6uDrMFC": {
+                  "id": "D9mXb6uDrMFC",
+                  "parentId": "2xEFsnUD9QoN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DCLySTjXhZKV": {
+                  "id": "DCLySTjXhZKV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的潮行天使。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GE6JnXJXT4z2": {
+                  "id": "GE6JnXJXT4z2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "GE6JnXJXT4z2",
+                    "itemIds": [
+                      "pWpeRBTKCRKW"
+                    ],
+                    "itemMap": {
+                      "pWpeRBTKCRKW": {
+                        "id": "pWpeRBTKCRKW",
+                        "childIds": [
+                          "OeRek7UaUqG4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OeRek7UaUqG4": {
+                  "id": "OeRek7UaUqG4",
+                  "parentId": "pWpeRBTKCRKW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WIPKnxeeHMbE": {
+                  "id": "WIPKnxeeHMbE",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WIPKnxeeHMbE",
+                    "itemIds": [
+                      "2xEFsnUD9QoN"
+                    ],
+                    "itemMap": {
+                      "2xEFsnUD9QoN": {
+                        "id": "2xEFsnUD9QoN",
+                        "childIds": [
+                          "D9mXb6uDrMFC"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "aXMdg06K4lnv": {
+                  "id": "aXMdg06K4lnv",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -559,6 +856,42 @@
                     ],
                     "kind": "body"
                   }
+                },
+                "lgybkXs9iGy0": {
+                  "id": "lgybkXs9iGy0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
                 }
               },
               "authorMap": {},
@@ -573,6 +906,11 @@
                   "id": "MX3syh2E",
                   "title": "敌人简介",
                   "size": "large"
+                },
+                {
+                  "id": "WHN6NGn8",
+                  "title": "潮行天使(预警终端)",
+                  "size": "small"
                 }
               ]
             }
@@ -599,9 +937,21 @@
                     "name": "潮行天使",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "azXLIHoe"
+                    "description": "QhR4HpCs"
                   },
-                  "content": "ItaMPkmP",
+                  "content": "T7omJBvT",
+                  "audioList": []
+                }
+              }
+            },
+            "WHN6NGn8": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "tIxj7Yd9",
                   "audioList": []
                 }
               }
@@ -666,10 +1016,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -703,7 +1053,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Tidewalker）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -739,7 +1089,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849626",
-        "lastAuditPassedAt": "1767848145",
+        "lastAuditPassedAt": "1774199077",
         "tagIds": [
           "10231"
         ]

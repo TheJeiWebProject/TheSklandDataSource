@@ -4,7 +4,7 @@
   },
   "name": "晶锥天使",
   "icon": "https://bbs.hycdn.cn/image/2025/12/22/139426/3619ee9c040d44f87793ba7ba7a4996d.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n发射的子弹命中时会对干员施加寒冷附着。\n|敌人分布区域\n景玉谷 武陵城\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n发射的子弹命中时会对干员施加寒冷附着。\n|敌人分布区域\n景玉谷 武陵城 能量淤积点·武陵城\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,241 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774148922",
+    "timestamp": "1774235335",
     "data": {
       "item": {
         "itemId": "863",
         "document": {
           "documentMap": {
-            "QCM4DMhc": {
+            "2tDkW3c5": {
+              "id": "document-id",
+              "blockIds": [
+                "DCLySTjXhZKV",
+                "lgybkXs9iGy0",
+                "4q5KJ3oVq7JF",
+                "WIPKnxeeHMbE",
+                "oP34pH3XXnz8",
+                "GE6JnXJXT4z2",
+                "Cp6TBAJFVZg4"
+              ],
+              "blockMap": {
+                "4q5KJ3oVq7JF": {
+                  "id": "4q5KJ3oVq7JF",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "Cp6TBAJFVZg4": {
+                  "id": "Cp6TBAJFVZg4",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "发射的子弹命中时会对干员施加"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "寒冷附着"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "D9mXb6uDrMFC": {
+                  "id": "D9mXb6uDrMFC",
+                  "parentId": "2xEFsnUD9QoN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DCLySTjXhZKV": {
+                  "id": "DCLySTjXhZKV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的晶锥天使。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GE6JnXJXT4z2": {
+                  "id": "GE6JnXJXT4z2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "GE6JnXJXT4z2",
+                    "itemIds": [
+                      "pWpeRBTKCRKW"
+                    ],
+                    "itemMap": {
+                      "pWpeRBTKCRKW": {
+                        "id": "pWpeRBTKCRKW",
+                        "childIds": [
+                          "OeRek7UaUqG4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OeRek7UaUqG4": {
+                  "id": "OeRek7UaUqG4",
+                  "parentId": "pWpeRBTKCRKW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WIPKnxeeHMbE": {
+                  "id": "WIPKnxeeHMbE",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WIPKnxeeHMbE",
+                    "itemIds": [
+                      "2xEFsnUD9QoN"
+                    ],
+                    "itemMap": {
+                      "2xEFsnUD9QoN": {
+                        "id": "2xEFsnUD9QoN",
+                        "childIds": [
+                          "D9mXb6uDrMFC"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lgybkXs9iGy0": {
+                  "id": "lgybkXs9iGy0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oP34pH3XXnz8": {
+                  "id": "oP34pH3XXnz8",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "戴法斯塔格兰"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“（归档编号：ARM315），投掷能量的液体形成模式，拥有复杂对称的几何外形，它的攻击会从接触面夺走热量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "QzBSCrlc": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -209,6 +437,23 @@
                     "colHeader": false
                   }
                 },
+                "3x3BSm7uozUC": {
+                  "id": "3x3BSm7uozUC",
+                  "parentId": "nzLTPILyihF9",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·武陵城"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "6ZFT7b": {
                   "id": "6ZFT7b",
                   "parentId": "ImXoPN_GAVhL9",
@@ -307,7 +552,21 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "发射的子弹命中时会对干员施加寒冷附着。"
+                          "text": "发射的子弹命中时会对干员施加"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "寒冷附着"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
                         }
                       }
                     ],
@@ -552,7 +811,8 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "kgjvAF"
+                      "kgjvAF",
+                      "nzLTPILyihF9"
                     ],
                     "itemMap": {
                       "G4YrCm": {
@@ -565,6 +825,12 @@
                         "id": "kgjvAF",
                         "childIds": [
                           "I4qfh4"
+                        ]
+                      },
+                      "nzLTPILyihF9": {
+                        "id": "nzLTPILyihF9",
+                        "childIds": [
+                          "3x3BSm7uozUC"
                         ]
                       }
                     },
@@ -610,7 +876,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "k4orDnkp": {
+            "ePYuDwus": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -631,18 +897,16 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "戴法斯塔格兰"
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "戴法斯塔格兰|Diaphaistagran"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "“（归档编号：ARM315），投掷能量的液体形成模式，拥有复杂对称的几何外形，它的攻击会从接触面夺走热量。"
+                          "text": "”（归档编号：ARM315），投掷能量的液体形成模式，拥有复杂对称的几何外形，它的攻击会从接触面夺走热量。"
                         }
                       }
                     ],
@@ -662,6 +926,11 @@
                   "id": "MX3syh2E",
                   "title": "敌人简介",
                   "size": "large"
+                },
+                {
+                  "id": "XZ0EqWCU",
+                  "title": "晶锥天使(预警终端)",
+                  "size": "small"
                 }
               ]
             }
@@ -688,9 +957,21 @@
                     "name": "晶锥天使",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "k4orDnkp"
+                    "description": "ePYuDwus"
                   },
-                  "content": "QCM4DMhc",
+                  "content": "QzBSCrlc",
+                  "audioList": []
+                }
+              }
+            },
+            "XZ0EqWCU": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "2tDkW3c5",
                   "audioList": []
                 }
               }
@@ -755,10 +1036,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -792,7 +1073,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Hedron）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -828,7 +1109,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767850770",
-        "lastAuditPassedAt": "1767847941",
+        "lastAuditPassedAt": "1774198923",
         "tagIds": [
           "10231"
         ]

@@ -4,7 +4,7 @@
   },
   "name": "穿林箭",
   "icon": "https://bbs.hycdn.cn/image/2025/12/25/139426/e0b32139afc263a0b416116882cd388b.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n会发射各种箭矢和投掷炸弹进行远程牵制攻击。\n|敌人分布区域\n武陵城\n|敌人掉落\n\n用途:\n装备了基础远程武器的非法武装人员。他的箭术在竹林中练就，一箭穿林，不沾片叶。",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n会发射各种箭矢和投掷炸弹进行远程牵制攻击\n|敌人分布区域\n武陵城 清波寨 能量淤积点·清波寨\n|敌人掉落\n\n用途:\n装备了基础远程武器的非法武装人员。他的箭术在竹林中练就，一箭穿林，不沾片叶。\n“塔防模式”中的穿林箭。\n分布于部分据点的区域防护作战内：打开预警终端即可进行区域防护作战。\n|敌人详情\n描述\n能力",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,41 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149051",
+    "timestamp": "1774235447",
     "data": {
       "item": {
         "itemId": "907",
         "document": {
           "documentMap": {
-            "TqRyKcI1": {
+            "EwGRkfMH": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "装备了基础远程武器的非法武装人员。他的箭术在竹林中练就，一箭穿林，不沾片叶。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "U01ptHOy": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -209,6 +237,23 @@
                     "colHeader": false
                   }
                 },
+                "2OhbrUCxwxpJ": {
+                  "id": "2OhbrUCxwxpJ",
+                  "parentId": "AzcJVpJkwMvx",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "清波寨"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "6ZFT7b": {
                   "id": "6ZFT7b",
                   "parentId": "ImXoPN_GAVhL9",
@@ -253,23 +298,6 @@
                     "kind": "body"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "武陵城"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
                 "JAeXlS": {
                   "id": "JAeXlS",
                   "parentId": "ImXoPN_lGo6ja",
@@ -307,7 +335,24 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "会发射各种箭矢和投掷炸弹进行远程牵制攻击。"
+                          "text": "会发射各种箭矢和投掷炸弹进行远程牵制攻击"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "TsUUo76fAWxu": {
+                  "id": "TsUUo76fAWxu",
+                  "parentId": "HC6gad82UNlx",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·清波寨"
                         }
                       }
                     ],
@@ -534,17 +579,48 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "nqKFyLpHc4tF",
+                      "AzcJVpJkwMvx",
+                      "HC6gad82UNlx"
                     ],
                     "itemMap": {
-                      "G4YrCm": {
-                        "id": "G4YrCm",
+                      "AzcJVpJkwMvx": {
+                        "id": "AzcJVpJkwMvx",
                         "childIds": [
-                          "I4qfh4"
+                          "2OhbrUCxwxpJ"
+                        ]
+                      },
+                      "HC6gad82UNlx": {
+                        "id": "HC6gad82UNlx",
+                        "childIds": [
+                          "TsUUo76fAWxu"
+                        ]
+                      },
+                      "nqKFyLpHc4tF": {
+                        "id": "nqKFyLpHc4tF",
+                        "childIds": [
+                          "urUJU5P1P7Si"
                         ]
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "urUJU5P1P7Si": {
+                  "id": "urUJU5P1P7Si",
+                  "parentId": "nqKFyLpHc4tF",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "wLyRZy": {
@@ -586,14 +662,149 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "cmI5PqXz": {
+            "VXi4P1Ok": {
               "id": "document-id",
               "blockIds": [
-                "ZLjAzk"
+                "DCLySTjXhZKV",
+                "lgybkXs9iGy0",
+                "4q5KJ3oVq7JF",
+                "WIPKnxeeHMbE",
+                "eVIdN3smGO2n",
+                "GE6JnXJXT4z2",
+                "8eRVPpXJT65x"
               ],
               "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
+                "4q5KJ3oVq7JF": {
+                  "id": "4q5KJ3oVq7JF",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "8eRVPpXJT65x": {
+                  "id": "8eRVPpXJT65x",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "会发射各种箭矢和投掷炸弹进行远程牵制攻击"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "D9mXb6uDrMFC": {
+                  "id": "D9mXb6uDrMFC",
+                  "parentId": "2xEFsnUD9QoN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DCLySTjXhZKV": {
+                  "id": "DCLySTjXhZKV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的穿林箭。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GE6JnXJXT4z2": {
+                  "id": "GE6JnXJXT4z2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "GE6JnXJXT4z2",
+                    "itemIds": [
+                      "pWpeRBTKCRKW"
+                    ],
+                    "itemMap": {
+                      "pWpeRBTKCRKW": {
+                        "id": "pWpeRBTKCRKW",
+                        "childIds": [
+                          "OeRek7UaUqG4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OeRek7UaUqG4": {
+                  "id": "OeRek7UaUqG4",
+                  "parentId": "pWpeRBTKCRKW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WIPKnxeeHMbE": {
+                  "id": "WIPKnxeeHMbE",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WIPKnxeeHMbE",
+                    "itemIds": [
+                      "2xEFsnUD9QoN"
+                    ],
+                    "itemMap": {
+                      "2xEFsnUD9QoN": {
+                        "id": "2xEFsnUD9QoN",
+                        "childIds": [
+                          "D9mXb6uDrMFC"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "eVIdN3smGO2n": {
+                  "id": "eVIdN3smGO2n",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -604,6 +815,42 @@
                         "kind": "text",
                         "text": {
                           "text": "装备了基础远程武器的非法武装人员。他的箭术在竹林中练就，一箭穿林，不沾片叶。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lgybkXs9iGy0": {
+                  "id": "lgybkXs9iGy0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
                         }
                       }
                     ],
@@ -623,6 +870,11 @@
                   "id": "MX3syh2E",
                   "title": "敌人简介",
                   "size": "large"
+                },
+                {
+                  "id": "LC2rn8Z9",
+                  "title": "穿林箭(预警终端)",
+                  "size": "small"
                 }
               ]
             }
@@ -633,6 +885,18 @@
             "composite": ""
           },
           "widgetCommonMap": {
+            "LC2rn8Z9": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "VXi4P1Ok",
+                  "audioList": []
+                }
+              }
+            },
             "MX3syh2E": {
               "type": "common",
               "tableList": [],
@@ -649,9 +913,9 @@
                     "name": "穿林箭",
                     "type": "沧贼",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "cmI5PqXz"
+                    "description": "EwGRkfMH"
                   },
-                  "content": "TqRyKcI1",
+                  "content": "U01ptHOy",
                   "audioList": []
                 }
               }
@@ -716,10 +980,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -753,7 +1017,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Grove Archer）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -789,7 +1053,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849349",
-        "lastAuditPassedAt": "1767848403",
+        "lastAuditPassedAt": "1774200506",
         "tagIds": [
           "10233"
         ]

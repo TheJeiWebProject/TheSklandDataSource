@@ -4,7 +4,7 @@
   },
   "name": "莫留财",
   "icon": "https://bbs.hycdn.cn/image/2025/12/25/139426/40a152907e56552c7b5e59f5fccc3c1a.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力\n|敌人分布区域\n景玉谷\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n武陵城 清波寨 能量淤积点·清波寨\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,41 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149048",
+    "timestamp": "1774235445",
     "data": {
       "item": {
         "itemId": "906",
         "document": {
           "documentMap": {
-            "8ARGhmJP": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "活动在宏山辖地上的非法武装人员。他们通过私设关卡，走私违禁品牟取利益，是宏山治安力量的重点打击对象。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "SSUD8jNM": {
+            "IBCvdgIM": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -281,23 +253,6 @@
                     "kind": "body"
                   }
                 },
-                "I4qfh4": {
-                  "id": "I4qfh4",
-                  "parentId": "G4YrCm",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "景玉谷"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
                 "JAeXlS": {
                   "id": "JAeXlS",
                   "parentId": "ImXoPN_lGo6ja",
@@ -335,7 +290,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "该敌人无特殊能力"
+                          "text": "该敌人无特殊能力。"
                         }
                       }
                     ],
@@ -412,6 +367,23 @@
                       }
                     ],
                     "kind": "heading3"
+                  }
+                },
+                "a64EP0X8th8X": {
+                  "id": "a64EP0X8th8X",
+                  "parentId": "15VKzGEWEVqF",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·清波寨"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "bMGfGT": {
@@ -538,6 +510,23 @@
                     "kind": "body"
                   }
                 },
+                "pU4DCIfiWQbn": {
+                  "id": "pU4DCIfiWQbn",
+                  "parentId": "3eTKQw2Yo7yZ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "pxEmsK": {
                   "id": "pxEmsK",
                   "parentId": "ImXoPN_TSscPK",
@@ -562,13 +551,27 @@
                   "list": {
                     "id": "r3E9Ve",
                     "itemIds": [
-                      "G4YrCm"
+                      "3eTKQw2Yo7yZ",
+                      "93jblo1150QQ",
+                      "15VKzGEWEVqF"
                     ],
                     "itemMap": {
-                      "G4YrCm": {
-                        "id": "G4YrCm",
+                      "15VKzGEWEVqF": {
+                        "id": "15VKzGEWEVqF",
                         "childIds": [
-                          "I4qfh4"
+                          "a64EP0X8th8X"
+                        ]
+                      },
+                      "3eTKQw2Yo7yZ": {
+                        "id": "3eTKQw2Yo7yZ",
+                        "childIds": [
+                          "pU4DCIfiWQbn"
+                        ]
+                      },
+                      "93jblo1150QQ": {
+                        "id": "93jblo1150QQ",
+                        "childIds": [
+                          "x4L5hxE96ktU"
                         ]
                       }
                     },
@@ -592,6 +595,23 @@
                     "kind": "heading3"
                   }
                 },
+                "x4L5hxE96ktU": {
+                  "id": "x4L5hxE96ktU",
+                  "parentId": "93jblo1150QQ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "清波寨"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "xyqW3g": {
                   "id": "xyqW3g",
                   "parentId": "GstY0r_lGo6ja",
@@ -613,6 +633,233 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "JqeHwiLp": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "活动在武陵辖地上的非法武装人员。他们通过私设关卡，走私违禁品牟取利益，是宏山治安力量的重点打击对象。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "MV5J8RwN": {
+              "id": "document-id",
+              "blockIds": [
+                "DCLySTjXhZKV",
+                "lgybkXs9iGy0",
+                "4q5KJ3oVq7JF",
+                "WIPKnxeeHMbE",
+                "WYZhelYQo8OL",
+                "GE6JnXJXT4z2",
+                "Cp6TBAJFVZg4"
+              ],
+              "blockMap": {
+                "4q5KJ3oVq7JF": {
+                  "id": "4q5KJ3oVq7JF",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "Cp6TBAJFVZg4": {
+                  "id": "Cp6TBAJFVZg4",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "该敌人无特殊能力。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "D9mXb6uDrMFC": {
+                  "id": "D9mXb6uDrMFC",
+                  "parentId": "2xEFsnUD9QoN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DCLySTjXhZKV": {
+                  "id": "DCLySTjXhZKV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的莫留财。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GE6JnXJXT4z2": {
+                  "id": "GE6JnXJXT4z2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "GE6JnXJXT4z2",
+                    "itemIds": [
+                      "pWpeRBTKCRKW"
+                    ],
+                    "itemMap": {
+                      "pWpeRBTKCRKW": {
+                        "id": "pWpeRBTKCRKW",
+                        "childIds": [
+                          "OeRek7UaUqG4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OeRek7UaUqG4": {
+                  "id": "OeRek7UaUqG4",
+                  "parentId": "pWpeRBTKCRKW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WIPKnxeeHMbE": {
+                  "id": "WIPKnxeeHMbE",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WIPKnxeeHMbE",
+                    "itemIds": [
+                      "2xEFsnUD9QoN"
+                    ],
+                    "itemMap": {
+                      "2xEFsnUD9QoN": {
+                        "id": "2xEFsnUD9QoN",
+                        "childIds": [
+                          "D9mXb6uDrMFC"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "WYZhelYQo8OL": {
+                  "id": "WYZhelYQo8OL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "活动在武陵辖地上的非法武装人员。他们通过私设关卡，走私违禁品牟取利益，是宏山治安力量的重点打击对象。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lgybkXs9iGy0": {
+                  "id": "lgybkXs9iGy0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -623,6 +870,11 @@
                   "id": "MX3syh2E",
                   "title": "敌人简介",
                   "size": "large"
+                },
+                {
+                  "id": "LrUCKt9X",
+                  "title": "莫留财(预警终端)",
+                  "size": "small"
                 }
               ]
             }
@@ -633,6 +885,18 @@
             "composite": ""
           },
           "widgetCommonMap": {
+            "LrUCKt9X": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "MV5J8RwN",
+                  "audioList": []
+                }
+              }
+            },
             "MX3syh2E": {
               "type": "common",
               "tableList": [],
@@ -649,9 +913,9 @@
                     "name": "莫留财",
                     "type": "沧贼",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "8ARGhmJP"
+                    "description": "JqeHwiLp"
                   },
-                  "content": "SSUD8jNM",
+                  "content": "IBCvdgIM",
                   "audioList": []
                 }
               }
@@ -716,10 +980,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -753,7 +1017,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Road Plunderer）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -789,7 +1053,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849585",
-        "lastAuditPassedAt": "1767848348",
+        "lastAuditPassedAt": "1774200500",
         "tagIds": [
           "10233"
         ]

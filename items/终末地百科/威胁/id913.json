@@ -4,7 +4,7 @@
   },
   "name": "火雾源石虫",
   "icon": "https://bbs.hycdn.cn/image/2025/12/26/139426/7c37b0fcf66961bc8d091587a797124a.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | D | D | C\n生命值较低时会自爆。自爆会在被命中干员身上留下不稳定化合物，干员再次受到伤害时，这些化合物会爆炸。\n|敌人分布区域\n景玉谷 武陵城\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nC | C | D | D | C\n在生命值较低时会自爆。自爆会在被命中干员身上留下不稳定化合物，干员再次受到伤害时，这些化合物会爆炸。\n|敌人分布区域\n景玉谷 武陵城\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,41 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149066",
+    "timestamp": "1774235463",
     "data": {
       "item": {
         "itemId": "913",
         "document": {
           "documentMap": {
-            "Hui901Cz": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "野生的被感染生物，体温极高。它在濒死时会发生爆炸，沸腾的酸性体液与活性源石粉尘将席卷周边的一切。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "JOatNg3u": {
+            "KjBUZKqj": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -335,7 +307,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "生命值较低时会自爆。自爆会在被命中干员身上留下不稳定化合物，干员再次受到伤害时，这些化合物会爆炸。"
+                          "text": "在生命值较低时会自爆。自爆会在被命中干员身上留下不稳定化合物，干员再次受到伤害时，这些化合物会爆炸。"
                         }
                       }
                     ],
@@ -637,6 +609,233 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "NtJ0dTpD": {
+              "id": "document-id",
+              "blockIds": [
+                "DCLySTjXhZKV",
+                "lgybkXs9iGy0",
+                "4q5KJ3oVq7JF",
+                "WIPKnxeeHMbE",
+                "qrKfRlN4W4qS",
+                "GE6JnXJXT4z2",
+                "Cp6TBAJFVZg4"
+              ],
+              "blockMap": {
+                "4q5KJ3oVq7JF": {
+                  "id": "4q5KJ3oVq7JF",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "Cp6TBAJFVZg4": {
+                  "id": "Cp6TBAJFVZg4",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "火雾源石虫在死亡时会回复周围同伴的生命值。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "D9mXb6uDrMFC": {
+                  "id": "D9mXb6uDrMFC",
+                  "parentId": "2xEFsnUD9QoN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DCLySTjXhZKV": {
+                  "id": "DCLySTjXhZKV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的火雾源石虫。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GE6JnXJXT4z2": {
+                  "id": "GE6JnXJXT4z2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "GE6JnXJXT4z2",
+                    "itemIds": [
+                      "pWpeRBTKCRKW"
+                    ],
+                    "itemMap": {
+                      "pWpeRBTKCRKW": {
+                        "id": "pWpeRBTKCRKW",
+                        "childIds": [
+                          "OeRek7UaUqG4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OeRek7UaUqG4": {
+                  "id": "OeRek7UaUqG4",
+                  "parentId": "pWpeRBTKCRKW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WIPKnxeeHMbE": {
+                  "id": "WIPKnxeeHMbE",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "WIPKnxeeHMbE",
+                    "itemIds": [
+                      "2xEFsnUD9QoN"
+                    ],
+                    "itemMap": {
+                      "2xEFsnUD9QoN": {
+                        "id": "2xEFsnUD9QoN",
+                        "childIds": [
+                          "D9mXb6uDrMFC"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lgybkXs9iGy0": {
+                  "id": "lgybkXs9iGy0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qrKfRlN4W4qS": {
+                  "id": "qrKfRlN4W4qS",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "野生的被感染生物，体温极高。它在濒死时会发生爆炸，沸腾的酸性体液与活性源石粉尘将席卷周边的一切。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "doqFECK4": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "野生的被感染生物，体温极高。它在濒死时会发生爆炸，沸腾的酸性体液与活性源石粉尘将席卷周边的一切。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -647,6 +846,11 @@
                   "id": "MX3syh2E",
                   "title": "敌人简介",
                   "size": "large"
+                },
+                {
+                  "id": "22QHWoXo",
+                  "title": "火雾源石虫(预警终端)",
+                  "size": "small"
                 }
               ]
             }
@@ -657,6 +861,18 @@
             "composite": ""
           },
           "widgetCommonMap": {
+            "22QHWoXo": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "NtJ0dTpD",
+                  "audioList": []
+                }
+              }
+            },
             "MX3syh2E": {
               "type": "common",
               "tableList": [],
@@ -673,9 +889,9 @@
                     "name": "火雾源石虫",
                     "type": "野外生物",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "Hui901Cz"
+                    "description": "doqFECK4"
                   },
-                  "content": "JOatNg3u",
+                  "content": "KjBUZKqj",
                   "audioList": []
                 }
               }
@@ -740,10 +956,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9203146710665",
-          "nickname": "SilentTwilight",
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
         },
         "createdUser": {
           "id": "9203146710665",
@@ -777,7 +993,7 @@
                     {
                       "kind": "text",
                       "text": {
-                        "text": "是《明日方舟：终末地》中的一类"
+                        "text": "（Firemist Originium Slug）是《明日方舟：终末地》中的一类"
                       }
                     },
                     {
@@ -813,7 +1029,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849542",
-        "lastAuditPassedAt": "1767848789",
+        "lastAuditPassedAt": "1774198032",
         "tagIds": [
           "10230"
         ]

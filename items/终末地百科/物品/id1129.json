@@ -4,7 +4,7 @@
   },
   "name": "赤铜装备原件",
   "icon": "https://bbs.hycdn.cn/image/common/20260318/4863030/69ba5686d04467ac08dc8108_3eac6ad0.png",
-  "description": "获取方式:\n冒险探索获取。\n破坏地图各处的箱子等途径可以获得一定数量的赤铜装备原件。\n\n用途:\n冒险探索获取。\n破坏地图各处的箱子等途径可以获得一定数量的赤铜装备原件。\n作为装备制造的材料。\n稀有度为金色的干员装备在制造时每件需要赤铜装备原件*50作为消耗材料，包含以下装备套组中的部分装备：\n武陵（纾难） | 点剑 | 生物辅助 | 轻超域 | 碾骨 | 脉冲式 | 拓荒 | 动火用 | M.I.警用 | 50式应龙\n用于仓储节点货物装箱。",
+  "description": "获取方式:\n冒险探索获取。\n通过破坏武陵-清波寨的箱子等途径可以获得一定数量的赤铜装备原件。\n\n用途:\n冒险探索获取。\n通过破坏武陵-清波寨的箱子等途径可以获得一定数量的赤铜装备原件。\n作为装备制造的材料。\n稀有度为金色的干员装备在制造时每件需要[赤铜装备原件x50]作为消耗材料，包含以下装备套组中的部分装备：\n武陵（纾难） | 点剑 | 生物辅助 | 轻超域 | 碾骨 | 脉冲式 | 拓荒 | 动火用 | M.I.警用 | 50式应龙\n用于仓储节点货物装箱。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774149582",
+    "timestamp": "1774235970",
     "data": {
       "item": {
         "itemId": "1129",
         "document": {
           "documentMap": {
-            "Ex5Vg2Yb": {
+            "F7XBVRCi": {
               "id": "document-id",
               "blockIds": [
                 "POJC5u",
@@ -285,7 +285,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "每装箱赤铜装备原件*1需要50点货箱容量。"
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1129",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要50点货箱容量。"
                         }
                       }
                     ],
@@ -356,7 +371,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "的干员装备在制造时每件需要赤铜装备原件*50作为消耗材料，包含以下装备套组中的部分装备："
+                          "text": "的干员装备在制造时每件需要"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1129",
+                          "showType": "link-imgText",
+                          "count": "50"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "作为消耗材料，包含以下装备套组中的部分装备："
                         }
                       }
                     ],
@@ -601,7 +631,134 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "ohwMNo5W": {
+            "T8mfq1nM": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "ugK8j2EVDwGz",
+                "2nHcjG",
+                "cc9Nq6",
+                "JSBZcC"
+              ],
+              "blockMap": {
+                "2nHcjG": {
+                  "id": "2nHcjG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2nHcjG",
+                    "itemIds": [
+                      "ZQeKqJ"
+                    ],
+                    "itemMap": {
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "2wVgSq"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "2wVgSq": {
+                  "id": "2wVgSq",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过破坏"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵-清波寨"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "箱子"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "等途径可以获得一定数量的赤铜装备原件。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JSBZcC": {
+                  "id": "JSBZcC",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "ugK8j2EVDwGz": {
+                  "id": "ugK8j2EVDwGz",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "冒险探索获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "TR4FLLkY": {
               "id": "document-id",
               "blockIds": [
                 "tlIPhX",
@@ -788,9 +945,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "赤铜装备原件*1"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1129",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -861,118 +1020,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "qGDqGp4E": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "ugK8j2EVDwGz",
-                "2nHcjG",
-                "cc9Nq6",
-                "JSBZcC"
-              ],
-              "blockMap": {
-                "2nHcjG": {
-                  "id": "2nHcjG",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "2nHcjG",
-                    "itemIds": [
-                      "ZQeKqJ"
-                    ],
-                    "itemMap": {
-                      "ZQeKqJ": {
-                        "id": "ZQeKqJ",
-                        "childIds": [
-                          "2wVgSq"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "2wVgSq": {
-                  "id": "2wVgSq",
-                  "parentId": "ZQeKqJ",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "破坏地图各处的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "箱子"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "等途径可以获得一定数量的赤铜装备原件。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "JSBZcC": {
-                  "id": "JSBZcC",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [],
-                    "kind": "body"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "ugK8j2EVDwGz": {
-                  "id": "ugK8j2EVDwGz",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "冒险探索获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -1020,7 +1067,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Ex5Vg2Yb",
+                  "content": "F7XBVRCi",
                   "audioList": []
                 }
               }
@@ -1032,7 +1079,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "qGDqGp4E",
+                  "content": "T8mfq1nM",
                   "audioList": []
                 }
               }
@@ -1044,7 +1091,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ohwMNo5W",
+                  "content": "TR4FLLkY",
                   "audioList": []
                 }
               }
@@ -1230,10 +1277,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1485727484109",
-          "nickname": "奕行",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/8b913b2cf42c26d53d8d9c79a1daf917.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "9228422493033",
@@ -1311,7 +1358,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774146372",
-        "lastAuditPassedAt": "1773824196",
+        "lastAuditPassedAt": "1774173645",
         "tagIds": [
           "10004",
           "10257",

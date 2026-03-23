@@ -1,0 +1,188 @@
+{
+  "id": "aef-skland:r/wiki_source_603/1320",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_658",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_603",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "WvB5zzDhV5Q4",
+        "EbRJhq6YmSAL",
+        "E7pD0FKx5BfL",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "ArXYry9QFjG5": {
+          "id": "ArXYry9QFjG5",
+          "parentId": "E7pD0FKx5BfL",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_tertiary",
+                "kind": "text",
+                "text": {
+                  "text": "“这样吧，你把这个手表还给她，让她不要来烦我了。或者你随便编个理由，比如我被裂地者吃了之类的……”"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "E7pD0FKx5BfL": {
+          "id": "E7pD0FKx5BfL",
+          "parentId": "document-id",
+          "kind": "quote",
+          "quote": {
+            "childIds": [
+              "ArXYry9QFjG5"
+            ]
+          }
+        },
+        "EbRJhq6YmSAL": {
+          "id": "EbRJhq6YmSAL",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "EbRJhq6YmSAL",
+            "itemIds": [
+              "YqYNXMdxUiEh"
+            ],
+            "itemMap": {
+              "YqYNXMdxUiEh": {
+                "id": "YqYNXMdxUiEh",
+                "childIds": [
+                  "hULuxBZGo1o5"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "WvB5zzDhV5Q4": {
+          "id": "WvB5zzDhV5Q4",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "hULuxBZGo1o5": {
+          "id": "hULuxBZGo1o5",
+          "parentId": "YqYNXMdxUiEh",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_function_blue",
+                "kind": "text",
+                "text": {
+                  "text": "次要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "658",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "谷地通道-谷地中转站"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "寻找NPC "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "罗马诺"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " ，与其对话后获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}
