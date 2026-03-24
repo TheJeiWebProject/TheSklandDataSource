@@ -1,0 +1,209 @@
+{
+  "id": "aef-skland:r/wiki_source_566/1247",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_382",
+      "amount": 50
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_566",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "NAgLwL",
+        "j3X0zd",
+        "q2vVhJ",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "NAgLwL": {
+          "id": "NAgLwL",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "T8kvZp": {
+          "id": "T8kvZp",
+          "parentId": "baxFLz",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "以任意途径获得锦草后可于 "
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "维尔莫林|植物学家"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 处购买："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "iRIVLi": {
+          "id": "iRIVLi",
+          "parentId": "baxFLz",
+          "kind": "list",
+          "list": {
+            "id": "iRIVLi",
+            "itemIds": [
+              "lKbQk0"
+            ],
+            "itemMap": {
+              "lKbQk0": {
+                "id": "lKbQk0",
+                "childIds": [
+                  "vSMUFS"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "j3X0zd": {
+          "id": "j3X0zd",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "击败大角天使有概率掉落。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "q2vVhJ": {
+          "id": "q2vVhJ",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "q2vVhJ",
+            "itemIds": [
+              "baxFLz"
+            ],
+            "itemMap": {
+              "baxFLz": {
+                "id": "baxFLz",
+                "childIds": [
+                  "T8kvZp",
+                  "iRIVLi"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "vSMUFS": {
+          "id": "vSMUFS",
+          "parentId": "lKbQk0",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "位于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵城-实验作物试点区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "时，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "382",
+                  "showType": "link-imgText",
+                  "count": "50"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，存量 "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "5"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 份。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

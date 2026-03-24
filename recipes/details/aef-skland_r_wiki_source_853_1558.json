@@ -1,0 +1,88 @@
+{
+  "id": "aef-skland:r/wiki_source_853/1558",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_853",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "EvWMgr",
+        "Kd71JT",
+        "1E0LsS"
+      ],
+      "blockMap": {
+        "1E0LsS": {
+          "id": "1E0LsS",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "为了适应阿伯莉采石场突如其来的挖掘作业，工程师们连夜对这套护甲设计做出了调整，为其增添了视觉保护、听觉保护等模块。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "EvWMgr": {
+          "id": "EvWMgr",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-本装备由特里格拉夫军工厂设计，使用集成工业系统制造，能够提高使用者的作战能力。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Kd71JT": {
+          "id": "Kd71JT",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-针对阿伯莉采石场作业情况做出了调整的新型防护装甲"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

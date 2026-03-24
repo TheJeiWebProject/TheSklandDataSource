@@ -1,0 +1,212 @@
+{
+  "id": "aef-skland:r/wiki_source_290/901",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_32",
+      "amount": 400000
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_290",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "QB7bLN",
+        "alKiVenbMB5N",
+        "60d9VBcB57v0",
+        "LTZatpoetetm",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "60d9VBcB57v0": {
+          "id": "60d9VBcB57v0",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "四号谷地-物资调度终端购买。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "LTZatpoetetm": {
+          "id": "LTZatpoetetm",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "LTZatpoetetm",
+            "itemIds": [
+              "96CEWzSXNNHj",
+              "yv4MkRYAfjiv"
+            ],
+            "itemMap": {
+              "96CEWzSXNNHj": {
+                "id": "96CEWzSXNNHj",
+                "childIds": [
+                  "UmYTq3jxHW5Z"
+                ]
+              },
+              "yv4MkRYAfjiv": {
+                "id": "yv4MkRYAfjiv",
+                "childIds": [
+                  "zFUCJuAUnCAn"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "QB7bLN": {
+          "id": "QB7bLN",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "协议通行证-协议定制。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "UmYTq3jxHW5Z": {
+          "id": "UmYTq3jxHW5Z",
+          "parentId": "96CEWzSXNNHj",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "将四号谷地的三个物资调度终端都升级4级后会有一个价位的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "高阶培养自选箱Ⅰ"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "出售。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "alKiVenbMB5N": {
+          "id": "alKiVenbMB5N",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "zFUCJuAUnCAn": {
+          "id": "zFUCJuAUnCAn",
+          "parentId": "yv4MkRYAfjiv",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "库存20个"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "高阶培养自选箱Ⅰ*2"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "32",
+                  "showType": "link-imgText",
+                  "count": "400000"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

@@ -1,0 +1,172 @@
+{
+  "id": "aef-skland:r/wiki_source_1062/1760",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_162",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1062",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "6doKZl63Uqth",
+        "S2eXNQQSrEAe",
+        "QUQ2IP345QXu",
+        "LIjWvL1TuCFM"
+      ],
+      "blockMap": {
+        "6doKZl63Uqth": {
+          "id": "6doKZl63Uqth",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "LIjWvL1TuCFM": {
+          "id": "LIjWvL1TuCFM",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "N54DW15cSlro": {
+          "id": "N54DW15cSlro",
+          "parentId": "LWt6kW5jKJDL",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "162",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中，于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "枢纽区-工人之家"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "与"
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "罗曼|面包店老板"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "对话后，可在"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "枢纽区-旧工厂区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "附近的任务标识处拾取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QUQ2IP345QXu": {
+          "id": "QUQ2IP345QXu",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "QUQ2IP345QXu",
+            "itemIds": [
+              "LWt6kW5jKJDL"
+            ],
+            "itemMap": {
+              "LWt6kW5jKJDL": {
+                "id": "LWt6kW5jKJDL",
+                "childIds": [
+                  "N54DW15cSlro"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "S2eXNQQSrEAe": {
+          "id": "S2eXNQQSrEAe",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}
