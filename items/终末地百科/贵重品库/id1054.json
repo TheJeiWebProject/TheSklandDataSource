@@ -4,7 +4,7 @@
   },
   "name": "大桥升降控制台零件",
   "icon": "https://bbs.hycdn.cn/image/2026/01/25/3048259/fab49d7430c8dc6f69515796d6f732eb.png",
-  "description": "获取方式:\n冒险探索获取。\n紧要任务[151]西行入谷中击败枢纽区-桥头工事处的裂地者后与[狼卫]对话获取。\n\n用途:\n用于提交紧要任务目标。\n枢纽区-桥头工事处的大桥升降控制台需要大桥升降控制台零件（1）进行修复。",
+  "description": "获取方式:\n冒险探索获取。\n紧要任务[第一章 - 进程Ⅰ - 西行入谷]中击败枢纽区-桥头工事处的裂地者后与[狼卫]对话获取。\n\n用途:\n用于提交紧要任务目标。\n枢纽区-桥头工事处的大桥升降控制台需要[大桥升降控制台零件x1]进行修复。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,141 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774321735",
+    "timestamp": "1774408315",
     "data": {
       "item": {
         "itemId": "1054",
         "document": {
           "documentMap": {
-            "JFwGttZQ": {
+            "CXqyP0fF": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "E21ySvTmeiKV",
+                "hsfYPNTEHfYH",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "E21ySvTmeiKV": {
+                  "id": "E21ySvTmeiKV",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "冒险探索获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "O4uBM9mIx0pO": {
+                  "id": "O4uBM9mIx0pO",
+                  "parentId": "oY18S0FE7N7i",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "紧要任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1100",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "中击败"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区-桥头工事"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "处的裂地者后与"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "3",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "对话获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "hsfYPNTEHfYH": {
+                  "id": "hsfYPNTEHfYH",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "hsfYPNTEHfYH",
+                    "itemIds": [
+                      "oY18S0FE7N7i"
+                    ],
+                    "itemMap": {
+                      "oY18S0FE7N7i": {
+                        "id": "oY18S0FE7N7i",
+                        "childIds": [
+                          "O4uBM9mIx0pO"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "s9qwY0hv": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -129,157 +257,22 @@
                         }
                       },
                       {
-                        "bold": true,
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1054",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "大桥升降控制台零件"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "（1）进行修复。"
+                          "text": "进行修复。"
                         }
                       }
                     ],
                     "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "ObjHVbMa": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "E21ySvTmeiKV",
-                "hsfYPNTEHfYH",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "E21ySvTmeiKV": {
-                  "id": "E21ySvTmeiKV",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "冒险探索获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "O4uBM9mIx0pO": {
-                  "id": "O4uBM9mIx0pO",
-                  "parentId": "oY18S0FE7N7i",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "紧要任务"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "151",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "西行入谷"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "中击败"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "枢纽区-桥头工事"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "处的裂地者后与"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "3",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "对话获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "hsfYPNTEHfYH": {
-                  "id": "hsfYPNTEHfYH",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "hsfYPNTEHfYH",
-                    "itemIds": [
-                      "oY18S0FE7N7i"
-                    ],
-                    "itemMap": {
-                      "oY18S0FE7N7i": {
-                        "id": "oY18S0FE7N7i",
-                        "childIds": [
-                          "O4uBM9mIx0pO"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
                   }
                 }
               },
@@ -322,7 +315,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "JFwGttZQ",
+                  "content": "s9qwY0hv",
                   "audioList": []
                 }
               }
@@ -334,7 +327,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ObjHVbMa",
+                  "content": "CXqyP0fF",
                   "audioList": []
                 }
               }
@@ -492,10 +485,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -573,7 +566,7 @@
         },
         "status": 2,
         "publishedAtTs": "1769349847",
-        "lastAuditPassedAt": "1769349592",
+        "lastAuditPassedAt": "1774344673",
         "tagIds": [
           "10005",
           "10330",

@@ -4,7 +4,7 @@
   },
   "name": "权限钥匙卡",
   "icon": "https://bbs.hycdn.cn/image/2026/01/24/1492764/a4d742a0bc86bec01d1219a1c498b5b6.png",
-  "description": "获取方式:\n冒险探索获取。\n紧要任务[153]烙铁灼痕中，前往供能高地-源石发电站与NPC对话后获取。\n\n用途:\n用于提交紧要任务目标\n将“烙铁”发信器（1）、权限钥匙卡（1）交付至NPC 克劳 处以推进任务。",
+  "description": "获取方式:\n冒险探索获取。\n紧要任务[第一章 - 进程Ⅳ - 烙铁灼痕]中，前往供能高地-源石发电站与NPC对话后获取。\n\n用途:\n用于提交紧要任务目标\n将[“烙铁”发信器x1][权限钥匙卡x1]交付至NPC 克劳 处以推进任务。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,132 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774321764",
+    "timestamp": "1774408342",
     "data": {
       "item": {
         "itemId": "1065",
         "document": {
           "documentMap": {
-            "EIgcudKl": {
+            "TlrvsJUX": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "9frzIp",
+                "TbNqljSJkl5q",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "9frzIp": {
+                  "id": "9frzIp",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "用于提交紧要任务目标"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "TbNqljSJkl5q": {
+                  "id": "TbNqljSJkl5q",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "TbNqljSJkl5q",
+                    "itemIds": [
+                      "RRMEFnZQXkCa"
+                    ],
+                    "itemMap": {
+                      "RRMEFnZQXkCa": {
+                        "id": "RRMEFnZQXkCa",
+                        "childIds": [
+                          "nhhl1H"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "nhhl1H": {
+                  "id": "nhhl1H",
+                  "parentId": "RRMEFnZQXkCa",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "将"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1066",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1065",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "交付至NPC "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "克劳 "
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "处以推进任务。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "dMUeBGWV": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -54,17 +173,9 @@
                       {
                         "kind": "entry",
                         "entry": {
-                          "id": "153",
+                          "id": "1155",
                           "showType": "link-imgText",
                           "count": "0"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "烙铁灼痕"
                         }
                       },
                       {
@@ -164,129 +275,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "T9tLW4bG": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "9frzIp",
-                "TbNqljSJkl5q",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "9frzIp": {
-                  "id": "9frzIp",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "用于提交紧要任务目标"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "TbNqljSJkl5q": {
-                  "id": "TbNqljSJkl5q",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "TbNqljSJkl5q",
-                    "itemIds": [
-                      "RRMEFnZQXkCa"
-                    ],
-                    "itemMap": {
-                      "RRMEFnZQXkCa": {
-                        "id": "RRMEFnZQXkCa",
-                        "childIds": [
-                          "nhhl1H"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "nhhl1H": {
-                  "id": "nhhl1H",
-                  "parentId": "RRMEFnZQXkCa",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "将"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "“烙铁”发信器"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "（1）、"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "权限钥匙卡"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "（1）交付至NPC "
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "克劳 "
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "处以推进任务。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -324,7 +312,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "T9tLW4bG",
+                  "content": "TlrvsJUX",
                   "audioList": []
                 }
               }
@@ -336,7 +324,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "EIgcudKl",
+                  "content": "dMUeBGWV",
                   "audioList": []
                 }
               }
@@ -575,7 +563,7 @@
         },
         "status": 2,
         "publishedAtTs": "1770505200",
-        "lastAuditPassedAt": "1769327096",
+        "lastAuditPassedAt": "1774344709",
         "tagIds": [
           "10005",
           "10330",

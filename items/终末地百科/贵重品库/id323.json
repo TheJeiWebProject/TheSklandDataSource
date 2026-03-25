@@ -4,7 +4,7 @@
   },
   "name": "“起点”",
   "icon": "https://bbs.hycdn.cn/image/2026/01/07/203953/7bf5e38bd9192e0d6b1ebef36beb04fc.png",
-  "description": "获取方式:\n冒险探索获取。\n紧要任务[133]进程：冷启动中随任务进度推进获取。\n\n用途:\n用于提交紧要任务目标。\n获得[“起点”]后将其放入“生命”以推进任务进度。",
+  "description": "获取方式:\n冒险探索获取。\n紧要任务[序章 - 进程：冷启动]中随任务进度推进获取。\n\n用途:\n用于提交紧要任务目标。\n获得[“起点”]后将其放入“生命”以推进任务进度。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,123 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774319870",
+    "timestamp": "1774406533",
     "data": {
       "item": {
         "itemId": "323",
         "document": {
           "documentMap": {
-            "dsZsODzj": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "QB7bLN",
-                "PwCzTtPM6YUG",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "5qSN8a23HIrO": {
-                  "id": "5qSN8a23HIrO",
-                  "parentId": "SLLPUuZP7I5D",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "紧要任务"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "133",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "进程：冷启动"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中随任务进度推进获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "PwCzTtPM6YUG": {
-                  "id": "PwCzTtPM6YUG",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "PwCzTtPM6YUG",
-                    "itemIds": [
-                      "SLLPUuZP7I5D"
-                    ],
-                    "itemMap": {
-                      "SLLPUuZP7I5D": {
-                        "id": "SLLPUuZP7I5D",
-                        "childIds": [
-                          "5qSN8a23HIrO"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "QB7bLN": {
-                  "id": "QB7bLN",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "冒险探索获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "fbsg8dgI": {
+            "EjdrKQ6c": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -249,6 +139,108 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "X5RS25LZ": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "QB7bLN",
+                "PwCzTtPM6YUG",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "5qSN8a23HIrO": {
+                  "id": "5qSN8a23HIrO",
+                  "parentId": "SLLPUuZP7I5D",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "紧要任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "666",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中随任务进度推进获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PwCzTtPM6YUG": {
+                  "id": "PwCzTtPM6YUG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "PwCzTtPM6YUG",
+                    "itemIds": [
+                      "SLLPUuZP7I5D"
+                    ],
+                    "itemMap": {
+                      "SLLPUuZP7I5D": {
+                        "id": "SLLPUuZP7I5D",
+                        "childIds": [
+                          "5qSN8a23HIrO"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "冒险探索获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -286,7 +278,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "fbsg8dgI",
+                  "content": "EjdrKQ6c",
                   "audioList": []
                 }
               }
@@ -298,7 +290,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "dsZsODzj",
+                  "content": "X5RS25LZ",
                   "audioList": []
                 }
               }
@@ -518,7 +510,7 @@
         },
         "status": 2,
         "publishedAtTs": "1766895945",
-        "lastAuditPassedAt": "1769057658",
+        "lastAuditPassedAt": "1774344660",
         "tagIds": [
           "10005",
           "10330",

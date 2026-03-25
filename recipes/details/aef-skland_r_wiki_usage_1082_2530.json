@@ -44,35 +44,261 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "地区建设等级",
-      "panelTitle": "9"
+      "panelTitle": "4"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "l0GbzKHvFS7s"
+        "0UuihTqmRB5L"
       ],
       "blockMap": {
-        "50tnuWa3JRYI": {
-          "id": "50tnuWa3JRYI",
-          "parentId": "bVyc9v_s2ulDl",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "里程碑奖励"
-                }
-              }
+        "0UuihTqmRB5L": {
+          "id": "0UuihTqmRB5L",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "0UuihTqmRB5L",
+            "rowIds": [
+              "fHmAow",
+              "rDFaBp",
+              "V4pyCw",
+              "LkSuXm",
+              "alhkfc",
+              "nghHGB",
+              "pb9DEi"
             ],
-            "kind": "body"
+            "columnIds": [
+              "G21G7F",
+              "N3HfvJ",
+              "d0VoQn"
+            ],
+            "rowMap": {
+              "LkSuXm": {
+                "id": "LkSuXm"
+              },
+              "V4pyCw": {
+                "id": "V4pyCw"
+              },
+              "alhkfc": {
+                "id": "alhkfc"
+              },
+              "fHmAow": {
+                "id": "fHmAow"
+              },
+              "nghHGB": {
+                "id": "nghHGB"
+              },
+              "pb9DEi": {
+                "id": "pb9DEi"
+              },
+              "rDFaBp": {
+                "id": "rDFaBp"
+              }
+            },
+            "columnMap": {
+              "G21G7F": {
+                "id": "G21G7F",
+                "width": 117
+              },
+              "N3HfvJ": {
+                "id": "N3HfvJ",
+                "width": 798
+              },
+              "d0VoQn": {
+                "id": "d0VoQn",
+                "width": 245
+              }
+            },
+            "cellMap": {
+              "LkSuXm_G21G7F": {
+                "id": "LkSuXm_G21G7F",
+                "childIds": [
+                  "UDji3dc0SxNs"
+                ],
+                "rowSpan": "4",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "LkSuXm_N3HfvJ": {
+                "id": "LkSuXm_N3HfvJ",
+                "childIds": [
+                  "gRQWL5D1M6Uw"
+                ],
+                "rowSpan": "1",
+                "colSpan": "2",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "V4pyCw_G21G7F": {
+                "id": "V4pyCw_G21G7F",
+                "childIds": [
+                  "wQC7PRKnQ8UK"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "V4pyCw_N3HfvJ": {
+                "id": "V4pyCw_N3HfvJ",
+                "childIds": [
+                  "gBbVibvK22Eu"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "V4pyCw_d0VoQn": {
+                "id": "V4pyCw_d0VoQn",
+                "childIds": [
+                  "S42Y52ONUGVG"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "alhkfc_N3HfvJ": {
+                "id": "alhkfc_N3HfvJ",
+                "childIds": [
+                  "3sMtL7vSnhpt"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "alhkfc_d0VoQn": {
+                "id": "alhkfc_d0VoQn",
+                "childIds": [
+                  "5OPtONSmHSAy"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "fHmAow_G21G7F": {
+                "id": "fHmAow_G21G7F",
+                "childIds": [
+                  "2ZBAXCfBBXT1"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "fHmAow_N3HfvJ": {
+                "id": "fHmAow_N3HfvJ",
+                "childIds": [
+                  "53ts01GTvql0"
+                ],
+                "rowSpan": "1",
+                "colSpan": "2",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "nghHGB_N3HfvJ": {
+                "id": "nghHGB_N3HfvJ",
+                "childIds": [
+                  "5F69n3sAprd8"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "nghHGB_d0VoQn": {
+                "id": "nghHGB_d0VoQn",
+                "childIds": [
+                  "x7yyd2wn2O72"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "pb9DEi_N3HfvJ": {
+                "id": "pb9DEi_N3HfvJ",
+                "childIds": [
+                  "rUML8kuTNh9T"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "pb9DEi_d0VoQn": {
+                "id": "pb9DEi_d0VoQn",
+                "childIds": [
+                  "jSoKvIgxxNg8"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "rDFaBp_G21G7F": {
+                "id": "rDFaBp_G21G7F",
+                "childIds": [
+                  "EeWlvIWnAARc"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "rDFaBp_N3HfvJ": {
+                "id": "rDFaBp_N3HfvJ",
+                "childIds": [
+                  "HH7BZsnqpdnI"
+                ],
+                "rowSpan": "1",
+                "colSpan": "2",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": true,
+            "colHeader": false
           }
         },
-        "BkJM8ZiifhO2": {
-          "id": "BkJM8ZiifhO2",
-          "parentId": "bVyc9v_1FzEeA",
+        "2ZBAXCfBBXT1": {
+          "id": "2ZBAXCfBBXT1",
+          "parentId": "fHmAow_G21G7F",
           "align": "center",
           "kind": "text",
           "text": {
@@ -88,28 +314,110 @@
             "kind": "body"
           }
         },
-        "FImh3h7biPTM": {
-          "id": "FImh3h7biPTM",
-          "parentId": "uwMfaC_1FzEeA",
-          "align": "center",
+        "3sMtL7vSnhpt": {
+          "id": "3sMtL7vSnhpt",
+          "parentId": "alhkfc_N3HfvJ",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
                 "bold": true,
-                "color": "light_rank_yellow",
                 "kind": "text",
                 "text": {
-                  "text": "武陵"
+                  "text": "协议容量"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "提升。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "FwSeWed4E6TR": {
-          "id": "FwSeWed4E6TR",
-          "parentId": "L9SIgT_s2ulDl",
+        "53ts01GTvql0": {
+          "id": "53ts01GTvql0",
+          "parentId": "fHmAow_N3HfvJ",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "里程碑奖励"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "5F69n3sAprd8": {
+          "id": "5F69n3sAprd8",
+          "parentId": "nghHGB_N3HfvJ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "滑索"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "可放置数量提升。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "5OPtONSmHSAy": {
+          "id": "5OPtONSmHSAy",
+          "parentId": "alhkfc_d0VoQn",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "150→180"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "EeWlvIWnAARc": {
+          "id": "EeWlvIWnAARc",
+          "parentId": "rDFaBp_G21G7F",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "4"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "HH7BZsnqpdnI": {
+          "id": "HH7BZsnqpdnI",
+          "parentId": "rDFaBp_N3HfvJ",
           "align": "center",
           "kind": "text",
           "text": {
@@ -158,9 +466,45 @@
             "kind": "body"
           }
         },
-        "HVKvtmoJfwxg": {
-          "id": "HVKvtmoJfwxg",
-          "parentId": "uwMfaC_s2ulDl",
+        "S42Y52ONUGVG": {
+          "id": "S42Y52ONUGVG",
+          "parentId": "V4pyCw_d0VoQn",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "42万→150万"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "UDji3dc0SxNs": {
+          "id": "UDji3dc0SxNs",
+          "parentId": "LkSuXm_G21G7F",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "景玉谷"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "gBbVibvK22Eu": {
+          "id": "gBbVibvK22Eu",
+          "parentId": "V4pyCw_N3HfvJ",
           "align": "left",
           "kind": "text",
           "text": {
@@ -183,142 +527,10 @@
             "kind": "body"
           }
         },
-        "l0GbzKHvFS7s": {
-          "id": "l0GbzKHvFS7s",
-          "parentId": "document-id",
-          "kind": "table",
-          "table": {
-            "id": "l0GbzKHvFS7s",
-            "rowIds": [
-              "bVyc9v",
-              "L9SIgT",
-              "uwMfaC"
-            ],
-            "columnIds": [
-              "1FzEeA",
-              "s2ulDl",
-              "RD0E1d"
-            ],
-            "rowMap": {
-              "L9SIgT": {
-                "id": "L9SIgT"
-              },
-              "bVyc9v": {
-                "id": "bVyc9v"
-              },
-              "uwMfaC": {
-                "id": "uwMfaC"
-              }
-            },
-            "columnMap": {
-              "1FzEeA": {
-                "id": "1FzEeA",
-                "width": 117
-              },
-              "RD0E1d": {
-                "id": "RD0E1d",
-                "width": 245
-              },
-              "s2ulDl": {
-                "id": "s2ulDl",
-                "width": 798
-              }
-            },
-            "cellMap": {
-              "L9SIgT_1FzEeA": {
-                "id": "L9SIgT_1FzEeA",
-                "childIds": [
-                  "mpNvE0ayJUmc"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "L9SIgT_s2ulDl": {
-                "id": "L9SIgT_s2ulDl",
-                "childIds": [
-                  "FwSeWed4E6TR"
-                ],
-                "rowSpan": "1",
-                "colSpan": "2",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "bVyc9v_1FzEeA": {
-                "id": "bVyc9v_1FzEeA",
-                "childIds": [
-                  "BkJM8ZiifhO2"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "bVyc9v_s2ulDl": {
-                "id": "bVyc9v_s2ulDl",
-                "childIds": [
-                  "50tnuWa3JRYI"
-                ],
-                "rowSpan": "1",
-                "colSpan": "2",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "uwMfaC_1FzEeA": {
-                "id": "uwMfaC_1FzEeA",
-                "childIds": [
-                  "FImh3h7biPTM"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "uwMfaC_RD0E1d": {
-                "id": "uwMfaC_RD0E1d",
-                "childIds": [
-                  "n6oSpoGG8DRn"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "uwMfaC_s2ulDl": {
-                "id": "uwMfaC_s2ulDl",
-                "childIds": [
-                  "HVKvtmoJfwxg"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              }
-            },
-            "description": "",
-            "rowHeader": true,
-            "colHeader": false
-          }
-        },
-        "mpNvE0ayJUmc": {
-          "id": "mpNvE0ayJUmc",
-          "parentId": "L9SIgT_1FzEeA",
-          "align": "center",
+        "gRQWL5D1M6Uw": {
+          "id": "gRQWL5D1M6Uw",
+          "parentId": "LkSuXm_N3HfvJ",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
@@ -326,16 +538,22 @@
                 "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "8"
+                  "text": "矿物纯度"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "提升。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "n6oSpoGG8DRn": {
-          "id": "n6oSpoGG8DRn",
-          "parentId": "uwMfaC_RD0E1d",
+        "jSoKvIgxxNg8": {
+          "id": "jSoKvIgxxNg8",
+          "parentId": "pb9DEi_d0VoQn",
           "align": "center",
           "kind": "text",
           "text": {
@@ -343,7 +561,67 @@
               {
                 "kind": "text",
                 "text": {
-                  "text": "850万→960万"
+                  "text": "8→9"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "rUML8kuTNh9T": {
+          "id": "rUML8kuTNh9T",
+          "parentId": "pb9DEi_N3HfvJ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "作战设备"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "可放置数量提升。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "wQC7PRKnQ8UK": {
+          "id": "wQC7PRKnQ8UK",
+          "parentId": "V4pyCw_G21G7F",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "x7yyd2wn2O72": {
+          "id": "x7yyd2wn2O72",
+          "parentId": "nghHGB_d0VoQn",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "16→20"
                 }
               }
             ],

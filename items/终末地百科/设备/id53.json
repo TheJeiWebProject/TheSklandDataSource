@@ -4,7 +4,7 @@
   },
   "name": "精炼炉",
   "icon": "https://bbs.hycdn.cn/image/2025/12/17/2696356/ec2b25b10f44f6b5f4d6ec72f86cc09e.png",
-  "description": "获取方式:\n在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [源矿x5]→ [精炼炉x1]\n在工业计划-基础工业一期研究基础精炼获取。\n\n用途:\n精炼炉是基础生产类型的机器，可以用于加工固体。\n精炼炉可放置在协议核心或次级核心范围外。\n精炼炉需要电力维持运转，1个精炼炉耗电功率值为5。\n放置精炼炉需要长3格、宽3格的可用空地。\n精炼炉支持以下合成配方。\n基础模式 |  | \n原料需求 | 制作产物 | 消耗时长\n[蓝铁矿x1] | [蓝铁块x1] | 2s\n[紫晶矿x1] | [紫晶纤维x1] | 2s\n[源矿x1] | [晶体外壳x1] | 2s\n[致密晶体粉末x1] | [密制晶体x1] | 2s\n[致密蓝铁粉末x1] | [钢块x1] | 2s\n[高晶粉末x1] | [高晶纤维x1] | 2s\n[致密碳粉末x1] | [稳定碳块x1] | 2s\n[致密源石粉末x1] | [致密晶体粉末x1] | 2s\n[荞花x1] | [碳块x1] | 2s",
+  "description": "获取方式:\n在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [源矿x5]→ [精炼炉x1]\n在工业计划-基础工业一期研究基础精炼获取。\n\n用途:\n精炼炉是基础生产类型的机器，可以用于加工固体。\n精炼炉可放置在协议核心或次级核心范围外。\n精炼炉需要电力维持运转，1个精炼炉耗电功率值为5。\n精炼炉在研究工业计划-武陵工业二期的液辅熔炼后可解锁液体模式。\n放置精炼炉需要长3格、宽3格的可用空地。\n精炼炉支持以下合成配方。",
   "rarity": {
     "stars": 1,
     "label": "1星",
@@ -21,13 +21,84 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774319202",
+    "timestamp": "1774405896",
     "data": {
       "item": {
         "itemId": "53",
         "document": {
           "documentMap": {
-            "KKfy2URT": {
+            "3uE5ly1X": {
+              "id": "document-id",
+              "blockIds": [
+                "E1hNMw",
+                "gQ7KDY",
+                "5iumDx"
+              ],
+              "blockMap": {
+                "5iumDx": {
+                  "id": "5iumDx",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "E1hNMw": {
+                  "id": "E1hNMw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gQ7KDY": {
+                  "id": "gQ7KDY",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-基础工业一期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "基础精炼"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "AJAnGaEE": {
               "id": "document-id",
               "blockIds": [
                 "9VmF2q",
@@ -193,7 +264,313 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "MSFeq7YN": {
+            "FFN3L0Ru": {
+              "id": "document-id",
+              "blockIds": [
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
+              ],
+              "blockMap": {
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XbWEoo": {
+                  "id": "XbWEoo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "精炼炉"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "I5UHLaq3": {
+              "id": "document-id",
+              "blockIds": [
+                "1WTlpz",
+                "QVMU9x",
+                "044sIK",
+                "o0yABL",
+                "zARE28tIrsSD",
+                "c2ITB9"
+              ],
+              "blockMap": {
+                "044sIK": {
+                  "id": "044sIK",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "精炼炉"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可放置在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围外。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "1WTlpz": {
+                  "id": "1WTlpz",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QVMU9x": {
+                  "id": "QVMU9x",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "精炼炉"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "是基础生产类型的机器，可以用于加工固体。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "c2ITB9": {
+                  "id": "c2ITB9",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "o0yABL": {
+                  "id": "o0yABL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "精炼炉"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要电力维持运转，1个"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "精炼炉"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "耗电功率值为5。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zARE28tIrsSD": {
+                  "id": "zARE28tIrsSD",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "精炼炉"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在研究"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-武陵工业二期"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "液辅熔炼"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可解锁"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "液体模式"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "q4rHGdNs": {
               "id": "document-id",
               "blockIds": [
                 "xCzIfj",
@@ -1738,9 +2115,19 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "赤铜矿（1） + 清水（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1127",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "381",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -3005,9 +3392,19 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "赤铜块（1） + 污水（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1233",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1162",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -3178,311 +3575,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "nIab1qVQ": {
-              "id": "document-id",
-              "blockIds": [
-                "1WTlpz",
-                "QVMU9x",
-                "044sIK",
-                "o0yABL",
-                "c2ITB9"
-              ],
-              "blockMap": {
-                "044sIK": {
-                  "id": "044sIK",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "精炼炉"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "可放置在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "次级核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围外。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "1WTlpz": {
-                  "id": "1WTlpz",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QVMU9x": {
-                  "id": "QVMU9x",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "精炼炉"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "是基础生产类型的机器，可以用于加工固体。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "c2ITB9": {
-                  "id": "c2ITB9",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "o0yABL": {
-                  "id": "o0yABL",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "精炼炉"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要电力维持运转，1个"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "精炼炉"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "耗电功率值为5。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "wvSsFkdq": {
-              "id": "document-id",
-              "blockIds": [
-                "E1hNMw",
-                "gQ7KDY",
-                "5iumDx"
-              ],
-              "blockMap": {
-                "5iumDx": {
-                  "id": "5iumDx",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "E1hNMw": {
-                  "id": "E1hNMw",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gQ7KDY": {
-                  "id": "gQ7KDY",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "工业计划-基础工业一期"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "研究"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "基础精炼"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "xjBb3Bow": {
-              "id": "document-id",
-              "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
-              ],
-              "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "XbWEoo": {
-                  "id": "XbWEoo",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "放置"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "精炼炉"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "需要长"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格、宽"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格的可用空地。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "k7oiwY": {
-                  "id": "k7oiwY",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -3535,7 +3627,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "xjBb3Bow",
+                  "content": "FFN3L0Ru",
                   "audioList": []
                 }
               }
@@ -3547,7 +3639,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "KKfy2URT",
+                  "content": "AJAnGaEE",
                   "audioList": []
                 }
               }
@@ -3559,7 +3651,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "MSFeq7YN",
+                  "content": "q4rHGdNs",
                   "audioList": []
                 }
               }
@@ -3571,7 +3663,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "nIab1qVQ",
+                  "content": "I5UHLaq3",
                   "audioList": []
                 }
               }
@@ -3583,7 +3675,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "wvSsFkdq",
+                  "content": "3uE5ly1X",
                   "audioList": []
                 }
               }
@@ -3857,7 +3949,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767098848",
-        "lastAuditPassedAt": "1773401894",
+        "lastAuditPassedAt": "1774333404",
         "tagIds": [
           "10001",
           "10309",

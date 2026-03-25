@@ -4,7 +4,7 @@
   },
   "name": "“汤汤券”",
   "icon": "https://bbs.hycdn.cn/image/common/20260216/203953/6992bfd409128d45e0659459_3eac6ad0.png",
-  "description": "获取方式:\n冒险探索获取。\n紧要任务[158]前往武陵城中，在景玉谷-踩道入口的大门前与[汤汤]对话后获取。\n\n用途:\n用于推进任务。\n紧要任务阋墙中，在清波寨-祖泉推进特定剧情并击败阮一后，会将贵重品库中的[“汤汤券”x1]替换为被打湿的“汤汤券”（1）。",
+  "description": "获取方式:\n冒险探索获取。\n紧要任务[第二章 - 进程Ⅰ - 前往武陵城]中，在景玉谷-踩道入口的大门前与[汤汤]对话后获取。\n\n用途:\n用于推进任务。\n紧要任务阋墙中，在清波寨-祖泉推进特定剧情并击败阮一后，会将贵重品库中的[“汤汤券”x1]替换为[被打湿的“汤汤券”x1]。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774321740",
+    "timestamp": "1774408320",
     "data": {
       "item": {
         "itemId": "1056",
         "document": {
           "documentMap": {
-            "1iFQTWmm": {
+            "5li6lHTc": {
               "id": "document-id",
               "blockIds": [
                 "c7vL0H8RpW1B",
@@ -128,18 +128,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "被打湿的“汤汤券”"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1195",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（1）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -189,7 +189,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "uehRFPsg": {
+            "SO5rQgD2": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -271,17 +271,9 @@
                       {
                         "kind": "entry",
                         "entry": {
-                          "id": "158",
+                          "id": "1267",
                           "showType": "link-imgText",
                           "count": "0"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "前往武陵城"
                         }
                       },
                       {
@@ -365,7 +357,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "1iFQTWmm",
+                  "content": "5li6lHTc",
                   "audioList": []
                 }
               }
@@ -377,7 +369,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "uehRFPsg",
+                  "content": "SO5rQgD2",
                   "audioList": []
                 }
               }
@@ -616,7 +608,7 @@
         },
         "status": 2,
         "publishedAtTs": "1770030433",
-        "lastAuditPassedAt": "1773326559",
+        "lastAuditPassedAt": "1774344715",
         "tagIds": [
           "10005",
           "10330",

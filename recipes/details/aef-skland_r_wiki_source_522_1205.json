@@ -1,0 +1,198 @@
+{
+  "id": "aef-skland:r/wiki_source_522/1205",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_138",
+      "amount": 11
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_522",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "frocjL",
+        "sQ5KNg",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "frocjL": {
+          "id": "frocjL",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "完成简制手册内容获取配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "n0M8h1": {
+          "id": "n0M8h1",
+          "parentId": "GcvhnK",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "138",
+                  "showType": "link-imgText",
+                  "count": "10"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "升级"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "小蜜虫布丁。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "sQ5KNg": {
+          "id": "sQ5KNg",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "sQ5KNg",
+            "itemIds": [
+              "795Xzs",
+              "GcvhnK"
+            ],
+            "itemMap": {
+              "795Xzs": {
+                "id": "795Xzs",
+                "childIds": [
+                  "w36E7d"
+                ]
+              },
+              "GcvhnK": {
+                "id": "GcvhnK",
+                "childIds": [
+                  "n0M8h1"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "w36E7d": {
+          "id": "w36E7d",
+          "parentId": "795Xzs",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "138",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中领取小蜜虫布丁的配方。获取配方后即可通过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "简易制作"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "合成小蜜虫布丁。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

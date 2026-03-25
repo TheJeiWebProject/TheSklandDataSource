@@ -1,0 +1,215 @@
+{
+  "id": "aef-skland:r/wiki_usage_1091/2539",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1091",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_11",
+      "amount": 1
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_131",
+      "amount": 1
+    },
+    "out3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_4",
+      "amount": 1
+    },
+    "out4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_24",
+      "amount": 1
+    },
+    "out5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_130",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "VYvm4xMzKxg4",
+        "lULtlpM4X8GR",
+        "vt9p4PBkzwhf",
+        "E4g1PRbHFK8B",
+        "DoLNflNTkSKu"
+      ],
+      "blockMap": {
+        "DoLNflNTkSKu": {
+          "id": "DoLNflNTkSKu",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "E4g1PRbHFK8B": {
+          "id": "E4g1PRbHFK8B",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "11",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "131",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "4",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "24",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "130",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Shh0c9L39sZQ": {
+          "id": "Shh0c9L39sZQ",
+          "parentId": "PMQv0kxhAsmB",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在贵重品库中使用"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1091",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "并从以下六星干员中选择一位，可以获得其相应的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "招募合同"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "VYvm4xMzKxg4": {
+          "id": "VYvm4xMzKxg4",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "lULtlpM4X8GR": {
+          "id": "lULtlpM4X8GR",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在特定范围内调用一位六星干员。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "vt9p4PBkzwhf": {
+          "id": "vt9p4PBkzwhf",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "vt9p4PBkzwhf",
+            "itemIds": [
+              "PMQv0kxhAsmB"
+            ],
+            "itemMap": {
+              "PMQv0kxhAsmB": {
+                "id": "PMQv0kxhAsmB",
+                "childIds": [
+                  "Shh0c9L39sZQ"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

@@ -1,0 +1,70 @@
+{
+  "id": "aef-skland:r/wiki_source_378/1005",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_378",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "LXY1iB",
+        "9bzHRe"
+      ],
+      "blockMap": {
+        "9bzHRe": {
+          "id": "9bzHRe",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_tertiary",
+                "kind": "text",
+                "text": {
+                  "text": "“能工巧匠”在必要时能够将中容电池改造为爆破性武器。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "LXY1iB": {
+          "id": "LXY1iB",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "通过设备封装获得的电池，可用于发电、设备充能或与据点进行交易。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

@@ -4,7 +4,7 @@
   },
   "name": "被打湿的“汤汤券”",
   "icon": "https://bbs.hycdn.cn/image/common/20260312/203953/69b258768beddd4c8ef75b71_13673ac9.png",
-  "description": "获取方式:\n冒险探索获取。\n紧要任务阋墙中，在清波寨-祖泉推进特定剧情并击败阮一后，会将贵重品库中的[“汤汤券”x1]替换为被打湿的“汤汤券”（1）。",
+  "description": "获取方式:\n冒险探索获取。\n紧要任务[第二章 - 进程Ⅲ - 旧泉涸处新潮生]中，在清波寨-祖泉击败[阮一]并推进特定剧情后，会将贵重品库中的[“汤汤券”x1]替换为[被打湿的“汤汤券”x1]。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774322051",
+    "timestamp": "1774408618",
     "data": {
       "item": {
         "itemId": "1195",
         "document": {
           "documentMap": {
-            "mBL2oUxR": {
+            "6WtezVka": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -72,11 +72,11 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "阋墙"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1246",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
@@ -98,22 +98,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "推进特定剧情并击败"
+                          "text": "击败"
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "阮一"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1230",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "后，会将贵重品库中的"
+                          "text": "并推进特定剧情后，会将贵重品库中的"
                         }
                       },
                       {
@@ -132,18 +132,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "被打湿的“汤汤券”"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1195",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（1）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -215,7 +215,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "mBL2oUxR",
+                  "content": "6WtezVka",
                   "audioList": []
                 }
               }
@@ -453,7 +453,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773397443",
-        "lastAuditPassedAt": "1773326547",
+        "lastAuditPassedAt": "1774344720",
         "tagIds": [
           "10005",
           "10330",

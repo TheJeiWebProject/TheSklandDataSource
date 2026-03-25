@@ -4,7 +4,7 @@
   },
   "name": "原型机零件",
   "icon": "https://bbs.hycdn.cn/image/2026/01/22/1492764/11f33bdcf4724d6683323b0a405d2a52.png",
-  "description": "获取方式:\n冒险探索获取。\n紧要任务[151]重整旗鼓中，前往枢纽区-源石副产物中心与NPC和  对话后获取。\n\n用途:\n用于用于提交紧要任务目标。\n获得原型机零件后前往枢纽区-集成核心区域交付至NPC  处以推进任务。",
+  "description": "获取方式:\n冒险探索获取。\n紧要任务[第一章 - 进程Ⅰ - 重整旗鼓]中，前往枢纽区-源石副产物中心与NPC和  对话后获取。\n\n用途:\n用于用于提交紧要任务目标。\n获得原型机零件后前往枢纽区-集成核心区域交付至NPC  处以推进任务。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,156 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774321733",
+    "timestamp": "1774408312",
     "data": {
       "item": {
         "itemId": "1053",
         "document": {
           "documentMap": {
-            "OqJeMdID": {
+            "bi9sntRB": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "JnTHOjatTYeH",
+                "gAi5dtFOHMVX",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "1Yniu97nlVaq": {
+                  "id": "1Yniu97nlVaq",
+                  "parentId": "8t5hEQCgqsJN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "紧要任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "689",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中，前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区-源石副产物中心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "与NPC"
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "达莉娅|源石副产物中心员工"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "和 "
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "万尼科夫|工团技术员"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " 对话后获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JnTHOjatTYeH": {
+                  "id": "JnTHOjatTYeH",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "冒险探索获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "gAi5dtFOHMVX": {
+                  "id": "gAi5dtFOHMVX",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "gAi5dtFOHMVX",
+                    "itemIds": [
+                      "8t5hEQCgqsJN"
+                    ],
+                    "itemMap": {
+                      "8t5hEQCgqsJN": {
+                        "id": "8t5hEQCgqsJN",
+                        "childIds": [
+                          "1Yniu97nlVaq"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "eUawRNyd": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -147,157 +290,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "irEI5aLz": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "JnTHOjatTYeH",
-                "gAi5dtFOHMVX",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "1Yniu97nlVaq": {
-                  "id": "1Yniu97nlVaq",
-                  "parentId": "8t5hEQCgqsJN",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "紧要任务"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "151",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "重整旗鼓"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中，前往"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "枢纽区-源石副产物中心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "与NPC"
-                        }
-                      },
-                      {
-                        "kind": "pronunciation",
-                        "pronunciation": {
-                          "content": "达莉娅|源石副产物中心员工"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "和 "
-                        }
-                      },
-                      {
-                        "kind": "pronunciation",
-                        "pronunciation": {
-                          "content": "万尼科夫|工团技术员"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": " 对话后获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "JnTHOjatTYeH": {
-                  "id": "JnTHOjatTYeH",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "冒险探索获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "gAi5dtFOHMVX": {
-                  "id": "gAi5dtFOHMVX",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "gAi5dtFOHMVX",
-                    "itemIds": [
-                      "8t5hEQCgqsJN"
-                    ],
-                    "itemMap": {
-                      "8t5hEQCgqsJN": {
-                        "id": "8t5hEQCgqsJN",
-                        "childIds": [
-                          "1Yniu97nlVaq"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -335,7 +327,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "OqJeMdID",
+                  "content": "eUawRNyd",
                   "audioList": []
                 }
               }
@@ -347,7 +339,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "irEI5aLz",
+                  "content": "bi9sntRB",
                   "audioList": []
                 }
               }
@@ -505,10 +497,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "3358404863657",
-          "nickname": "A_Pullu_Pie",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/04fd45d25fde55799b8e3df64ead6c29.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "9228422493033",
@@ -586,7 +578,7 @@
         },
         "status": 2,
         "publishedAtTs": "1769350844",
-        "lastAuditPassedAt": "1769093584",
+        "lastAuditPassedAt": "1774344666",
         "tagIds": [
           "10005",
           "10330",

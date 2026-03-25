@@ -4,7 +4,7 @@
   },
   "name": "“烙铁”发信器",
   "icon": "https://bbs.hycdn.cn/image/2026/01/24/1492764/9da4a9add8fc9631e6be01480953d680.png",
-  "description": "获取方式:\n冒险探索获取\n紧要任务[154]烙铁灼痕中，前往供能高地-源石发电站与NPC 克莱维尔 对话，并在进入实验室内击败[碾骨行刑人][碾骨伏击射手]后使用扫描功能，于任务标识处拾取。\n\n用途:\n冒险探索获取\n紧要任务[154]烙铁灼痕中，前往供能高地-源石发电站与NPC 克莱维尔 对话，并在进入实验室内击败[碾骨行刑人][碾骨伏击射手]后使用扫描功能，于任务标识处拾取。\n用于提交紧要任务目标\n将“烙铁”发信器（1）、权限钥匙卡（1）交付至NPC克劳处以推进任务。",
+  "description": "获取方式:\n冒险探索获取\n紧要任务[第一章 - 进程Ⅳ - 烙铁灼痕]中，前往供能高地-源石发电站与NPC 克莱维尔 对话，并在进入实验室内击败[碾骨行刑人][碾骨伏击射手]后使用扫描功能，于任务标识处拾取。\n\n用途:\n冒险探索获取\n紧要任务[第一章 - 进程Ⅳ - 烙铁灼痕]中，前往供能高地-源石发电站与NPC 克莱维尔 对话，并在进入实验室内击败[碾骨行刑人][碾骨伏击射手]后使用扫描功能，于任务标识处拾取。\n用于提交紧要任务目标\n将[“烙铁”发信器x1][权限钥匙卡x1]交付至NPC克劳处以推进任务。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774321766",
+    "timestamp": "1774408345",
     "data": {
       "item": {
         "itemId": "1066",
         "document": {
           "documentMap": {
-            "D3xh1p6P": {
+            "VEce8LlV": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -84,29 +84,25 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "“烙铁”发信器"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1066",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1065",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "kind": "text",
                         "text": {
-                          "text": "（1）、"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "权限钥匙卡"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "（1）交付至NPC"
+                          "text": "交付至NPC"
                         }
                       },
                       {
@@ -150,7 +146,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "jOeKjR1R": {
+            "hpJwPrD3": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -197,17 +193,9 @@
                       {
                         "kind": "entry",
                         "entry": {
-                          "id": "154",
+                          "id": "1155",
                           "showType": "link-imgText",
                           "count": "0"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "烙铁灼痕"
                         }
                       },
                       {
@@ -364,7 +352,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "D3xh1p6P",
+                  "content": "VEce8LlV",
                   "audioList": []
                 }
               }
@@ -376,7 +364,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "jOeKjR1R",
+                  "content": "hpJwPrD3",
                   "audioList": []
                 }
               }
@@ -615,7 +603,7 @@
         },
         "status": 2,
         "publishedAtTs": "1769349961",
-        "lastAuditPassedAt": "1769404854",
+        "lastAuditPassedAt": "1774344692",
         "tagIds": [
           "10005",
           "10330",

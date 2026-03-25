@@ -1,0 +1,191 @@
+{
+  "id": "aef-skland:r/wiki_source_454/1113",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_454",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取方式 / 所属区域",
+    "context": {
+      "groupTitle": "获取方式",
+      "widgetTitle": "所属区域",
+      "panelTitle": "武陵"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "LUtplL",
+        "6dYVnY",
+        "PND80WdTE0pi"
+      ],
+      "blockMap": {
+        "6dYVnY": {
+          "id": "6dYVnY",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "body"
+          }
+        },
+        "E0ULWK": {
+          "id": "E0ULWK",
+          "parentId": "uWJ4FAbb0kDk",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "LUtplL": {
+          "id": "LUtplL",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "LUtplL",
+            "itemIds": [
+              "uWJ4FAbb0kDk",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "uWJ4FAbb0kDk": {
+                "id": "uWJ4FAbb0kDk",
+                "childIds": [
+                  "E0ULWK",
+                  "PS0O3INyQizS"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "PND80WdTE0pi": {
+          "id": "PND80WdTE0pi",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "PND80WdTE0pi",
+            "itemIds": [
+              "P63UyH2icsup"
+            ],
+            "itemMap": {
+              "P63UyH2icsup": {
+                "id": "P63UyH2icsup",
+                "childIds": [
+                  "QgtnF6Gt3kFV"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "PS0O3INyQizS": {
+          "id": "PS0O3INyQizS",
+          "parentId": "uWJ4FAbb0kDk",
+          "kind": "list",
+          "list": {
+            "id": "PS0O3INyQizS",
+            "itemIds": [
+              "oZQfR0z7NWRT"
+            ],
+            "itemMap": {
+              "oZQfR0z7NWRT": {
+                "id": "oZQfR0z7NWRT",
+                "childIds": [
+                  "gqxvbTLHYaOr"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "QgtnF6Gt3kFV": {
+          "id": "QgtnF6Gt3kFV",
+          "parentId": "P63UyH2icsup",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "注意："
+                }
+              },
+              {
+                "color": "light_text_tertiary",
+                "kind": "text",
+                "text": {
+                  "text": "通过预刻写获得的基质必定同时出现三类属性词条"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "gqxvbTLHYaOr": {
+          "id": "gqxvbTLHYaOr",
+          "parentId": "oZQfR0z7NWRT",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·清波寨"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "hYoSQH": {
+          "id": "hYoSQH",
+          "parentId": "J6PClp",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "敌人掉落"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

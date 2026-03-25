@@ -1,0 +1,88 @@
+{
+  "id": "aef-skland:r/wiki_source_962/1670",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_962",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "7xFVr3",
+        "xkDlri",
+        "dGgY45"
+      ],
+      "blockMap": {
+        "7xFVr3": {
+          "id": "7xFVr3",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "dGgY45": {
+          "id": "dGgY45",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "动火用储能匣也可以被视为一个微型发电站，它能够有效利用环境高温，为使用者提供能源。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "xkDlri": {
+          "id": "xkDlri",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-耐火性极强的装备。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

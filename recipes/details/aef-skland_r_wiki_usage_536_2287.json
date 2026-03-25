@@ -1,0 +1,281 @@
+{
+  "id": "aef-skland:r/wiki_usage_536/2287",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_536",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "POJC5u",
+        "m7VnlH",
+        "Jefg56",
+        "IRysK1",
+        "PbU9SV",
+        "4xd2UG",
+        "czI8jF",
+        "VLHJm1",
+        "Vn5hvf",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "4xd2UG": {
+          "id": "4xd2UG",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "4xd2UG",
+            "itemIds": [
+              "toYPys"
+            ],
+            "itemMap": {
+              "toYPys": {
+                "id": "toYPys",
+                "childIds": [
+                  "tFNOSY"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "91w3Ju": {
+          "id": "91w3Ju",
+          "parentId": "kwPhM2",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每装箱"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "536",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要20点货箱容量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "IRysK1": {
+          "id": "IRysK1",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "1"
+          }
+        },
+        "Jefg56": {
+          "id": "Jefg56",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Jefg56",
+            "itemIds": [
+              "Jkmet8"
+            ],
+            "itemMap": {
+              "Jkmet8": {
+                "id": "Jkmet8",
+                "childIds": [
+                  "Qh4QA3"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "PbU9SV": {
+          "id": "PbU9SV",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "干员装备为战术物品时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Qh4QA3": {
+          "id": "Qh4QA3",
+          "parentId": "Jkmet8",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "使用后，立刻使处于无法战斗状态的指定单位复苏，并回复"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "30%"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "最大生命值。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "VLHJm1": {
+          "id": "VLHJm1",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于仓储节点货物装箱。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Vn5hvf": {
+          "id": "Vn5hvf",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Vn5hvf",
+            "itemIds": [
+              "kwPhM2"
+            ],
+            "itemMap": {
+              "kwPhM2": {
+                "id": "kwPhM2",
+                "childIds": [
+                  "91w3Ju"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "czI8jF": {
+          "id": "czI8jF",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "m7VnlH": {
+          "id": "m7VnlH",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "干员直接使用时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "tFNOSY": {
+          "id": "tFNOSY",
+          "parentId": "toYPys",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "当队伍中有其它干员陷入无法战斗状态时自动对其使用，单场战斗中最多可用"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "2"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "次。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

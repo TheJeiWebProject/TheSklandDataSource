@@ -13,13 +13,534 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774321529",
+    "timestamp": "1774408119",
     "data": {
       "item": {
         "itemId": "970",
         "document": {
           "documentMap": {
-            "EcTQcSLP": {
+            "JRBGZRiv": {
+              "id": "document-id",
+              "blockIds": [
+                "vJGqcm",
+                "TA4Lj9"
+              ],
+              "blockMap": {
+                "TA4Lj9": {
+                  "id": "TA4Lj9",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "当装备者触发暴击后，5秒内"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+5%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "攻击力，该效果最多叠加5层。层数叠满后，额外"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+5%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "暴击率，该效果无法叠加。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vJGqcm": {
+                  "id": "vJGqcm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3件套组效果"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "：装备者暴击率"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+5%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "Q7OIisHJ": {
+              "id": "document-id",
+              "blockIds": [
+                "filqgv",
+                "arRTy0",
+                "SSuxWI",
+                "IkqJpZ",
+                "2VvfgT",
+                "kU5KYi",
+                "3aojrg",
+                "Gzas4g",
+                "DOSCig"
+              ],
+              "blockMap": {
+                "2VvfgT": {
+                  "id": "2VvfgT",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "消耗材料"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "3aojrg": {
+                  "id": "3aojrg",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "4lk6K0": {
+                  "id": "4lk6K0",
+                  "parentId": "C0Cp7C_jd23Jh",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "战技伤害加成"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5LH2RH": {
+                  "id": "5LH2RH",
+                  "parentId": "Vcm6ZW_1N5OOE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+65"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9aV9xN": {
+                  "id": "9aV9xN",
+                  "parentId": "C0Cp7C_1N5OOE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+34.5%"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DOSCig": {
+                  "id": "DOSCig",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "Gzas4g": {
+                  "id": "Gzas4g",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "装备模板获取方式："
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "开启装备模板箱"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "可获取装备制造模板"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "IkqJpZ": {
+                  "id": "IkqJpZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "Ma0iOR": {
+                  "id": "Ma0iOR",
+                  "parentId": "C0Cp7C_4JcmT9",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "力量"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "MtsrP0": {
+                  "id": "MtsrP0",
+                  "parentId": "Vcm6ZW_jd23Jh",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "敏捷"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SSuxWI": {
+                  "id": "SSuxWI",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "SSuxWI",
+                    "rowIds": [
+                      "Vcm6ZW",
+                      "C0Cp7C"
+                    ],
+                    "columnIds": [
+                      "4JcmT9",
+                      "oMw5hU",
+                      "jd23Jh",
+                      "1N5OOE"
+                    ],
+                    "rowMap": {
+                      "C0Cp7C": {
+                        "id": "C0Cp7C"
+                      },
+                      "Vcm6ZW": {
+                        "id": "Vcm6ZW"
+                      }
+                    },
+                    "columnMap": {
+                      "1N5OOE": {
+                        "id": "1N5OOE",
+                        "width": 290
+                      },
+                      "4JcmT9": {
+                        "id": "4JcmT9",
+                        "width": 290
+                      },
+                      "jd23Jh": {
+                        "id": "jd23Jh",
+                        "width": 290
+                      },
+                      "oMw5hU": {
+                        "id": "oMw5hU",
+                        "width": 290
+                      }
+                    },
+                    "cellMap": {
+                      "C0Cp7C_1N5OOE": {
+                        "id": "C0Cp7C_1N5OOE",
+                        "childIds": [
+                          "9aV9xN"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "C0Cp7C_4JcmT9": {
+                        "id": "C0Cp7C_4JcmT9",
+                        "childIds": [
+                          "Ma0iOR"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "C0Cp7C_jd23Jh": {
+                        "id": "C0Cp7C_jd23Jh",
+                        "childIds": [
+                          "4lk6K0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "C0Cp7C_oMw5hU": {
+                        "id": "C0Cp7C_oMw5hU",
+                        "childIds": [
+                          "WlU5NK"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Vcm6ZW_1N5OOE": {
+                        "id": "Vcm6ZW_1N5OOE",
+                        "childIds": [
+                          "5LH2RH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Vcm6ZW_4JcmT9": {
+                        "id": "Vcm6ZW_4JcmT9",
+                        "childIds": [
+                          "lHqNnu"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Vcm6ZW_jd23Jh": {
+                        "id": "Vcm6ZW_jd23Jh",
+                        "childIds": [
+                          "MtsrP0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Vcm6ZW_oMw5hU": {
+                        "id": "Vcm6ZW_oMw5hU",
+                        "childIds": [
+                          "qweP0B"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "WlU5NK": {
+                  "id": "WlU5NK",
+                  "parentId": "C0Cp7C_oMw5hU",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+43"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "arRTy0": {
+                  "id": "arRTy0",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "装备属性"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "filqgv": {
+                  "id": "filqgv",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "kU5KYi": {
+                  "id": "kU5KYi",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "382",
+                          "showType": "card-big",
+                          "count": "8000"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "480",
+                          "showType": "card-big",
+                          "count": "50"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lHqNnu": {
+                  "id": "lHqNnu",
+                  "parentId": "Vcm6ZW_4JcmT9",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "防御力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qweP0B": {
+                  "id": "qweP0B",
+                  "parentId": "Vcm6ZW_oMw5hU",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+42"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "W3Tzt1u3": {
               "id": "document-id",
               "blockIds": [
                 "RYUGsX",
@@ -1517,528 +2038,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "NOPl9zNZ": {
-              "id": "document-id",
-              "blockIds": [
-                "vJGqcm",
-                "TA4Lj9"
-              ],
-              "blockMap": {
-                "TA4Lj9": {
-                  "id": "TA4Lj9",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "当装备者触发暴击后，5秒内"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+5%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "攻击力，该效果最多叠加5层。层数叠满后，额外"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+5%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "暴击率，该效果无法叠加。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "vJGqcm": {
-                  "id": "vJGqcm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3件套组效果"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "：装备者暴击率"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+5%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "aBGmXYv1": {
-              "id": "document-id",
-              "blockIds": [
-                "filqgv",
-                "arRTy0",
-                "SSuxWI",
-                "IkqJpZ",
-                "2VvfgT",
-                "kU5KYi",
-                "3aojrg",
-                "Gzas4g",
-                "DOSCig"
-              ],
-              "blockMap": {
-                "2VvfgT": {
-                  "id": "2VvfgT",
-                  "parentId": "document-id",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "消耗材料"
-                        }
-                      }
-                    ],
-                    "kind": "heading3"
-                  }
-                },
-                "3aojrg": {
-                  "id": "3aojrg",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "3"
-                  }
-                },
-                "4lk6K0": {
-                  "id": "4lk6K0",
-                  "parentId": "C0Cp7C_jd23Jh",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "战技伤害加成"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "5LH2RH": {
-                  "id": "5LH2RH",
-                  "parentId": "Vcm6ZW_1N5OOE",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "+65"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "9aV9xN": {
-                  "id": "9aV9xN",
-                  "parentId": "C0Cp7C_1N5OOE",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "+34.5%"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "DOSCig": {
-                  "id": "DOSCig",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "Gzas4g": {
-                  "id": "Gzas4g",
-                  "parentId": "document-id",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "装备模板获取方式："
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "开启装备模板箱"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "可获取装备制造模板"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "IkqJpZ": {
-                  "id": "IkqJpZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "Ma0iOR": {
-                  "id": "Ma0iOR",
-                  "parentId": "C0Cp7C_4JcmT9",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "力量"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "MtsrP0": {
-                  "id": "MtsrP0",
-                  "parentId": "Vcm6ZW_jd23Jh",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "敏捷"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "SSuxWI": {
-                  "id": "SSuxWI",
-                  "parentId": "document-id",
-                  "kind": "table",
-                  "table": {
-                    "id": "SSuxWI",
-                    "rowIds": [
-                      "Vcm6ZW",
-                      "C0Cp7C"
-                    ],
-                    "columnIds": [
-                      "4JcmT9",
-                      "oMw5hU",
-                      "jd23Jh",
-                      "1N5OOE"
-                    ],
-                    "rowMap": {
-                      "C0Cp7C": {
-                        "id": "C0Cp7C"
-                      },
-                      "Vcm6ZW": {
-                        "id": "Vcm6ZW"
-                      }
-                    },
-                    "columnMap": {
-                      "1N5OOE": {
-                        "id": "1N5OOE",
-                        "width": 290
-                      },
-                      "4JcmT9": {
-                        "id": "4JcmT9",
-                        "width": 290
-                      },
-                      "jd23Jh": {
-                        "id": "jd23Jh",
-                        "width": 290
-                      },
-                      "oMw5hU": {
-                        "id": "oMw5hU",
-                        "width": 290
-                      }
-                    },
-                    "cellMap": {
-                      "C0Cp7C_1N5OOE": {
-                        "id": "C0Cp7C_1N5OOE",
-                        "childIds": [
-                          "9aV9xN"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "C0Cp7C_4JcmT9": {
-                        "id": "C0Cp7C_4JcmT9",
-                        "childIds": [
-                          "Ma0iOR"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "C0Cp7C_jd23Jh": {
-                        "id": "C0Cp7C_jd23Jh",
-                        "childIds": [
-                          "4lk6K0"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "C0Cp7C_oMw5hU": {
-                        "id": "C0Cp7C_oMw5hU",
-                        "childIds": [
-                          "WlU5NK"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "Vcm6ZW_1N5OOE": {
-                        "id": "Vcm6ZW_1N5OOE",
-                        "childIds": [
-                          "5LH2RH"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "Vcm6ZW_4JcmT9": {
-                        "id": "Vcm6ZW_4JcmT9",
-                        "childIds": [
-                          "lHqNnu"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "Vcm6ZW_jd23Jh": {
-                        "id": "Vcm6ZW_jd23Jh",
-                        "childIds": [
-                          "MtsrP0"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "Vcm6ZW_oMw5hU": {
-                        "id": "Vcm6ZW_oMw5hU",
-                        "childIds": [
-                          "qweP0B"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      }
-                    },
-                    "description": "",
-                    "rowHeader": false,
-                    "colHeader": false
-                  }
-                },
-                "WlU5NK": {
-                  "id": "WlU5NK",
-                  "parentId": "C0Cp7C_oMw5hU",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "+43"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "arRTy0": {
-                  "id": "arRTy0",
-                  "parentId": "document-id",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "装备属性"
-                        }
-                      }
-                    ],
-                    "kind": "heading3"
-                  }
-                },
-                "filqgv": {
-                  "id": "filqgv",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "kU5KYi": {
-                  "id": "kU5KYi",
-                  "parentId": "document-id",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "382",
-                          "showType": "card-big",
-                          "count": "8000"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "480",
-                          "showType": "card-big",
-                          "count": "50"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "lHqNnu": {
-                  "id": "lHqNnu",
-                  "parentId": "Vcm6ZW_4JcmT9",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "防御力"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "qweP0B": {
-                  "id": "qweP0B",
-                  "parentId": "Vcm6ZW_oMw5hU",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "+42"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "nXeS3Kcr": {
+            "Z1jqHWxP": {
               "id": "document-id",
               "blockIds": [
                 "gXBxZD"
@@ -2287,7 +2287,7 @@
                     "name": "M.I.警用装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/12/28/194389/65294d17adc5c8dcb624e21690875806.png",
-                    "description": "NOPl9zNZ"
+                    "description": "JRBGZRiv"
                   },
                   "content": "",
                   "audioList": []
@@ -2301,7 +2301,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "aBGmXYv1",
+                  "content": "Q7OIisHJ",
                   "audioList": []
                 }
               }
@@ -2313,7 +2313,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "nXeS3Kcr",
+                  "content": "Z1jqHWxP",
                   "audioList": []
                 }
               }
@@ -2325,7 +2325,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "EcTQcSLP",
+                  "content": "W3Tzt1u3",
                   "audioList": []
                 }
               }
@@ -2647,6 +2647,240 @@
               "name": "装备套组",
               "type": 1,
               "value": ""
+            },
+            {
+              "id": "10371",
+              "children": [
+                {
+                  "id": "10377",
+                  "children": [],
+                  "name": "力量",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10376",
+                  "children": [],
+                  "name": "敏捷",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10375",
+                  "children": [],
+                  "name": "智识",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10373",
+                  "children": [],
+                  "name": "意志",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10374",
+                  "children": [],
+                  "name": "全能力",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "能力值",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10397",
+              "children": [
+                {
+                  "id": "10401",
+                  "children": [],
+                  "name": "力量",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10400",
+                  "children": [],
+                  "name": "敏捷",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10402",
+                  "children": [],
+                  "name": "智识",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10399",
+                  "children": [],
+                  "name": "意志",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10398",
+                  "children": [],
+                  "name": "全能力",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10403",
+                  "children": [],
+                  "name": "无",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "能力值",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10372",
+              "children": [
+                {
+                  "id": "10380",
+                  "children": [],
+                  "name": "攻击力",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10378",
+                  "children": [],
+                  "name": "生命值",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10386",
+                  "children": [],
+                  "name": "暴击率",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10382",
+                  "children": [],
+                  "name": "源石技艺强度",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10392",
+                  "children": [],
+                  "name": "治疗效率加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10384",
+                  "children": [],
+                  "name": "物理伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10387",
+                  "children": [],
+                  "name": "终结技充能效率",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10383",
+                  "children": [],
+                  "name": "普通攻击伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10385",
+                  "children": [],
+                  "name": "战技伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10381",
+                  "children": [],
+                  "name": "连携技伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10389",
+                  "children": [],
+                  "name": "终结技伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10393",
+                  "children": [],
+                  "name": "对失衡目标伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10395",
+                  "children": [],
+                  "name": "主能力",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10379",
+                  "children": [],
+                  "name": "法术伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10390",
+                  "children": [],
+                  "name": "寒冷和电磁伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10396",
+                  "children": [],
+                  "name": "全伤害减免",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10391",
+                  "children": [],
+                  "name": "副能力",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10394",
+                  "children": [],
+                  "name": "所有技能伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10388",
+                  "children": [],
+                  "name": "灼热和自然伤害加成",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "属性",
+              "type": 1,
+              "value": ""
             }
           ]
         },
@@ -2749,18 +2983,33 @@
             {
               "subTypeId": "10334",
               "value": "10352"
+            },
+            {
+              "subTypeId": "10371",
+              "value": "10376"
+            },
+            {
+              "subTypeId": "10372",
+              "value": "10385"
+            },
+            {
+              "subTypeId": "10397",
+              "value": "10401"
             }
           ],
           "composite": null
         },
         "status": 2,
         "publishedAtTs": "1767874600",
-        "lastAuditPassedAt": "1771604384",
+        "lastAuditPassedAt": "1774401801",
         "tagIds": [
           "10005",
+          "10385",
+          "10352",
+          "10401",
           "10236",
           "10242",
-          "10352"
+          "10376"
         ]
       }
     }

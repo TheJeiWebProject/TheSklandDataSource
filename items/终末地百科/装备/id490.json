@@ -13,51 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774320304",
+    "timestamp": "1774406947",
     "data": {
       "item": {
         "itemId": "490",
         "document": {
           "documentMap": {
-            "abTeDnUF": {
-              "id": "document-id",
-              "blockIds": [
-                "x6KahM",
-                "PoJODk"
-              ],
-              "blockMap": {
-                "PoJODk": {
-                  "id": "PoJODk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [],
-                    "kind": "body"
-                  }
-                },
-                "x6KahM": {
-                  "id": "x6KahM",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "无套组技能。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "mFGyJMmZ": {
+            "VoTMQzeq": {
               "id": "document-id",
               "blockIds": [
                 "Wl4VEJ",
@@ -498,7 +460,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "yeOLQoki": {
+            "ppjkLBxh": {
               "id": "document-id",
               "blockIds": [
                 "gXBxZD"
@@ -687,6 +649,44 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "rdMSUYtP": {
+              "id": "document-id",
+              "blockIds": [
+                "x6KahM",
+                "PoJODk"
+              ],
+              "blockMap": {
+                "PoJODk": {
+                  "id": "PoJODk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "x6KahM": {
+                  "id": "x6KahM",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "无套组技能。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -737,7 +737,7 @@
                     "name": "矿场γ型装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2026/01/09/194389/0ff3862375e3636613a91325e7145a59.png",
-                    "description": "abTeDnUF"
+                    "description": "rdMSUYtP"
                   },
                   "content": "",
                   "audioList": []
@@ -751,7 +751,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "mFGyJMmZ",
+                  "content": "VoTMQzeq",
                   "audioList": []
                 }
               }
@@ -763,7 +763,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "yeOLQoki",
+                  "content": "ppjkLBxh",
                   "audioList": []
                 }
               }
@@ -1085,6 +1085,240 @@
               "name": "装备套组",
               "type": 1,
               "value": ""
+            },
+            {
+              "id": "10371",
+              "children": [
+                {
+                  "id": "10377",
+                  "children": [],
+                  "name": "力量",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10376",
+                  "children": [],
+                  "name": "敏捷",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10375",
+                  "children": [],
+                  "name": "智识",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10373",
+                  "children": [],
+                  "name": "意志",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10374",
+                  "children": [],
+                  "name": "全能力",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "能力值",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10397",
+              "children": [
+                {
+                  "id": "10401",
+                  "children": [],
+                  "name": "力量",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10400",
+                  "children": [],
+                  "name": "敏捷",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10402",
+                  "children": [],
+                  "name": "智识",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10399",
+                  "children": [],
+                  "name": "意志",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10398",
+                  "children": [],
+                  "name": "全能力",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10403",
+                  "children": [],
+                  "name": "无",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "能力值",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10372",
+              "children": [
+                {
+                  "id": "10380",
+                  "children": [],
+                  "name": "攻击力",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10378",
+                  "children": [],
+                  "name": "生命值",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10386",
+                  "children": [],
+                  "name": "暴击率",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10382",
+                  "children": [],
+                  "name": "源石技艺强度",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10392",
+                  "children": [],
+                  "name": "治疗效率加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10384",
+                  "children": [],
+                  "name": "物理伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10387",
+                  "children": [],
+                  "name": "终结技充能效率",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10383",
+                  "children": [],
+                  "name": "普通攻击伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10385",
+                  "children": [],
+                  "name": "战技伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10381",
+                  "children": [],
+                  "name": "连携技伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10389",
+                  "children": [],
+                  "name": "终结技伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10393",
+                  "children": [],
+                  "name": "对失衡目标伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10395",
+                  "children": [],
+                  "name": "主能力",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10379",
+                  "children": [],
+                  "name": "法术伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10390",
+                  "children": [],
+                  "name": "寒冷和电磁伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10396",
+                  "children": [],
+                  "name": "全伤害减免",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10391",
+                  "children": [],
+                  "name": "副能力",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10394",
+                  "children": [],
+                  "name": "所有技能伤害加成",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10388",
+                  "children": [],
+                  "name": "灼热和自然伤害加成",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "属性",
+              "type": 1,
+              "value": ""
             }
           ]
         },
@@ -1187,18 +1421,33 @@
             {
               "subTypeId": "10334",
               "value": "10335"
+            },
+            {
+              "subTypeId": "10371",
+              "value": "10377"
+            },
+            {
+              "subTypeId": "10372",
+              "value": "10386"
+            },
+            {
+              "subTypeId": "10397",
+              "value": "10399"
             }
           ],
           "composite": null
         },
         "status": 2,
         "publishedAtTs": "1767850494",
-        "lastAuditPassedAt": "1769887497",
+        "lastAuditPassedAt": "1774351844",
         "tagIds": [
           "10004",
+          "10386",
+          "10335",
+          "10399",
           "10243",
           "10240",
-          "10335"
+          "10377"
         ]
       }
     }

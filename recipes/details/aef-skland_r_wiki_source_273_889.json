@@ -1,0 +1,132 @@
+{
+  "id": "aef-skland:r/wiki_source_273/889",
+  "type": "aef-skland:wiki/source/text_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_732",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_733",
+      "amount": 1
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_731",
+      "amount": 1
+    },
+    "in4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_762",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_273",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "lwm9X6",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "lwm9X6": {
+          "id": "lwm9X6",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "谷地像差"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "区域1的敌人"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "732",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "733",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "731",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "762",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "掉落。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_entry"
+  },
+  "detailLoaded": true
+}
