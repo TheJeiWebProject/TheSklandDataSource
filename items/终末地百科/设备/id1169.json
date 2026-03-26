@@ -4,7 +4,7 @@
   },
   "name": "废水处理机",
   "icon": "https://bbs.hycdn.cn/image/common/20260317/2696356/69b908c6c18f320561a5fc93_56331367.png",
-  "description": "获取方式:\n在研究完成废水处理后可获得2台废水处理机。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 赤铜零件（20）→ 废水处理机（1）\n在工业计划-武陵工业二期研究废水处理获取。\n\n用途:\n废水处理机是基础生产类型的机器，可以用于无害化污水和废液。\n废水处理机可放置在协议核心及次级核心范围外。\n废水处理机需要电力维持运转，1个废水处理机耗电功率值为50。\n放置废水处理机需要长3格、宽3格的可用空地。\n废水处理机支持以下合成配方。\n原料需求 | 制造产品 | 消耗时长\n污水（1） | 无害化处理 | 2s\n壤晶废液（1） | 无害化处理 | 2s\n惰性壤晶废液（1） | 无害化处理 | 2s",
+  "description": "获取方式:\n在研究完成废水处理后可获得2台废水处理机。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赤铜零件x20]→ [废水处理机x1]\n在工业计划-武陵工业二期研究废水处理获取。\n\n用途:\n废水处理机是基础生产类型的机器，可以用于无害化污水和废液。\n废水处理机可放置在协议核心及次级核心范围外。\n废水处理机需要电力维持运转，1个废水处理机耗电功率值为50。\n放置废水处理机需要长3格、宽3格的可用空地。\n废水处理机支持以下合成配方。\n原料需求 | 制造产品 | 消耗时长\n[污水x1] | 无害化处理 | 2s\n[壤晶废液x1] | 无害化处理 | 2s\n[惰性壤晶废液x1] | 无害化处理 | 2s",
   "rarity": {
     "stars": 3,
     "label": "3星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774408560",
+    "timestamp": "1774495469",
     "data": {
       "item": {
         "itemId": "1169",
         "document": {
           "documentMap": {
-            "LUfwbreX": {
+            "IJ1vcX6n": {
               "id": "document-id",
               "blockIds": [
                 "k7oiwY",
@@ -111,7 +111,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "VyvtnkZT": {
+            "J1gyhuMd": {
               "id": "document-id",
               "blockIds": [
                 "9VmF2q",
@@ -147,10 +147,26 @@
                   "text": {
                     "inlineElements": [
                       {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1128",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
                         "bold": true,
                         "kind": "text",
                         "text": {
-                          "text": "赤铜零件（20）→ 废水处理机（1）"
+                          "text": "→ "
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1169",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       }
                     ],
@@ -283,7 +299,78 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "fS0UPwHx": {
+            "ZZIMFW97": {
+              "id": "document-id",
+              "blockIds": [
+                "E1hNMw",
+                "gQ7KDY",
+                "5iumDx"
+              ],
+              "blockMap": {
+                "5iumDx": {
+                  "id": "5iumDx",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "E1hNMw": {
+                  "id": "E1hNMw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gQ7KDY": {
+                  "id": "gQ7KDY",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-武陵工业二期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "废水处理"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "i3c4CNMd": {
               "id": "document-id",
               "blockIds": [
                 "1WTlpz",
@@ -431,78 +518,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "xCDrLFSz": {
-              "id": "document-id",
-              "blockIds": [
-                "E1hNMw",
-                "gQ7KDY",
-                "5iumDx"
-              ],
-              "blockMap": {
-                "5iumDx": {
-                  "id": "5iumDx",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "E1hNMw": {
-                  "id": "E1hNMw",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gQ7KDY": {
-                  "id": "gQ7KDY",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "工业计划-武陵工业二期"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "研究"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "废水处理"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "y5jfpL91": {
+            "nIJsiREJ": {
               "id": "document-id",
               "blockIds": [
                 "Bun1OknbK0T6",
@@ -839,9 +855,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "污水（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1162",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -856,9 +874,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "壤晶废液（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1163",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -949,9 +969,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "惰性壤晶废液（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1164",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -994,7 +1016,7 @@
                 },
                 {
                   "id": "pID14kA8",
-                  "title": "",
+                  "title": "相关配方",
                   "size": "large"
                 }
               ]
@@ -1013,7 +1035,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "LUfwbreX",
+                  "content": "IJ1vcX6n",
                   "audioList": []
                 }
               }
@@ -1025,7 +1047,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "VyvtnkZT",
+                  "content": "J1gyhuMd",
                   "audioList": []
                 }
               }
@@ -1037,7 +1059,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "fS0UPwHx",
+                  "content": "i3c4CNMd",
                   "audioList": []
                 }
               }
@@ -1049,7 +1071,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "y5jfpL91",
+                  "content": "nIJsiREJ",
                   "audioList": []
                 }
               }
@@ -1061,7 +1083,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "xCDrLFSz",
+                  "content": "ZZIMFW97",
                   "audioList": []
                 }
               }
@@ -1335,7 +1357,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773761935",
-        "lastAuditPassedAt": "1773740463",
+        "lastAuditPassedAt": "1774453574",
         "tagIds": [
           "10003",
           "10310",

@@ -1,0 +1,321 @@
+{
+  "id": "aef-skland:r/wiki_source_520/1264",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_137",
+      "amount": 21
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_32",
+      "amount": 300
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_520",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "4E7mFI",
+        "S2PXNb",
+        "ktCiko",
+        "0VWOBU",
+        "oxcPVp",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "0VWOBU": {
+          "id": "0VWOBU",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "特定NPC商店中购买。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "4E7mFI": {
+          "id": "4E7mFI",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "完成简制手册内容获取配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "S2PXNb": {
+          "id": "S2PXNb",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "S2PXNb",
+            "itemIds": [
+              "Y1lCc6",
+              "0X5LRk"
+            ],
+            "itemMap": {
+              "0X5LRk": {
+                "id": "0X5LRk",
+                "childIds": [
+                  "dj39Dv"
+                ]
+              },
+              "Y1lCc6": {
+                "id": "Y1lCc6",
+                "childIds": [
+                  "e2ySOI"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "dj39Dv": {
+          "id": "dj39Dv",
+          "parentId": "0X5LRk",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "137",
+                  "showType": "link-imgText",
+                  "count": "20"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "升级"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "速食骨汤。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "dow9nL": {
+          "id": "dow9nL",
+          "parentId": "4tCkrq",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "阿伯莉采石场-工人休息站"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " "
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "伦纳德|杂货店老板"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 处购买，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "32",
+                  "showType": "link-imgText",
+                  "count": "300"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，存量 "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 份。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "e2ySOI": {
+          "id": "e2ySOI",
+          "parentId": "Y1lCc6",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "137",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中领取速食骨汤的配方。获取配方后即可通过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "简易制作"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "合成速食骨汤。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ktCiko": {
+          "id": "ktCiko",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "oxcPVp": {
+          "id": "oxcPVp",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "oxcPVp",
+            "itemIds": [
+              "4tCkrq"
+            ],
+            "itemMap": {
+              "4tCkrq": {
+                "id": "4tCkrq",
+                "childIds": [
+                  "dow9nL"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

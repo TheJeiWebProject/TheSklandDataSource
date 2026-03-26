@@ -4,7 +4,7 @@
   },
   "name": "仓库存取线源桩",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/279234/9985af54b1e395db5ba3555c0198c1e0.png",
-  "description": "获取方式:\n在研究完成武陵仓库存取线后可获得1台仓库存取线源桩。 在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [息壤x50] →[仓库存取线源桩x1]\n在武陵工业-武陵工业一期研究武陵仓库存取线获取。\n\n用途:\n仓库存取线源桩是仓储存取类型的机器，可以作为仓库存取线的起始点。\n仓库存取线源桩仅能放置在武陵地区的协议核心或次级核心范围内。\n仓库存取线源桩不需要电力维持运转。\n放置仓库存取线源桩需要长4格、宽4格的可用空地，且只能贴靠仓库存取线放置。",
+  "description": "获取方式:\n在研究完成武陵仓库存取线后可获得1台仓库存取线源桩。 在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [息壤x50] →[仓库存取线源桩x1]\n在武陵工业-武陵工业一期研究武陵仓库存取线获取。\n\n用途:\n仓库存取线源桩是仓储存取类型的机器，可以作为仓库存取线的起始点。\n仓库存取线源桩仅能放置在武陵地区的协议核心或次级核心范围内。\n仓库存取线源桩不需要电力维持运转。\n放置仓库存取线源桩需要长4格、宽4格的可用空地。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774407580",
+    "timestamp": "1774494444",
     "data": {
       "item": {
         "itemId": "751",
         "document": {
           "documentMap": {
-            "BKY9LY9x": {
+            "SmIF9hRu": {
               "id": "document-id",
               "blockIds": [
                 "sk3Jui",
@@ -91,7 +91,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "格的可用空地，且只能贴靠仓库存取线放置。"
+                          "text": "格的可用空地。"
                         }
                       }
                     ],
@@ -118,7 +118,145 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "IawGaV23": {
+            "dh1e8cbU": {
+              "id": "document-id",
+              "blockIds": [
+                "sL5UQm",
+                "Z9PH8w",
+                "R4E2QC",
+                "BCdqid",
+                "vJQKWl"
+              ],
+              "blockMap": {
+                "BCdqid": {
+                  "id": "BCdqid",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仓库存取线源桩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "不需要电力维持运转。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "R4E2QC": {
+                  "id": "R4E2QC",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仓库存取线源桩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仅能放置在武陵地区的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Z9PH8w": {
+                  "id": "Z9PH8w",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "仓库存取线源桩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "是仓储存取类型的机器，可以作为仓库存取线的起始点。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "sL5UQm": {
+                  "id": "sL5UQm",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "vJQKWl": {
+                  "id": "vJQKWl",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "eoqUn1gv": {
               "id": "document-id",
               "blockIds": [
                 "x89BBe",
@@ -194,7 +332,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "YzuPf685": {
+            "iTugbZ61": {
               "id": "document-id",
               "blockIds": [
                 "exxNKk",
@@ -400,144 +538,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "y0dBLyC5": {
-              "id": "document-id",
-              "blockIds": [
-                "sL5UQm",
-                "Z9PH8w",
-                "R4E2QC",
-                "BCdqid",
-                "vJQKWl"
-              ],
-              "blockMap": {
-                "BCdqid": {
-                  "id": "BCdqid",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "仓库存取线源桩"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "不需要电力维持运转。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "R4E2QC": {
-                  "id": "R4E2QC",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "仓库存取线源桩"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "仅能放置在武陵地区的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "次级核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围内。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Z9PH8w": {
-                  "id": "Z9PH8w",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "仓库存取线源桩"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "是仓储存取类型的机器，可以作为仓库存取线的起始点。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "sL5UQm": {
-                  "id": "sL5UQm",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "vJQKWl": {
-                  "id": "vJQKWl",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -585,7 +585,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "y0dBLyC5",
+                  "content": "dh1e8cbU",
                   "audioList": []
                 }
               }
@@ -597,7 +597,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "IawGaV23",
+                  "content": "eoqUn1gv",
                   "audioList": []
                 }
               }
@@ -609,7 +609,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "BKY9LY9x",
+                  "content": "SmIF9hRu",
                   "audioList": []
                 }
               }
@@ -621,7 +621,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "YzuPf685",
+                  "content": "iTugbZ61",
                   "audioList": []
                 }
               }
@@ -814,10 +814,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1939869660098",
-          "nickname": "小狗殺魚",
+          "id": "4119159299717",
+          "nickname": "曾小皮",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/fd72b2740985507fe4aa02496c93ddd5.webp"
         },
         "createdUser": {
           "id": "9769520938084",
@@ -894,7 +894,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767098137",
-        "lastAuditPassedAt": "1767639891",
+        "lastAuditPassedAt": "1774418314",
         "tagIds": [
           "10004",
           "10312",

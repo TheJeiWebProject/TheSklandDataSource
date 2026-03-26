@@ -21,114 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774406645",
+    "timestamp": "1774493477",
     "data": {
       "item": {
         "itemId": "368",
         "document": {
           "documentMap": {
-            "8hmZzK6P": {
-              "id": "document-id",
-              "blockIds": [
-                "POJC5u",
-                "VLHJm1",
-                "Vn5hvf",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "91w3Ju": {
-                  "id": "91w3Ju",
-                  "parentId": "kwPhM2",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "每装箱"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "368",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要1点货箱容量。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "POJC5u": {
-                  "id": "POJC5u",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "VLHJm1": {
-                  "id": "VLHJm1",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于仓储节点货物装箱。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Vn5hvf": {
-                  "id": "Vn5hvf",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "Vn5hvf",
-                    "itemIds": [
-                      "kwPhM2"
-                    ],
-                    "itemMap": {
-                      "kwPhM2": {
-                        "id": "kwPhM2",
-                        "childIds": [
-                          "91w3Ju"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "kiDSYFKi": {
+            "amyboMaK": {
               "id": "document-id",
               "blockIds": [
                 "bGKSuM",
@@ -317,9 +216,11 @@
                         }
                       },
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "壤晶废液（2）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1163",
+                          "showType": "card-big",
+                          "count": "2"
                         }
                       }
                     ],
@@ -664,9 +565,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "壤晶（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1232",
+                          "showType": "card-big",
+                          "count": "0"
                         }
                       },
                       {
@@ -679,6 +582,107 @@
                       }
                     ],
                     "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "jXUqkj0L": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "VLHJm1",
+                "Vn5hvf",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "91w3Ju": {
+                  "id": "91w3Ju",
+                  "parentId": "kwPhM2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "368",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要1点货箱容量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "VLHJm1": {
+                  "id": "VLHJm1",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于仓储节点货物装箱。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Vn5hvf": {
+                  "id": "Vn5hvf",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Vn5hvf",
+                    "itemIds": [
+                      "kwPhM2"
+                    ],
+                    "itemMap": {
+                      "kwPhM2": {
+                        "id": "kwPhM2",
+                        "childIds": [
+                          "91w3Ju"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
                   }
                 }
               },
@@ -721,7 +725,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "8hmZzK6P",
+                  "content": "jXUqkj0L",
                   "audioList": []
                 }
               }
@@ -733,7 +737,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "kiDSYFKi",
+                  "content": "amyboMaK",
                   "audioList": []
                 }
               }
@@ -1011,7 +1015,7 @@
         },
         "status": 2,
         "publishedAtTs": "1766383390",
-        "lastAuditPassedAt": "1774333105",
+        "lastAuditPassedAt": "1774450821",
         "tagIds": [
           "10002",
           "10260",

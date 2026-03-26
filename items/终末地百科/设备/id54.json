@@ -4,7 +4,7 @@
   },
   "name": "粉碎机",
   "icon": "https://bbs.hycdn.cn/image/2025/12/17/2696356/c550f0366de0a1445719011a7167098d.png",
-  "description": "获取方式:\n在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [晶体外壳x5]→ [粉碎机x1]\n在工业计划-基础工业一期研究基础粉碎获取。\n\n用途:\n粉碎机是基础生产类型的机器，可以用于加工固体。\n粉碎机可放置在协议核心或次级核心范围外。\n粉碎机需要电力维持运转，1个粉碎机耗电功率值为5。\n放置粉碎机需要长3格、宽3格的可用空地。\n粉碎机支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n[蓝铁块x1] | [蓝铁粉末x1] | 2s\n[紫晶纤维x1] | [紫晶粉末x1] | 2s\n[源矿x1] | [源石粉末x1] | 2s\n[碳块x1] | [碳粉末x2] | 2s\n[晶体外壳x1] | [晶体外壳粉末x1] | 2s\n[荞花x1] | [荞花粉末x2] | 2s\n[柑实x1] | [柑实粉末x2] | 2s\n[砂叶x1] | [砂叶粉末x3] | 2s\n[酮化灌木x1] | [酮化灌木粉末x2] | 2s\n[锦草x1] | [锦草粉末x2] | 2s\n[芽针x1] | [芽针粉末x2] | 2s",
+  "description": "获取方式:\n在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [晶体外壳x5]→ [粉碎机x1]\n在工业计划-基础工业一期研究基础粉碎获取。\n\n用途:\n粉碎机是基础生产类型的机器，可以用于加工固体。\n粉碎机可放置在协议核心或次级核心范围外。\n粉碎机需要电力维持运转，1个粉碎机耗电功率值为5。\n放置粉碎机需要长3格、宽3格的可用空地。\n粉碎机支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n[赤铜块x1] | [赤铜粉末x1] | 2s\n[蓝铁块x1] | [蓝铁粉末x1] | 2s\n[紫晶纤维x1] | [紫晶粉末x1] | 2s\n[源矿x1] | [源石粉末x1] | 2s\n[碳块x1] | [碳粉末x2] | 2s\n[晶体外壳x1] | [晶体外壳粉末x1] | 2s\n[荞花x1] | [荞花粉末x2] | 2s\n[柑实x1] | [柑实粉末x2] | 2s\n[砂叶x1] | [砂叶粉末x3] | 2s\n[酮化灌木x1] | [酮化灌木粉末x2] | 2s\n[锦草x1] | [锦草粉末x2] | 2s\n[芽针x1] | [芽针粉末x2] | 2s",
   "rarity": {
     "stars": 1,
     "label": "1星",
@@ -21,13 +21,234 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774405898",
+    "timestamp": "1774492705",
     "data": {
       "item": {
         "itemId": "54",
         "document": {
           "documentMap": {
-            "Kxp3G5NA": {
+            "AYMV45Pl": {
+              "id": "document-id",
+              "blockIds": [
+                "E1hNMw",
+                "gQ7KDY",
+                "5iumDx"
+              ],
+              "blockMap": {
+                "5iumDx": {
+                  "id": "5iumDx",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "E1hNMw": {
+                  "id": "E1hNMw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gQ7KDY": {
+                  "id": "gQ7KDY",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-基础工业一期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "基础粉碎"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "IAcErBnt": {
+              "id": "document-id",
+              "blockIds": [
+                "1WTlpz",
+                "QVMU9x",
+                "044sIK",
+                "o0yABL",
+                "c2ITB9"
+              ],
+              "blockMap": {
+                "044sIK": {
+                  "id": "044sIK",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "粉碎机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可放置在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围外。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "1WTlpz": {
+                  "id": "1WTlpz",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QVMU9x": {
+                  "id": "QVMU9x",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "粉碎机"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "是基础生产类型的机器，可以用于加工固体。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "c2ITB9": {
+                  "id": "c2ITB9",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "o0yABL": {
+                  "id": "o0yABL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "粉碎机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要电力维持运转，1个"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "粉碎机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "耗电功率值为5。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "LlEAKlyb": {
               "id": "document-id",
               "blockIds": [
                 "k7oiwY",
@@ -111,7 +332,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "Ya4DsLTW": {
+            "RXMDpeue": {
               "id": "document-id",
               "blockIds": [
                 "xCzIfj",
@@ -370,6 +591,7 @@
                     "id": "GJmaYW",
                     "rowIds": [
                       "zIB5HG",
+                      "7NGnCH",
                       "4V2wLM",
                       "zKq7ph",
                       "osY0DM",
@@ -393,6 +615,9 @@
                       },
                       "4XfwYL": {
                         "id": "4XfwYL"
+                      },
+                      "7NGnCH": {
+                        "id": "7NGnCH"
                       },
                       "OCwU4S": {
                         "id": "OCwU4S"
@@ -504,6 +729,42 @@
                         "id": "4XfwYL_m3Onvo",
                         "childIds": [
                           "nIu95p"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "7NGnCH_MwWWgq": {
+                        "id": "7NGnCH_MwWWgq",
+                        "childIds": [
+                          "pR1SmEhHsqBw"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "7NGnCH_UAHBQV": {
+                        "id": "7NGnCH_UAHBQV",
+                        "childIds": [
+                          "fcbWHRlUA0Nc"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "7NGnCH_m3Onvo": {
+                        "id": "7NGnCH_m3Onvo",
+                        "childIds": [
+                          "joRwjCQct05y"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -1109,6 +1370,25 @@
                     "kind": "body"
                   }
                 },
+                "fcbWHRlUA0Nc": {
+                  "id": "fcbWHRlUA0Nc",
+                  "parentId": "7NGnCH_UAHBQV",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1233",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "iT9LUO": {
                   "id": "iT9LUO",
                   "parentId": "zKq7ph_m3Onvo",
@@ -1158,6 +1438,25 @@
                           "id": "586",
                           "showType": "card-big",
                           "count": "2"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "joRwjCQct05y": {
+                  "id": "joRwjCQct05y",
+                  "parentId": "7NGnCH_m3Onvo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1225",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -1255,6 +1554,23 @@
                     "kind": "body"
                   }
                 },
+                "pR1SmEhHsqBw": {
+                  "id": "pR1SmEhHsqBw",
+                  "parentId": "7NGnCH_MwWWgq",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "2s"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "ql3uyL": {
                   "id": "ql3uyL",
                   "parentId": "jlxAtO_m3Onvo",
@@ -1339,78 +1655,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "kVp2VGPE": {
-              "id": "document-id",
-              "blockIds": [
-                "E1hNMw",
-                "gQ7KDY",
-                "5iumDx"
-              ],
-              "blockMap": {
-                "5iumDx": {
-                  "id": "5iumDx",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "E1hNMw": {
-                  "id": "E1hNMw",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gQ7KDY": {
-                  "id": "gQ7KDY",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "工业计划-基础工业一期"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "研究"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "基础粉碎"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "pB2KyPXl": {
+            "ygIzvSVI": {
               "id": "document-id",
               "blockIds": [
                 "9VmF2q",
@@ -1575,156 +1820,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "t10k72Zc": {
-              "id": "document-id",
-              "blockIds": [
-                "1WTlpz",
-                "QVMU9x",
-                "044sIK",
-                "o0yABL",
-                "c2ITB9"
-              ],
-              "blockMap": {
-                "044sIK": {
-                  "id": "044sIK",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "粉碎机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "可放置在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "次级核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围外。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "1WTlpz": {
-                  "id": "1WTlpz",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QVMU9x": {
-                  "id": "QVMU9x",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "粉碎机"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "是基础生产类型的机器，可以用于加工固体。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "c2ITB9": {
-                  "id": "c2ITB9",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "o0yABL": {
-                  "id": "o0yABL",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "粉碎机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要电力维持运转，1个"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "粉碎机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "耗电功率值为5。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -1777,7 +1872,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Kxp3G5NA",
+                  "content": "LlEAKlyb",
                   "audioList": []
                 }
               }
@@ -1789,7 +1884,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "pB2KyPXl",
+                  "content": "ygIzvSVI",
                   "audioList": []
                 }
               }
@@ -1801,7 +1896,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Ya4DsLTW",
+                  "content": "RXMDpeue",
                   "audioList": []
                 }
               }
@@ -1813,7 +1908,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "t10k72Zc",
+                  "content": "IAcErBnt",
                   "audioList": []
                 }
               }
@@ -1825,7 +1920,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "kVp2VGPE",
+                  "content": "AYMV45Pl",
                   "audioList": []
                 }
               }
@@ -2018,10 +2113,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1939869660098",
-          "nickname": "小狗殺魚",
+          "id": "9769520938084",
+          "nickname": "陆刀刀",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -2099,7 +2194,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767098841",
-        "lastAuditPassedAt": "1767702364",
+        "lastAuditPassedAt": "1774446061",
         "tagIds": [
           "10001",
           "10309",

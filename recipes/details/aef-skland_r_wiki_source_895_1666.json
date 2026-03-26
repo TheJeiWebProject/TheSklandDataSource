@@ -1,0 +1,266 @@
+{
+  "id": "aef-skland:r/wiki_source_895/1666",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_35",
+      "amount": 20
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_32",
+      "amount": 300
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_895",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "406pk7",
+        "NMEpJV",
+        "ktCiko",
+        "0VWOBU",
+        "Xc96D1",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "0VWOBU": {
+          "id": "0VWOBU",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "特定NPC商店中购买。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "406pk7": {
+          "id": "406pk7",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "完成简制手册内容获取配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "NMEpJV": {
+          "id": "NMEpJV",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "NMEpJV",
+            "itemIds": [
+              "z2nB7j"
+            ],
+            "itemMap": {
+              "z2nB7j": {
+                "id": "z2nB7j",
+                "childIds": [
+                  "SfPShj"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "SfPShj": {
+          "id": "SfPShj",
+          "parentId": "z2nB7j",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "35",
+                  "showType": "link-imgText",
+                  "count": "20"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中领取雅各布的遗产的配方。获取配方后即可通过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "简易制作"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "合成雅各布的遗产。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Xc96D1": {
+          "id": "Xc96D1",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Xc96D1",
+            "itemIds": [
+              "xOYJ5G"
+            ],
+            "itemMap": {
+              "xOYJ5G": {
+                "id": "xOYJ5G",
+                "childIds": [
+                  "j5d6u9"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "j5d6u9": {
+          "id": "j5d6u9",
+          "parentId": "xOYJ5G",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "阿伯莉采石场-工人休息站"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " "
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "伦纳德|杂货店老板"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 处购买，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "32",
+                  "showType": "link-imgText",
+                  "count": "300"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，存量 "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 份。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ktCiko": {
+          "id": "ktCiko",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

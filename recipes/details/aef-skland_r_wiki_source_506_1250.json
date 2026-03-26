@@ -1,0 +1,56 @@
+{
+  "id": "aef-skland:r/wiki_source_506/1250",
+  "type": "aef-skland:wiki/source/text_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_382",
+      "amount": 210000
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_506",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "任务奖励",
+    "context": {
+      "groupTitle": "任务奖励",
+      "widgetTitle": "",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "5FWZtqZaK07q"
+      ],
+      "blockMap": {
+        "5FWZtqZaK07q": {
+          "id": "5FWZtqZaK07q",
+          "parentId": "document-id",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "382",
+                  "showType": "card-big",
+                  "count": "210000"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_entry"
+  },
+  "detailLoaded": true
+}

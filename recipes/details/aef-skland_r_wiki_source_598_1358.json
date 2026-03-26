@@ -1,0 +1,164 @@
+{
+  "id": "aef-skland:r/wiki_source_598/1358",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1090",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_159",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_598",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "HahfAsc2Y0p6",
+        "zT3l6Ho715aM",
+        "peLN58ND3jIW",
+        "PJdmyg1lpO8D"
+      ],
+      "blockMap": {
+        "HahfAsc2Y0p6": {
+          "id": "HahfAsc2Y0p6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "PJdmyg1lpO8D": {
+          "id": "PJdmyg1lpO8D",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "mn4U5ZgQJzyf": {
+          "id": "mn4U5ZgQJzyf",
+          "parentId": "QcheKEonkbYN",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1090",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中，前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "枢纽区-枢纽基地区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "与"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "159",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "对话后获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "peLN58ND3jIW": {
+          "id": "peLN58ND3jIW",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "peLN58ND3jIW",
+            "itemIds": [
+              "QcheKEonkbYN"
+            ],
+            "itemMap": {
+              "QcheKEonkbYN": {
+                "id": "QcheKEonkbYN",
+                "childIds": [
+                  "mn4U5ZgQJzyf"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "zT3l6Ho715aM": {
+          "id": "zT3l6Ho715aM",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

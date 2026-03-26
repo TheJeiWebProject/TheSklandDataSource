@@ -4,7 +4,7 @@
   },
   "name": "反应池",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/279234/46dfd0ca5b7d704049e52ed25fc9a2e2.png",
-  "description": "获取方式:\n在研究完成溶解与反应后可获得2台反应池。 在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [铁制零件]→[反应池]\n在武陵工业-武陵工业一期研究溶解与反应获取。\n\n用途:\n反应池是合成制造类型的机器，可以用于合成物品。\n反应池可放置在协议核心或次级核心范围外的武陵地区。\n反应池需要电力维持运转，1个反应池耗电功率值为50。\n放置反应池需要长5格、宽5格的可用空地。\n反应池支持以下合成配方。\n原料需求 | 制造产品 | 消耗时长\n[锦草粉末x1][清水x1] | [锦草溶液x1] | 2s\n[芽针粉末x1][清水x1] | [芽针溶液x1] | 2s\n[息壤x1][清水x1] | [液化息壤x1] | 2s",
+  "description": "获取方式:\n在研究完成溶解与反应后可获得2台反应池。 在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [铁制零件]→[反应池]\n在武陵工业-武陵工业一期研究溶解与反应获取。\n\n用途:\n反应池是合成制造类型的机器，可以用于合成物品。\n反应池可放置在协议核心或次级核心范围外的武陵地区。\n反应池需要电力维持运转，1个反应池耗电功率值为50。\n放置反应池需要长5格、宽5格的可用空地。\n反应池支持以下合成配方。\n原料需求 | 制造产品 | 消耗时长\n[锦草粉末x1][清水x1] | [锦草溶液x1] | 2s\n[芽针粉末x1][清水x1] | [芽针溶液x1] | 2s\n[息壤x1][清水x1] | [液化息壤x1] | 2s\n[液化息壤x1][污水x1] | [壤晶废液x1][惰性壤晶废液x1] | 2s\n[壤晶废液x2][蓝铁粉末x1] | [壤晶x1][污水x1] | 2s",
   "rarity": {
     "stars": 3,
     "label": "3星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774407567",
+    "timestamp": "1774494431",
     "data": {
       "item": {
         "itemId": "746",
         "document": {
           "documentMap": {
-            "4tRL3U3R": {
+            "3RsQixkj": {
               "id": "document-id",
               "blockIds": [
                 "Ygpgxg",
@@ -103,7 +103,316 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "Jb7lRr3L": {
+            "AErZgAq1": {
+              "id": "document-id",
+              "blockIds": [
+                "bsHMAg",
+                "fiBVNe",
+                "btxrVy",
+                "qiKYeN"
+              ],
+              "blockMap": {
+                "bsHMAg": {
+                  "id": "bsHMAg",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "btxrVy": {
+                  "id": "btxrVy",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "fiBVNe": {
+                  "id": "fiBVNe",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "反应池"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "5"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "5"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qiKYeN": {
+                  "id": "qiKYeN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "L6cZOxX4": {
+              "id": "document-id",
+              "blockIds": [
+                "y0cBDS",
+                "Gycr0H",
+                "hfN7Hk"
+              ],
+              "blockMap": {
+                "D4gPSP": {
+                  "id": "D4gPSP",
+                  "parentId": "hDGej1",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "373",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "→"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "746",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Gycr0H": {
+                  "id": "Gycr0H",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Gycr0H",
+                    "itemIds": [
+                      "cglz1j",
+                      "b7xZKL"
+                    ],
+                    "itemMap": {
+                      "b7xZKL": {
+                        "id": "b7xZKL",
+                        "childIds": [
+                          "ZtBj7H",
+                          "tM6uZB"
+                        ]
+                      },
+                      "cglz1j": {
+                        "id": "cglz1j",
+                        "childIds": [
+                          "OfEgTr"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OfEgTr": {
+                  "id": "OfEgTr",
+                  "parentId": "cglz1j",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在研究完成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "溶解与反应"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可获得2台反应池。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ZtBj7H": {
+                  "id": "ZtBj7H",
+                  "parentId": "b7xZKL",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内，点击"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "工具箱-设备列表-制造设备"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过以下配方制造。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hfN7Hk": {
+                  "id": "hfN7Hk",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "tM6uZB": {
+                  "id": "tM6uZB",
+                  "parentId": "b7xZKL",
+                  "kind": "list",
+                  "list": {
+                    "id": "tM6uZB",
+                    "itemIds": [
+                      "hDGej1"
+                    ],
+                    "itemMap": {
+                      "hDGej1": {
+                        "id": "hDGej1",
+                        "childIds": [
+                          "D4gPSP"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "y0cBDS": {
+                  "id": "y0cBDS",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "LPFeCGNM": {
               "id": "document-id",
               "blockIds": [
                 "TDmMVP",
@@ -267,109 +576,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "RQQ4okK6": {
-              "id": "document-id",
-              "blockIds": [
-                "bsHMAg",
-                "fiBVNe",
-                "btxrVy",
-                "qiKYeN"
-              ],
-              "blockMap": {
-                "bsHMAg": {
-                  "id": "bsHMAg",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "btxrVy": {
-                  "id": "btxrVy",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "fiBVNe": {
-                  "id": "fiBVNe",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "放置"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "反应池"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要长"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "5"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "格、宽"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "5"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "格的可用空地。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "qiKYeN": {
-                  "id": "qiKYeN",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "peS1QtOc": {
+            "Xh6gAHEZ": {
               "id": "document-id",
               "blockIds": [
                 "ksc5Lq",
@@ -450,6 +657,33 @@
                     "kind": "body"
                   }
                 },
+                "D98DWABQgtzx": {
+                  "id": "D98DWABQgtzx",
+                  "parentId": "3giSy5_RfFJJM",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1232",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1162",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "DUG6E3": {
                   "id": "DUG6E3",
                   "parentId": "xjtHEt_RfFJJM",
@@ -469,6 +703,23 @@
                     "kind": "body"
                   }
                 },
+                "FbJQnPUJ1Udz": {
+                  "id": "FbJQnPUJ1Udz",
+                  "parentId": "3giSy5_sH0tPP",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "2s"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "Ftqcs0": {
                   "id": "Ftqcs0",
                   "parentId": "StgoSM_lpZYGQ",
@@ -481,6 +732,33 @@
                         "kind": "text",
                         "text": {
                           "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Fv1ippCaCtLC": {
+                  "id": "Fv1ippCaCtLC",
+                  "parentId": "PoCdbA_lpZYGQ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "892",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1162",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -506,6 +784,50 @@
                     "kind": "body"
                   }
                 },
+                "Lu14MSMBZPur": {
+                  "id": "Lu14MSMBZPur",
+                  "parentId": "3giSy5_lpZYGQ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1163",
+                          "showType": "card-big",
+                          "count": "2"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "368",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PfZLllcAGR0B": {
+                  "id": "PfZLllcAGR0B",
+                  "parentId": "PoCdbA_sH0tPP",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "2s"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "Tcwcup": {
                   "id": "Tcwcup",
                   "parentId": "document-id",
@@ -516,7 +838,9 @@
                       "StgoSM",
                       "xjtHEt",
                       "zi87tN",
-                      "fe5OA7"
+                      "fe5OA7",
+                      "PoCdbA",
+                      "3giSy5"
                     ],
                     "columnIds": [
                       "lpZYGQ",
@@ -524,6 +848,12 @@
                       "sH0tPP"
                     ],
                     "rowMap": {
+                      "3giSy5": {
+                        "id": "3giSy5"
+                      },
+                      "PoCdbA": {
+                        "id": "PoCdbA"
+                      },
                       "StgoSM": {
                         "id": "StgoSM"
                       },
@@ -552,6 +882,78 @@
                       }
                     },
                     "cellMap": {
+                      "3giSy5_RfFJJM": {
+                        "id": "3giSy5_RfFJJM",
+                        "childIds": [
+                          "D98DWABQgtzx"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "3giSy5_lpZYGQ": {
+                        "id": "3giSy5_lpZYGQ",
+                        "childIds": [
+                          "Lu14MSMBZPur"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "3giSy5_sH0tPP": {
+                        "id": "3giSy5_sH0tPP",
+                        "childIds": [
+                          "FbJQnPUJ1Udz"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PoCdbA_RfFJJM": {
+                        "id": "PoCdbA_RfFJJM",
+                        "childIds": [
+                          "nodMcHFgXXmy"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PoCdbA_lpZYGQ": {
+                        "id": "PoCdbA_lpZYGQ",
+                        "childIds": [
+                          "Fv1ippCaCtLC"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PoCdbA_sH0tPP": {
+                        "id": "PoCdbA_sH0tPP",
+                        "childIds": [
+                          "PfZLllcAGR0B"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
                       "StgoSM_RfFJJM": {
                         "id": "StgoSM_RfFJJM",
                         "childIds": [
@@ -797,6 +1199,33 @@
                     "kind": "body"
                   }
                 },
+                "nodMcHFgXXmy": {
+                  "id": "nodMcHFgXXmy",
+                  "parentId": "PoCdbA_RfFJJM",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1163",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1164",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "ok5HxA": {
                   "id": "ok5HxA",
                   "parentId": "xjtHEt_lpZYGQ",
@@ -862,213 +1291,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "z8o3aIHE": {
-              "id": "document-id",
-              "blockIds": [
-                "y0cBDS",
-                "Gycr0H",
-                "hfN7Hk"
-              ],
-              "blockMap": {
-                "D4gPSP": {
-                  "id": "D4gPSP",
-                  "parentId": "hDGej1",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "373",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "→"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "746",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Gycr0H": {
-                  "id": "Gycr0H",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "Gycr0H",
-                    "itemIds": [
-                      "cglz1j",
-                      "b7xZKL"
-                    ],
-                    "itemMap": {
-                      "b7xZKL": {
-                        "id": "b7xZKL",
-                        "childIds": [
-                          "ZtBj7H",
-                          "tM6uZB"
-                        ]
-                      },
-                      "cglz1j": {
-                        "id": "cglz1j",
-                        "childIds": [
-                          "OfEgTr"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "OfEgTr": {
-                  "id": "OfEgTr",
-                  "parentId": "cglz1j",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在研究完成"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "溶解与反应"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "后可获得2台反应池。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "ZtBj7H": {
-                  "id": "ZtBj7H",
-                  "parentId": "b7xZKL",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "次级核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围内，点击"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "工具箱-设备列表-制造设备"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "通过以下配方制造。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "hfN7Hk": {
-                  "id": "hfN7Hk",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "tM6uZB": {
-                  "id": "tM6uZB",
-                  "parentId": "b7xZKL",
-                  "kind": "list",
-                  "list": {
-                    "id": "tM6uZB",
-                    "itemIds": [
-                      "hDGej1"
-                    ],
-                    "itemMap": {
-                      "hDGej1": {
-                        "id": "hDGej1",
-                        "childIds": [
-                          "D4gPSP"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "y0cBDS": {
-                  "id": "y0cBDS",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -1102,7 +1324,7 @@
                 },
                 {
                   "id": "vH7PSKv4",
-                  "title": "",
+                  "title": "相关配方",
                   "size": "large"
                 }
               ]
@@ -1121,7 +1343,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "4tRL3U3R",
+                  "content": "3RsQixkj",
                   "audioList": []
                 }
               }
@@ -1133,7 +1355,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "z8o3aIHE",
+                  "content": "L6cZOxX4",
                   "audioList": []
                 }
               }
@@ -1145,7 +1367,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "RQQ4okK6",
+                  "content": "AErZgAq1",
                   "audioList": []
                 }
               }
@@ -1157,7 +1379,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Jb7lRr3L",
+                  "content": "LPFeCGNM",
                   "audioList": []
                 }
               }
@@ -1169,7 +1391,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "peS1QtOc",
+                  "content": "Xh6gAHEZ",
                   "audioList": []
                 }
               }
@@ -1362,10 +1584,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1939869660098",
-          "nickname": "小狗殺魚",
+          "id": "9769520938084",
+          "nickname": "陆刀刀",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
         },
         "createdUser": {
           "id": "9769520938084",
@@ -1442,7 +1664,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767098191",
-        "lastAuditPassedAt": "1767639961",
+        "lastAuditPassedAt": "1774453579",
         "tagIds": [
           "10003",
           "10310",

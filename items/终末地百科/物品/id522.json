@@ -4,7 +4,7 @@
   },
   "name": "小蜜虫布丁",
   "icon": "https://bbs.hycdn.cn/image/2026/01/07/3048259/0b68554ac3a4fb684d4fdeef62ff04a1.png",
-  "description": "获取方式:\n完成简制手册内容获取配方。\n累计获得[虫肉x1]后可以在简制手册中领取小蜜虫布丁的配方。获取配方后即可通过简易制作合成小蜜虫布丁。 累计获得[虫肉x10]后可以在简制手册中升级小蜜虫布丁。\n\n用途:\n干员直接使用时：\n战术物品配置效果全队干员立刻刻恢复7%终结技能量。\n干员装备为战术物品时：\n当持有干员的终结技能量低于50%时自动使用，单场战斗中最多可用3次。 用尽后恢复次数：战斗中的可用次数用尽时，一段时间后会恢复1次可用次数。 升级效果：战斗中可使用次数+1。",
+  "description": "获取方式:\n完成简制手册内容获取配方。\n累计获得[虫肉x1]后可以在简制手册中领取小蜜虫布丁的配方。获取配方后即可通过简易制作合成小蜜虫布丁。 累计获得[虫肉x10]后可以在简制手册中升级小蜜虫布丁。\n特定NPC商店中购买。 阿伯莉采石场-工人休息站  处购买，每份售价[谷地调度券x300]，存量1份。\n\n用途:\n干员直接使用时：\n战术物品配置效果全队干员立刻刻恢复7%终结技能量。\n干员装备为战术物品时：\n当持有干员的终结技能量低于50%时自动使用，单场战斗中最多可用3次。 用尽后恢复次数：战斗中的可用次数用尽时，一段时间后会恢复1次可用次数。 升级效果：战斗中可使用次数+1。",
   "rarity": {
     "stars": 2,
     "label": "2星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774407026",
+    "timestamp": "1774493872",
     "data": {
       "item": {
         "itemId": "522",
         "document": {
           "documentMap": {
-            "AItvXRBB": {
+            "LhvpVk6x": {
               "id": "document-id",
               "blockIds": [
                 "POJC5u",
@@ -314,7 +314,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "O2libvjy": {
+            "dYQlyisv": {
               "id": "document-id",
               "blockIds": [
                 "zKrHVc",
@@ -579,15 +579,122 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "Por7REqS": {
+            "ptQQ6IpM": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
                 "frocjL",
                 "sQ5KNg",
+                "ktCiko",
+                "ZMufauDIrRu8",
                 "cc9Nq6"
               ],
               "blockMap": {
+                "0VWOBU": {
+                  "id": "0VWOBU",
+                  "parentId": "mCDlP9pvhvmt",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "特定NPC商店中购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ZMufauDIrRu8": {
+                  "id": "ZMufauDIrRu8",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "ZMufauDIrRu8",
+                    "itemIds": [
+                      "mCDlP9pvhvmt"
+                    ],
+                    "itemMap": {
+                      "mCDlP9pvhvmt": {
+                        "id": "mCDlP9pvhvmt",
+                        "childIds": [
+                          "0VWOBU",
+                          "lMBeuH6vH89D"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "bJSKaf": {
+                  "id": "bJSKaf",
+                  "parentId": "ZbcpO2tulTJo",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "阿伯莉采石场-工人休息站"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " "
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "伦纳德|杂货店老板"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " 处购买，每份售价"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "32",
+                          "showType": "link-imgText",
+                          "count": "300"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，存量"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "份。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "bQnTCN": {
                   "id": "bQnTCN",
                   "parentId": "document-id",
@@ -621,6 +728,34 @@
                       }
                     ],
                     "kind": "body"
+                  }
+                },
+                "ktCiko": {
+                  "id": "ktCiko",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "lMBeuH6vH89D": {
+                  "id": "lMBeuH6vH89D",
+                  "parentId": "mCDlP9pvhvmt",
+                  "kind": "list",
+                  "list": {
+                    "id": "lMBeuH6vH89D",
+                    "itemIds": [
+                      "ZbcpO2tulTJo"
+                    ],
+                    "itemMap": {
+                      "ZbcpO2tulTJo": {
+                        "id": "ZbcpO2tulTJo",
+                        "childIds": [
+                          "bJSKaf"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
                   }
                 },
                 "n0M8h1": {
@@ -796,7 +931,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "O2libvjy",
+                  "content": "dYQlyisv",
                   "audioList": []
                 }
               }
@@ -808,7 +943,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Por7REqS",
+                  "content": "ptQQ6IpM",
                   "audioList": []
                 }
               }
@@ -820,7 +955,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "AItvXRBB",
+                  "content": "LhvpVk6x",
                   "audioList": []
                 }
               }
@@ -1087,7 +1222,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767283913",
-        "lastAuditPassedAt": "1770983702",
+        "lastAuditPassedAt": "1774424276",
         "tagIds": [
           "10002",
           "10260",

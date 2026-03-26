@@ -4,7 +4,7 @@
   },
   "name": "赤铜零件",
   "icon": "https://bbs.hycdn.cn/image/common/20260318/4863030/69ba3fcc45f7d92a73c8575e_56331367.png",
-  "description": "用途:\n用于仓储节点货物装箱。\n每装箱[赤铜零件x1]需要2点货箱容量。\n合成设备 | 原料需求 | 合成产物\n[配件机] | [赤铜块x1] | [赤铜零件x1]\n[封装机] | [赤铜零件x10]赤铜瓶*5[芽针溶液] | 优质芽针针剂*1\n | [赤铜零件x10]赤铜瓶*5[锦草溶液] | 优质锦草软软*1\n[装备原件机] | [赤铜零件x10][息壤x10] | [赤铜装备原件x1]",
+  "description": "用途:\n用于仓储节点货物装箱。\n每装箱[赤铜零件x1]需要2点货箱容量。\n合成设备 | 原料需求 | 合成产物\n[配件机] | [赤铜块x1] | [赤铜零件x1]\n[封装机] | [赤铜零件x10]赤铜瓶*5[芽针溶液] | [优质芽针针剂x1]\n | [赤铜零件x10]赤铜瓶*5[锦草溶液] | [优质锦草软饮x1]\n[装备原件机] | [赤铜零件x10][息壤x10] | [赤铜装备原件x1]",
   "rarity": {
     "stars": 3,
     "label": "3星",
@@ -21,114 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774408488",
+    "timestamp": "1774495382",
     "data": {
       "item": {
         "itemId": "1128",
         "document": {
           "documentMap": {
-            "aK7WQcxj": {
-              "id": "document-id",
-              "blockIds": [
-                "czI8jF",
-                "VLHJm1",
-                "Vn5hvf",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "91w3Ju": {
-                  "id": "91w3Ju",
-                  "parentId": "kwPhM2",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "每装箱"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1128",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要2点货箱容量。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "VLHJm1": {
-                  "id": "VLHJm1",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于仓储节点货物装箱。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Vn5hvf": {
-                  "id": "Vn5hvf",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "Vn5hvf",
-                    "itemIds": [
-                      "kwPhM2"
-                    ],
-                    "itemMap": {
-                      "kwPhM2": {
-                        "id": "kwPhM2",
-                        "childIds": [
-                          "91w3Ju"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "czI8jF": {
-                  "id": "czI8jF",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "lrqjRNdX": {
+            "NuG3jwOo": {
               "id": "document-id",
               "blockIds": [
                 "g27odW0IWfdJ"
@@ -643,7 +542,108 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "s3nUTgjy": {
+            "PoFPXAHD": {
+              "id": "document-id",
+              "blockIds": [
+                "czI8jF",
+                "VLHJm1",
+                "Vn5hvf",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "91w3Ju": {
+                  "id": "91w3Ju",
+                  "parentId": "kwPhM2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1128",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要2点货箱容量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VLHJm1": {
+                  "id": "VLHJm1",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于仓储节点货物装箱。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Vn5hvf": {
+                  "id": "Vn5hvf",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Vn5hvf",
+                    "itemIds": [
+                      "kwPhM2"
+                    ],
+                    "itemMap": {
+                      "kwPhM2": {
+                        "id": "kwPhM2",
+                        "childIds": [
+                          "91w3Ju"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "czI8jF": {
+                  "id": "czI8jF",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "nuc8i703": {
               "id": "document-id",
               "blockIds": [
                 "tlIPhX",
@@ -651,6 +651,25 @@
                 "vmqYOw"
               ],
               "blockMap": {
+                "3HKtNiWNRxU2": {
+                  "id": "3HKtNiWNRxU2",
+                  "parentId": "ViK7m2_VD7uDo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1166",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "3i7FY1x2VyAU": {
                   "id": "3i7FY1x2VyAU",
                   "parentId": "lXzlGM_IMxSAY",
@@ -990,7 +1009,7 @@
                       "ViK7m2_VD7uDo": {
                         "id": "ViK7m2_VD7uDo",
                         "childIds": [
-                          "iYEURhDyd6fP"
+                          "3HKtNiWNRxU2"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -1087,9 +1106,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "优质芽针针剂*1"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1165",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -1109,23 +1130,6 @@
                           "id": "1128",
                           "showType": "card-big",
                           "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "iYEURhDyd6fP": {
-                  "id": "iYEURhDyd6fP",
-                  "parentId": "ViK7m2_VD7uDo",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "优质锦草软软*1"
                         }
                       }
                     ],
@@ -1250,7 +1254,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "aK7WQcxj",
+                  "content": "PoFPXAHD",
                   "audioList": []
                 }
               }
@@ -1273,12 +1277,12 @@
               "tabDataMap": {
                 "tab_1773813854115": {
                   "intro": null,
-                  "content": "s3nUTgjy",
+                  "content": "nuc8i703",
                   "audioList": []
                 },
                 "tab_1773813906528": {
                   "intro": null,
-                  "content": "lrqjRNdX",
+                  "content": "NuG3jwOo",
                   "audioList": []
                 }
               }
@@ -1556,7 +1560,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773817991",
-        "lastAuditPassedAt": "1774279786",
+        "lastAuditPassedAt": "1774441615",
         "tagIds": [
           "10003",
           "10263",
