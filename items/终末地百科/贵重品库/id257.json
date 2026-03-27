@@ -4,7 +4,7 @@
   },
   "name": "草莓可丽饼",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/203953/b514d0e989d63c24f1926909086d42fa.png",
-  "description": "获取方式:\n协议通行证-协议定制26级奖励。\n\n用途:\n使用后可以恢复[理智x40]。",
+  "description": "获取方式:\n协议通行证奖励。\n协议通行证·唤醒期间购买[通行证申请·定制]并将通行证等级提升至26后可以领取[草莓可丽饼x1]。 该物品对应的是零号委托版本中登场的干员[伊冯]。\n\n用途:\n使用以回复理智。\n每使用[草莓可丽饼x1]可以回复[理智x40]。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,22 +21,51 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774493194",
+    "timestamp": "1774579689",
     "data": {
       "item": {
         "itemId": "257",
         "document": {
           "documentMap": {
-            "TCPkNiJp": {
+            "izAYGAfL": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
-                "LXY1iB",
+                "fP7Po958Mznd",
+                "byuxGkQv4Qip",
                 "pCnuhO"
               ],
               "blockMap": {
-                "LXY1iB": {
-                  "id": "LXY1iB",
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "byuxGkQv4Qip": {
+                  "id": "byuxGkQv4Qip",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "byuxGkQv4Qip",
+                    "itemIds": [
+                      "UFCkMrurGXXh"
+                    ],
+                    "itemMap": {
+                      "UFCkMrurGXXh": {
+                        "id": "UFCkMrurGXXh",
+                        "childIds": [
+                          "vG7PtFt0SnOh"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "fP7Po958Mznd": {
+                  "id": "fP7Po958Mznd",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -44,9 +73,50 @@
                     "inlineElements": [
                       {
                         "bold": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "使用后可以恢复"
+                          "text": "使用以回复理智。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "vG7PtFt0SnOh": {
+                  "id": "vG7PtFt0SnOh",
+                  "parentId": "UFCkMrurGXXh",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "每使用"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "257",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可以回复"
                         }
                       },
                       {
@@ -67,38 +137,98 @@
                     ],
                     "kind": "body"
                   }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "d8tNUizK": {
+            "slsUZ2zX": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
                 "QB7bLN",
+                "8LFldN9cilwY",
                 "cc9Nq6"
               ],
               "blockMap": {
-                "QB7bLN": {
-                  "id": "QB7bLN",
+                "3MIi0Ne4DiZm": {
+                  "id": "3MIi0Ne4DiZm",
+                  "parentId": "tyc6wq2fTKew",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "该物品对应的是"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "零号委托"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "版本中登场的干员"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "157",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8LFldN9cilwY": {
+                  "id": "8LFldN9cilwY",
                   "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "8LFldN9cilwY",
+                    "itemIds": [
+                      "JsV16F9jPubj",
+                      "tyc6wq2fTKew"
+                    ],
+                    "itemMap": {
+                      "JsV16F9jPubj": {
+                        "id": "JsV16F9jPubj",
+                        "childIds": [
+                          "EMOvlbDSrS95"
+                        ]
+                      },
+                      "tyc6wq2fTKew": {
+                        "id": "tyc6wq2fTKew",
+                        "childIds": [
+                          "3MIi0Ne4DiZm"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "EMOvlbDSrS95": {
+                  "id": "EMOvlbDSrS95",
+                  "parentId": "JsV16F9jPubj",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -108,14 +238,63 @@
                         "color": "light_rank_yellow",
                         "kind": "text",
                         "text": {
-                          "text": "协议通行证-协议定制"
+                          "text": "协议通行证·唤醒"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "26级奖励。"
+                          "text": "期间购买"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "897",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并将通行证等级提升至26后可以领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "257",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证奖励。"
                         }
                       }
                     ],
@@ -178,7 +357,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "TCPkNiJp",
+                  "content": "izAYGAfL",
                   "audioList": []
                 }
               }
@@ -190,7 +369,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "d8tNUizK",
+                  "content": "slsUZ2zX",
                   "audioList": []
                 }
               }
@@ -348,10 +527,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "6208993443188",
-          "nickname": "肉丝饼",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/9c96dd862681caf8673e940a6f338d09.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -429,7 +608,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765466039",
-        "lastAuditPassedAt": "1768410408",
+        "lastAuditPassedAt": "1774532491",
         "tagIds": [
           "10005",
           "10330",

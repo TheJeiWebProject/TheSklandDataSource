@@ -1,0 +1,420 @@
+{
+  "id": "aef-skland:r/wiki_usage_1069/2601",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1069",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "POJC5u",
+        "c7dFjkZ3oqUy",
+        "k9kW8I8aE2ht",
+        "IRysK1",
+        "PbU9SV",
+        "4xd2UG",
+        "czI8jF",
+        "VLHJm1",
+        "Vn5hvf",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "4xd2UG": {
+          "id": "4xd2UG",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "4xd2UG",
+            "itemIds": [
+              "toYPys"
+            ],
+            "itemMap": {
+              "toYPys": {
+                "id": "toYPys",
+                "childIds": [
+                  "bnirzKl7Ulko",
+                  "mdbG7aG89qTG"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "5oU4fX": {
+          "id": "5oU4fX",
+          "parentId": "onMdsf",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_function_brown",
+                "kind": "text",
+                "text": {
+                  "text": "用尽后恢复次数"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "：战斗中的可用次数用尽时，一段时间后会恢复"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "次可用次数。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "91w3Ju": {
+          "id": "91w3Ju",
+          "parentId": "kwPhM2",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每装箱"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1069",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要300点货箱容量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "IRysK1": {
+          "id": "IRysK1",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "1"
+          }
+        },
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "PbU9SV": {
+          "id": "PbU9SV",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "干员装备为战术物品时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "VLHJm1": {
+          "id": "VLHJm1",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于仓储节点货物装箱。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Vn5hvf": {
+          "id": "Vn5hvf",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Vn5hvf",
+            "itemIds": [
+              "kwPhM2"
+            ],
+            "itemMap": {
+              "kwPhM2": {
+                "id": "kwPhM2",
+                "childIds": [
+                  "91w3Ju"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "bnirzKl7Ulko": {
+          "id": "bnirzKl7Ulko",
+          "parentId": "toYPys",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "持有干员生命值低于"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "60%"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "时自动使用，单场战斗中最多可使用"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "3"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "次。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "c7dFjkZ3oqUy": {
+          "id": "c7dFjkZ3oqUy",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "干员直接使用时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "czI8jF": {
+          "id": "czI8jF",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "fYBn0ZKgBli4": {
+          "id": "fYBn0ZKgBli4",
+          "parentId": "WrooxrxcO3iU",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "升级效果"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "：战斗中可使用次数+1。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "fnbi1cmlDyds": {
+          "id": "fnbi1cmlDyds",
+          "parentId": "GC6NmfCXQIwv",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用后，每秒回复"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "5%"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的最大生命值和"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "370"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "点生命值，持续"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "6"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "秒。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "k9kW8I8aE2ht": {
+          "id": "k9kW8I8aE2ht",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "k9kW8I8aE2ht",
+            "itemIds": [
+              "GC6NmfCXQIwv"
+            ],
+            "itemMap": {
+              "GC6NmfCXQIwv": {
+                "id": "GC6NmfCXQIwv",
+                "childIds": [
+                  "fnbi1cmlDyds"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "mdbG7aG89qTG": {
+          "id": "mdbG7aG89qTG",
+          "parentId": "toYPys",
+          "kind": "list",
+          "list": {
+            "id": "mdbG7aG89qTG",
+            "itemIds": [
+              "onMdsf",
+              "WrooxrxcO3iU"
+            ],
+            "itemMap": {
+              "WrooxrxcO3iU": {
+                "id": "WrooxrxcO3iU",
+                "childIds": [
+                  "fYBn0ZKgBli4"
+                ]
+              },
+              "onMdsf": {
+                "id": "onMdsf",
+                "childIds": [
+                  "5oU4fX"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

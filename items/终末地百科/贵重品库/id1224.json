@@ -1,0 +1,977 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1224"
+  },
+  "name": "狼群骨雕",
+  "icon": "https://bbs.hycdn.cn/image/common/20260323/203953/69c115f4c18f320561a62070_f1525633.png",
+  "description": "获取方式:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n\n用途:\n可在帝江号上赠送给特定喜好的干员。\n可向喜好运动、生活的干员赠送狼群骨雕以提升其信赖值。 狼群骨雕属于武陵·游商严选系列礼物，若赠送时为流行品，可以提供更高的信赖值提升。\n标签 | 喜好干员\n运动 | [秋栗][卡契尔][昼雪][阿列什][弧光][黎风][余烬]\n生活 | [卡契尔][大潘][艾维文娜][佩丽卡][艾尔黛拉][莱万汀]",
+  "rarity": {
+    "stars": 5,
+    "label": "5星",
+    "color": "#fb8c00",
+    "token": "rarity_5",
+    "tagId": "10005"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:5"
+  ],
+  "source": "终末地百科/贵重品库/id1224.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1774582042",
+    "data": {
+      "item": {
+        "itemId": "1224",
+        "document": {
+          "documentMap": {
+            "cXjFE4Jb": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "zNFWbv",
+                "5O6cWaNeG0CX",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "5O6cWaNeG0CX": {
+                  "id": "5O6cWaNeG0CX",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "5O6cWaNeG0CX",
+                    "itemIds": [
+                      "67MxfStj9a0Q"
+                    ],
+                    "itemMap": {
+                      "67MxfStj9a0Q": {
+                        "id": "67MxfStj9a0Q",
+                        "childIds": [
+                          "AguLDCP7Iyp2"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "AguLDCP7Iyp2": {
+                  "id": "AguLDCP7Iyp2",
+                  "parentId": "67MxfStj9a0Q",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "升级"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可在相应的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度-人文物产"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中以每份"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "382",
+                          "showType": "link-imgText",
+                          "count": "90000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的价格购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "zNFWbv": {
+                  "id": "zNFWbv",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵-物资调度终端购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "n3oiMl98": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "9frzIp",
+                "pTmLaC3siDJU",
+                "U1ZD9fXj6e5D",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "2pTOdfWnMxla": {
+                  "id": "2pTOdfWnMxla",
+                  "parentId": "7EoKwUwXhpds",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "狼群骨雕"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "属于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵·游商严选"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "系列礼物，若赠送时为"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "流行品"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，可以提供更高的信赖值提升。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9frzIp": {
+                  "id": "9frzIp",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "可在帝江号上赠送给特定喜好的干员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DvuglaJOQBol": {
+                  "id": "DvuglaJOQBol",
+                  "parentId": "5X4TPt_vtIEpA",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "喜好干员"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Gib8Io4arcVC": {
+                  "id": "Gib8Io4arcVC",
+                  "parentId": "tAtNKC_RdczXt",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "运动"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "T59aq435USkK": {
+                  "id": "T59aq435USkK",
+                  "parentId": "vnoUB9_vtIEpA",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "94",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "13",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "88",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "5",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "11",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "7",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "U1ZD9fXj6e5D": {
+                  "id": "U1ZD9fXj6e5D",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "U1ZD9fXj6e5D",
+                    "rowIds": [
+                      "5X4TPt",
+                      "tAtNKC",
+                      "vnoUB9"
+                    ],
+                    "columnIds": [
+                      "RdczXt",
+                      "vtIEpA"
+                    ],
+                    "rowMap": {
+                      "5X4TPt": {
+                        "id": "5X4TPt"
+                      },
+                      "tAtNKC": {
+                        "id": "tAtNKC"
+                      },
+                      "vnoUB9": {
+                        "id": "vnoUB9"
+                      }
+                    },
+                    "columnMap": {
+                      "RdczXt": {
+                        "id": "RdczXt",
+                        "width": 100
+                      },
+                      "vtIEpA": {
+                        "id": "vtIEpA",
+                        "width": 1060
+                      }
+                    },
+                    "cellMap": {
+                      "5X4TPt_RdczXt": {
+                        "id": "5X4TPt_RdczXt",
+                        "childIds": [
+                          "eQgDlE3onlUr"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "5X4TPt_vtIEpA": {
+                        "id": "5X4TPt_vtIEpA",
+                        "childIds": [
+                          "DvuglaJOQBol"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "tAtNKC_RdczXt": {
+                        "id": "tAtNKC_RdczXt",
+                        "childIds": [
+                          "Gib8Io4arcVC"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "tAtNKC_vtIEpA": {
+                        "id": "tAtNKC_vtIEpA",
+                        "childIds": [
+                          "yb1Te3DM7khw"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "vnoUB9_RdczXt": {
+                        "id": "vnoUB9_RdczXt",
+                        "childIds": [
+                          "UzJJnLvIL1AN"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "vnoUB9_vtIEpA": {
+                        "id": "vnoUB9_vtIEpA",
+                        "childIds": [
+                          "T59aq435USkK"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "UzJJnLvIL1AN": {
+                  "id": "UzJJnLvIL1AN",
+                  "parentId": "vnoUB9_RdczXt",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "生活"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "eQgDlE3onlUr": {
+                  "id": "eQgDlE3onlUr",
+                  "parentId": "5X4TPt_RdczXt",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "标签"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "pTmLaC3siDJU": {
+                  "id": "pTmLaC3siDJU",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "pTmLaC3siDJU",
+                    "itemIds": [
+                      "xLTYWVPZooXw",
+                      "7EoKwUwXhpds"
+                    ],
+                    "itemMap": {
+                      "7EoKwUwXhpds": {
+                        "id": "7EoKwUwXhpds",
+                        "childIds": [
+                          "2pTOdfWnMxla"
+                        ]
+                      },
+                      "xLTYWVPZooXw": {
+                        "id": "xLTYWVPZooXw",
+                        "childIds": [
+                          "w4iPWpSF0Fhw"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "w4iPWpSF0Fhw": {
+                  "id": "w4iPWpSF0Fhw",
+                  "parentId": "xLTYWVPZooXw",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可向喜好"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "运动"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "生活"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的干员赠送"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "狼群骨雕"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "以提升其信赖值。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "yb1Te3DM7khw": {
+                  "id": "yb1Te3DM7khw",
+                  "parentId": "tAtNKC_vtIEpA",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "95",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "94",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "90",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "87",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "57",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "130",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "24",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "lNzYFu78",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "Gh72Rpj5",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Gh72Rpj5": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "n3oiMl98",
+                  "audioList": []
+                }
+              }
+            },
+            "lNzYFu78": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "cXjFE4Jb",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "狼群骨雕",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": ""
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260323/203953/69c115f4c18f320561a62070_f1525633.png",
+          "name": "狼群骨雕",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "由驮兽骨切削成的骨雕，仿制自狼群手工艺品。狼群会将它送给值得尊敬的人，这一传统延续至今。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "可作为礼物送给爱好 [运动] [生活] 的干员以增加信赖度。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10005"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10330"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10328"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1774524035",
+        "lastAuditPassedAt": "1774344526",
+        "tagIds": [
+          "10005",
+          "10330",
+          "10328"
+        ]
+      }
+    }
+  }
+}

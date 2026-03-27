@@ -4,7 +4,7 @@
   },
   "name": "浪潮海石",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/3048259/2e8aca2d16cac37e9d7c02c5fd00dde3.png",
-  "description": "获取方式:\n四号谷地-物资调度终端购买。物资调度终端达特定等级后解锁。\n\n用途:\n可赠送干员带有的标签：\n[自然]\n[文化]\n[谷地·协议严选]",
+  "description": "获取方式:\n四号谷地-物资调度终端购买。\n升级四号谷地地区的物资调度终端后可在相应的物资调度-人文物产中以每份[谷地调度券x30000]的价格购买。\n四号谷地-仓储节点感谢信附件。\n在四号谷地完成运送委托后收到的感谢信附件中可能包含[浪潮海石x3]。\n\n用途:\n四号谷地-物资调度终端购买。\n升级四号谷地地区的物资调度终端后可在相应的物资调度-人文物产中以每份[谷地调度券x30000]的价格购买。\n四号谷地-仓储节点感谢信附件。\n在四号谷地完成运送委托后收到的感谢信附件中可能包含[浪潮海石x3]。\n可在帝江号上赠送给特定喜好的干员。\n可向喜好自然、文化的干员赠送[浪潮海石]以提升其信赖值。 [浪潮海石]属于谷地·协议严选系列礼物，若赠送时为流行品，可以提供更高的信赖值提升。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,20 +21,161 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774493242",
+    "timestamp": "1774579735",
     "data": {
       "item": {
         "itemId": "276",
         "document": {
           "documentMap": {
-            "Etpih2p6": {
+            "FOqdTkjh": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
                 "UmfazT",
+                "5O6cWaNeG0CX",
+                "hmizOmf5xEre",
+                "KZQpQsEX6iuo",
+                "9p4gra36Aqng",
                 "cc9Nq6"
               ],
               "blockMap": {
+                "5O6cWaNeG0CX": {
+                  "id": "5O6cWaNeG0CX",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "5O6cWaNeG0CX",
+                    "itemIds": [
+                      "67MxfStj9a0Q"
+                    ],
+                    "itemMap": {
+                      "67MxfStj9a0Q": {
+                        "id": "67MxfStj9a0Q",
+                        "childIds": [
+                          "AguLDCP7Iyp2"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "9p4gra36Aqng": {
+                  "id": "9p4gra36Aqng",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "9p4gra36Aqng",
+                    "itemIds": [
+                      "9xXnvSHYPPXe"
+                    ],
+                    "itemMap": {
+                      "9xXnvSHYPPXe": {
+                        "id": "9xXnvSHYPPXe",
+                        "childIds": [
+                          "tha514W52yYO"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "AguLDCP7Iyp2": {
+                  "id": "AguLDCP7Iyp2",
+                  "parentId": "67MxfStj9a0Q",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "升级"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "四号谷地"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可在相应的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度-人文物产"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中以每份"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "32",
+                          "showType": "link-imgText",
+                          "count": "30000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的价格购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "KZQpQsEX6iuo": {
+                  "id": "KZQpQsEX6iuo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "四号谷地-仓储节点感谢信附件。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "UmfazT": {
                   "id": "UmfazT",
                   "parentId": "document-id",
@@ -44,29 +185,10 @@
                     "inlineElements": [
                       {
                         "bold": true,
-                        "color": "light_rank_yellow",
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "四号谷地-物资调度终端"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "购买。"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "物资调度终端"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "达特定等级后解锁。"
+                          "text": "四号谷地-物资调度终端购买。"
                         }
                       }
                     ],
@@ -88,24 +210,198 @@
                   "horizontalLine": {
                     "kind": "2"
                   }
+                },
+                "hmizOmf5xEre": {
+                  "id": "hmizOmf5xEre",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "tha514W52yYO": {
+                  "id": "tha514W52yYO",
+                  "parentId": "9xXnvSHYPPXe",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在四号谷地完成运送委托后收到的感谢信附件中可能包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "276",
+                          "showType": "link-imgText",
+                          "count": "3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "mZwcDK7Y": {
+            "SQrYJWL2": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
-                "BVW4E5",
-                "SfRFiK",
-                "G4OOCO",
-                "5wL7Tp",
+                "9frzIp",
+                "pTmLaC3siDJU",
+                "U1ZD9fXj6e5D",
                 "pCnuhO"
               ],
               "blockMap": {
-                "5wL7Tp": {
-                  "id": "5wL7Tp",
+                "2pTOdfWnMxla": {
+                  "id": "2pTOdfWnMxla",
+                  "parentId": "7EoKwUwXhpds",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "276",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "属于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地·协议严选"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "系列礼物，若赠送时为"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "流行品"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，可以提供更高的信赖值提升。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "3sbMqte0SlUH": {
+                  "id": "3sbMqte0SlUH",
+                  "parentId": "IkqvFc_05Pd8D",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "文化"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "71X7ow354zSS": {
+                  "id": "71X7ow354zSS",
+                  "parentId": "ynOJ31_05Pd8D",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "喜好干员"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "99wgfv36diOr": {
+                  "id": "99wgfv36diOr",
+                  "parentId": "IkqvFc_Q2HDUD",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "87",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "12",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "131",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "159",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9frzIp": {
+                  "id": "9frzIp",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -115,59 +411,127 @@
                         "bold": true,
                         "kind": "text",
                         "text": {
-                          "text": "[谷地·协议严选]"
+                          "text": "可在帝江号上赠送给特定喜好的干员。"
                         }
                       }
                     ],
                     "kind": "body"
                   }
                 },
-                "BVW4E5": {
-                  "id": "BVW4E5",
+                "U1ZD9fXj6e5D": {
+                  "id": "U1ZD9fXj6e5D",
                   "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "可赠送干员带有的标签："
-                        }
-                      }
+                  "kind": "table",
+                  "table": {
+                    "id": "U1ZD9fXj6e5D",
+                    "rowIds": [
+                      "ynOJ31",
+                      "vccSdv",
+                      "IkqvFc"
                     ],
-                    "kind": "body"
+                    "columnIds": [
+                      "05Pd8D",
+                      "Q2HDUD"
+                    ],
+                    "rowMap": {
+                      "IkqvFc": {
+                        "id": "IkqvFc"
+                      },
+                      "vccSdv": {
+                        "id": "vccSdv"
+                      },
+                      "ynOJ31": {
+                        "id": "ynOJ31"
+                      }
+                    },
+                    "columnMap": {
+                      "05Pd8D": {
+                        "id": "05Pd8D",
+                        "width": 100
+                      },
+                      "Q2HDUD": {
+                        "id": "Q2HDUD",
+                        "width": 1060
+                      }
+                    },
+                    "cellMap": {
+                      "IkqvFc_05Pd8D": {
+                        "id": "IkqvFc_05Pd8D",
+                        "childIds": [
+                          "3sbMqte0SlUH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "IkqvFc_Q2HDUD": {
+                        "id": "IkqvFc_Q2HDUD",
+                        "childIds": [
+                          "99wgfv36diOr"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "vccSdv_05Pd8D": {
+                        "id": "vccSdv_05Pd8D",
+                        "childIds": [
+                          "XCN9CuGLtUca"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "vccSdv_Q2HDUD": {
+                        "id": "vccSdv_Q2HDUD",
+                        "childIds": [
+                          "kyHZVFnh1XDI"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ynOJ31_05Pd8D": {
+                        "id": "ynOJ31_05Pd8D",
+                        "childIds": [
+                          "71X7ow354zSS"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
                   }
                 },
-                "G4OOCO": {
-                  "id": "G4OOCO",
-                  "parentId": "document-id",
-                  "align": "left",
+                "XCN9CuGLtUca": {
+                  "id": "XCN9CuGLtUca",
+                  "parentId": "vccSdv_05Pd8D",
+                  "align": "center",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
                         "kind": "text",
                         "text": {
-                          "text": "[文化]"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "SfRFiK": {
-                  "id": "SfRFiK",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "[自然]"
+                          "text": "自然"
                         }
                       }
                     ],
@@ -182,12 +546,161 @@
                     "kind": "5"
                   }
                 },
+                "kyHZVFnh1XDI": {
+                  "id": "kyHZVFnh1XDI",
+                  "parentId": "vccSdv_Q2HDUD",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "92",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "57",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "3",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "11",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "130",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1130",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "pCnuhO": {
                   "id": "pCnuhO",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
+                  }
+                },
+                "pTmLaC3siDJU": {
+                  "id": "pTmLaC3siDJU",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "pTmLaC3siDJU",
+                    "itemIds": [
+                      "xLTYWVPZooXw",
+                      "7EoKwUwXhpds"
+                    ],
+                    "itemMap": {
+                      "7EoKwUwXhpds": {
+                        "id": "7EoKwUwXhpds",
+                        "childIds": [
+                          "2pTOdfWnMxla"
+                        ]
+                      },
+                      "xLTYWVPZooXw": {
+                        "id": "xLTYWVPZooXw",
+                        "childIds": [
+                          "w4iPWpSF0Fhw"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "w4iPWpSF0Fhw": {
+                  "id": "w4iPWpSF0Fhw",
+                  "parentId": "xLTYWVPZooXw",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可向喜好"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "自然"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "文化"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的干员赠送"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "276",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "以提升其信赖值。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 }
               },
@@ -230,7 +743,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "mZwcDK7Y",
+                  "content": "SQrYJWL2",
                   "audioList": []
                 }
               }
@@ -242,7 +755,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Etpih2p6",
+                  "content": "FOqdTkjh",
                   "audioList": []
                 }
               }
@@ -400,10 +913,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -418,29 +931,9 @@
             "id": "document-id",
             "blockIds": [
               "WKNXPo",
-              "3pDW7C",
               "9bzHRe"
             ],
             "blockMap": {
-              "3pDW7C": {
-                "id": "3pDW7C",
-                "parentId": "document-id",
-                "align": "left",
-                "kind": "text",
-                "text": {
-                  "inlineElements": [
-                    {
-                      "bold": true,
-                      "color": "light_text_primary",
-                      "kind": "text",
-                      "text": {
-                        "text": "偏好[谷地·协议严选]的干员会增加更多信赖。"
-                      }
-                    }
-                  ],
-                  "kind": "body"
-                }
-              },
               "9bzHRe": {
                 "id": "9bzHRe",
                 "parentId": "document-id",
@@ -501,7 +994,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765466939",
-        "lastAuditPassedAt": "1766244010",
+        "lastAuditPassedAt": "1774522859",
         "tagIds": [
           "10005",
           "10330",
