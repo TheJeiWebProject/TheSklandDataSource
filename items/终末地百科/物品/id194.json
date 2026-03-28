@@ -21,13 +21,114 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774579540",
+    "timestamp": "1774665382",
     "data": {
       "item": {
         "itemId": "194",
         "document": {
           "documentMap": {
-            "1fYLIVK2": {
+            "RbDCGkSe": {
+              "id": "document-id",
+              "blockIds": [
+                "czI8jF",
+                "VLHJm1",
+                "Vn5hvf",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "91w3Ju": {
+                  "id": "91w3Ju",
+                  "parentId": "kwPhM2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每装箱"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "194",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要1点货箱容量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VLHJm1": {
+                  "id": "VLHJm1",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于仓储节点货物装箱。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Vn5hvf": {
+                  "id": "Vn5hvf",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Vn5hvf",
+                    "itemIds": [
+                      "kwPhM2"
+                    ],
+                    "itemMap": {
+                      "kwPhM2": {
+                        "id": "kwPhM2",
+                        "childIds": [
+                          "91w3Ju"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "czI8jF": {
+                  "id": "czI8jF",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "e8t6ddZL": {
               "id": "document-id",
               "blockIds": [
                 "bGKSuM",
@@ -765,107 +866,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "GdVdkKIi": {
-              "id": "document-id",
-              "blockIds": [
-                "czI8jF",
-                "VLHJm1",
-                "Vn5hvf",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "91w3Ju": {
-                  "id": "91w3Ju",
-                  "parentId": "kwPhM2",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "每装箱"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "194",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要1点货箱容量。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "VLHJm1": {
-                  "id": "VLHJm1",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于仓储节点货物装箱。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Vn5hvf": {
-                  "id": "Vn5hvf",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "Vn5hvf",
-                    "itemIds": [
-                      "kwPhM2"
-                    ],
-                    "itemMap": {
-                      "kwPhM2": {
-                        "id": "kwPhM2",
-                        "childIds": [
-                          "91w3Ju"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "czI8jF": {
-                  "id": "czI8jF",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -903,7 +903,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "GdVdkKIi",
+                  "content": "RbDCGkSe",
                   "audioList": []
                 }
               }
@@ -915,7 +915,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "1fYLIVK2",
+                  "content": "e8t6ddZL",
                   "audioList": []
                 }
               }
@@ -1101,10 +1101,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9228422493033",
-          "nickname": "骷髅先生",
+          "id": "1485727484109",
+          "nickname": "奕行",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/8b913b2cf42c26d53d8d9c79a1daf917.png"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -1119,28 +1119,9 @@
             "id": "document-id",
             "blockIds": [
               "LXY1iB",
-              "9bzHRe",
               "nHekP6"
             ],
             "blockMap": {
-              "9bzHRe": {
-                "id": "9bzHRe",
-                "parentId": "document-id",
-                "align": "left",
-                "kind": "text",
-                "text": {
-                  "inlineElements": [
-                    {
-                      "color": "light_text_tertiary",
-                      "kind": "text",
-                      "text": {
-                        "text": "协议源石的衍生物，在极严苛的环境中才能够合成。沉默注视着塔卫二的帝江号因大地之上的苦难而哀恸——部分终末地干员如此相信，故会将衍质源石称作“协议泪滴”。"
-                      }
-                    }
-                  ],
-                  "kind": "body"
-                }
-              },
               "LXY1iB": {
                 "id": "LXY1iB",
                 "parentId": "document-id",
@@ -1166,7 +1147,15 @@
                 "align": "left",
                 "kind": "text",
                 "text": {
-                  "inlineElements": [],
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "在塔卫二为什么会存在与异铁如此近似的金属，这仍是未解之谜。"
+                      }
+                    }
+                  ],
                   "kind": "body"
                 }
               }
@@ -1193,7 +1182,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765461839",
-        "lastAuditPassedAt": "1769355100",
+        "lastAuditPassedAt": "1774623002",
         "tagIds": [
           "10002",
           "10260",

@@ -1,0 +1,159 @@
+{
+  "id": "aef-skland:r/wiki_usage_18/2046",
+  "type": "aef-skland:wiki/usage/list_text",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_18",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "HBmVW4",
+        "LL7Vuq",
+        "LyoWB0",
+        "7E1rP1"
+      ],
+      "blockMap": {
+        "7E1rP1": {
+          "id": "7E1rP1",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "HBmVW4": {
+          "id": "HBmVW4",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "LL7Vuq": {
+          "id": "LL7Vuq",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "提高据点建设等级。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "LyoWB0": {
+          "id": "LyoWB0",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "LyoWB0",
+            "itemIds": [
+              "SyCUhA"
+            ],
+            "itemMap": {
+              "SyCUhA": {
+                "id": "SyCUhA",
+                "childIds": [
+                  "mtJp9A"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "mtJp9A": {
+          "id": "mtJp9A",
+          "parentId": "SyCUhA",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "当任一据点的"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "据点发展值"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "累计至当前等级的上限时，会触发"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "据点建设"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "相应的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "任务。该任务被完成前将无法积累获得的"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "据点发展值"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "，直到该任务被完成且据点建设等级提升后。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_text"
+  },
+  "detailLoaded": true
+}

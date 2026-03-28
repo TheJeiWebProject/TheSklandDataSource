@@ -20,28 +20,9 @@
       "id": "document-id",
       "blockIds": [
         "LXY1iB",
-        "9bzHRe",
         "nHekP6"
       ],
       "blockMap": {
-        "9bzHRe": {
-          "id": "9bzHRe",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "color": "light_text_tertiary",
-                "kind": "text",
-                "text": {
-                  "text": "协议源石的衍生物，在极严苛的环境中才能够合成。沉默注视着塔卫二的帝江号因大地之上的苦难而哀恸——部分终末地干员如此相信，故会将衍质源石称作“协议泪滴”。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
         "LXY1iB": {
           "id": "LXY1iB",
           "parentId": "document-id",
@@ -67,7 +48,15 @@
           "align": "left",
           "kind": "text",
           "text": {
-            "inlineElements": [],
+            "inlineElements": [
+              {
+                "color": "light_text_tertiary",
+                "kind": "text",
+                "text": {
+                  "text": "在塔卫二为什么会存在与异铁如此近似的金属，这仍是未解之谜。"
+                }
+              }
+            ],
             "kind": "body"
           }
         }
