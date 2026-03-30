@@ -1,7 +1,12 @@
 {
   "id": "aef-skland:r/wiki_source_752/1526",
-  "type": "aef-skland:wiki/source/text_only",
+  "type": "aef-skland:wiki/source/list_entry",
   "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_373",
+      "amount": 20
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_752",
@@ -10,50 +15,76 @@
   },
   "params": {
     "sectionType": "source",
-    "title": "相关来源 / 蓝图来源",
+    "title": "相关来源 / 设备来源",
     "context": {
       "groupTitle": "相关来源",
-      "widgetTitle": "蓝图来源",
+      "widgetTitle": "设备来源",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "tkgasH",
-        "yhFCys",
-        "1vBU2b",
-        "7IO4te"
+        "nvrD1o",
+        "yO5rl1",
+        "aDEt9h"
       ],
       "blockMap": {
-        "1vBU2b": {
-          "id": "1vBU2b",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "2"
-          }
-        },
-        "7IO4te": {
-          "id": "7IO4te",
-          "parentId": "document-id",
+        "8tv5Xw": {
+          "id": "8tv5Xw",
+          "parentId": "byBXjW",
           "align": "left",
           "kind": "text",
           "text": {
-            "inlineElements": [],
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在研究完成"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "息壤生成"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可获得2台天有洪炉。"
+                }
+              }
+            ],
             "kind": "body"
           }
         },
-        "tkgasH": {
-          "id": "tkgasH",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
+        "ABwpi3": {
+          "id": "ABwpi3",
+          "parentId": "XUNE7J",
+          "kind": "list",
+          "list": {
+            "id": "ABwpi3",
+            "itemIds": [
+              "7FHZef"
+            ],
+            "itemMap": {
+              "7FHZef": {
+                "id": "7FHZef",
+                "childIds": [
+                  "k22fdo"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         },
-        "yhFCys": {
-          "id": "yhFCys",
-          "parentId": "document-id",
+        "D2mnEk": {
+          "id": "D2mnEk",
+          "parentId": "XUNE7J",
           "align": "left",
           "kind": "text",
           "text": {
@@ -70,14 +101,14 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "武陵工业-武陵工业一期"
+                  "text": "协议核心"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "研究"
+                  "text": "或"
                 }
               },
               {
@@ -85,25 +116,119 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "息壤生成"
+                  "text": "次级核心"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "获取。"
+                  "text": "范围内，点击"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "工具箱-设备列表-制造设备"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "通过以下配方制造。"
                 }
               }
             ],
             "kind": "body"
+          }
+        },
+        "aDEt9h": {
+          "id": "aDEt9h",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "k22fdo": {
+          "id": "k22fdo",
+          "parentId": "7FHZef",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "373",
+                  "showType": "link-imgText",
+                  "count": "20"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "→"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "752",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "nvrD1o": {
+          "id": "nvrD1o",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "yO5rl1": {
+          "id": "yO5rl1",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "yO5rl1",
+            "itemIds": [
+              "byBXjW",
+              "XUNE7J"
+            ],
+            "itemMap": {
+              "XUNE7J": {
+                "id": "XUNE7J",
+                "childIds": [
+                  "D2mnEk",
+                  "ABwpi3"
+                ]
+              },
+              "byBXjW": {
+                "id": "byBXjW",
+                "childIds": [
+                  "8tv5Xw"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "text_only"
+    "sourcePattern": "list_entry"
   },
   "detailLoaded": true
 }

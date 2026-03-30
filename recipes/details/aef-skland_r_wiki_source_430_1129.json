@@ -14,14 +14,32 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "o7XiAj"
+        "z2y4Iz"
       ],
       "blockMap": {
+        "7KlyCX": {
+          "id": "7KlyCX",
+          "parentId": "vXhssq",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
         "hYoSQH": {
           "id": "hYoSQH",
           "parentId": "J6PClp",
@@ -40,32 +58,14 @@
             "kind": "body"
           }
         },
-        "mGwfwD": {
-          "id": "mGwfwD",
-          "parentId": "Luh0h4",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "能量淤积点"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "o7XiAj": {
-          "id": "o7XiAj",
+        "z2y4Iz": {
+          "id": "z2y4Iz",
           "parentId": "document-id",
           "kind": "list",
           "list": {
-            "id": "o7XiAj",
+            "id": "z2y4Iz",
             "itemIds": [
-              "Luh0h4",
+              "vXhssq",
               "J6PClp"
             ],
             "itemMap": {
@@ -75,10 +75,10 @@
                   "hYoSQH"
                 ]
               },
-              "Luh0h4": {
-                "id": "Luh0h4",
+              "vXhssq": {
+                "id": "vXhssq",
                 "childIds": [
-                  "mGwfwD"
+                  "7KlyCX"
                 ]
               }
             },

@@ -1,0 +1,101 @@
+{
+  "id": "aef-skland:r/wiki_source_282/963",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_282",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "t9BPwu",
+        "cKcYu6",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cKcYu6": {
+          "id": "cKcYu6",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_function_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "物资调度终端"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "达特定等级后解锁。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "t9BPwu": {
+          "id": "t9BPwu",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_function_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵-物资调度终端"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "购买。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

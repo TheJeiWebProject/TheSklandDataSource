@@ -14,32 +14,14 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "z86wol"
+        "mLjl2M"
       ],
       "blockMap": {
-        "bWQtsv": {
-          "id": "bWQtsv",
-          "parentId": "uXOZFJ",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "能量淤积点"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
         "hYoSQH": {
           "id": "hYoSQH",
           "parentId": "J6PClp",
@@ -58,14 +40,14 @@
             "kind": "body"
           }
         },
-        "z86wol": {
-          "id": "z86wol",
+        "mLjl2M": {
+          "id": "mLjl2M",
           "parentId": "document-id",
           "kind": "list",
           "list": {
-            "id": "z86wol",
+            "id": "mLjl2M",
             "itemIds": [
-              "uXOZFJ",
+              "YL25WG",
               "J6PClp"
             ],
             "itemMap": {
@@ -75,14 +57,32 @@
                   "hYoSQH"
                 ]
               },
-              "uXOZFJ": {
-                "id": "uXOZFJ",
+              "YL25WG": {
+                "id": "YL25WG",
                 "childIds": [
-                  "bWQtsv"
+                  "nh6Guu"
                 ]
               }
             },
             "kind": "unordered"
+          }
+        },
+        "nh6Guu": {
+          "id": "nh6Guu",
+          "parentId": "YL25WG",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
+                }
+              }
+            ],
+            "kind": "body"
           }
         }
       },

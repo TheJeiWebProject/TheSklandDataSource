@@ -14,17 +14,44 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "LUtplL"
+        "GY4sR6"
       ],
       "blockMap": {
-        "E0ULWK": {
-          "id": "E0ULWK",
-          "parentId": "o9A7tt",
+        "GY4sR6": {
+          "id": "GY4sR6",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "GY4sR6",
+            "itemIds": [
+              "WQkEVY",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "WQkEVY": {
+                "id": "WQkEVY",
+                "childIds": [
+                  "YyaQx1"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "YyaQx1": {
+          "id": "YyaQx1",
+          "parentId": "WQkEVY",
           "align": "left",
           "kind": "text",
           "text": {
@@ -38,33 +65,6 @@
               }
             ],
             "kind": "body"
-          }
-        },
-        "LUtplL": {
-          "id": "LUtplL",
-          "parentId": "document-id",
-          "kind": "list",
-          "list": {
-            "id": "LUtplL",
-            "itemIds": [
-              "o9A7tt",
-              "J6PClp"
-            ],
-            "itemMap": {
-              "J6PClp": {
-                "id": "J6PClp",
-                "childIds": [
-                  "hYoSQH"
-                ]
-              },
-              "o9A7tt": {
-                "id": "o9A7tt",
-                "childIds": [
-                  "E0ULWK"
-                ]
-              }
-            },
-            "kind": "unordered"
           }
         },
         "hYoSQH": {

@@ -4,7 +4,7 @@
   },
   "name": "清波静流寻访凭证",
   "icon": "https://bbs.hycdn.cn/image/common/20260313/4863030/69b400da8beddd4c8ef766cb_56331367.png",
-  "description": "获取方式:\n采购中心-配额兑换所购买。\n特许寻访河流的女儿期间，配额兑换所-集成配额交易会以[集成配额x175]的价格与-60%的折扣（即实际价格为[集成配额x70]）出售清波静流寻访凭证（1），存量 5 份。\n特定活动奖励。\n特许寻访河流的女儿期间，参与活动清波静流签到，可以在第1天、第2天与第3天的签到奖励中获得共计清波静流寻访凭证（5）。\n\n用途:\n进行干员寻访。\n清波静流寻访凭证只能在特许寻访河流的女儿中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。 特许寻访河流的女儿结束时，贵重品库中的清波静流寻访凭证会被自动移除。",
+  "description": "获取方式:\n采购中心-配额兑换所购买。\n特许寻访河流的女儿期间，配额兑换所-集成配额交易会以[集成配额x175]的价格与-60%的折扣（即实际价格为[集成配额x70]）出售[清波静流寻访凭证x1]，存量 5 份。\n特定活动奖励。\n特许寻访河流的女儿期间，参与活动[清波静流签到]，可以在第1天、第2天与第3天的签到奖励中获得共计[清波静流寻访凭证x5]。\n\n用途:\n进行干员寻访。\n清波静流寻访凭证只能在特许寻访河流的女儿中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。 特许寻访河流的女儿结束时，贵重品库中的清波静流寻访凭证会被自动移除。",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,13 +21,154 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774754937",
+    "timestamp": "1774841503",
     "data": {
       "item": {
         "itemId": "1133",
         "document": {
           "documentMap": {
-            "BegpbrkY": {
+            "Eu5Wi6T8": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "BUTvWX",
+                "kvcOpG",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "BUTvWX": {
+                  "id": "BUTvWX",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "进行干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "kvcOpG": {
+                  "id": "kvcOpG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "kvcOpG",
+                    "itemIds": [
+                      "61kXOM",
+                      "xXuis0"
+                    ],
+                    "itemMap": {
+                      "61kXOM": {
+                        "id": "61kXOM",
+                        "childIds": [
+                          "q4pHgG"
+                        ]
+                      },
+                      "xXuis0": {
+                        "id": "xXuis0",
+                        "childIds": [
+                          "wQNrVx"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "q4pHgG": {
+                  "id": "q4pHgG",
+                  "parentId": "61kXOM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "清波静流寻访凭证只能在特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "河流的女儿"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wQNrVx": {
+                  "id": "wQNrVx",
+                  "parentId": "xXuis0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "河流的女儿"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "结束时，贵重品库中的清波静流寻访凭证会被自动移除。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "KRsiFcbW": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -183,18 +324,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "清波静流寻访凭证"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1133",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（1），存量 "
+                          "text": "，存量 "
                         }
                       },
                       {
@@ -274,11 +415,11 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "清波静流签到"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1209",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
@@ -289,18 +430,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "清波静流寻访凭证"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1133",
+                          "showType": "link-imgText",
+                          "count": "5"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（5）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -325,147 +466,6 @@
                       }
                     },
                     "kind": "unordered"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "dclzieDL": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "BUTvWX",
-                "kvcOpG",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "BUTvWX": {
-                  "id": "BUTvWX",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "进行干员寻访。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "kvcOpG": {
-                  "id": "kvcOpG",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "kvcOpG",
-                    "itemIds": [
-                      "61kXOM",
-                      "xXuis0"
-                    ],
-                    "itemMap": {
-                      "61kXOM": {
-                        "id": "61kXOM",
-                        "childIds": [
-                          "q4pHgG"
-                        ]
-                      },
-                      "xXuis0": {
-                        "id": "xXuis0",
-                        "childIds": [
-                          "wQNrVx"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "q4pHgG": {
-                  "id": "q4pHgG",
-                  "parentId": "61kXOM",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "清波静流寻访凭证只能在特许寻访"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "河流的女儿"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "wQNrVx": {
-                  "id": "wQNrVx",
-                  "parentId": "xXuis0",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "特许寻访"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "河流的女儿"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "结束时，贵重品库中的清波静流寻访凭证会被自动移除。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
                   }
                 }
               },
@@ -508,7 +508,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "dclzieDL",
+                  "content": "Eu5Wi6T8",
                   "audioList": []
                 }
               }
@@ -520,7 +520,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "BegpbrkY",
+                  "content": "KRsiFcbW",
                   "audioList": []
                 }
               }
@@ -678,10 +678,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1485727484109",
-          "nickname": "奕行",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/8b913b2cf42c26d53d8d9c79a1daf917.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "9228422493033",
@@ -758,7 +758,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773397236",
-        "lastAuditPassedAt": "1773407257",
+        "lastAuditPassedAt": "1774770354",
         "tagIds": [
           "10006",
           "10324",

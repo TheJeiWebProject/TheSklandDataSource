@@ -14,22 +14,22 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "6TCOCf"
+        "AR67I2"
       ],
       "blockMap": {
-        "6TCOCf": {
-          "id": "6TCOCf",
+        "AR67I2": {
+          "id": "AR67I2",
           "parentId": "document-id",
           "kind": "list",
           "list": {
-            "id": "6TCOCf",
+            "id": "AR67I2",
             "itemIds": [
-              "NIHkVP",
+              "uTJRYT",
               "J6PClp"
             ],
             "itemMap": {
@@ -39,14 +39,32 @@
                   "hYoSQH"
                 ]
               },
-              "NIHkVP": {
-                "id": "NIHkVP",
+              "uTJRYT": {
+                "id": "uTJRYT",
                 "childIds": [
-                  "uYNw4k"
+                  "EMbFae"
                 ]
               }
             },
             "kind": "unordered"
+          }
+        },
+        "EMbFae": {
+          "id": "EMbFae",
+          "parentId": "uTJRYT",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
+                }
+              }
+            ],
+            "kind": "body"
           }
         },
         "hYoSQH": {
@@ -61,24 +79,6 @@
                 "kind": "text",
                 "text": {
                   "text": "敌人掉落"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "uYNw4k": {
-          "id": "uYNw4k",
-          "parentId": "NIHkVP",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "能量淤积点"
                 }
               }
             ],

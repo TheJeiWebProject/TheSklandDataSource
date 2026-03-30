@@ -14,53 +14,35 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "8CAUOT"
+        "3Gy0JZ"
       ],
       "blockMap": {
-        "4NmRp2": {
-          "id": "4NmRp2",
-          "parentId": "tZwuBb",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "能量淤积点"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "8CAUOT": {
-          "id": "8CAUOT",
+        "3Gy0JZ": {
+          "id": "3Gy0JZ",
           "parentId": "document-id",
           "kind": "list",
           "list": {
-            "id": "8CAUOT",
+            "id": "3Gy0JZ",
             "itemIds": [
-              "tZwuBb",
+              "8FNmBg",
               "J6PClp"
             ],
             "itemMap": {
+              "8FNmBg": {
+                "id": "8FNmBg",
+                "childIds": [
+                  "w94hoz"
+                ]
+              },
               "J6PClp": {
                 "id": "J6PClp",
                 "childIds": [
                   "hYoSQH"
-                ]
-              },
-              "tZwuBb": {
-                "id": "tZwuBb",
-                "childIds": [
-                  "4NmRp2"
                 ]
               }
             },
@@ -79,6 +61,24 @@
                 "kind": "text",
                 "text": {
                   "text": "敌人掉落"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "w94hoz": {
+          "id": "w94hoz",
+          "parentId": "8FNmBg",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
                 }
               }
             ],

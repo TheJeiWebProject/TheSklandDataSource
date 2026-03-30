@@ -10,59 +10,23 @@
   },
   "params": {
     "sectionType": "source",
-    "title": "来源 / 蓝图来源",
+    "title": "来源 / 设备来源",
     "context": {
       "groupTitle": "来源",
-      "widgetTitle": "蓝图来源",
+      "widgetTitle": "设备来源",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "8sem8S",
-        "QTwQsk",
-        "5iumDx"
+        "y1IUWo",
+        "5oGiEx",
+        "hSL3gW"
       ],
       "blockMap": {
-        "5iumDx": {
-          "id": "5iumDx",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "2"
-          }
-        },
-        "8sem8S": {
-          "id": "8sem8S",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
-          }
-        },
-        "QTwQsk": {
-          "id": "QTwQsk",
-          "parentId": "document-id",
-          "kind": "list",
-          "list": {
-            "id": "QTwQsk",
-            "itemIds": [
-              "hD16Z1"
-            ],
-            "itemMap": {
-              "hD16Z1": {
-                "id": "hD16Z1",
-                "childIds": [
-                  "gQ7KDY"
-                ]
-              }
-            },
-            "kind": "unordered"
-          }
-        },
-        "gQ7KDY": {
-          "id": "gQ7KDY",
-          "parentId": "hD16Z1",
+        "5482eu": {
+          "id": "5482eu",
+          "parentId": "VedCuu",
           "align": "left",
           "kind": "text",
           "text": {
@@ -77,30 +41,66 @@
                 "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "工业计划-基础工业一期"
+                  "text": "协议核心"
                 }
               },
               {
                 "kind": "text",
                 "text": {
-                  "text": "研究"
+                  "text": "或"
                 }
               },
               {
                 "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "基础运输"
+                  "text": "次级核心"
                 }
               },
               {
                 "kind": "text",
                 "text": {
-                  "text": "获取。"
+                  "text": "范围内可点击传送带图标免费放置。"
                 }
               }
             ],
             "kind": "body"
+          }
+        },
+        "5oGiEx": {
+          "id": "5oGiEx",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "5oGiEx",
+            "itemIds": [
+              "VedCuu"
+            ],
+            "itemMap": {
+              "VedCuu": {
+                "id": "VedCuu",
+                "childIds": [
+                  "5482eu"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "hSL3gW": {
+          "id": "hSL3gW",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "3"
+          }
+        },
+        "y1IUWo": {
+          "id": "y1IUWo",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
           }
         }
       },

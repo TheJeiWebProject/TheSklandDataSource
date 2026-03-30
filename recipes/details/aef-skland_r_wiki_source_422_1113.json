@@ -14,39 +14,57 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "3vtkfk"
+        "4jJFW6"
       ],
       "blockMap": {
-        "3vtkfk": {
-          "id": "3vtkfk",
+        "4jJFW6": {
+          "id": "4jJFW6",
           "parentId": "document-id",
           "kind": "list",
           "list": {
-            "id": "3vtkfk",
+            "id": "4jJFW6",
             "itemIds": [
-              "66FY26",
+              "gbyy8k",
               "J6PClp"
             ],
             "itemMap": {
-              "66FY26": {
-                "id": "66FY26",
-                "childIds": [
-                  "i6OylM"
-                ]
-              },
               "J6PClp": {
                 "id": "J6PClp",
                 "childIds": [
                   "hYoSQH"
                 ]
+              },
+              "gbyy8k": {
+                "id": "gbyy8k",
+                "childIds": [
+                  "7BIXf6"
+                ]
               }
             },
             "kind": "unordered"
+          }
+        },
+        "7BIXf6": {
+          "id": "7BIXf6",
+          "parentId": "gbyy8k",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
+                }
+              }
+            ],
+            "kind": "body"
           }
         },
         "hYoSQH": {
@@ -61,24 +79,6 @@
                 "kind": "text",
                 "text": {
                   "text": "敌人掉落"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "i6OylM": {
-          "id": "i6OylM",
-          "parentId": "66FY26",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "能量淤积点"
                 }
               }
             ],

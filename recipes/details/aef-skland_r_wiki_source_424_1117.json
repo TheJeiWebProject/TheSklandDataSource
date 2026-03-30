@@ -14,30 +14,39 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "im0c93"
+        "RE6ODH"
       ],
       "blockMap": {
-        "0fZ6fD": {
-          "id": "0fZ6fD",
-          "parentId": "hEa1mT",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "能量淤积点"
-                }
-              }
+        "RE6ODH": {
+          "id": "RE6ODH",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "RE6ODH",
+            "itemIds": [
+              "KESyWl",
+              "J6PClp"
             ],
-            "kind": "body"
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "KESyWl": {
+                "id": "KESyWl",
+                "childIds": [
+                  "uAqdIL"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         },
         "hYoSQH": {
@@ -58,31 +67,22 @@
             "kind": "body"
           }
         },
-        "im0c93": {
-          "id": "im0c93",
-          "parentId": "document-id",
-          "kind": "list",
-          "list": {
-            "id": "im0c93",
-            "itemIds": [
-              "hEa1mT",
-              "J6PClp"
-            ],
-            "itemMap": {
-              "J6PClp": {
-                "id": "J6PClp",
-                "childIds": [
-                  "hYoSQH"
-                ]
-              },
-              "hEa1mT": {
-                "id": "hEa1mT",
-                "childIds": [
-                  "0fZ6fD"
-                ]
+        "uAqdIL": {
+          "id": "uAqdIL",
+          "parentId": "KESyWl",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
+                }
               }
-            },
-            "kind": "unordered"
+            ],
+            "kind": "body"
           }
         }
       },

@@ -14,29 +14,19 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "LUtplL",
+        "eTrCBBRrUDfu",
         "6dYVnY",
-        "QgtnF6Gt3kFV"
+        "r7g6oxZ85Mw7"
       ],
       "blockMap": {
-        "6dYVnY": {
-          "id": "6dYVnY",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "E0ULWK": {
-          "id": "E0ULWK",
-          "parentId": "o9A7tt",
+        "5ZUyP3g13UB9": {
+          "id": "5ZUyP3g13UB9",
+          "parentId": "LWRu46oBnEsA",
           "align": "left",
           "kind": "text",
           "text": {
@@ -52,14 +42,112 @@
             "kind": "body"
           }
         },
-        "LUtplL": {
-          "id": "LUtplL",
+        "6dYVnY": {
+          "id": "6dYVnY",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "body"
+          }
+        },
+        "REATlBrPj7Po": {
+          "id": "REATlBrPj7Po",
+          "parentId": "jFGbkYXNuE4b",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·源石研究园"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Wl1tHiifMXno": {
+          "id": "Wl1tHiifMXno",
+          "parentId": "MbRdfQkAqxKV",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·供能高地"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "aJlWcHdPB2s2": {
+          "id": "aJlWcHdPB2s2",
+          "parentId": "Itbpn04qr7K4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·枢纽区"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "e08iG2Yw9ATp": {
+          "id": "e08iG2Yw9ATp",
+          "parentId": "LWRu46oBnEsA",
+          "kind": "list",
+          "list": {
+            "id": "e08iG2Yw9ATp",
+            "itemIds": [
+              "Itbpn04qr7K4",
+              "jFGbkYXNuE4b",
+              "MbRdfQkAqxKV"
+            ],
+            "itemMap": {
+              "Itbpn04qr7K4": {
+                "id": "Itbpn04qr7K4",
+                "childIds": [
+                  "aJlWcHdPB2s2"
+                ]
+              },
+              "MbRdfQkAqxKV": {
+                "id": "MbRdfQkAqxKV",
+                "childIds": [
+                  "Wl1tHiifMXno"
+                ]
+              },
+              "jFGbkYXNuE4b": {
+                "id": "jFGbkYXNuE4b",
+                "childIds": [
+                  "REATlBrPj7Po"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "eTrCBBRrUDfu": {
+          "id": "eTrCBBRrUDfu",
           "parentId": "document-id",
           "kind": "list",
           "list": {
-            "id": "LUtplL",
+            "id": "eTrCBBRrUDfu",
             "itemIds": [
-              "o9A7tt",
+              "LWRu46oBnEsA",
               "J6PClp"
             ],
             "itemMap": {
@@ -69,18 +157,37 @@
                   "hYoSQH"
                 ]
               },
-              "o9A7tt": {
-                "id": "o9A7tt",
+              "LWRu46oBnEsA": {
+                "id": "LWRu46oBnEsA",
                 "childIds": [
-                  "E0ULWK"
+                  "5ZUyP3g13UB9",
+                  "e08iG2Yw9ATp"
                 ]
               }
             },
             "kind": "unordered"
           }
         },
-        "QgtnF6Gt3kFV": {
-          "id": "QgtnF6Gt3kFV",
+        "hYoSQH": {
+          "id": "hYoSQH",
+          "parentId": "J6PClp",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "敌人掉落"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "r7g6oxZ85Mw7": {
+          "id": "r7g6oxZ85Mw7",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
@@ -97,25 +204,7 @@
                 "color": "light_text_tertiary",
                 "kind": "text",
                 "text": {
-                  "text": "当前区域尚未实装掉落该基质的重度能量淤积点"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "hYoSQH": {
-          "id": "hYoSQH",
-          "parentId": "J6PClp",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "敌人掉落"
+                  "text": "通过预刻写获得的基质必定同时出现三类属性词条"
                 }
               }
             ],

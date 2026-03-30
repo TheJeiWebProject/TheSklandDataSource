@@ -14,19 +14,19 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "LUtplL",
-        "dMZZbsJjQZh4",
-        "QgtnF6Gt3kFV"
+        "eTrCBBRrUDfu",
+        "6dYVnY",
+        "TCqborM0lO3H"
       ],
       "blockMap": {
-        "E0ULWK": {
-          "id": "E0ULWK",
-          "parentId": "o9A7tt",
+        "5ZUyP3g13UB9": {
+          "id": "5ZUyP3g13UB9",
+          "parentId": "LWRu46oBnEsA",
           "align": "left",
           "kind": "text",
           "text": {
@@ -42,36 +42,18 @@
             "kind": "body"
           }
         },
-        "LUtplL": {
-          "id": "LUtplL",
+        "6dYVnY": {
+          "id": "6dYVnY",
           "parentId": "document-id",
-          "kind": "list",
-          "list": {
-            "id": "LUtplL",
-            "itemIds": [
-              "o9A7tt",
-              "J6PClp"
-            ],
-            "itemMap": {
-              "J6PClp": {
-                "id": "J6PClp",
-                "childIds": [
-                  "hYoSQH"
-                ]
-              },
-              "o9A7tt": {
-                "id": "o9A7tt",
-                "childIds": [
-                  "E0ULWK",
-                  "yUTHY4iOhssn"
-                ]
-              }
-            },
-            "kind": "unordered"
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "body"
           }
         },
-        "QgtnF6Gt3kFV": {
-          "id": "QgtnF6Gt3kFV",
+        "TCqborM0lO3H": {
+          "id": "TCqborM0lO3H",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
@@ -95,14 +77,95 @@
             "kind": "body"
           }
         },
-        "dMZZbsJjQZh4": {
-          "id": "dMZZbsJjQZh4",
-          "parentId": "document-id",
+        "Wl1tHiifMXno": {
+          "id": "Wl1tHiifMXno",
+          "parentId": "MbRdfQkAqxKV",
           "align": "left",
           "kind": "text",
           "text": {
-            "inlineElements": [],
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·供能高地"
+                }
+              }
+            ],
             "kind": "body"
+          }
+        },
+        "aJlWcHdPB2s2": {
+          "id": "aJlWcHdPB2s2",
+          "parentId": "Itbpn04qr7K4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·枢纽区"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "e08iG2Yw9ATp": {
+          "id": "e08iG2Yw9ATp",
+          "parentId": "LWRu46oBnEsA",
+          "kind": "list",
+          "list": {
+            "id": "e08iG2Yw9ATp",
+            "itemIds": [
+              "Itbpn04qr7K4",
+              "MbRdfQkAqxKV"
+            ],
+            "itemMap": {
+              "Itbpn04qr7K4": {
+                "id": "Itbpn04qr7K4",
+                "childIds": [
+                  "aJlWcHdPB2s2"
+                ]
+              },
+              "MbRdfQkAqxKV": {
+                "id": "MbRdfQkAqxKV",
+                "childIds": [
+                  "Wl1tHiifMXno"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "eTrCBBRrUDfu": {
+          "id": "eTrCBBRrUDfu",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "eTrCBBRrUDfu",
+            "itemIds": [
+              "LWRu46oBnEsA",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "LWRu46oBnEsA": {
+                "id": "LWRu46oBnEsA",
+                "childIds": [
+                  "5ZUyP3g13UB9",
+                  "e08iG2Yw9ATp"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         },
         "hYoSQH": {
@@ -121,44 +184,6 @@
               }
             ],
             "kind": "body"
-          }
-        },
-        "pQunlIOSPic0": {
-          "id": "pQunlIOSPic0",
-          "parentId": "0h1Es21bcsy5",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "color": "light_text_secondary",
-                "kind": "text",
-                "text": {
-                  "text": "重度能量淤积点·武陵城"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "yUTHY4iOhssn": {
-          "id": "yUTHY4iOhssn",
-          "parentId": "o9A7tt",
-          "kind": "list",
-          "list": {
-            "id": "yUTHY4iOhssn",
-            "itemIds": [
-              "0h1Es21bcsy5"
-            ],
-            "itemMap": {
-              "0h1Es21bcsy5": {
-                "id": "0h1Es21bcsy5",
-                "childIds": [
-                  "pQunlIOSPic0"
-                ]
-              }
-            },
-            "kind": "unordered"
           }
         }
       },

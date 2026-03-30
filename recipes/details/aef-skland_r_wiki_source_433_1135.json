@@ -14,59 +14,14 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "LUtplL"
+        "tgprQ4"
       ],
       "blockMap": {
-        "E0ULWK": {
-          "id": "E0ULWK",
-          "parentId": "o9A7tt",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "能量淤积点"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "LUtplL": {
-          "id": "LUtplL",
-          "parentId": "document-id",
-          "kind": "list",
-          "list": {
-            "id": "LUtplL",
-            "itemIds": [
-              "o9A7tt",
-              "J6PClp"
-            ],
-            "itemMap": {
-              "J6PClp": {
-                "id": "J6PClp",
-                "childIds": [
-                  "hYoSQH"
-                ]
-              },
-              "o9A7tt": {
-                "id": "o9A7tt",
-                "childIds": [
-                  "E0ULWK"
-                ]
-              }
-            },
-            "kind": "unordered"
-          }
-        },
         "hYoSQH": {
           "id": "hYoSQH",
           "parentId": "J6PClp",
@@ -79,6 +34,51 @@
                 "kind": "text",
                 "text": {
                   "text": "敌人掉落"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "tgprQ4": {
+          "id": "tgprQ4",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "tgprQ4",
+            "itemIds": [
+              "sMLR4p",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "sMLR4p": {
+                "id": "sMLR4p",
+                "childIds": [
+                  "yjUHj4"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "yjUHj4": {
+          "id": "yjUHj4",
+          "parentId": "sMLR4p",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
                 }
               }
             ],

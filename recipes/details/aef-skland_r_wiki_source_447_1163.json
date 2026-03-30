@@ -14,17 +14,17 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "LUtplL"
+        "l5B3Jm"
       ],
       "blockMap": {
-        "E0ULWK": {
-          "id": "E0ULWK",
-          "parentId": "o9A7tt",
+        "ZjftOJ": {
+          "id": "ZjftOJ",
+          "parentId": "5Q6tob",
           "align": "left",
           "kind": "text",
           "text": {
@@ -38,33 +38,6 @@
               }
             ],
             "kind": "body"
-          }
-        },
-        "LUtplL": {
-          "id": "LUtplL",
-          "parentId": "document-id",
-          "kind": "list",
-          "list": {
-            "id": "LUtplL",
-            "itemIds": [
-              "o9A7tt",
-              "J6PClp"
-            ],
-            "itemMap": {
-              "J6PClp": {
-                "id": "J6PClp",
-                "childIds": [
-                  "hYoSQH"
-                ]
-              },
-              "o9A7tt": {
-                "id": "o9A7tt",
-                "childIds": [
-                  "E0ULWK"
-                ]
-              }
-            },
-            "kind": "unordered"
           }
         },
         "hYoSQH": {
@@ -83,6 +56,33 @@
               }
             ],
             "kind": "body"
+          }
+        },
+        "l5B3Jm": {
+          "id": "l5B3Jm",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "l5B3Jm",
+            "itemIds": [
+              "5Q6tob",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "5Q6tob": {
+                "id": "5Q6tob",
+                "childIds": [
+                  "ZjftOJ"
+                ]
+              },
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         }
       },

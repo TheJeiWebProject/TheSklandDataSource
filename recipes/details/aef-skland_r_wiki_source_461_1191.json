@@ -14,29 +14,19 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "LUtplL",
+        "eTrCBBRrUDfu",
         "6dYVnY",
-        "HVpYr000sVQr"
+        "TCqborM0lO3H"
       ],
       "blockMap": {
-        "6dYVnY": {
-          "id": "6dYVnY",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "E0ULWK": {
-          "id": "E0ULWK",
-          "parentId": "o9A7tt",
+        "5ZUyP3g13UB9": {
+          "id": "5ZUyP3g13UB9",
+          "parentId": "LWRu46oBnEsA",
           "align": "left",
           "kind": "text",
           "text": {
@@ -52,8 +42,18 @@
             "kind": "body"
           }
         },
-        "HVpYr000sVQr": {
-          "id": "HVpYr000sVQr",
+        "6dYVnY": {
+          "id": "6dYVnY",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "body"
+          }
+        },
+        "TCqborM0lO3H": {
+          "id": "TCqborM0lO3H",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
@@ -77,14 +77,52 @@
             "kind": "body"
           }
         },
-        "LUtplL": {
-          "id": "LUtplL",
+        "TGZvCLwESIsN": {
+          "id": "TGZvCLwESIsN",
+          "parentId": "p20tIoO8LeUV",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·矿脉源区"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "e08iG2Yw9ATp": {
+          "id": "e08iG2Yw9ATp",
+          "parentId": "LWRu46oBnEsA",
+          "kind": "list",
+          "list": {
+            "id": "e08iG2Yw9ATp",
+            "itemIds": [
+              "p20tIoO8LeUV"
+            ],
+            "itemMap": {
+              "p20tIoO8LeUV": {
+                "id": "p20tIoO8LeUV",
+                "childIds": [
+                  "TGZvCLwESIsN"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "eTrCBBRrUDfu": {
+          "id": "eTrCBBRrUDfu",
           "parentId": "document-id",
           "kind": "list",
           "list": {
-            "id": "LUtplL",
+            "id": "eTrCBBRrUDfu",
             "itemIds": [
-              "o9A7tt",
+              "LWRu46oBnEsA",
               "J6PClp"
             ],
             "itemMap": {
@@ -94,33 +132,15 @@
                   "hYoSQH"
                 ]
               },
-              "o9A7tt": {
-                "id": "o9A7tt",
+              "LWRu46oBnEsA": {
+                "id": "LWRu46oBnEsA",
                 "childIds": [
-                  "E0ULWK",
-                  "yUTHY4iOhssn"
+                  "5ZUyP3g13UB9",
+                  "e08iG2Yw9ATp"
                 ]
               }
             },
             "kind": "unordered"
-          }
-        },
-        "f3K9dYwDCBll": {
-          "id": "f3K9dYwDCBll",
-          "parentId": "TkWaDj01tYZ3",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "color": "light_text_secondary",
-                "kind": "text",
-                "text": {
-                  "text": "重度能量淤积点·清波寨"
-                }
-              }
-            ],
-            "kind": "body"
           }
         },
         "hYoSQH": {
@@ -139,51 +159,6 @@
               }
             ],
             "kind": "body"
-          }
-        },
-        "pQunlIOSPic0": {
-          "id": "pQunlIOSPic0",
-          "parentId": "0h1Es21bcsy5",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "color": "light_text_secondary",
-                "kind": "text",
-                "text": {
-                  "text": "重度能量淤积点·武陵城"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "yUTHY4iOhssn": {
-          "id": "yUTHY4iOhssn",
-          "parentId": "o9A7tt",
-          "kind": "list",
-          "list": {
-            "id": "yUTHY4iOhssn",
-            "itemIds": [
-              "0h1Es21bcsy5",
-              "TkWaDj01tYZ3"
-            ],
-            "itemMap": {
-              "0h1Es21bcsy5": {
-                "id": "0h1Es21bcsy5",
-                "childIds": [
-                  "pQunlIOSPic0"
-                ]
-              },
-              "TkWaDj01tYZ3": {
-                "id": "TkWaDj01tYZ3",
-                "childIds": [
-                  "f3K9dYwDCBll"
-                ]
-              }
-            },
-            "kind": "unordered"
           }
         }
       },
