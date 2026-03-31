@@ -1,6 +1,6 @@
 {
   "id": "aef-skland:r/wiki_source_1138/1901",
-  "type": "aef-skland:wiki/source/list_text",
+  "type": "aef-skland:wiki/source/list_entry",
   "slotContents": {
     "out1": {
       "kind": "item",
@@ -123,11 +123,11 @@
                 }
               },
               {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "补充武库箱·绯珀"
+                "kind": "entry",
+                "entry": {
+                  "id": "1138",
+                  "showType": "link-imgText",
+                  "count": "0"
                 }
               },
               {
@@ -272,7 +272,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "list_text"
+    "sourcePattern": "list_entry"
   },
   "detailLoaded": true
 }

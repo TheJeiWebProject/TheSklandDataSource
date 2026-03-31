@@ -4,7 +4,7 @@
   },
   "name": "狼群瑰宝十连凭证",
   "icon": "https://bbs.hycdn.cn/image/common/20260329/203953/69c8a9d98beddd4c8ef7bf13_13673ac9.png",
-  "description": "获取方式:\n采购中心-组合包中购买特定组合包。\n特许寻访狼珀期间，采购中心出售的狼珀寻访组合包（￥98）包含狼群瑰宝十连凭证（1）。\n寻访情报书转化。\n特许寻访狼珀期间，贵重品库中的[寻访情报书]可以被转化为等量的狼群瑰宝十连凭证。\n\n用途:\n进行干员寻访。\n狼群瑰宝十连凭证只能在特许寻访狼珀中使用，消耗并进行一次不消耗嵌晶玉的十连寻访。 特许寻访狼珀结束时，贵重品库中的狼群瑰宝十连凭证会被自动移除。",
+  "description": "获取方式:\n采购中心-组合包中购买特定组合包。\n特许寻访狼珀期间，采购中心出售的狼珀寻访组合包（￥98）包含[狼群瑰宝十连凭证x1]。\n寻访情报书转化。\n特许寻访狼珀期间，贵重品库中的[寻访情报书]可以被转化为等量的狼群瑰宝十连凭证。\n\n用途:\n进行干员寻访。\n狼群瑰宝十连凭证只能在特许寻访狼珀中使用，消耗并进行一次不消耗嵌晶玉的十连寻访。 特许寻访狼珀结束时，贵重品库中的[狼群瑰宝十连凭证]会被自动移除。",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774841511",
+    "timestamp": "1774927587",
     "data": {
       "item": {
         "itemId": "1136",
         "document": {
           "documentMap": {
-            "GzzF2iFq": {
+            "1wnsCbAH": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -195,18 +195,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "狼群瑰宝十连凭证"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1136",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（1）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -256,7 +256,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "WDHeP5Zq": {
+            "U4HPlj8c": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -291,7 +291,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "结束时，贵重品库中的狼群瑰宝十连凭证会被自动移除。"
+                          "text": "结束时，贵重品库中的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1136",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会被自动移除。"
                         }
                       }
                     ],
@@ -433,7 +448,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "WDHeP5Zq",
+                  "content": "U4HPlj8c",
                   "audioList": []
                 }
               }
@@ -445,7 +460,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "GzzF2iFq",
+                  "content": "1wnsCbAH",
                   "audioList": []
                 }
               }
@@ -684,7 +699,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774770608",
-        "lastAuditPassedAt": "1774770327",
+        "lastAuditPassedAt": "1774842981",
         "tagIds": [
           "10006",
           "10324",

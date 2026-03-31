@@ -4,7 +4,7 @@
   },
   "name": "狼群瑰宝寻访凭证",
   "icon": "https://bbs.hycdn.cn/image/common/20260329/203953/69c8ad50d04467ac08dcb9b0_db193eac.png",
-  "description": "获取方式:\n采购中心-配额兑换所购买。\n特许寻访狼珀期间，配额兑换所-集成配额交易会以[集成配额x175]的价格与-60%的折扣（即实际价格为[集成配额x70]）出售狼群瑰宝寻访凭证（1），存量 5 份。\n特定活动奖励。\n特许寻访狼珀期间，参与活动狼群瑰宝签到，可以在第1天、第2天与第3天的签到奖励中获得共计狼群瑰宝寻访凭证（5）。\n\n用途:\n进行干员寻访。\n清波静流寻访凭证只能在特许寻访狼珀中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。 特许寻访狼珀结束时，贵重品库中的狼群瑰宝寻访凭证会被自动移除。",
+  "description": "获取方式:\n采购中心-配额兑换所购买。\n特许寻访狼珀期间，配额兑换所-集成配额交易会以[集成配额x175]的价格与-60%的折扣（即实际价格为[集成配额x70]）出售[狼群瑰宝寻访凭证x1]，存量 5 份。\n特定活动奖励。\n特许寻访狼珀期间，参与活动狼群瑰宝签到，可以在第1天、第2天与第3天的签到奖励中获得共计[狼群瑰宝寻访凭证x5]。\n\n用途:\n进行干员寻访。\n狼群瑰宝寻访凭证只能在特许寻访狼珀中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。 特许寻访狼珀结束时，贵重品库中的[狼群瑰宝寻访凭证]会被自动移除。",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,13 +21,169 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774841508",
+    "timestamp": "1774927584",
     "data": {
       "item": {
         "itemId": "1135",
         "document": {
           "documentMap": {
-            "VD1BlGY5": {
+            "LdaLURG9": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "BUTvWX",
+                "kvcOpG",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "BUTvWX": {
+                  "id": "BUTvWX",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "进行干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "kvcOpG": {
+                  "id": "kvcOpG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "kvcOpG",
+                    "itemIds": [
+                      "61kXOM",
+                      "xXuis0"
+                    ],
+                    "itemMap": {
+                      "61kXOM": {
+                        "id": "61kXOM",
+                        "childIds": [
+                          "q4pHgG"
+                        ]
+                      },
+                      "xXuis0": {
+                        "id": "xXuis0",
+                        "childIds": [
+                          "wQNrVx"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "q4pHgG": {
+                  "id": "q4pHgG",
+                  "parentId": "61kXOM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "狼群瑰宝寻访凭证只能在特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "狼珀"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wQNrVx": {
+                  "id": "wQNrVx",
+                  "parentId": "xXuis0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "狼珀"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "结束时，贵重品库中的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1135",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会被自动移除。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "OJD1bXxn": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -183,18 +339,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "狼群瑰宝寻访凭证"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1135",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（1），存量 "
+                          "text": "，存量 "
                         }
                       },
                       {
@@ -289,18 +445,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "狼群瑰宝寻访凭证"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1135",
+                          "showType": "link-imgText",
+                          "count": "5"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（5）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -325,147 +481,6 @@
                       }
                     },
                     "kind": "unordered"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "Xe7Ucmfl": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "BUTvWX",
-                "kvcOpG",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "BUTvWX": {
-                  "id": "BUTvWX",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "进行干员寻访。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "kvcOpG": {
-                  "id": "kvcOpG",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "kvcOpG",
-                    "itemIds": [
-                      "61kXOM",
-                      "xXuis0"
-                    ],
-                    "itemMap": {
-                      "61kXOM": {
-                        "id": "61kXOM",
-                        "childIds": [
-                          "q4pHgG"
-                        ]
-                      },
-                      "xXuis0": {
-                        "id": "xXuis0",
-                        "childIds": [
-                          "wQNrVx"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "q4pHgG": {
-                  "id": "q4pHgG",
-                  "parentId": "61kXOM",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "清波静流寻访凭证只能在特许寻访"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "狼珀"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "wQNrVx": {
-                  "id": "wQNrVx",
-                  "parentId": "xXuis0",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "特许寻访"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "狼珀"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "结束时，贵重品库中的狼群瑰宝寻访凭证会被自动移除。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
                   }
                 }
               },
@@ -508,7 +523,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Xe7Ucmfl",
+                  "content": "LdaLURG9",
                   "audioList": []
                 }
               }
@@ -520,7 +535,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "VD1BlGY5",
+                  "content": "OJD1bXxn",
                   "audioList": []
                 }
               }
@@ -758,7 +773,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774770470",
-        "lastAuditPassedAt": "1774770346",
+        "lastAuditPassedAt": "1774842988",
         "tagIds": [
           "10006",
           "10324",

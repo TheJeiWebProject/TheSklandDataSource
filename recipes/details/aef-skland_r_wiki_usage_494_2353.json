@@ -1,0 +1,123 @@
+{
+  "id": "aef-skland:r/wiki_usage_494/2353",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_494",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "ioKTrL",
+        "u5Mftb",
+        "Vn5hvf",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "Vn5hvf": {
+          "id": "Vn5hvf",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Vn5hvf",
+            "itemIds": [
+              "kwPhM2"
+            ],
+            "itemMap": {
+              "kwPhM2": {
+                "id": "kwPhM2",
+                "childIds": [
+                  "fFH7Ny"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "fFH7Ny": {
+          "id": "fFH7Ny",
+          "parentId": "kwPhM2",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每装箱"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "494",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要1点货箱容量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ioKTrL": {
+          "id": "ioKTrL",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "u5Mftb": {
+          "id": "u5Mftb",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于仓储节点货物装箱。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

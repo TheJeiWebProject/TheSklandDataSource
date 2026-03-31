@@ -1,0 +1,76 @@
+{
+  "id": "aef-skland:r/wiki_usage_222/2192",
+  "type": "aef-skland:wiki/usage/text_only",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_222",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "4Y91x8",
+        "jKj3W7"
+      ],
+      "blockMap": {
+        "4Y91x8": {
+          "id": "4Y91x8",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "干员技能等级7-9和专精时使用。"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可提升精英化·三至精英化·四的战斗技能和天赋阵列。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "jKj3W7": {
+          "id": "jKj3W7",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "text_only"
+  },
+  "detailLoaded": true
+}

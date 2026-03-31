@@ -1,10 +1,20 @@
 {
   "id": "aef-skland:r/wiki_usage_898/2564",
-  "type": "aef-skland:wiki/usage/table_text",
+  "type": "aef-skland:wiki/usage/list_entry",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_898",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_15",
+      "amount": 1
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_928",
       "amount": 1
     }
   },
@@ -14,376 +24,288 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "协议通行证",
-      "panelTitle": "暗流"
+      "panelTitle": "概述"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "oidGF6fC7pRr",
-        "4b31coX6mijB"
+        "Xs9L5Z",
+        "eCAIUOj7L8Xw",
+        "W6VcnYuHmfZS",
+        "MXbqlgKEGRoI",
+        "Q2PyJPUrSqFW",
+        "55MWFI"
       ],
       "blockMap": {
-        "3jvMfxMJHPvS": {
-          "id": "3jvMfxMJHPvS",
-          "parentId": "jEcTtl_csBrYM",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "3yzpzHDH7wxX": {
-          "id": "3yzpzHDH7wxX",
-          "parentId": "jEcTtl_CFv7gs",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "4b31coX6mijB": {
-          "id": "4b31coX6mijB",
+        "55MWFI": {
+          "id": "55MWFI",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "LbMK7cHIKRI2": {
-          "id": "LbMK7cHIKRI2",
-          "parentId": "jEcTtl_1uSm5i",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "RdLKW2iYwjJt": {
-          "id": "RdLKW2iYwjJt",
-          "parentId": "hgNPHJ_NMRcwt",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "理智物品"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "Tkp2opXvb1dR": {
-          "id": "Tkp2opXvb1dR",
-          "parentId": "A6vpZi_1uSm5i",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "版本："
-                }
-              },
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "新潮起，故渊离"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "VbUzfxfXhNBQ": {
-          "id": "VbUzfxfXhNBQ",
-          "parentId": "laNcUG_1uSm5i",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "【拍照贴纸·"
-                }
-              },
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "如意方圆"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "】【拍照滤镜·"
-                }
-              },
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "温暖"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "】"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "WRZYJN4suTvK": {
-          "id": "WRZYJN4suTvK",
-          "parentId": "hgNPHJ_CFv7gs",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "培养材料"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "iuqXZkbiUPB3": {
-          "id": "iuqXZkbiUPB3",
-          "parentId": "hgNPHJ_csBrYM",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "物资箱"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "lLK3BJmGWkEI": {
-          "id": "lLK3BJmGWkEI",
-          "parentId": "hgNPHJ_1uSm5i",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "货币获取"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "oidGF6fC7pRr": {
-          "id": "oidGF6fC7pRr",
+        "MXbqlgKEGRoI": {
+          "id": "MXbqlgKEGRoI",
           "parentId": "document-id",
-          "kind": "table",
-          "table": {
-            "id": "oidGF6fC7pRr",
-            "rowIds": [
-              "A6vpZi",
-              "hgNPHJ",
-              "jEcTtl",
-              "laNcUG"
-            ],
-            "columnIds": [
-              "1uSm5i",
-              "NMRcwt",
-              "CFv7gs",
-              "csBrYM"
-            ],
-            "rowMap": {
-              "A6vpZi": {
-                "id": "A6vpZi"
-              },
-              "hgNPHJ": {
-                "id": "hgNPHJ"
-              },
-              "jEcTtl": {
-                "id": "jEcTtl"
-              },
-              "laNcUG": {
-                "id": "laNcUG"
-              }
-            },
-            "columnMap": {
-              "1uSm5i": {
-                "id": "1uSm5i",
-                "width": 238
-              },
-              "CFv7gs": {
-                "id": "CFv7gs",
-                "width": 503
-              },
-              "NMRcwt": {
-                "id": "NMRcwt",
-                "width": 268
-              },
-              "csBrYM": {
-                "id": "csBrYM",
-                "width": 151
-              }
-            },
-            "cellMap": {
-              "A6vpZi_1uSm5i": {
-                "id": "A6vpZi_1uSm5i",
-                "childIds": [
-                  "Tkp2opXvb1dR"
-                ],
-                "rowSpan": "1",
-                "colSpan": "4",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "hgNPHJ_1uSm5i": {
-                "id": "hgNPHJ_1uSm5i",
-                "childIds": [
-                  "lLK3BJmGWkEI"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "hgNPHJ_CFv7gs": {
-                "id": "hgNPHJ_CFv7gs",
-                "childIds": [
-                  "WRZYJN4suTvK"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "hgNPHJ_NMRcwt": {
-                "id": "hgNPHJ_NMRcwt",
-                "childIds": [
-                  "RdLKW2iYwjJt"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "hgNPHJ_csBrYM": {
-                "id": "hgNPHJ_csBrYM",
-                "childIds": [
-                  "iuqXZkbiUPB3"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "jEcTtl_1uSm5i": {
-                "id": "jEcTtl_1uSm5i",
-                "childIds": [
-                  "LbMK7cHIKRI2"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "jEcTtl_CFv7gs": {
-                "id": "jEcTtl_CFv7gs",
-                "childIds": [
-                  "3yzpzHDH7wxX"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "jEcTtl_NMRcwt": {
-                "id": "jEcTtl_NMRcwt",
-                "childIds": [
-                  "wwyVzRIGEGBy"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "jEcTtl_csBrYM": {
-                "id": "jEcTtl_csBrYM",
-                "childIds": [
-                  "3jvMfxMJHPvS"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "laNcUG_1uSm5i": {
-                "id": "laNcUG_1uSm5i",
-                "childIds": [
-                  "VbUzfxfXhNBQ"
-                ],
-                "rowSpan": "1",
-                "colSpan": "4",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              }
-            },
-            "description": "",
-            "rowHeader": true,
-            "colHeader": false
-          }
-        },
-        "wwyVzRIGEGBy": {
-          "id": "wwyVzRIGEGBy",
-          "parentId": "jEcTtl_NMRcwt",
-          "align": "center",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [],
+            "kind": "body"
+          }
+        },
+        "Q2PyJPUrSqFW": {
+          "id": "Q2PyJPUrSqFW",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "关于公测后各期协议通行证相关奖励的汇总，可以通过该栏的分页查看。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QKx246AZnYWl": {
+          "id": "QKx246AZnYWl",
+          "parentId": "KB9vOY4srrzS",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "购买"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "898",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "且协议通行证达到"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "60"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "级后，每次升级将获得循环奖励"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "928",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "并自动使用。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "W6VcnYuHmfZS": {
+          "id": "W6VcnYuHmfZS",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "W6VcnYuHmfZS",
+            "itemIds": [
+              "i8mU5bbDajsS",
+              "KB9vOY4srrzS"
+            ],
+            "itemMap": {
+              "KB9vOY4srrzS": {
+                "id": "KB9vOY4srrzS",
+                "childIds": [
+                  "QKx246AZnYWl"
+                ]
+              },
+              "i8mU5bbDajsS": {
+                "id": "i8mU5bbDajsS",
+                "childIds": [
+                  "xyHHvVCqkHD4"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "eCAIUOj7L8Xw": {
+          "id": "eCAIUOj7L8Xw",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "购买"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "898",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后，提高"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "协议通行证"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "等级可以获得"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "协议通行证-源石配给"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "档位的额外奖励。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "xyHHvVCqkHD4": {
+          "id": "xyHHvVCqkHD4",
+          "parentId": "i8mU5bbDajsS",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "购买"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "898",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "当期协议通行证内获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "15",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "额外增加"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "3%"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（可叠加）"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
             "kind": "body"
           }
         }
@@ -391,7 +313,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "table_text"
+    "usagePattern": "list_entry"
   },
   "detailLoaded": true
 }
