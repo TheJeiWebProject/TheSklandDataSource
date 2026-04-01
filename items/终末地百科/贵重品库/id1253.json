@@ -4,7 +4,7 @@
   },
   "name": "鳞肉干",
   "icon": "https://bbs.hycdn.cn/image/common/20260319/3048259/69bb94d14298be0edf04610a_3eac6ad0.png",
-  "description": "获取方式:\n协议通行证-协议定制1级奖励。\n\n用途:\n使用后可以恢复[理智x40]。",
+  "description": "获取方式:\n协议通行证奖励。\n协议通行证·暗流期间购买[通行证申请·定制]并将通行证等级提升至1后可以领取[鳞肉干x1]。 该物品对应的是新潮起，故渊离版本中登场的干员[汤汤]。\n\n用途:\n使用以回复理智。\n每使用[鳞肉干x1]可以回复[理智x40]。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,52 +21,60 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1774927876",
+    "timestamp": "1775014988",
     "data": {
       "item": {
         "itemId": "1253",
         "document": {
           "documentMap": {
-            "4JoGEGmR": {
+            "A17U60hl": {
               "id": "document-id",
               "blockIds": [
-                "Xs9L5Z",
-                "lzqtLmUIrv3q",
-                "pCnuhO"
+                "bQnTCN",
+                "QB7bLN",
+                "8LFldN9cilwY",
+                "cc9Nq6"
               ],
               "blockMap": {
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "lzqtLmUIrv3q": {
-                  "id": "lzqtLmUIrv3q",
-                  "parentId": "document-id",
+                "3MIi0Ne4DiZm": {
+                  "id": "3MIi0Ne4DiZm",
+                  "parentId": "tyc6wq2fTKew",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
-                        "bold": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "使用后可以恢复"
+                          "text": "该物品对应的是"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "新潮起，故渊离"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "版本中登场的干员"
                         }
                       },
                       {
                         "kind": "entry",
                         "entry": {
-                          "id": "17",
+                          "id": "1130",
                           "showType": "link-imgText",
-                          "count": "40"
+                          "count": "0"
                         }
                       },
                       {
-                        "bold": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
                           "text": "。"
@@ -76,29 +84,36 @@
                     "kind": "body"
                   }
                 },
-                "pCnuhO": {
-                  "id": "pCnuhO",
+                "8LFldN9cilwY": {
+                  "id": "8LFldN9cilwY",
                   "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
+                  "kind": "list",
+                  "list": {
+                    "id": "8LFldN9cilwY",
+                    "itemIds": [
+                      "JsV16F9jPubj",
+                      "tyc6wq2fTKew"
+                    ],
+                    "itemMap": {
+                      "JsV16F9jPubj": {
+                        "id": "JsV16F9jPubj",
+                        "childIds": [
+                          "EMOvlbDSrS95"
+                        ]
+                      },
+                      "tyc6wq2fTKew": {
+                        "id": "tyc6wq2fTKew",
+                        "childIds": [
+                          "3MIi0Ne4DiZm"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
                   }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "bbXCP64a": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "QB7bLN",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "QB7bLN": {
-                  "id": "QB7bLN",
-                  "parentId": "document-id",
+                },
+                "EMOvlbDSrS95": {
+                  "id": "EMOvlbDSrS95",
+                  "parentId": "JsV16F9jPubj",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -108,14 +123,63 @@
                         "color": "light_rank_yellow",
                         "kind": "text",
                         "text": {
-                          "text": "协议通行证-协议定制"
+                          "text": "协议通行证·暗流"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "1级奖励。"
+                          "text": "期间购买"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "897",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并将通行证等级提升至1后可以领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1253",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证奖励。"
                         }
                       }
                     ],
@@ -136,6 +200,121 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "EeyLrIVX": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "lzqtLmUIrv3q",
+                "byuxGkQv4Qip",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "byuxGkQv4Qip": {
+                  "id": "byuxGkQv4Qip",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "byuxGkQv4Qip",
+                    "itemIds": [
+                      "UFCkMrurGXXh"
+                    ],
+                    "itemMap": {
+                      "UFCkMrurGXXh": {
+                        "id": "UFCkMrurGXXh",
+                        "childIds": [
+                          "vG7PtFt0SnOh"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lzqtLmUIrv3q": {
+                  "id": "lzqtLmUIrv3q",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用以回复理智。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "vG7PtFt0SnOh": {
+                  "id": "vG7PtFt0SnOh",
+                  "parentId": "UFCkMrurGXXh",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "每使用"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1253",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可以回复"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "17",
+                          "showType": "link-imgText",
+                          "count": "40"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 }
               },
@@ -178,7 +357,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "4JoGEGmR",
+                  "content": "EeyLrIVX",
                   "audioList": []
                 }
               }
@@ -190,7 +369,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "bbXCP64a",
+                  "content": "A17U60hl",
                   "audioList": []
                 }
               }
@@ -348,10 +527,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -429,7 +608,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774523191",
-        "lastAuditPassedAt": "1773901022",
+        "lastAuditPassedAt": "1774966017",
         "tagIds": [
           "10005",
           "10330",
