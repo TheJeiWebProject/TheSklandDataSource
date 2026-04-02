@@ -14810,7 +14810,7 @@
     "slotContents": {
       "in1": {
         "kind": "item",
-        "id": "aef-skland.wiki.item_153",
+        "id": "aef-skland.wiki.item_1146",
         "amount": 1
       },
       "in2": {
@@ -14820,7 +14820,7 @@
       },
       "in3": {
         "kind": "item",
-        "id": "aef-skland.wiki.item_154",
+        "id": "aef-skland.wiki.item_1158",
         "amount": 1
       },
       "out1": {
@@ -15236,8 +15236,13 @@
   },
   {
     "id": "aef-skland:r/wiki_source_255/936",
-    "type": "aef-skland:wiki/source/text_only",
+    "type": "aef-skland:wiki/source/list_entry",
     "slotContents": {
+      "in1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_144",
+        "amount": 1
+      },
       "out1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_255",
@@ -15252,15 +15257,20 @@
         "widgetTitle": "相关来源",
         "panelTitle": ""
       },
-      "sourcePattern": "text_only"
+      "sourcePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_source_255_936.json",
     "detailLoaded": false
   },
   {
     "id": "aef-skland:r/wiki_source_256/937",
-    "type": "aef-skland:wiki/source/text_only",
+    "type": "aef-skland:wiki/source/list_entry",
     "slotContents": {
+      "in1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_289",
+        "amount": 1
+      },
       "out1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_256",
@@ -15275,7 +15285,7 @@
         "widgetTitle": "相关来源",
         "panelTitle": ""
       },
-      "sourcePattern": "text_only"
+      "sourcePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_source_256_937.json",
     "detailLoaded": false
@@ -15315,8 +15325,18 @@
   },
   {
     "id": "aef-skland:r/wiki_source_258/939",
-    "type": "aef-skland:wiki/source/text_only",
+    "type": "aef-skland:wiki/source/list_entry",
     "slotContents": {
+      "in1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_897",
+        "amount": 1
+      },
+      "in2": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_7",
+        "amount": 1
+      },
       "out1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_258",
@@ -15331,7 +15351,7 @@
         "widgetTitle": "相关来源",
         "panelTitle": ""
       },
-      "sourcePattern": "text_only"
+      "sourcePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_source_258_939.json",
     "detailLoaded": false
@@ -17253,8 +17273,18 @@
   },
   {
     "id": "aef-skland:r/wiki_source_331/1015",
-    "type": "aef-skland:wiki/source/text_only",
+    "type": "aef-skland:wiki/source/list_entry",
     "slotContents": {
+      "in1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_897",
+        "amount": 1
+      },
+      "in2": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_159",
+        "amount": 1
+      },
       "out1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_331",
@@ -17269,7 +17299,7 @@
         "widgetTitle": "相关来源",
         "panelTitle": ""
       },
-      "sourcePattern": "text_only"
+      "sourcePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_source_331_1015.json",
     "detailLoaded": false
@@ -39720,7 +39750,7 @@
     "slotContents": {
       "in1": {
         "kind": "item",
-        "id": "aef-skland.wiki.item_152",
+        "id": "aef-skland.wiki.item_1107",
         "amount": 1
       },
       "out1": {
@@ -43883,8 +43913,13 @@
   },
   {
     "id": "aef-skland:r/wiki_source_1196/1960",
-    "type": "aef-skland:wiki/source/list_text",
+    "type": "aef-skland:wiki/source/list_entry",
     "slotContents": {
+      "in1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_1246",
+        "amount": 1
+      },
       "out1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_1196",
@@ -43899,7 +43934,7 @@
         "widgetTitle": "相关来源",
         "panelTitle": ""
       },
-      "sourcePattern": "list_text"
+      "sourcePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_source_1196_1960.json",
     "detailLoaded": false
@@ -44529,8 +44564,23 @@
   },
   {
     "id": "aef-skland:r/wiki_source_1220/1987",
-    "type": "aef-skland:wiki/source/list_text",
+    "type": "aef-skland:wiki/source/list_entry",
     "slotContents": {
+      "in1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_1229",
+        "amount": 1
+      },
+      "in2": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_1178",
+        "amount": 1
+      },
+      "in3": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_1190",
+        "amount": 1
+      },
       "out1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_1220",
@@ -44545,7 +44595,7 @@
         "widgetTitle": "相关来源",
         "panelTitle": ""
       },
-      "sourcePattern": "list_text"
+      "sourcePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_source_1220_1987.json",
     "detailLoaded": false
@@ -44618,8 +44668,18 @@
   },
   {
     "id": "aef-skland:r/wiki_source_1222/1990",
-    "type": "aef-skland:wiki/source/list_text",
+    "type": "aef-skland:wiki/source/list_entry",
     "slotContents": {
+      "in1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_1197",
+        "amount": 1
+      },
+      "in2": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_1226",
+        "amount": 1
+      },
       "out1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_1222",
@@ -44634,7 +44694,7 @@
         "widgetTitle": "相关来源",
         "panelTitle": ""
       },
-      "sourcePattern": "list_text"
+      "sourcePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_source_1222_1990.json",
     "detailLoaded": false
@@ -50970,7 +51030,7 @@
   },
   {
     "id": "aef-skland:r/wiki_usage_255/2219",
-    "type": "aef-skland:wiki/usage/text_entry",
+    "type": "aef-skland:wiki/usage/list_entry",
     "slotContents": {
       "in1": {
         "kind": "item",
@@ -51011,14 +51071,14 @@
         "widgetTitle": "相关用途",
         "panelTitle": ""
       },
-      "usagePattern": "text_entry"
+      "usagePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_usage_255_2219.json",
     "detailLoaded": false
   },
   {
     "id": "aef-skland:r/wiki_usage_256/2220",
-    "type": "aef-skland:wiki/usage/text_entry",
+    "type": "aef-skland:wiki/usage/list_entry",
     "slotContents": {
       "in1": {
         "kind": "item",
@@ -51059,7 +51119,7 @@
         "widgetTitle": "相关用途",
         "panelTitle": ""
       },
-      "usagePattern": "text_entry"
+      "usagePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_usage_256_2220.json",
     "detailLoaded": false
@@ -51094,7 +51154,7 @@
   },
   {
     "id": "aef-skland:r/wiki_usage_258/2222",
-    "type": "aef-skland:wiki/usage/text_entry",
+    "type": "aef-skland:wiki/usage/list_entry",
     "slotContents": {
       "in1": {
         "kind": "item",
@@ -51115,7 +51175,7 @@
         "widgetTitle": "相关用途",
         "panelTitle": ""
       },
-      "usagePattern": "text_entry"
+      "usagePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_usage_258_2222.json",
     "detailLoaded": false
@@ -53209,7 +53269,7 @@
   },
   {
     "id": "aef-skland:r/wiki_usage_331/2292",
-    "type": "aef-skland:wiki/usage/text_entry",
+    "type": "aef-skland:wiki/usage/list_entry",
     "slotContents": {
       "in1": {
         "kind": "item",
@@ -53230,7 +53290,7 @@
         "widgetTitle": "相关用途",
         "panelTitle": ""
       },
-      "usagePattern": "text_entry"
+      "usagePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_usage_331_2292.json",
     "detailLoaded": false
@@ -63312,11 +63372,16 @@
   },
   {
     "id": "aef-skland:r/wiki_usage_1196/2663",
-    "type": "aef-skland:wiki/usage/text_only",
+    "type": "aef-skland:wiki/usage/list_entry",
     "slotContents": {
       "in1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_1196",
+        "amount": 1
+      },
+      "out1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_859",
         "amount": 1
       }
     },
@@ -63328,7 +63393,7 @@
         "widgetTitle": "相关用途",
         "panelTitle": ""
       },
-      "usagePattern": "text_only"
+      "usagePattern": "list_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_usage_1196_2663.json",
     "detailLoaded": false

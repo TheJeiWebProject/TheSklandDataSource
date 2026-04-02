@@ -1,7 +1,17 @@
 {
   "id": "aef-skland:r/wiki_source_1222/1990",
-  "type": "aef-skland:wiki/source/list_text",
+  "type": "aef-skland:wiki/source/list_entry",
   "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1197",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1226",
+      "amount": 1
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_1222",
@@ -22,26 +32,42 @@
         "NAgLwL",
         "j3X0zd",
         "q2vVhJ",
-        "cc9Nq6",
-        "JSBZcC"
+        "cc9Nq6"
       ],
       "blockMap": {
-        "JSBZcC": {
-          "id": "JSBZcC",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
         "NAgLwL": {
           "id": "NAgLwL",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "5"
+          }
+        },
+        "XiLBgNrS5Cl0": {
+          "id": "XiLBgNrS5Cl0",
+          "parentId": "CM2VsTDclisv",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1197",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1226",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
           }
         },
         "XmCOq0": {
@@ -75,7 +101,7 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "摧山将、开天将"
+                  "text": "摧山将、开天将："
                 }
               }
             ],
@@ -121,7 +147,28 @@
               "baxFLz": {
                 "id": "baxFLz",
                 "childIds": [
-                  "XmCOq0"
+                  "XmCOq0",
+                  "qUrJwTl27fhA"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "qUrJwTl27fhA": {
+          "id": "qUrJwTl27fhA",
+          "parentId": "baxFLz",
+          "kind": "list",
+          "list": {
+            "id": "qUrJwTl27fhA",
+            "itemIds": [
+              "CM2VsTDclisv"
+            ],
+            "itemMap": {
+              "CM2VsTDclisv": {
+                "id": "CM2VsTDclisv",
+                "childIds": [
+                  "XiLBgNrS5Cl0"
                 ]
               }
             },
@@ -132,7 +179,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "list_text"
+    "sourcePattern": "list_entry"
   },
   "detailLoaded": true
 }

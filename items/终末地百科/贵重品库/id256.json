@@ -4,7 +4,7 @@
   },
   "name": "启程武器补给",
   "icon": "https://bbs.hycdn.cn/image/2026/01/07/203953/10f528709d51191c31e94d3cb53de444.png",
-  "description": "获取方式:\n在启程寻访中进行40次寻访获得。\n\n用途:\n开启可以在以下范围内选取任意一把六星武器：\n[遗忘][破碎君王][热熔切割器][昔日精品][骁勇]",
+  "description": "获取方式:\n特定干员寻访奖励。\n使用[十连启程寻访凭证]在启程寻访中累计进行40次干员寻访后可以领取[启程武器补给x1]。\n\n用途:\n特定干员寻访奖励。\n使用[十连启程寻访凭证]在启程寻访中累计进行40次干员寻访后可以领取[启程武器补给x1]。\n开启后获得特定的六星武器。\n使用启程武器补给可以选择以下的六星武器：\n[遗忘][破碎君王][热熔切割器][昔日精品][骁勇]",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,21 +21,173 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775012447",
+    "timestamp": "1775097891",
     "data": {
       "item": {
         "itemId": "256",
         "document": {
           "documentMap": {
-            "TEniAKaW": {
+            "ClwjTCeh": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "WaSlpD",
+                "2ZLAStuIcfMD",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "2ZLAStuIcfMD": {
+                  "id": "2ZLAStuIcfMD",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2ZLAStuIcfMD",
+                    "itemIds": [
+                      "uNiG1NwXNJRM"
+                    ],
+                    "itemMap": {
+                      "uNiG1NwXNJRM": {
+                        "id": "uNiG1NwXNJRM",
+                        "childIds": [
+                          "OO5eIfqy1mKN"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OO5eIfqy1mKN": {
+                  "id": "OO5eIfqy1mKN",
+                  "parentId": "uNiG1NwXNJRM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "289",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "启程寻访"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中累计进行40次干员寻访后可以领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "256",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WaSlpD": {
+                  "id": "WaSlpD",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特定干员寻访奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "whzyQyZL": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
-                "x2Ffkv",
+                "aaaLLQMlphd6",
+                "D0UdGEZy1cot",
                 "P7JZNDUqeH5j",
                 "pCnuhO"
               ],
               "blockMap": {
+                "D0UdGEZy1cot": {
+                  "id": "D0UdGEZy1cot",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "D0UdGEZy1cot",
+                    "itemIds": [
+                      "kADeMRbLRqj1"
+                    ],
+                    "itemMap": {
+                      "kADeMRbLRqj1": {
+                        "id": "kADeMRbLRqj1",
+                        "childIds": [
+                          "RuHGWVARWroN"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
                 "P7JZNDUqeH5j": {
                   "id": "P7JZNDUqeH5j",
                   "parentId": "document-id",
@@ -87,6 +239,39 @@
                     "kind": "body"
                   }
                 },
+                "RuHGWVARWroN": {
+                  "id": "RuHGWVARWroN",
+                  "parentId": "kADeMRbLRqj1",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "启程武器补给"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可以选择以下的六星武器："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "Xs9L5Z": {
                   "id": "Xs9L5Z",
                   "parentId": "document-id",
@@ -95,88 +280,27 @@
                     "kind": "5"
                   }
                 },
+                "aaaLLQMlphd6": {
+                  "id": "aaaLLQMlphd6",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "开启后获得特定的六星武器。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "pCnuhO": {
                   "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "x2Ffkv": {
-                  "id": "x2Ffkv",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "开启可以在以下范围内选取任意一把六星武器："
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "cpiKnSVH": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "WaSlpD",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "WaSlpD": {
-                  "id": "WaSlpD",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "启程寻访"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中进行40次寻访获得。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
@@ -223,7 +347,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "TEniAKaW",
+                  "content": "whzyQyZL",
                   "audioList": []
                 }
               }
@@ -235,7 +359,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "cpiKnSVH",
+                  "content": "ClwjTCeh",
                   "audioList": []
                 }
               }
@@ -393,10 +517,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "6208993443188",
-          "nickname": "肉丝饼",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/9c96dd862681caf8673e940a6f338d09.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -474,7 +598,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765796199",
-        "lastAuditPassedAt": "1768410420",
+        "lastAuditPassedAt": "1775018725",
         "tagIds": [
           "10006",
           "10324",

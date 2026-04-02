@@ -4,7 +4,7 @@
   },
   "name": "臻选武器补给",
   "icon": "https://bbs.hycdn.cn/image/2026/01/07/203953/2b150f54984887b5c7bc128739bd9a1c.png",
-  "description": "获取方式:\n活动中心-权限等阶奖励获取。\n权限等阶达45级时可以领取。\n\n用途:\n开启可以在以下范围内选取任意一把六星武器：\n[J.E.T.][白夜新星][爆破单元][楔子][典范]",
+  "description": "获取方式:\n特定活动奖励获取。\n权限等阶达到45级后，可于[权限等阶奖励]活动中领取[臻选武器补给x1]。\n\n用途:\n开启后获得特定的六星武器。\n使用臻选武器补给可以选择以下的六星武器：\n[J.E.T.][白夜新星][爆破单元][楔子][典范]",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,96 +21,24 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775012444",
+    "timestamp": "1775097889",
     "data": {
       "item": {
         "itemId": "255",
         "document": {
           "documentMap": {
-            "TvXlDmfP": {
-              "id": "document-id",
-              "blockIds": [
-                "U8CKBU",
-                "6fwOFP",
-                "UAgvOC",
-                "eLEeFl"
-              ],
-              "blockMap": {
-                "6fwOFP": {
-                  "id": "6fwOFP",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_function_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "活动中心-权限等阶奖励"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "U8CKBU": {
-                  "id": "U8CKBU",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "UAgvOC": {
-                  "id": "UAgvOC",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "权限等阶达45级时可以领取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "eLEeFl": {
-                  "id": "eLEeFl",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "Y2HvNs7Y": {
+            "0cEqtu08": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
-                "36n7DG",
+                "9fLpumkLF3e8",
+                "dztK8nBvMbOj",
                 "d56Qia",
                 "pCnuhO"
               ],
               "blockMap": {
-                "36n7DG": {
-                  "id": "36n7DG",
+                "9fLpumkLF3e8": {
+                  "id": "9fLpumkLF3e8",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -121,7 +49,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "开启可以在以下范围内选取任意一把六星武器："
+                          "text": "开启后获得特定的六星武器。"
                         }
                       }
                     ],
@@ -187,8 +115,185 @@
                     "kind": "body"
                   }
                 },
+                "dztK8nBvMbOj": {
+                  "id": "dztK8nBvMbOj",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "dztK8nBvMbOj",
+                    "itemIds": [
+                      "FiMCvr1XfGb1"
+                    ],
+                    "itemMap": {
+                      "FiMCvr1XfGb1": {
+                        "id": "FiMCvr1XfGb1",
+                        "childIds": [
+                          "eU8QIXz3Fzh0"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "eU8QIXz3Fzh0": {
+                  "id": "eU8QIXz3Fzh0",
+                  "parentId": "FiMCvr1XfGb1",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "臻选武器补给"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可以选择以下的六星武器："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "pCnuhO": {
                   "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "by5KJCqE": {
+              "id": "document-id",
+              "blockIds": [
+                "U8CKBU",
+                "6fwOFP",
+                "QAdi8w35kAlm",
+                "eLEeFl"
+              ],
+              "blockMap": {
+                "6fwOFP": {
+                  "id": "6fwOFP",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特定活动奖励获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QAdi8w35kAlm": {
+                  "id": "QAdi8w35kAlm",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "QAdi8w35kAlm",
+                    "itemIds": [
+                      "QYOLFnCuqF38"
+                    ],
+                    "itemMap": {
+                      "QYOLFnCuqF38": {
+                        "id": "QYOLFnCuqF38",
+                        "childIds": [
+                          "XXA3WMwVtAvD"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "U8CKBU": {
+                  "id": "U8CKBU",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "XXA3WMwVtAvD": {
+                  "id": "XXA3WMwVtAvD",
+                  "parentId": "QYOLFnCuqF38",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "权限等阶"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "达到45级后，可于"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "144",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "活动中领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "255",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "eLEeFl": {
+                  "id": "eLEeFl",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
@@ -235,7 +340,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Y2HvNs7Y",
+                  "content": "0cEqtu08",
                   "audioList": []
                 }
               }
@@ -247,7 +352,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "TvXlDmfP",
+                  "content": "by5KJCqE",
                   "audioList": []
                 }
               }
@@ -405,10 +510,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "6208993443188",
-          "nickname": "肉丝饼",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/9c96dd862681caf8673e940a6f338d09.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -486,7 +591,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765465882",
-        "lastAuditPassedAt": "1768410428",
+        "lastAuditPassedAt": "1775039812",
         "tagIds": [
           "10006",
           "10324",

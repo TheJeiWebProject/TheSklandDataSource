@@ -1,7 +1,22 @@
 {
   "id": "aef-skland:r/wiki_source_1220/1987",
-  "type": "aef-skland:wiki/source/list_text",
+  "type": "aef-skland:wiki/source/list_entry",
   "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1229",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1178",
+      "amount": 1
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1190",
+      "amount": 1
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_1220",
@@ -22,17 +37,41 @@
         "NAgLwL",
         "j3X0zd",
         "q2vVhJ",
-        "cc9Nq6",
-        "JSBZcC"
+        "cc9Nq6"
       ],
       "blockMap": {
-        "JSBZcC": {
-          "id": "JSBZcC",
-          "parentId": "document-id",
+        "0VEkRIW3Jokt": {
+          "id": "0VEkRIW3Jokt",
+          "parentId": "j86N9xlGnhY5",
           "align": "left",
           "kind": "text",
           "text": {
-            "inlineElements": [],
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1229",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1178",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1190",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
             "kind": "body"
           }
         },
@@ -75,7 +114,7 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "断云叟、劫云客、割云翁。"
+                  "text": "断云叟、劫云客、割云翁："
                 }
               }
             ],
@@ -123,6 +162,26 @@
             "kind": "body"
           }
         },
+        "kPe1jwt1kJmd": {
+          "id": "kPe1jwt1kJmd",
+          "parentId": "baxFLz",
+          "kind": "list",
+          "list": {
+            "id": "kPe1jwt1kJmd",
+            "itemIds": [
+              "j86N9xlGnhY5"
+            ],
+            "itemMap": {
+              "j86N9xlGnhY5": {
+                "id": "j86N9xlGnhY5",
+                "childIds": [
+                  "0VEkRIW3Jokt"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
         "q2vVhJ": {
           "id": "q2vVhJ",
           "parentId": "document-id",
@@ -136,7 +195,8 @@
               "baxFLz": {
                 "id": "baxFLz",
                 "childIds": [
-                  "XmCOq0"
+                  "XmCOq0",
+                  "kPe1jwt1kJmd"
                 ]
               }
             },
@@ -147,7 +207,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "list_text"
+    "sourcePattern": "list_entry"
   },
   "detailLoaded": true
 }

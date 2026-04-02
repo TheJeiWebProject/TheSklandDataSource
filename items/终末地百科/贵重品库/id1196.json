@@ -4,7 +4,7 @@
   },
   "name": "武陵拓展核心",
   "icon": "https://bbs.hycdn.cn/image/common/20260319/3048259/69bb94ae0b797bd73811e207_56331367.png",
-  "description": "获取方式:\n主线任务完成后的报酬。\n\n用途:\n用于解锁新一期的武陵工业计划。",
+  "description": "获取方式:\n完成特定任务的报酬。\n部分紧要任务在完成后的报酬中会包含[武陵拓展核心x1]： [第二章 - 进程Ⅲ - 旧泉涸处新潮生]\n\n用途:\n用于解锁武陵工业计划。\n收集[武陵工业点数]完成前置工业计划全部节点后，可以消耗[武陵拓展核心x1]开启新一期的武陵工业计划。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,94 +21,41 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775014842",
+    "timestamp": "1775100252",
     "data": {
       "item": {
         "itemId": "1196",
         "document": {
           "documentMap": {
-            "8776DRT1": {
+            "4lr123KQ": {
               "id": "document-id",
               "blockIds": [
-                "bQnTCN",
-                "b3jzJ4",
-                "cc9Nq6"
+                "Xs9L5Z",
+                "9frzIp",
+                "5mvFz9nlO6Rb",
+                "pCnuhO"
               ],
               "blockMap": {
-                "b3jzJ4": {
-                  "id": "b3jzJ4",
+                "5mvFz9nlO6Rb": {
+                  "id": "5mvFz9nlO6Rb",
                   "parentId": "document-id",
                   "kind": "list",
                   "list": {
-                    "id": "b3jzJ4",
+                    "id": "5mvFz9nlO6Rb",
                     "itemIds": [
-                      "nABreQ"
+                      "9vLFEUgCWxmm"
                     ],
                     "itemMap": {
-                      "nABreQ": {
-                        "id": "nABreQ",
+                      "9vLFEUgCWxmm": {
+                        "id": "9vLFEUgCWxmm",
                         "childIds": [
-                          "yg8vLa"
+                          "qM3baDY8omlG"
                         ]
                       }
                     },
                     "kind": "unordered"
                   }
                 },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "yg8vLa": {
-                  "id": "yg8vLa",
-                  "parentId": "nABreQ",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "主线任务"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "完成后的报酬。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "VaZr0Ckv": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "9frzIp",
-                "pCnuhO"
-              ],
-              "blockMap": {
                 "9frzIp": {
                   "id": "9frzIp",
                   "parentId": "document-id",
@@ -120,7 +67,7 @@
                         "bold": true,
                         "kind": "text",
                         "text": {
-                          "text": "用于解锁新一期的武陵工业计划。"
+                          "text": "用于解锁武陵工业计划。"
                         }
                       }
                     ],
@@ -141,6 +88,208 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
+                  }
+                },
+                "qM3baDY8omlG": {
+                  "id": "qM3baDY8omlG",
+                  "parentId": "9vLFEUgCWxmm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "收集"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "859",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成前置工业计划全部节点后，可以消耗"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1196",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "开启新一期的武陵工业计划。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "WS6fNkrV": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "lFsRT6qkP1tg",
+                "lXWidn9havQ1",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "lFsRT6qkP1tg": {
+                  "id": "lFsRT6qkP1tg",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "完成特定任务的报酬。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lXWidn9havQ1": {
+                  "id": "lXWidn9havQ1",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "lXWidn9havQ1",
+                    "itemIds": [
+                      "gUCfwHqmyPAp"
+                    ],
+                    "itemMap": {
+                      "gUCfwHqmyPAp": {
+                        "id": "gUCfwHqmyPAp",
+                        "childIds": [
+                          "p9iyRa4NXmxo",
+                          "mAMDOYEFPCar"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lw0LgfDl6z7J": {
+                  "id": "lw0LgfDl6z7J",
+                  "parentId": "HC5AB3XiTY3r",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1246",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mAMDOYEFPCar": {
+                  "id": "mAMDOYEFPCar",
+                  "parentId": "gUCfwHqmyPAp",
+                  "kind": "list",
+                  "list": {
+                    "id": "mAMDOYEFPCar",
+                    "itemIds": [
+                      "HC5AB3XiTY3r"
+                    ],
+                    "itemMap": {
+                      "HC5AB3XiTY3r": {
+                        "id": "HC5AB3XiTY3r",
+                        "childIds": [
+                          "lw0LgfDl6z7J"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "p9iyRa4NXmxo": {
+                  "id": "p9iyRa4NXmxo",
+                  "parentId": "gUCfwHqmyPAp",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "部分"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "紧要任务"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在完成后的报酬中会包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1196",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 }
               },
@@ -183,7 +332,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "VaZr0Ckv",
+                  "content": "4lr123KQ",
                   "audioList": []
                 }
               }
@@ -195,7 +344,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "8776DRT1",
+                  "content": "WS6fNkrV",
                   "audioList": []
                 }
               }
@@ -353,10 +502,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -433,7 +582,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773397453",
-        "lastAuditPassedAt": "1773901040",
+        "lastAuditPassedAt": "1775018509",
         "tagIds": [
           "10005",
           "10330",

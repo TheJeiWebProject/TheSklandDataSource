@@ -4,7 +4,7 @@
   },
   "name": "清波竹铃",
   "icon": "https://bbs.hycdn.cn/image/common/20260318/4863030/69ba644f0b797bd73811dbf1_3eac6ad0.png",
-  "description": "获取方式:\n击败摧山将有概率掉落。\n以下敌人被击败时均会掉落清波竹铃：摧山将、开天将\n\n用途:\n用于仓储节点货物装箱。\n每装箱[清波竹铃x1]需要500点货箱容量。",
+  "description": "获取方式:\n击败摧山将有概率掉落。\n以下敌人被击败时均会掉落清波竹铃：摧山将、开天将： [摧山将][开天将]\n\n用途:\n用于仓储节点货物装箱。\n每装箱[清波竹铃x1]需要500点货箱容量。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,13 +21,166 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775014907",
+    "timestamp": "1775100316",
     "data": {
       "item": {
         "itemId": "1222",
         "document": {
           "documentMap": {
-            "TPNjWBLN": {
+            "22e4hoyM": {
+              "id": "document-id",
+              "blockIds": [
+                "NAgLwL",
+                "j3X0zd",
+                "q2vVhJ",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "NAgLwL": {
+                  "id": "NAgLwL",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "XiLBgNrS5Cl0": {
+                  "id": "XiLBgNrS5Cl0",
+                  "parentId": "CM2VsTDclisv",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1197",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1226",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XmCOq0": {
+                  "id": "XmCOq0",
+                  "parentId": "baxFLz",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "以下敌人被击败时均会掉落"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "清波竹铃"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "摧山将、开天将："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "j3X0zd": {
+                  "id": "j3X0zd",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "击败摧山将有概率掉落。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "q2vVhJ": {
+                  "id": "q2vVhJ",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "q2vVhJ",
+                    "itemIds": [
+                      "baxFLz"
+                    ],
+                    "itemMap": {
+                      "baxFLz": {
+                        "id": "baxFLz",
+                        "childIds": [
+                          "XmCOq0",
+                          "qUrJwTl27fhA"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "qUrJwTl27fhA": {
+                  "id": "qUrJwTl27fhA",
+                  "parentId": "baxFLz",
+                  "kind": "list",
+                  "list": {
+                    "id": "qUrJwTl27fhA",
+                    "itemIds": [
+                      "CM2VsTDclisv"
+                    ],
+                    "itemMap": {
+                      "CM2VsTDclisv": {
+                        "id": "CM2VsTDclisv",
+                        "childIds": [
+                          "XiLBgNrS5Cl0"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "IIqyw2nK": {
               "id": "document-id",
               "blockIds": [
                 "OuJNYHu8uc5x",
@@ -335,123 +488,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "VILWygoH": {
-              "id": "document-id",
-              "blockIds": [
-                "NAgLwL",
-                "j3X0zd",
-                "q2vVhJ",
-                "cc9Nq6",
-                "JSBZcC"
-              ],
-              "blockMap": {
-                "JSBZcC": {
-                  "id": "JSBZcC",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [],
-                    "kind": "body"
-                  }
-                },
-                "NAgLwL": {
-                  "id": "NAgLwL",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "XmCOq0": {
-                  "id": "XmCOq0",
-                  "parentId": "baxFLz",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "以下敌人被击败时均会掉落"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "清波竹铃"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "："
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "摧山将、开天将"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "j3X0zd": {
-                  "id": "j3X0zd",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "击败摧山将有概率掉落。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "q2vVhJ": {
-                  "id": "q2vVhJ",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "q2vVhJ",
-                    "itemIds": [
-                      "baxFLz"
-                    ],
-                    "itemMap": {
-                      "baxFLz": {
-                        "id": "baxFLz",
-                        "childIds": [
-                          "XmCOq0"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "XOu6x1Bl": {
+            "raVr6N68": {
               "id": "document-id",
               "blockIds": [
                 "czI8jF",
@@ -598,7 +635,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "TPNjWBLN",
+                  "content": "IIqyw2nK",
                   "audioList": []
                 }
               }
@@ -610,7 +647,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "XOu6x1Bl",
+                  "content": "raVr6N68",
                   "audioList": []
                 }
               }
@@ -622,7 +659,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "VILWygoH",
+                  "content": "22e4hoyM",
                   "audioList": []
                 }
               }
@@ -808,10 +845,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "6208993443188",
-          "nickname": "肉丝饼",
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2025/10/31/9c96dd862681caf8673e940a6f338d09.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
         },
         "createdUser": {
           "id": "9228422493033",
@@ -888,7 +925,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774018669",
-        "lastAuditPassedAt": "1774091564",
+        "lastAuditPassedAt": "1775058975",
         "tagIds": [
           "10004",
           "10257",

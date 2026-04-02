@@ -4,7 +4,7 @@
   },
   "name": "精锐伏击射手",
   "icon": "https://bbs.hycdn.cn/image/2025/12/30/139426/b3732b67bb070564240b6b3453c277fd.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n枢纽区 源石研究园 供能高地 能量淤积点·供能高地\n|敌人掉落\n\n用途:\n受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素，射击精准，使用的弩箭得到了全面强化。\n影拓丰碑-大地的弃子-旁门外道中的精锐伏击射手。\n|敌方情报\n描述\n能力\n更难被打断、无法移动并不断提高攻击力。",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n该敌人无特殊能力。\n|敌人分布区域\n枢纽区 源石研究园 供能高地 能量淤积点·供能高地\n|敌人掉落\n\n用途:\n受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素，射击精准，使用的弩箭得到了全面强化。\n[影拓丰碑｜零号委托]\n登场于「大地的弃子」旁门外道和旁门外道·苦难的精锐伏击射手。\n|敌方情报\n描述\n能力",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,16 +13,45 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775013744",
+    "timestamp": "1775099168",
     "data": {
       "item": {
         "itemId": "760",
         "document": {
           "documentMap": {
-            "DFxuWSEr": {
+            "FmellGbx": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素，射击精准，使用的弩箭得到了全面强化。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "rnPCVco5": {
               "id": "document-id",
               "blockIds": [
                 "Xfmwy9GXeFH2",
+                "0gHp1uMcQN6m",
                 "BOkNBaWD2W6W",
                 "rodvehtVcW5C",
                 "dA0XyrSzBiSu",
@@ -30,6 +59,59 @@
                 "eL3HtifkV0qd"
               ],
               "blockMap": {
+                "0gHp1uMcQN6m": {
+                  "id": "0gHp1uMcQN6m",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "登场于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "「大地的弃子」旁门外道"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "和"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "旁门外道·苦难"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的精锐伏击射手。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "1JhfI1FiRCgN": {
                   "id": "1JhfI1FiRCgN",
                   "parentId": "p5nhT72F7Boj",
@@ -95,20 +177,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "bold": true,
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "影拓丰碑-大地的弃子-旁门外道"
-                        }
-                      },
-                      {
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中的精锐伏击射手。"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "394",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       }
                     ],
@@ -194,35 +267,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "IRMNCOSB": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "受雾火强化，装备远程武器的裂地者精锐武装人员。他们训练有素，射击精准，使用的弩箭得到了全面强化。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "jaD71ZMQ": {
+            "zMV0QslG": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -892,7 +937,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "DFxuWSEr",
+                  "content": "rnPCVco5",
                   "audioList": []
                 }
               }
@@ -913,9 +958,9 @@
                     "name": "精锐伏击射手",
                     "type": "裂地者",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "IRMNCOSB"
+                    "description": "FmellGbx"
                   },
-                  "content": "jaD71ZMQ",
+                  "content": "zMV0QslG",
                   "audioList": []
                 }
               }
@@ -1053,7 +1098,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767798384",
-        "lastAuditPassedAt": "1773931395",
+        "lastAuditPassedAt": "1775064921",
         "tagIds": [
           "10232"
         ]
