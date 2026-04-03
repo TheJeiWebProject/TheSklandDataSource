@@ -43,33 +43,6 @@
             "kind": "5"
           }
         },
-        "XiLBgNrS5Cl0": {
-          "id": "XiLBgNrS5Cl0",
-          "parentId": "CM2VsTDclisv",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "1197",
-                  "showType": "card-big",
-                  "count": "0"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "1226",
-                  "showType": "card-big",
-                  "count": "0"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
         "XmCOq0": {
           "id": "XmCOq0",
           "parentId": "baxFLz",
@@ -97,11 +70,19 @@
                 }
               },
               {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "摧山将、开天将："
+                "kind": "entry",
+                "entry": {
+                  "id": "1197",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1226",
+                  "showType": "link-imgText",
+                  "count": "0"
                 }
               }
             ],
@@ -147,28 +128,7 @@
               "baxFLz": {
                 "id": "baxFLz",
                 "childIds": [
-                  "XmCOq0",
-                  "qUrJwTl27fhA"
-                ]
-              }
-            },
-            "kind": "unordered"
-          }
-        },
-        "qUrJwTl27fhA": {
-          "id": "qUrJwTl27fhA",
-          "parentId": "baxFLz",
-          "kind": "list",
-          "list": {
-            "id": "qUrJwTl27fhA",
-            "itemIds": [
-              "CM2VsTDclisv"
-            ],
-            "itemMap": {
-              "CM2VsTDclisv": {
-                "id": "CM2VsTDclisv",
-                "childIds": [
-                  "XiLBgNrS5Cl0"
+                  "XmCOq0"
                 ]
               }
             },

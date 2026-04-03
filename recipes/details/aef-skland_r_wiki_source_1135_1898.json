@@ -7,6 +7,11 @@
       "id": "aef-skland.wiki.item_250",
       "amount": 245
     },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1283",
+      "amount": 1
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_1135",
@@ -268,11 +273,11 @@
                 }
               },
               {
-                "bold": true,
-                "color": "light_rank_yellow",
-                "kind": "text",
-                "text": {
-                  "text": "狼群瑰宝签到"
+                "kind": "entry",
+                "entry": {
+                  "id": "1283",
+                  "showType": "link-imgText",
+                  "count": "0"
                 }
               },
               {
