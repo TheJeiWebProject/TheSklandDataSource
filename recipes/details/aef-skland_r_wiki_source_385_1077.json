@@ -35,6 +35,76 @@
         "cc9Nq6"
       ],
       "blockMap": {
+        "EHT8E3hz1RYE": {
+          "id": "EHT8E3hz1RYE",
+          "parentId": "rkjHvyMEl9pS",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "贵重品库"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中持有"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "385",
+                  "showType": "link-imgText",
+                  "count": "10"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "时使用理智萃取器将无法获取新的"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "385",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，同时界面中会提示“"
+                }
+              },
+              {
+                "color": "light_function_red",
+                "kind": "text",
+                "text": {
+                  "text": "携带理智精粹药剂的数量已达上限"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "”。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
         "IG7rom": {
           "id": "IG7rom",
           "parentId": "document-id",
@@ -42,13 +112,20 @@
           "list": {
             "id": "IG7rom",
             "itemIds": [
-              "X5aGZ2"
+              "X5aGZ2",
+              "rkjHvyMEl9pS"
             ],
             "itemMap": {
               "X5aGZ2": {
                 "id": "X5aGZ2",
                 "childIds": [
                   "KH0ozu"
+                ]
+              },
+              "rkjHvyMEl9pS": {
+                "id": "rkjHvyMEl9pS",
+                "childIds": [
+                  "EHT8E3hz1RYE"
                 ]
               }
             },
