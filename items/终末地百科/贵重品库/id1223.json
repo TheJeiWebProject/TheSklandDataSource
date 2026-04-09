@@ -4,7 +4,7 @@
   },
   "name": "草编天使",
   "icon": "https://bbs.hycdn.cn/image/common/20260323/203953/69c1158145f7d92a73c874ff_db193eac.png",
-  "description": "获取方式:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n\n用途:\n可在帝江号上赠送给特定喜好的干员。\n可向喜好创意、益智的干员赠送[草编天使]以提升其信赖值。 [草编天使]属于武陵·游商严选系列礼物，若赠送时为流行品，可以提供更高的信赖值提升。\n标签 | 喜好干员\n创意 | [安塔尔][萤石][狼卫][佩丽卡][莱万汀][汤汤]\n益智 | [埃特拉][安塔尔][赛希][别礼][骏卫]",
+  "description": "获取方式:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n武陵-仓储节点感谢信附件。\n在武陵完成运送委托后收到的感谢信附件中可能包含[草编天使x3]。\n\n用途:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n武陵-仓储节点感谢信附件。\n在武陵完成运送委托后收到的感谢信附件中可能包含[草编天使x3]。\n可在帝江号上赠送给特定喜好的干员。\n可向喜好创意、益智的干员赠送[草编天使]以提升其信赖值。 [草编天使]属于武陵·游商严选系列礼物，若赠送时为流行品，可以提供更高的信赖值提升。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,18 +21,21 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775619039",
+    "timestamp": "1775705138",
     "data": {
       "item": {
         "itemId": "1223",
         "document": {
           "documentMap": {
-            "LrnZXhws": {
+            "Ix77kAtB": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
                 "zNFWbv",
                 "5O6cWaNeG0CX",
+                "ijD4WgTqhoAJ",
+                "jmhGIf5exVBr",
+                "aaVKGzdD1yBr",
                 "cc9Nq6"
               ],
               "blockMap": {
@@ -134,6 +137,59 @@
                     "kind": "body"
                   }
                 },
+                "HVR3Z9asIYok": {
+                  "id": "HVR3Z9asIYok",
+                  "parentId": "KwphLv4hPngj",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在武陵完成运送委托后收到的感谢信附件中可能包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1223",
+                          "showType": "link-imgText",
+                          "count": "3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "aaVKGzdD1yBr": {
+                  "id": "aaVKGzdD1yBr",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "aaVKGzdD1yBr",
+                    "itemIds": [
+                      "KwphLv4hPngj"
+                    ],
+                    "itemMap": {
+                      "KwphLv4hPngj": {
+                        "id": "KwphLv4hPngj",
+                        "childIds": [
+                          "HVR3Z9asIYok"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
                 "bQnTCN": {
                   "id": "bQnTCN",
                   "parentId": "document-id",
@@ -148,6 +204,33 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
+                  }
+                },
+                "ijD4WgTqhoAJ": {
+                  "id": "ijD4WgTqhoAJ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "jmhGIf5exVBr": {
+                  "id": "jmhGIf5exVBr",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵-仓储节点感谢信附件。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "zNFWbv": {
@@ -173,7 +256,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "MG0J0NU5": {
+            "RiGem2KD": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -698,7 +781,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "MG0J0NU5",
+                  "content": "RiGem2KD",
                   "audioList": []
                 }
               }
@@ -710,7 +793,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "LrnZXhws",
+                  "content": "Ix77kAtB",
                   "audioList": []
                 }
               }
@@ -949,7 +1032,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774524135",
-        "lastAuditPassedAt": "1774966032",
+        "lastAuditPassedAt": "1775625831",
         "tagIds": [
           "10005",
           "10330",

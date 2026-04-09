@@ -4,6 +4,11 @@
   "slotContents": {
     "in1": {
       "kind": "item",
+      "id": "aef-skland.wiki.item_15",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
       "id": "aef-skland.wiki.item_898",
       "amount": 1
     },
@@ -64,9 +69,16 @@
           "list": {
             "id": "baddfo",
             "itemIds": [
-              "Ao0781"
+              "Ao0781",
+              "1nFXfD5aUqq2"
             ],
             "itemMap": {
+              "1nFXfD5aUqq2": {
+                "id": "1nFXfD5aUqq2",
+                "childIds": [
+                  "nTXH5xBOlhP6"
+                ]
+              },
               "Ao0781": {
                 "id": "Ao0781",
                 "childIds": [
@@ -88,6 +100,84 @@
         "hFd50F": {
           "id": "hFd50F",
           "parentId": "Ao0781",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "获取"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "15",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "提升"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "协议通行证"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "等级，通过领取等级奖励每期"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "协议通行证"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可以获得共计"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "928",
+                  "showType": "link-imgText",
+                  "count": "26"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "nTXH5xBOlhP6": {
+          "id": "nTXH5xBOlhP6",
+          "parentId": "1nFXfD5aUqq2",
           "align": "left",
           "kind": "text",
           "text": {

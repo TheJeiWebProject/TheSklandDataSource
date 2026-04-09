@@ -4,7 +4,7 @@
   },
   "name": "武器补给·暗流",
   "icon": "https://bbs.hycdn.cn/image/common/20260326/203953/69c52f8f8beddd4c8ef7b19b_56331367.png",
-  "description": "获取方式:\n协议通行证奖励。\n\n用途:\n开启可以在以下范围内选取任意一把六星武器：\n[望乡][光荣记忆][作品：蚀迹][领航者][黯色火炬]",
+  "description": "获取方式:\n通行证等级奖励。\n于协议通行证·暗流期间购买[通行证申请·源石]并将通行证等级提升至40级可领取[武器补给·暗流x1]。 于协议通行证·暗流期间购买[通行证申请·定制]并将通行证等级提升至20级可领取[武器补给·暗流x1]。\n开启后获得特定的六星武器。\n使用武器补给·暗流可以选择并获取来自下列协议通行证的一把六星武器： 协议通行证·暗流：[光荣记忆][望乡] 协议通行证·唤醒：[黯色火炬][作品：蚀迹][领航者]\n\n用途:\n开启后获得特定的六星武器。\n使用武器补给·暗流可以选择并获取来自下列协议通行证的一把六星武器： 协议通行证·暗流：[光荣记忆][望乡] 协议通行证·唤醒：[黯色火炬][作品：蚀迹][领航者]",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,23 +21,71 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775618831",
+    "timestamp": "1775704929",
     "data": {
       "item": {
         "itemId": "1139",
         "document": {
           "documentMap": {
-            "t0gMQ1fG": {
+            "F4Hd5q1k": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
-                "9frzIp",
-                "aWxK4KXuCLlD",
+                "WDEYnfMs2tAi",
+                "zlVxsWIVrWDu",
                 "pCnuhO"
               ],
               "blockMap": {
-                "9frzIp": {
-                  "id": "9frzIp",
+                "QdSh11PWKk5Q": {
+                  "id": "QdSh11PWKk5Q",
+                  "parentId": "BdDxvMGiLgST",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武器补给·暗流"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可以选择并获取来自下列"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的一把六星武器："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WDEYnfMs2tAi": {
+                  "id": "WDEYnfMs2tAi",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -48,7 +96,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "开启可以在以下范围内选取任意一把六星武器："
+                          "text": "开启后获得特定的六星武器。"
                         }
                       }
                     ],
@@ -63,17 +111,33 @@
                     "kind": "5"
                   }
                 },
-                "aWxK4KXuCLlD": {
-                  "id": "aWxK4KXuCLlD",
-                  "parentId": "document-id",
+                "dfpGy3t1YQk8": {
+                  "id": "dfpGy3t1YQk8",
+                  "parentId": "Ud8xoYuP7KH6",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证·暗流"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      },
+                      {
                         "kind": "entry",
                         "entry": {
-                          "id": "1174",
+                          "id": "1173",
                           "showType": "card-big",
                           "count": "0"
                         }
@@ -81,7 +145,42 @@
                       {
                         "kind": "entry",
                         "entry": {
-                          "id": "1173",
+                          "id": "1174",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fPAO8eO1AGbW": {
+                  "id": "fPAO8eO1AGbW",
+                  "parentId": "gzFqUeTbc8zS",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证·唤醒"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "71",
                           "showType": "card-big",
                           "count": "0"
                         }
@@ -101,14 +200,6 @@
                           "showType": "card-big",
                           "count": "0"
                         }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "71",
-                          "showType": "card-big",
-                          "count": "0"
-                        }
                       }
                     ],
                     "kind": "body"
@@ -121,19 +212,131 @@
                   "horizontalLine": {
                     "kind": "2"
                   }
+                },
+                "zgkE9SJGowpf": {
+                  "id": "zgkE9SJGowpf",
+                  "parentId": "BdDxvMGiLgST",
+                  "kind": "list",
+                  "list": {
+                    "id": "zgkE9SJGowpf",
+                    "itemIds": [
+                      "Ud8xoYuP7KH6",
+                      "gzFqUeTbc8zS"
+                    ],
+                    "itemMap": {
+                      "Ud8xoYuP7KH6": {
+                        "id": "Ud8xoYuP7KH6",
+                        "childIds": [
+                          "dfpGy3t1YQk8"
+                        ]
+                      },
+                      "gzFqUeTbc8zS": {
+                        "id": "gzFqUeTbc8zS",
+                        "childIds": [
+                          "fPAO8eO1AGbW"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "zlVxsWIVrWDu": {
+                  "id": "zlVxsWIVrWDu",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "zlVxsWIVrWDu",
+                    "itemIds": [
+                      "BdDxvMGiLgST"
+                    ],
+                    "itemMap": {
+                      "BdDxvMGiLgST": {
+                        "id": "BdDxvMGiLgST",
+                        "childIds": [
+                          "QdSh11PWKk5Q",
+                          "zgkE9SJGowpf"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "xYkPi8IS": {
+            "MMXfwelY": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
                 "WaSlpD",
+                "l0nGhTEfPEkU",
                 "cc9Nq6"
               ],
               "blockMap": {
+                "LF2hLYSJekHd": {
+                  "id": "LF2hLYSJekHd",
+                  "parentId": "Tj9NUiQSYoi8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证·暗流"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间购买"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "898",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并将通行证等级提升至40级可领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1139",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "WaSlpD": {
                   "id": "WaSlpD",
                   "parentId": "document-id",
@@ -143,17 +346,10 @@
                     "inlineElements": [
                       {
                         "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议通行证"
-                        }
-                      },
-                      {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "奖励。"
+                          "text": "通行证等级奖励。"
                         }
                       }
                     ],
@@ -174,6 +370,96 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
+                  }
+                },
+                "l0nGhTEfPEkU": {
+                  "id": "l0nGhTEfPEkU",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "l0nGhTEfPEkU",
+                    "itemIds": [
+                      "Tj9NUiQSYoi8",
+                      "6xYl3v9MBMAI"
+                    ],
+                    "itemMap": {
+                      "6xYl3v9MBMAI": {
+                        "id": "6xYl3v9MBMAI",
+                        "childIds": [
+                          "lbNCbl3KoNFc"
+                        ]
+                      },
+                      "Tj9NUiQSYoi8": {
+                        "id": "Tj9NUiQSYoi8",
+                        "childIds": [
+                          "LF2hLYSJekHd"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lbNCbl3KoNFc": {
+                  "id": "lbNCbl3KoNFc",
+                  "parentId": "6xYl3v9MBMAI",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证·暗流"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间购买"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "897",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并将通行证等级提升至20级可领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1139",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 }
               },
@@ -216,7 +502,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "t0gMQ1fG",
+                  "content": "F4Hd5q1k",
                   "audioList": []
                 }
               }
@@ -228,7 +514,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "xYkPi8IS",
+                  "content": "MMXfwelY",
                   "audioList": []
                 }
               }
@@ -467,7 +753,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774532534",
-        "lastAuditPassedAt": "1774532512",
+        "lastAuditPassedAt": "1775625214",
         "tagIds": [
           "10006",
           "10324",

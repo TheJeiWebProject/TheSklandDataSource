@@ -1,0 +1,379 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1289"
+  },
+  "name": "头像框·启程",
+  "icon": "https://bbs.hycdn.cn/image/common/20260407/203953/69d4666eb8dc576b8403991f_6ad0f152.png",
+  "description": "获取方式:\n通行证等级奖励。\n于协议通行证·唤醒期间购买[通行证申请·定制]并将通行证等级提升至15级可领取。",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:装扮",
+    "rarity:6"
+  ],
+  "source": "终末地百科/装扮/id1289.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1775705280",
+    "data": {
+      "item": {
+        "itemId": "1289",
+        "document": {
+          "documentMap": {
+            "Jo0fvy4e": {
+              "id": "document-id",
+              "blockIds": [
+                "CrgaMtb9NL3Z",
+                "CPTI50RDNGbl",
+                "3NSGLa7rcPDW",
+                "XohgGfTxNfxh"
+              ],
+              "blockMap": {
+                "3NSGLa7rcPDW": {
+                  "id": "3NSGLa7rcPDW",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "3NSGLa7rcPDW",
+                    "itemIds": [
+                      "MAc4Z8uzhlv6"
+                    ],
+                    "itemMap": {
+                      "MAc4Z8uzhlv6": {
+                        "id": "MAc4Z8uzhlv6",
+                        "childIds": [
+                          "IsTQsn8UvlMZ"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "CPTI50RDNGbl": {
+                  "id": "CPTI50RDNGbl",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通行证等级奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "CrgaMtb9NL3Z": {
+                  "id": "CrgaMtb9NL3Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "IsTQsn8UvlMZ": {
+                  "id": "IsTQsn8UvlMZ",
+                  "parentId": "MAc4Z8uzhlv6",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证·唤醒"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间购买"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "897",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并将通行证等级提升至15级可领取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XohgGfTxNfxh": {
+                  "id": "XohgGfTxNfxh",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "获取途径",
+              "widgets": [
+                {
+                  "id": "2n9oD6Hl",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "2n9oD6Hl": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "Jo0fvy4e",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "头像框·启程",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "19",
+          "name": "装扮",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10404",
+              "children": [
+                {
+                  "id": "10406",
+                  "children": [],
+                  "name": "头像",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10407",
+                  "children": [],
+                  "name": "头像框",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10408",
+                  "children": [],
+                  "name": "名片主题",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10405",
+                  "children": [],
+                  "name": "贴纸",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10409",
+                  "children": [],
+                  "name": "滤镜",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9769520938084",
+          "nickname": "陆刀刀",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260407/203953/69d4666eb8dc576b8403991f_6ad0f152.png",
+          "name": "头像框·启程",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "K5sBrzn3Qsu7",
+              "FQee2FQJKgFX"
+            ],
+            "blockMap": {
+              "FQee2FQJKgFX": {
+                "id": "FQee2FQJKgFX",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "请向前走吧，崭新的、无限的世界正等待着您。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "K5sBrzn3Qsu7": {
+                "id": "K5sBrzn3Qsu7",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "用于在个人名片处更换头像框，会在多种场合进行展示。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10404",
+              "value": "10407"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1775622638",
+        "lastAuditPassedAt": "1775552676",
+        "tagIds": [
+          "10006",
+          "10407"
+        ]
+      }
+    }
+  }
+}

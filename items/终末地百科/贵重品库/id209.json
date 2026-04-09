@@ -4,7 +4,7 @@
   },
   "name": "协议化武器原型",
   "icon": "https://bbs.hycdn.cn/image/2026/01/07/203953/c95201afe4ea73810eabe7c5b9f326c6.png",
-  "description": "获取方式:\n协议通行证奖励。\n购买[通行证申请·定制]并提升协议通行证等级后可以获取最多[协议化武器原型x2]。\n\n用途:\n可为所有协议通行证的武器补给所包含的武器提升潜能。",
+  "description": "获取方式:\n协议通行证奖励。\n每期协议通行证中，购买[通行证申请·定制]并将通行证等级提升至30级与40级时，分别各可以领取[协议化武器原型x1]。\n\n用途:\n可为所有协议通行证的武器补给所包含的武器提升潜能。\n来自各期协议通行证、可以使用[协议化武器原型]提升潜能的武器如下所示：\n协议通行证 | 对应版本 | 相应武器\n唤醒 | 零号委托 | [黯色火炬][领航者][作品：蚀迹]\n暗流 | 新潮起，故渊离 | [光荣记忆][望乡]",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,13 +21,474 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775616510",
+    "timestamp": "1775702607",
     "data": {
       "item": {
         "itemId": "209",
         "document": {
           "documentMap": {
-            "FfO1Kgfe": {
+            "S0T2unOo": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "9bzHRe",
+                "URf0meTa0ki5",
+                "KPtVauuYL2kv",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "1ecZEj4rJJhV": {
+                  "id": "1ecZEj4rJJhV",
+                  "parentId": "RKHy7U_2FHawO",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "唤醒"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9bzHRe": {
+                  "id": "9bzHRe",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可为所有协议通行证的武器补给所包含的武器提升潜能。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DVFRKiaQQCMB": {
+                  "id": "DVFRKiaQQCMB",
+                  "parentId": "sNS6wY_7cGym5",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "相应武器"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GZfOZdrnI0iE": {
+                  "id": "GZfOZdrnI0iE",
+                  "parentId": "RKHy7U_ewld4L",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "零号委托"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Ga2ZQ75CXafW": {
+                  "id": "Ga2ZQ75CXafW",
+                  "parentId": "esAbod_2FHawO",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "暗流"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "KPtVauuYL2kv": {
+                  "id": "KPtVauuYL2kv",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "KPtVauuYL2kv",
+                    "rowIds": [
+                      "sNS6wY",
+                      "RKHy7U",
+                      "esAbod"
+                    ],
+                    "columnIds": [
+                      "2FHawO",
+                      "ewld4L",
+                      "7cGym5"
+                    ],
+                    "rowMap": {
+                      "RKHy7U": {
+                        "id": "RKHy7U"
+                      },
+                      "esAbod": {
+                        "id": "esAbod"
+                      },
+                      "sNS6wY": {
+                        "id": "sNS6wY"
+                      }
+                    },
+                    "columnMap": {
+                      "2FHawO": {
+                        "id": "2FHawO",
+                        "width": 100
+                      },
+                      "7cGym5": {
+                        "id": "7cGym5",
+                        "width": 852
+                      },
+                      "ewld4L": {
+                        "id": "ewld4L",
+                        "width": 208
+                      }
+                    },
+                    "cellMap": {
+                      "RKHy7U_2FHawO": {
+                        "id": "RKHy7U_2FHawO",
+                        "childIds": [
+                          "1ecZEj4rJJhV"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "RKHy7U_7cGym5": {
+                        "id": "RKHy7U_7cGym5",
+                        "childIds": [
+                          "tzCt2mxGG7S2"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "RKHy7U_ewld4L": {
+                        "id": "RKHy7U_ewld4L",
+                        "childIds": [
+                          "GZfOZdrnI0iE"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "esAbod_2FHawO": {
+                        "id": "esAbod_2FHawO",
+                        "childIds": [
+                          "Ga2ZQ75CXafW"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "esAbod_7cGym5": {
+                        "id": "esAbod_7cGym5",
+                        "childIds": [
+                          "dQYlIdHRal5J"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "esAbod_ewld4L": {
+                        "id": "esAbod_ewld4L",
+                        "childIds": [
+                          "akfr12hfb4Ho"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "sNS6wY_2FHawO": {
+                        "id": "sNS6wY_2FHawO",
+                        "childIds": [
+                          "S0nLnw2iKW9G"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "sNS6wY_7cGym5": {
+                        "id": "sNS6wY_7cGym5",
+                        "childIds": [
+                          "DVFRKiaQQCMB"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "sNS6wY_ewld4L": {
+                        "id": "sNS6wY_ewld4L",
+                        "childIds": [
+                          "rn4OHTEwdqj9"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": true
+                  }
+                },
+                "S0nLnw2iKW9G": {
+                  "id": "S0nLnw2iKW9G",
+                  "parentId": "sNS6wY_2FHawO",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "URf0meTa0ki5": {
+                  "id": "URf0meTa0ki5",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "URf0meTa0ki5",
+                    "itemIds": [
+                      "0Mjnh3kL5PWi"
+                    ],
+                    "itemMap": {
+                      "0Mjnh3kL5PWi": {
+                        "id": "0Mjnh3kL5PWi",
+                        "childIds": [
+                          "WBD2Mf87NvYa"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "WBD2Mf87NvYa": {
+                  "id": "WBD2Mf87NvYa",
+                  "parentId": "0Mjnh3kL5PWi",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "来自各期"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "、可以使用"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "209",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "提升潜能的武器如下所示："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "akfr12hfb4Ho": {
+                  "id": "akfr12hfb4Ho",
+                  "parentId": "esAbod_ewld4L",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "新潮起，故渊离"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dQYlIdHRal5J": {
+                  "id": "dQYlIdHRal5J",
+                  "parentId": "esAbod_7cGym5",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1173",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1174",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "rn4OHTEwdqj9": {
+                  "id": "rn4OHTEwdqj9",
+                  "parentId": "sNS6wY_ewld4L",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "对应版本"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "tzCt2mxGG7S2": {
+                  "id": "tzCt2mxGG7S2",
+                  "parentId": "RKHy7U_7cGym5",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "71",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "113",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "126",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "UbfMXYTy": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -36,6 +497,84 @@
                 "cc9Nq6"
               ],
               "blockMap": {
+                "FTDBXVjAZUs8": {
+                  "id": "FTDBXVjAZUs8",
+                  "parentId": "Bi9ckZ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "每期"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议通行证"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中，购买"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "897",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并将通行证等级提升至30级与40级时，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "分别"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "各可以领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "209",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "QB7bLN": {
                   "id": "QB7bLN",
                   "parentId": "document-id",
@@ -76,7 +615,7 @@
                       "Bi9ckZ": {
                         "id": "Bi9ckZ",
                         "childIds": [
-                          "kpgSxw"
+                          "FTDBXVjAZUs8"
                         ]
                       }
                     },
@@ -85,116 +624,6 @@
                 },
                 "cc9Nq6": {
                   "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "kpgSxw": {
-                  "id": "kpgSxw",
-                  "parentId": "Bi9ckZ",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "购买"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "897",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "并提升"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议通行证"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "等级后可以获取最多"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "209",
-                          "showType": "link-imgText",
-                          "count": "2"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "gQX6nFBz": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "9bzHRe",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "9bzHRe": {
-                  "id": "9bzHRe",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "可为所有协议通行证的武器补给所包含的武器提升潜能。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
@@ -241,7 +670,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "gQX6nFBz",
+                  "content": "S0T2unOo",
                   "audioList": []
                 }
               }
@@ -253,7 +682,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "FfO1Kgfe",
+                  "content": "UbfMXYTy",
                   "audioList": []
                 }
               }
@@ -512,7 +941,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765796653",
-        "lastAuditPassedAt": "1767761093",
+        "lastAuditPassedAt": "1775624994",
         "tagIds": [
           "10006",
           "10324",

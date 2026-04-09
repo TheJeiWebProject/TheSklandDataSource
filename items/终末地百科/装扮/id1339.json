@@ -1,0 +1,378 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1339"
+  },
+  "name": "名片·初始连接",
+  "icon": "https://bbs.hycdn.cn/image/common/20260404/203953/69d074043100547639e6dccc_f1525633.png",
+  "description": "获取方式:\n地区建设等级里程碑奖励。\n获取[谷地地区建设值]提升四号谷地地区建设等级达到8后领取里程碑奖励获取。",
+  "rarity": {
+    "stars": 5,
+    "label": "5星",
+    "color": "#fb8c00",
+    "token": "rarity_5",
+    "tagId": "10005"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:装扮",
+    "rarity:5"
+  ],
+  "source": "终末地百科/装扮/id1339.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1775705297",
+    "data": {
+      "item": {
+        "itemId": "1339",
+        "document": {
+          "documentMap": {
+            "7pgQWPcp": {
+              "id": "document-id",
+              "blockIds": [
+                "CrgaMtb9NL3Z",
+                "QB7bLN",
+                "2nHcjG",
+                "XohgGfTxNfxh"
+              ],
+              "blockMap": {
+                "2nHcjG": {
+                  "id": "2nHcjG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2nHcjG",
+                    "itemIds": [
+                      "ZQeKqJ"
+                    ],
+                    "itemMap": {
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "WaSlpD"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "CrgaMtb9NL3Z": {
+                  "id": "CrgaMtb9NL3Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区建设等级里程碑奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WaSlpD": {
+                  "id": "WaSlpD",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1058",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "提升"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "四号谷地"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区建设等级达到8后领取里程碑奖励获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XohgGfTxNfxh": {
+                  "id": "XohgGfTxNfxh",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "获取途径",
+              "widgets": [
+                {
+                  "id": "2n9oD6Hl",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "2n9oD6Hl": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "7pgQWPcp",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "名片·初始连接",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "19",
+          "name": "装扮",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1"
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2"
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3"
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4"
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5"
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6"
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": ""
+            },
+            {
+              "id": "10404",
+              "children": [
+                {
+                  "id": "10406",
+                  "children": [],
+                  "name": "头像",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10407",
+                  "children": [],
+                  "name": "头像框",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10408",
+                  "children": [],
+                  "name": "名片主题",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10405",
+                  "children": [],
+                  "name": "贴纸",
+                  "type": 1,
+                  "value": ""
+                },
+                {
+                  "id": "10409",
+                  "children": [],
+                  "name": "滤镜",
+                  "type": 1,
+                  "value": ""
+                }
+              ],
+              "name": "分类",
+              "type": 1,
+              "value": ""
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9769520938084",
+          "nickname": "陆刀刀",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260404/203953/69d074043100547639e6dccc_f1525633.png",
+          "name": "名片·初始连接",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "一管针剂、一朵花卉与一声感谢，您伸出了手，大地随即重新连接。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "用于在个人名片处更换名片主题，会在多种场合进行展示。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10005"
+            },
+            {
+              "subTypeId": "10404",
+              "value": "10408"
+            }
+          ],
+          "composite": null
+        },
+        "status": 2,
+        "publishedAtTs": "1775623295",
+        "lastAuditPassedAt": "1775281296",
+        "tagIds": [
+          "10005",
+          "10408"
+        ]
+      }
+    }
+  }
+}
