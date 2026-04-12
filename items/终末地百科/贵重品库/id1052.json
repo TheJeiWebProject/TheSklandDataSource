@@ -4,7 +4,7 @@
   },
   "name": "月卡兑换凭证",
   "icon": "https://bbs.hycdn.cn/image/2026/01/25/3048259/db27e6f1a36e630747256ca157ac9908.png",
-  "description": "获取方式:\n全面测试充值返还。\n全面测试期间购买月卡后，于公测开启时按照以下规则进行返还： 购买月卡的金额将根据[衍质源石]返还规则，在正式公测后获得对应数量的[衍质源石]; 全面测试期间月卡的购买上限为3份，根据全面测试期间购买的数量，公测开启后可以获得对应数量且有效期为365天的月卡兑换凭证。\n\n用途:\n使用后可获得30天的月卡权益。\n拥有月卡权益期间，每日可以领取[嵌晶玉x200]和[应急理智加强剂x1]。",
+  "description": "获取方式:\n全面测试充值返还。\n全面测试期间购买月卡后，于公测开启时按照以下规则进行返还： 购买月卡的金额将根据[衍质源石]返还规则，在正式公测后获得对应数量的[衍质源石]; 全面测试期间月卡的购买上限为3份，根据全面测试期间购买的数量，公测开启后可以获得对应数量且有效期为365天的月卡兑换凭证。\n\n用途:\n使用后可获得30天的月卡权益。\n拥有月卡权益期间，每日可以领取[嵌晶玉x200][应急理智加强剂x1]。 自2026/4/11开始，拥有月卡权益期间每日领取奖励内容追加[理智消耗许可x4]。此前购买过月卡的玩家将在春晓时版本开启时获得[理智消耗许可x120]作为补偿。",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,13 +21,266 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1775877330",
+    "timestamp": "1775964861",
     "data": {
       "item": {
         "itemId": "1052",
         "document": {
           "documentMap": {
-            "0002ODLu": {
+            "L3206wpf": {
+              "id": "document-id",
+              "blockIds": [
+                "weTKQg2kjsfR",
+                "lWNBxHdd4Gqa",
+                "crYGzBBIUs9E",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "8mpXZxw1n8sV": {
+                  "id": "8mpXZxw1n8sV",
+                  "parentId": "a4vZOsN6LG44",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "拥有"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "月卡"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "权益期间，每日可以领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "link-imgText",
+                          "count": "200"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "260",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "M4dA7Z237YIm": {
+                  "id": "M4dA7Z237YIm",
+                  "parentId": "I1kPAjoJW2VC",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "自"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "2026/4/11"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "开始，拥有"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "月卡"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "权益期间每日领取奖励内容追加"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "248",
+                          "showType": "link-imgText",
+                          "count": "4"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。此前购买过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "月卡"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的玩家将在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "春晓时"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "版本开启时获得"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "248",
+                          "showType": "link-imgText",
+                          "count": "120"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "作为补偿。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "crYGzBBIUs9E": {
+                  "id": "crYGzBBIUs9E",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "crYGzBBIUs9E",
+                    "itemIds": [
+                      "a4vZOsN6LG44"
+                    ],
+                    "itemMap": {
+                      "a4vZOsN6LG44": {
+                        "id": "a4vZOsN6LG44",
+                        "childIds": [
+                          "8mpXZxw1n8sV",
+                          "kRNpkvxhCHjU"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "kRNpkvxhCHjU": {
+                  "id": "kRNpkvxhCHjU",
+                  "parentId": "a4vZOsN6LG44",
+                  "kind": "list",
+                  "list": {
+                    "id": "kRNpkvxhCHjU",
+                    "itemIds": [
+                      "I1kPAjoJW2VC"
+                    ],
+                    "itemMap": {
+                      "I1kPAjoJW2VC": {
+                        "id": "I1kPAjoJW2VC",
+                        "childIds": [
+                          "M4dA7Z237YIm"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lWNBxHdd4Gqa": {
+                  "id": "lWNBxHdd4Gqa",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "使用后可获得30天的月卡权益。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "weTKQg2kjsfR": {
+                  "id": "weTKQg2kjsfR",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "dQp6x7ht": {
               "id": "document-id",
               "blockIds": [
                 "7ZzfVvkfUSdM",
@@ -312,137 +565,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "OPXG4gQ2": {
-              "id": "document-id",
-              "blockIds": [
-                "weTKQg2kjsfR",
-                "lWNBxHdd4Gqa",
-                "crYGzBBIUs9E",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "8mpXZxw1n8sV": {
-                  "id": "8mpXZxw1n8sV",
-                  "parentId": "a4vZOsN6LG44",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "拥有"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "月卡"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "权益期间，每日可以领取"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "926",
-                          "showType": "link-imgText",
-                          "count": "200"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "和"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "260",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "crYGzBBIUs9E": {
-                  "id": "crYGzBBIUs9E",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "crYGzBBIUs9E",
-                    "itemIds": [
-                      "a4vZOsN6LG44"
-                    ],
-                    "itemMap": {
-                      "a4vZOsN6LG44": {
-                        "id": "a4vZOsN6LG44",
-                        "childIds": [
-                          "8mpXZxw1n8sV"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "lWNBxHdd4Gqa": {
-                  "id": "lWNBxHdd4Gqa",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "使用后可获得30天的月卡权益。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "weTKQg2kjsfR": {
-                  "id": "weTKQg2kjsfR",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -480,7 +602,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "OPXG4gQ2",
+                  "content": "L3206wpf",
                   "audioList": []
                 }
               }
@@ -492,7 +614,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "0002ODLu",
+                  "content": "dQp6x7ht",
                   "audioList": []
                 }
               }
@@ -650,10 +772,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1939869660098",
@@ -731,7 +853,7 @@
         },
         "status": 2,
         "publishedAtTs": "1769350827",
-        "lastAuditPassedAt": "1769349604",
+        "lastAuditPassedAt": "1775922318",
         "tagIds": [
           "10006",
           "10324",

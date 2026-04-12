@@ -1,10 +1,25 @@
 {
   "id": "aef-skland:r/wiki_usage_14/2063",
-  "type": "aef-skland:wiki/usage/text_only",
+  "type": "aef-skland:wiki/usage/list_entry",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_14",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 1
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_479",
+      "amount": 1
+    },
+    "out3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_375",
       "amount": 1
     }
   },
@@ -14,54 +29,239 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "权限等阶奖励",
-      "panelTitle": "31-40"
+      "panelTitle": "概述"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "pgc9XMI6N3cz",
-        "xdtjSJ9zceu1",
-        "zJQaZXS3Gbjk"
+        "QdNkyU41qe2e",
+        "YP1J8DsTpUM1",
+        "R3HeKFns9dm9",
+        "vMqWXJF8JdYM",
+        "buHHgTGGePCi",
+        "kM2SoA"
       ],
       "blockMap": {
-        "pgc9XMI6N3cz": {
-          "id": "pgc9XMI6N3cz",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "2"
-          }
-        },
-        "xdtjSJ9zceu1": {
-          "id": "xdtjSJ9zceu1",
-          "parentId": "document-id",
-          "align": "center",
+        "0KVriWibX8DO": {
+          "id": "0KVriWibX8DO",
+          "parentId": "Y9pchqYOo98w",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
+                "bold": true,
+                "color": "light_rank_yellow",
                 "kind": "text",
                 "text": {
-                  "text": "后续内容待编辑补充"
+                  "text": "权限等阶"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "提高时，可以获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "479",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "375",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "和"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "装备制造模板"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "、"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "名片主题"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "等奖励。"
                 }
               }
             ],
-            "kind": "heading1"
+            "kind": "body"
           }
         },
-        "zJQaZXS3Gbjk": {
-          "id": "zJQaZXS3Gbjk",
+        "QdNkyU41qe2e": {
+          "id": "QdNkyU41qe2e",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "R3HeKFns9dm9": {
+          "id": "R3HeKFns9dm9",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "R3HeKFns9dm9",
+            "itemIds": [
+              "Y9pchqYOo98w"
+            ],
+            "itemMap": {
+              "Y9pchqYOo98w": {
+                "id": "Y9pchqYOo98w",
+                "childIds": [
+                  "0KVriWibX8DO"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "YP1J8DsTpUM1": {
+          "id": "YP1J8DsTpUM1",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "14",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可以提升管理员的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "权限等阶"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（目前最高可提升至"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "60"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "）。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "buHHgTGGePCi": {
+          "id": "buHHgTGGePCi",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "关于各个权限等阶的相关奖励，可以通过该栏的分页查看。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "kM2SoA": {
+          "id": "kM2SoA",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
+          }
+        },
+        "vMqWXJF8JdYM": {
+          "id": "vMqWXJF8JdYM",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "body"
           }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "text_only"
+    "usagePattern": "list_entry"
   },
   "detailLoaded": true
 }
