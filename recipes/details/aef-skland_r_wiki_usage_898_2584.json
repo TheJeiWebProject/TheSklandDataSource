@@ -19,28 +19,28 @@
     },
     "out3": {
       "kind": "item",
+      "id": "aef-skland.wiki.item_363",
+      "amount": 4
+    },
+    "out4": {
+      "kind": "item",
       "id": "aef-skland.wiki.item_248",
       "amount": 85
     },
-    "out4": {
+    "out5": {
       "kind": "item",
       "id": "aef-skland.wiki.item_260",
       "amount": 8
     },
-    "out5": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_222",
-      "amount": 100
-    },
     "out6": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_214",
-      "amount": 30
-    },
-    "out7": {
       "kind": "item",
       "id": "aef-skland.wiki.item_213",
       "amount": 60
+    },
+    "out7": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_212",
+      "amount": 10
     },
     "out8": {
       "kind": "item",
@@ -50,22 +50,22 @@
     "out9": {
       "kind": "item",
       "id": "aef-skland.wiki.item_225",
-      "amount": 85
+      "amount": 60
     },
     "out10": {
       "kind": "item",
       "id": "aef-skland.wiki.item_224",
-      "amount": 60
+      "amount": 85
     },
     "out11": {
       "kind": "item",
-      "id": "aef-skland.wiki.item_227",
-      "amount": 30
+      "id": "aef-skland.wiki.item_228",
+      "amount": 15
     },
     "out12": {
       "kind": "item",
-      "id": "aef-skland.wiki.item_254",
-      "amount": 1
+      "id": "aef-skland.wiki.item_227",
+      "amount": 30
     }
   },
   "params": {
@@ -83,6 +83,25 @@
         "odgWwCITpQjd"
       ],
       "blockMap": {
+        "0VIJbAi0CjE9": {
+          "id": "0VIJbAi0CjE9",
+          "parentId": "2W1wJS_JEp5jU",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "363",
+                  "showType": "card-big",
+                  "count": "4"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
         "33GBGcPIcTea": {
           "id": "33GBGcPIcTea",
           "parentId": "W829lI_jQywgk",
@@ -111,22 +130,6 @@
               {
                 "kind": "entry",
                 "entry": {
-                  "id": "222",
-                  "showType": "card-big",
-                  "count": "100"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "214",
-                  "showType": "card-big",
-                  "count": "30"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
                   "id": "213",
                   "showType": "card-big",
                   "count": "60"
@@ -135,7 +138,47 @@
               {
                 "kind": "entry",
                 "entry": {
+                  "id": "212",
+                  "showType": "card-big",
+                  "count": "10"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
                   "id": "210",
+                  "showType": "card-big",
+                  "count": "30"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "225",
+                  "showType": "card-big",
+                  "count": "60"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "224",
+                  "showType": "card-big",
+                  "count": "85"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "228",
+                  "showType": "card-big",
+                  "count": "15"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "227",
                   "showType": "card-big",
                   "count": "30"
                 }
@@ -230,26 +273,27 @@
             "columnMap": {
               "JEp5jU": {
                 "id": "JEp5jU",
-                "width": 238
+                "width": 189
               },
               "jQywgk": {
                 "id": "jQywgk",
-                "width": 268
+                "width": 197
               },
               "joV16f": {
                 "id": "joV16f",
-                "width": 151
+                "width": 153
               },
               "xfduio": {
                 "id": "xfduio",
-                "width": 503
+                "width": 621
               }
             },
             "cellMap": {
               "2W1wJS_JEp5jU": {
                 "id": "2W1wJS_JEp5jU",
                 "childIds": [
-                  "OT2r4RNLM49v"
+                  "OT2r4RNLM49v",
+                  "0VIJbAi0CjE9"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -286,6 +330,7 @@
                 "id": "2W1wJS_xfduio",
                 "childIds": [
                   "6fGDMk",
+                  "Z5UMxJePIwgv",
                   "iZM3pkIQdT14"
                 ],
                 "rowSpan": "1",
@@ -371,6 +416,49 @@
             "description": "",
             "rowHeader": true,
             "colHeader": false
+          }
+        },
+        "Z5UMxJePIwgv": {
+          "id": "Z5UMxJePIwgv",
+          "parentId": "2W1wJS_xfduio",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "223",
+                  "showType": "card-big",
+                  "count": "100"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "222",
+                  "showType": "card-big",
+                  "count": "100"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "215",
+                  "showType": "card-big",
+                  "count": "15"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "214",
+                  "showType": "card-big",
+                  "count": "30"
+                }
+              }
+            ],
+            "kind": "body"
           }
         },
         "aprY8uPKmZN5": {
@@ -467,32 +555,7 @@
           "align": "center",
           "kind": "text",
           "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "225",
-                  "showType": "card-big",
-                  "count": "85"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "224",
-                  "showType": "card-big",
-                  "count": "60"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "227",
-                  "showType": "card-big",
-                  "count": "30"
-                }
-              }
-            ],
+            "inlineElements": [],
             "kind": "body"
           }
         },
