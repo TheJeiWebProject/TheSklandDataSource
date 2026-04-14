@@ -1,298 +1,143 @@
 {
   "id": "aef-skland:r/wiki_usage_352/2338",
-  "type": "aef-skland:wiki/usage/table_entry",
+  "type": "aef-skland:wiki/usage/text_only",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_352",
       "amount": 1
-    },
-    "out1": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_574",
-      "amount": 1
-    },
-    "out2": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_192",
-      "amount": 1
     }
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方法 / 配方来源",
+    "title": "使用方法 / 面积需求",
     "context": {
       "groupTitle": "使用方法",
-      "widgetTitle": "配方来源",
+      "widgetTitle": "面积需求",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "EW1HgI",
-        "IO10ny",
-        "d9UPNE"
+        "x7tv2l",
+        "jUxaFe",
+        "t14fCv"
       ],
       "blockMap": {
-        "EW1HgI": {
-          "id": "EW1HgI",
+        "jUxaFe": {
+          "id": "jUxaFe",
           "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
-          }
-        },
-        "IO10ny": {
-          "id": "IO10ny",
-          "parentId": "document-id",
-          "kind": "table",
-          "table": {
-            "id": "IO10ny",
-            "rowIds": [
-              "Rjhw0d",
-              "mipNAl"
-            ],
-            "columnIds": [
-              "1QtngD",
-              "KjDykN",
-              "86o7KI"
-            ],
-            "rowMap": {
-              "Rjhw0d": {
-                "id": "Rjhw0d"
-              },
-              "mipNAl": {
-                "id": "mipNAl"
-              }
-            },
-            "columnMap": {
-              "1QtngD": {
-                "id": "1QtngD",
-                "width": 386.6666666666667
-              },
-              "86o7KI": {
-                "id": "86o7KI",
-                "width": 386.6666666666667
-              },
-              "KjDykN": {
-                "id": "KjDykN",
-                "width": 386.6666666666667
-              }
-            },
-            "cellMap": {
-              "Rjhw0d_1QtngD": {
-                "id": "Rjhw0d_1QtngD",
-                "childIds": [
-                  "aaCWbM"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "Rjhw0d_86o7KI": {
-                "id": "Rjhw0d_86o7KI",
-                "childIds": [
-                  "t6H5EG"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "Rjhw0d_KjDykN": {
-                "id": "Rjhw0d_KjDykN",
-                "childIds": [
-                  "RNeGQN"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "mipNAl_1QtngD": {
-                "id": "mipNAl_1QtngD",
-                "childIds": [
-                  "RuUtDf"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "mipNAl_86o7KI": {
-                "id": "mipNAl_86o7KI",
-                "childIds": [
-                  "KrbMgE"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "mipNAl_KjDykN": {
-                "id": "mipNAl_KjDykN",
-                "childIds": [
-                  "NvTKeh"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              }
-            },
-            "description": "",
-            "rowHeader": true,
-            "colHeader": false
-          }
-        },
-        "KrbMgE": {
-          "id": "KrbMgE",
-          "parentId": "mipNAl_86o7KI",
-          "align": "center",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "kind": "entry",
-                "entry": {
-                  "id": "352",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "NvTKeh": {
-          "id": "NvTKeh",
-          "parentId": "mipNAl_KjDykN",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "574",
-                  "showType": "card-big",
-                  "count": "1"
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "放置"
                 }
               },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "192",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "RNeGQN": {
-          "id": "RNeGQN",
-          "parentId": "Rjhw0d_KjDykN",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
               {
                 "bold": true,
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "原料需求"
+                  "text": "田块"
                 }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "RuUtDf": {
-          "id": "RuUtDf",
-          "parentId": "mipNAl_1QtngD",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要在"
+                }
+              },
               {
                 "bold": true,
                 "color": "light_rank_yellow",
                 "kind": "text",
                 "text": {
-                  "text": "种植调配"
+                  "text": "源石研究园-生态种植区"
                 }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "aaCWbM": {
-          "id": "aaCWbM",
-          "parentId": "Rjhw0d_1QtngD",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的长"
+                }
+              },
               {
                 "bold": true,
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "制作类型"
+                  "text": "4"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "格、宽"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "4"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "格的可用空地，且与其他田块间隔"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "≥3"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "格。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "d9UPNE": {
-          "id": "d9UPNE",
+        "t14fCv": {
+          "id": "t14fCv",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "t6H5EG": {
-          "id": "t6H5EG",
-          "parentId": "Rjhw0d_86o7KI",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "制作产物"
-                }
-              }
-            ],
-            "kind": "body"
+        "x7tv2l": {
+          "id": "x7tv2l",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
           }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "table_entry"
+    "usagePattern": "text_only"
   },
   "detailLoaded": true
 }
