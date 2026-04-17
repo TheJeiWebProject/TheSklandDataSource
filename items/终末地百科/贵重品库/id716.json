@@ -21,7 +21,7 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776309777",
+    "timestamp": "1776395900",
     "data": {
       "item": {
         "itemId": "716",
@@ -553,47 +553,54 @@
                   "children": [],
                   "name": "1星",
                   "type": 2,
-                  "value": "rarity_1"
+                  "value": "rarity_1",
+                  "hide": false
                 },
                 {
                   "id": "10002",
                   "children": [],
                   "name": "2星",
                   "type": 2,
-                  "value": "rarity_2"
+                  "value": "rarity_2",
+                  "hide": false
                 },
                 {
                   "id": "10003",
                   "children": [],
                   "name": "3星",
                   "type": 2,
-                  "value": "rarity_3"
+                  "value": "rarity_3",
+                  "hide": false
                 },
                 {
                   "id": "10004",
                   "children": [],
                   "name": "4星",
                   "type": 2,
-                  "value": "rarity_4"
+                  "value": "rarity_4",
+                  "hide": false
                 },
                 {
                   "id": "10005",
                   "children": [],
                   "name": "5星",
                   "type": 2,
-                  "value": "rarity_5"
+                  "value": "rarity_5",
+                  "hide": false
                 },
                 {
                   "id": "10006",
                   "children": [],
                   "name": "6星",
                   "type": 2,
-                  "value": "rarity_6"
+                  "value": "rarity_6",
+                  "hide": false
                 }
               ],
               "name": "星级",
               "type": 2,
-              "value": ""
+              "value": "",
+              "hide": false
             },
             {
               "id": "10321",
@@ -603,47 +610,54 @@
                   "children": [],
                   "name": "灰色品质",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10326",
                   "children": [],
                   "name": "绿色品质",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10325",
                   "children": [],
                   "name": "蓝色品质",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10327",
                   "children": [],
                   "name": "紫色品质",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10330",
                   "children": [],
                   "name": "金色品质",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10324",
                   "children": [],
                   "name": "橙色品质",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 }
               ],
               "name": "品质",
               "type": 1,
-              "value": ""
+              "value": "",
+              "hide": false
             },
             {
               "id": "10322",
@@ -653,26 +667,30 @@
                   "children": [],
                   "name": "培养素材",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10329",
                   "children": [],
                   "name": "任务物品",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10328",
                   "children": [],
                   "name": "珍贵物品",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 }
               ],
               "name": "物品分类",
               "type": 1,
-              "value": ""
+              "value": "",
+              "hide": false
             }
           ]
         },
@@ -755,7 +773,8 @@
               "value": "10328"
             }
           ],
-          "composite": null
+          "composite": null,
+          "disableCoverShowInDetail": false
         },
         "status": 2,
         "publishedAtTs": "1766895435",

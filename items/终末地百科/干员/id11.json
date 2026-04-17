@@ -21,7 +21,7 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776307994",
+    "timestamp": "1776394119",
     "data": {
       "item": {
         "itemId": "11",
@@ -25559,47 +25559,54 @@
                   "children": [],
                   "name": "近卫",
                   "type": 4,
-                  "value": "profession_guard"
+                  "value": "profession_guard",
+                  "hide": false
                 },
                 {
                   "id": "10202",
                   "children": [],
                   "name": "术师",
                   "type": 4,
-                  "value": "profession_caster"
+                  "value": "profession_caster",
+                  "hide": false
                 },
                 {
                   "id": "10203",
                   "children": [],
                   "name": "突击",
                   "type": 4,
-                  "value": "profession_assault"
+                  "value": "profession_assault",
+                  "hide": false
                 },
                 {
                   "id": "10204",
                   "children": [],
                   "name": "先锋",
                   "type": 4,
-                  "value": "profession_vanguard"
+                  "value": "profession_vanguard",
+                  "hide": false
                 },
                 {
                   "id": "10205",
                   "children": [],
                   "name": "重装",
                   "type": 4,
-                  "value": "profession_defender"
+                  "value": "profession_defender",
+                  "hide": false
                 },
                 {
                   "id": "10206",
                   "children": [],
                   "name": "辅助",
                   "type": 4,
-                  "value": "profession_supporter"
+                  "value": "profession_supporter",
+                  "hide": false
                 }
               ],
               "name": "干员职业",
               "type": 4,
-              "value": ""
+              "value": "",
+              "hide": false
             },
             {
               "id": "10000",
@@ -25609,47 +25616,54 @@
                   "children": [],
                   "name": "1星",
                   "type": 2,
-                  "value": "rarity_1"
+                  "value": "rarity_1",
+                  "hide": false
                 },
                 {
                   "id": "10002",
                   "children": [],
                   "name": "2星",
                   "type": 2,
-                  "value": "rarity_2"
+                  "value": "rarity_2",
+                  "hide": false
                 },
                 {
                   "id": "10003",
                   "children": [],
                   "name": "3星",
                   "type": 2,
-                  "value": "rarity_3"
+                  "value": "rarity_3",
+                  "hide": false
                 },
                 {
                   "id": "10004",
                   "children": [],
                   "name": "4星",
                   "type": 2,
-                  "value": "rarity_4"
+                  "value": "rarity_4",
+                  "hide": false
                 },
                 {
                   "id": "10005",
                   "children": [],
                   "name": "5星",
                   "type": 2,
-                  "value": "rarity_5"
+                  "value": "rarity_5",
+                  "hide": false
                 },
                 {
                   "id": "10006",
                   "children": [],
                   "name": "6星",
                   "type": 2,
-                  "value": "rarity_6"
+                  "value": "rarity_6",
+                  "hide": false
                 }
               ],
               "name": "星级",
               "type": 2,
-              "value": ""
+              "value": "",
+              "hide": false
             },
             {
               "id": "10100",
@@ -25659,40 +25673,46 @@
                   "children": [],
                   "name": "灼热",
                   "type": 3,
-                  "value": "char_property_fire"
+                  "value": "char_property_fire",
+                  "hide": false
                 },
                 {
                   "id": "10102",
                   "children": [],
                   "name": "电磁",
                   "type": 3,
-                  "value": "char_property_pulse"
+                  "value": "char_property_pulse",
+                  "hide": false
                 },
                 {
                   "id": "10103",
                   "children": [],
                   "name": "寒冷",
                   "type": 3,
-                  "value": "char_property_cryst"
+                  "value": "char_property_cryst",
+                  "hide": false
                 },
                 {
                   "id": "10104",
                   "children": [],
                   "name": "自然",
                   "type": 3,
-                  "value": "char_property_natural"
+                  "value": "char_property_natural",
+                  "hide": false
                 },
                 {
                   "id": "10105",
                   "children": [],
                   "name": "物理",
                   "type": 3,
-                  "value": "char_property_physical"
+                  "value": "char_property_physical",
+                  "hide": false
                 }
               ],
               "name": "属性",
               "type": 3,
-              "value": ""
+              "value": "",
+              "hide": false
             },
             {
               "id": "10208",
@@ -25702,40 +25722,46 @@
                   "children": [],
                   "name": "施术单元",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10218",
                   "children": [],
                   "name": "手铳",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10219",
                   "children": [],
                   "name": "单手剑",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10216",
                   "children": [],
                   "name": "双手剑",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10213",
                   "children": [],
                   "name": "长柄武器",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 }
               ],
               "name": "武器",
               "type": 1,
-              "value": ""
+              "value": "",
+              "hide": false
             },
             {
               "id": "10207",
@@ -25745,33 +25771,38 @@
                   "children": [],
                   "name": "力量",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10211",
                   "children": [],
                   "name": "敏捷",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10217",
                   "children": [],
                   "name": "智识",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10212",
                   "children": [],
                   "name": "意志",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 }
               ],
               "name": "主能力",
               "type": 1,
-              "value": ""
+              "value": "",
+              "hide": false
             },
             {
               "id": "10209",
@@ -25781,33 +25812,38 @@
                   "children": [],
                   "name": "力量",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10222",
                   "children": [],
                   "name": "敏捷",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10220",
                   "children": [],
                   "name": "智识",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10215",
                   "children": [],
                   "name": "意志",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 }
               ],
               "name": "副能力",
               "type": 1,
-              "value": ""
+              "value": "",
+              "hide": false
             }
           ]
         },
@@ -25976,7 +26012,8 @@
               "value": "10215"
             }
           ],
-          "composite": null
+          "composite": null,
+          "disableCoverShowInDetail": false
         },
         "status": 2,
         "publishedAtTs": "1768036974",

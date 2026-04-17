@@ -1,0 +1,351 @@
+{
+  "id": "aef-skland:r/wiki_usage_21/2091",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_21",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "POJC5u",
+        "m7VnlH",
+        "Jefg56",
+        "IRysK1",
+        "PbU9SV",
+        "r9cDMi",
+        "czI8jF",
+        "VLHJm1",
+        "Vn5hvf",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "91w3Ju": {
+          "id": "91w3Ju",
+          "parentId": "kwPhM2",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每装箱"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "21",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要200点货箱容量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "IRysK1": {
+          "id": "IRysK1",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "1"
+          }
+        },
+        "Jefg56": {
+          "id": "Jefg56",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Jefg56",
+            "itemIds": [
+              "Jkmet8"
+            ],
+            "itemMap": {
+              "Jkmet8": {
+                "id": "Jkmet8",
+                "childIds": [
+                  "abLcHQ"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "PbU9SV": {
+          "id": "PbU9SV",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "干员装备为战术物品时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "VLHJm1": {
+          "id": "VLHJm1",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于仓储节点货物装箱。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Vn5hvf": {
+          "id": "Vn5hvf",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Vn5hvf",
+            "itemIds": [
+              "kwPhM2"
+            ],
+            "itemMap": {
+              "kwPhM2": {
+                "id": "kwPhM2",
+                "childIds": [
+                  "91w3Ju"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "Y7RSjz": {
+          "id": "Y7RSjz",
+          "parentId": "GvubJH",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "队伍中有干员受到"
+                }
+              },
+              {
+                "underline": true,
+                "color": "light_rank_blue",
+                "kind": "text",
+                "text": {
+                  "text": "法术异常"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "时自动对其使用，单场战斗中最多可使用"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "2"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "次。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "abLcHQ": {
+          "id": "abLcHQ",
+          "parentId": "Jkmet8",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用后"
+                }
+              },
+              {
+                "color": "light_rank_blue",
+                "kind": "text",
+                "text": {
+                  "text": "净化"
+                }
+              },
+              {
+                "underline": true,
+                "color": "light_rank_blue",
+                "kind": "text",
+                "text": {
+                  "text": "法术异常"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "和"
+                }
+              },
+              {
+                "underline": true,
+                "color": "light_rank_blue",
+                "kind": "text",
+                "text": {
+                  "text": "法术附着"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，然后立刻恢复"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "10%"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "最大生命值，再恢复"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "504"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "点生命值。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "czI8jF": {
+          "id": "czI8jF",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "m7VnlH": {
+          "id": "m7VnlH",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "干员直接使用时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "r9cDMi": {
+          "id": "r9cDMi",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "r9cDMi",
+            "itemIds": [
+              "GvubJH"
+            ],
+            "itemMap": {
+              "GvubJH": {
+                "id": "GvubJH",
+                "childIds": [
+                  "Y7RSjz"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

@@ -21,7 +21,7 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776308248",
+    "timestamp": "1776394373",
     "data": {
       "item": {
         "itemId": "109",
@@ -8517,47 +8517,54 @@
                   "children": [],
                   "name": "1星",
                   "type": 2,
-                  "value": "rarity_1"
+                  "value": "rarity_1",
+                  "hide": false
                 },
                 {
                   "id": "10002",
                   "children": [],
                   "name": "2星",
                   "type": 2,
-                  "value": "rarity_2"
+                  "value": "rarity_2",
+                  "hide": false
                 },
                 {
                   "id": "10003",
                   "children": [],
                   "name": "3星",
                   "type": 2,
-                  "value": "rarity_3"
+                  "value": "rarity_3",
+                  "hide": false
                 },
                 {
                   "id": "10004",
                   "children": [],
                   "name": "4星",
                   "type": 2,
-                  "value": "rarity_4"
+                  "value": "rarity_4",
+                  "hide": false
                 },
                 {
                   "id": "10005",
                   "children": [],
                   "name": "5星",
                   "type": 2,
-                  "value": "rarity_5"
+                  "value": "rarity_5",
+                  "hide": false
                 },
                 {
                   "id": "10006",
                   "children": [],
                   "name": "6星",
                   "type": 2,
-                  "value": "rarity_6"
+                  "value": "rarity_6",
+                  "hide": false
                 }
               ],
               "name": "星级",
               "type": 2,
-              "value": ""
+              "value": "",
+              "hide": false
             },
             {
               "id": "10223",
@@ -8567,40 +8574,46 @@
                   "children": [],
                   "name": "施术单元",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10224",
                   "children": [],
                   "name": "手铳",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10226",
                   "children": [],
                   "name": "单手剑",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10225",
                   "children": [],
                   "name": "双手剑",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 },
                 {
                   "id": "10228",
                   "children": [],
                   "name": "长柄武器",
                   "type": 1,
-                  "value": ""
+                  "value": "",
+                  "hide": false
                 }
               ],
               "name": "武器",
               "type": 1,
-              "value": ""
+              "value": "",
+              "hide": false
             }
           ]
         },
@@ -8678,7 +8691,8 @@
               "value": "10224"
             }
           ],
-          "composite": null
+          "composite": null,
+          "disableCoverShowInDetail": false
         },
         "status": 2,
         "publishedAtTs": "1768121053",

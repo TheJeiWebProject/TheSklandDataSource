@@ -1,0 +1,262 @@
+{
+  "id": "aef-skland:r/wiki_usage_925/2603",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_925",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 75
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_17",
+      "amount": 40
+    },
+    "out3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_898",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "9frzIp",
+        "tejI6q",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "9frzIp": {
+          "id": "9frzIp",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "用于兑换其它物品。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "FVkn53": {
+          "id": "FVkn53",
+          "parentId": "J2nned",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "消耗"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "925",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可以兑换"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "link-imgText",
+                  "count": "75"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "GBBEbz": {
+          "id": "GBBEbz",
+          "parentId": "PahyGk",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "消耗"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "925",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可以兑换"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "link-imgText",
+                  "count": "40"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "s8UctDd3Nmo7": {
+          "id": "s8UctDd3Nmo7",
+          "parentId": "U1vx0UFdOSw4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "消耗"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "925",
+                  "showType": "link-imgText",
+                  "count": "29"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可以购买当期通行证的"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "898",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "tejI6q": {
+          "id": "tejI6q",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "tejI6q",
+            "itemIds": [
+              "J2nned",
+              "PahyGk",
+              "U1vx0UFdOSw4"
+            ],
+            "itemMap": {
+              "J2nned": {
+                "id": "J2nned",
+                "childIds": [
+                  "FVkn53"
+                ]
+              },
+              "PahyGk": {
+                "id": "PahyGk",
+                "childIds": [
+                  "GBBEbz"
+                ]
+              },
+              "U1vx0UFdOSw4": {
+                "id": "U1vx0UFdOSw4",
+                "childIds": [
+                  "s8UctDd3Nmo7"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

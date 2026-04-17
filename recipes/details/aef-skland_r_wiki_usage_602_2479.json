@@ -1,0 +1,131 @@
+{
+  "id": "aef-skland:r/wiki_usage_602/2479",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_602",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "2CzhDI",
+        "RUCQV4",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "2CzhDI": {
+          "id": "2CzhDI",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "采购中心-配额兑换所中购买物品。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "RUCQV4": {
+          "id": "RUCQV4",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "RUCQV4",
+            "itemIds": [
+              "gILKyS"
+            ],
+            "itemMap": {
+              "gILKyS": {
+                "id": "gILKyS",
+                "childIds": [
+                  "VWkCU3"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "VWkCU3": {
+          "id": "VWkCU3",
+          "parentId": "gILKyS",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "配额兑换所"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的终点配额交易包含游戏内的6星武器，且售价均为"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "602",
+                  "showType": "link-imgText",
+                  "count": "20"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}
