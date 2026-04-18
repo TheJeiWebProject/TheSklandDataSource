@@ -1,0 +1,81 @@
+{
+  "id": "aef-skland:r/wiki_usage_55/2128",
+  "type": "aef-skland:wiki/usage/text_only",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_55",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "使用方式 / 面积需求",
+    "context": {
+      "groupTitle": "使用方式",
+      "widgetTitle": "面积需求",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "k7oiwY",
+        "XbWEoo",
+        "6vmeiZ"
+      ],
+      "blockMap": {
+        "6vmeiZ": {
+          "id": "6vmeiZ",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "XbWEoo": {
+          "id": "XbWEoo",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "便携源石矿机"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "必须放置在可用矿点上"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "k7oiwY": {
+          "id": "k7oiwY",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "text_only"
+  },
+  "detailLoaded": true
+}

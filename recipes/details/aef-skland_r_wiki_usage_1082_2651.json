@@ -1,6 +1,6 @@
 {
   "id": "aef-skland:r/wiki_usage_1082/2651",
-  "type": "aef-skland:wiki/usage/table_text",
+  "type": "aef-skland:wiki/usage/list_text",
   "slotContents": {
     "in1": {
       "kind": "item",
@@ -14,215 +14,203 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "地区建设等级",
-      "panelTitle": "1"
+      "panelTitle": "概述"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "EVvsioST96t9"
+        "POJC5u",
+        "QfnKDztIeNNJ",
+        "pGuEIKxPGuva",
+        "VBwn6S2Z5r2d",
+        "HG96wAvOecSb",
+        "pCnuhO"
       ],
       "blockMap": {
-        "EVvsioST96t9": {
-          "id": "EVvsioST96t9",
+        "HG96wAvOecSb": {
+          "id": "HG96wAvOecSb",
           "parentId": "document-id",
-          "kind": "table",
-          "table": {
-            "id": "EVvsioST96t9",
-            "rowIds": [
-              "TZPuIw",
-              "LtMX1P",
-              "wQqeCf"
-            ],
-            "columnIds": [
-              "GxLHQL",
-              "J2HAE0",
-              "ox03xW"
-            ],
-            "rowMap": {
-              "LtMX1P": {
-                "id": "LtMX1P"
-              },
-              "TZPuIw": {
-                "id": "TZPuIw"
-              },
-              "wQqeCf": {
-                "id": "wQqeCf"
-              }
-            },
-            "columnMap": {
-              "GxLHQL": {
-                "id": "GxLHQL",
-                "width": 117
-              },
-              "J2HAE0": {
-                "id": "J2HAE0",
-                "width": 891
-              },
-              "ox03xW": {
-                "id": "ox03xW",
-                "width": 152
-              }
-            },
-            "cellMap": {
-              "LtMX1P_GxLHQL": {
-                "id": "LtMX1P_GxLHQL",
-                "childIds": [
-                  "TBi15l1l60wW"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "LtMX1P_J2HAE0": {
-                "id": "LtMX1P_J2HAE0",
-                "childIds": [
-                  "gStYrfnUlUIH"
-                ],
-                "rowSpan": "1",
-                "colSpan": "2",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TZPuIw_GxLHQL": {
-                "id": "TZPuIw_GxLHQL",
-                "childIds": [
-                  "beiLgiJzLeS6"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "TZPuIw_J2HAE0": {
-                "id": "TZPuIw_J2HAE0",
-                "childIds": [
-                  "k3flITS6xXyX"
-                ],
-                "rowSpan": "1",
-                "colSpan": "2",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "wQqeCf_GxLHQL": {
-                "id": "wQqeCf_GxLHQL",
-                "childIds": [
-                  "X1ITMGlXL0nr"
-                ],
-                "rowSpan": "1",
-                "colSpan": "3",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              }
-            },
-            "description": "",
-            "rowHeader": true,
-            "colHeader": false
-          }
-        },
-        "TBi15l1l60wW": {
-          "id": "TBi15l1l60wW",
-          "parentId": "LtMX1P_GxLHQL",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "X1ITMGlXL0nr": {
-          "id": "X1ITMGlXL0nr",
-          "parentId": "wQqeCf_GxLHQL",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
+                "bold": true,
+                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "基础规划已完成，地区建设即将开始。"
+                  "text": "关于各个等级的相关内容，可以通过该栏的分页查看。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "beiLgiJzLeS6": {
-          "id": "beiLgiJzLeS6",
-          "parentId": "TZPuIw_GxLHQL",
-          "align": "center",
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "QfnKDztIeNNJ": {
+          "id": "QfnKDztIeNNJ",
+          "parentId": "document-id",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每获得一定数量的谷地地区建设值后，就会提升"
+                }
+              },
               {
                 "bold": true,
+                "color": "light_rank_yellow",
                 "kind": "text",
                 "text": {
-                  "text": "地区建设等级"
+                  "text": "武陵"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的地区建设等级："
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "gStYrfnUlUIH": {
-          "id": "gStYrfnUlUIH",
-          "parentId": "LtMX1P_J2HAE0",
-          "align": "center",
+        "VBwn6S2Z5r2d": {
+          "id": "VBwn6S2Z5r2d",
+          "parentId": "document-id",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
+                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "-"
+                  "text": " "
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "k3flITS6xXyX": {
-          "id": "k3flITS6xXyX",
-          "parentId": "TZPuIw_J2HAE0",
-          "align": "center",
+        "Z4V1OJEzHt3c": {
+          "id": "Z4V1OJEzHt3c",
+          "parentId": "sZQW9qQy0zne",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "建设等级提升可以为"
+                }
+              },
               {
                 "bold": true,
+                "color": "light_rank_yellow",
                 "kind": "text",
                 "text": {
-                  "text": "里程碑奖励"
+                  "text": "武陵"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "各地区提供各类增益或解锁新功能。"
                 }
               }
             ],
             "kind": "body"
+          }
+        },
+        "eHVeB26lC5y0": {
+          "id": "eHVeB26lC5y0",
+          "parentId": "a1WL2w3EeFw4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "建设等级每次提升后，都可以在"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "地区建设-地区建设等级总览"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中领取相应的里程碑奖励。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "pGuEIKxPGuva": {
+          "id": "pGuEIKxPGuva",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "pGuEIKxPGuva",
+            "itemIds": [
+              "a1WL2w3EeFw4",
+              "sZQW9qQy0zne"
+            ],
+            "itemMap": {
+              "a1WL2w3EeFw4": {
+                "id": "a1WL2w3EeFw4",
+                "childIds": [
+                  "eHVeB26lC5y0"
+                ]
+              },
+              "sZQW9qQy0zne": {
+                "id": "sZQW9qQy0zne",
+                "childIds": [
+                  "Z4V1OJEzHt3c"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "table_text"
+    "usagePattern": "list_text"
   },
   "detailLoaded": true
 }

@@ -10,42 +10,44 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方法 / 面积需求",
+    "title": "使用方法 / 相关信息",
     "context": {
       "groupTitle": "使用方法",
-      "widgetTitle": "面积需求",
+      "widgetTitle": "相关信息",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "tl5kck",
-        "RYLe6K",
-        "EeQpwF"
+        "PXlZF6",
+        "zP8wbh",
+        "g7PWn9",
+        "fkhysd"
       ],
       "blockMap": {
-        "EeQpwF": {
-          "id": "EeQpwF",
+        "PXlZF6": {
+          "id": "PXlZF6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "fkhysd": {
+          "id": "fkhysd",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "RYLe6K": {
-          "id": "RYLe6K",
+        "g7PWn9": {
+          "id": "g7PWn9",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "放置"
-                }
-              },
               {
                 "bold": true,
                 "kind": "text",
@@ -65,7 +67,7 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "需要在"
+                  "text": "仅能放置在"
                 }
               },
               {
@@ -80,64 +82,57 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "的长"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "4"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格、宽"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "4"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格的可用空地，且与其他田块间隔"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "≥3"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格。"
+                  "text": "范围内。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "tl5kck": {
-          "id": "tl5kck",
+        "zP8wbh": {
+          "id": "zP8wbh",
           "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "苦叶椒"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "田块"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "是种植调配类型的设备，可以用于培植"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "苦叶椒"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
           }
         }
       },
