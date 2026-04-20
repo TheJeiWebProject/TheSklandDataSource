@@ -1,15 +1,10 @@
 {
   "id": "aef-skland:r/wiki_usage_14/2095",
-  "type": "aef-skland:wiki/usage/text_entry",
+  "type": "aef-skland:wiki/usage/text_only",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_14",
-      "amount": 1
-    },
-    "out1": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_983",
       "amount": 1
     }
   },
@@ -19,46 +14,26 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "权限等阶奖励",
-      "panelTitle": "41-50"
+      "panelTitle": "31-40"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "JS2weKR8rKyX",
-        "tsO0Hmeem6Js",
-        "X27Xj4oz6wuZ",
-        "D8zcLKFzyAvc"
+        "pgc9XMI6N3cz",
+        "xdtjSJ9zceu1",
+        "zJQaZXS3Gbjk"
       ],
       "blockMap": {
-        "D8zcLKFzyAvc": {
-          "id": "D8zcLKFzyAvc",
+        "pgc9XMI6N3cz": {
+          "id": "pgc9XMI6N3cz",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
             "kind": "2"
           }
         },
-        "JS2weKR8rKyX": {
-          "id": "JS2weKR8rKyX",
-          "parentId": "document-id",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "983",
-                  "showType": "card-big",
-                  "count": "1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "X27Xj4oz6wuZ": {
-          "id": "X27Xj4oz6wuZ",
+        "xdtjSJ9zceu1": {
+          "id": "xdtjSJ9zceu1",
           "parentId": "document-id",
           "align": "center",
           "kind": "text",
@@ -74,8 +49,8 @@
             "kind": "heading1"
           }
         },
-        "tsO0Hmeem6Js": {
-          "id": "tsO0Hmeem6Js",
+        "zJQaZXS3Gbjk": {
+          "id": "zJQaZXS3Gbjk",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
@@ -86,7 +61,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "text_entry"
+    "usagePattern": "text_only"
   },
   "detailLoaded": true
 }
