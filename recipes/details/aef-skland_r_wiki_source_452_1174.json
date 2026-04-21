@@ -20,23 +20,13 @@
       "id": "document-id",
       "blockIds": [
         "LUtplL",
-        "6dYVnY",
+        "GgSIqjcXde9c",
         "QgtnF6Gt3kFV"
       ],
       "blockMap": {
-        "6dYVnY": {
-          "id": "6dYVnY",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
         "E0ULWK": {
           "id": "E0ULWK",
-          "parentId": "o9A7tt",
+          "parentId": "BxOGjwKEykLw",
           "align": "left",
           "kind": "text",
           "text": {
@@ -52,6 +42,16 @@
             "kind": "body"
           }
         },
+        "GgSIqjcXde9c": {
+          "id": "GgSIqjcXde9c",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "body"
+          }
+        },
         "LUtplL": {
           "id": "LUtplL",
           "parentId": "document-id",
@@ -59,20 +59,21 @@
           "list": {
             "id": "LUtplL",
             "itemIds": [
-              "o9A7tt",
+              "BxOGjwKEykLw",
               "J6PClp"
             ],
             "itemMap": {
+              "BxOGjwKEykLw": {
+                "id": "BxOGjwKEykLw",
+                "childIds": [
+                  "E0ULWK",
+                  "yUTHY4iOhssn"
+                ]
+              },
               "J6PClp": {
                 "id": "J6PClp",
                 "childIds": [
                   "hYoSQH"
-                ]
-              },
-              "o9A7tt": {
-                "id": "o9A7tt",
-                "childIds": [
-                  "E0ULWK"
                 ]
               }
             },
@@ -97,7 +98,25 @@
                 "color": "light_text_tertiary",
                 "kind": "text",
                 "text": {
-                  "text": "当前区域尚未实装掉落该基质的重度能量淤积点"
+                  "text": "通过预刻写获得的基质必定同时出现三类属性词条"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "SjCUmIcV8Xew": {
+          "id": "SjCUmIcV8Xew",
+          "parentId": "woO7jgO4uI81",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·首墩"
                 }
               }
             ],
@@ -120,6 +139,26 @@
               }
             ],
             "kind": "body"
+          }
+        },
+        "yUTHY4iOhssn": {
+          "id": "yUTHY4iOhssn",
+          "parentId": "BxOGjwKEykLw",
+          "kind": "list",
+          "list": {
+            "id": "yUTHY4iOhssn",
+            "itemIds": [
+              "woO7jgO4uI81"
+            ],
+            "itemMap": {
+              "woO7jgO4uI81": {
+                "id": "woO7jgO4uI81",
+                "childIds": [
+                  "SjCUmIcV8Xew"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         }
       },
