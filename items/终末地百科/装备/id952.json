@@ -4,7 +4,7 @@
   },
   "name": "拓荒通信器",
   "icon": "https://bbs.hycdn.cn/image/2025/12/27/194389/a7e8ad9fbbf86048e7c3a8a68539f448.png",
-  "description": "获取方式:\n装备属性\n防御力 | +21 | 力量 | +32\n敏捷 | +21 | 连携技伤害加成 | +41.4%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +21 | 力量 | +32\n敏捷 | +21 | 连携技伤害加成 | +41.4%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n力量 | +32 | +35 | +38 | +41\n敏捷 | +21 | +23 | +25 | +27\n连携技伤害加成 | +41.4% | +45.5% | +49.7% | +53.8%",
+  "description": "获取方式:\n装备属性\n防御力 | +21 | 力量 | +32\n敏捷 | +21 | 连携技伤害加成 | +41.4%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【武陵城-居民区】·装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +21 | 力量 | +32\n敏捷 | +21 | 连携技伤害加成 | +41.4%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【武陵城-居民区】·装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n力量 | +32 | +35 | +38 | +41\n敏捷 | +21 | +23 | +25 | +27\n连携技伤害加成 | +41.4% | +45.5% | +49.7% | +53.8%",
   "tags": [
     "main:终末地百科",
     "sub:装备"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776742081",
+    "timestamp": "1776828469",
     "data": {
       "item": {
         "itemId": "952",
         "document": {
           "documentMap": {
-            "8FzWctgM": {
+            "3s2Lvoaw": {
               "id": "document-id",
               "blockIds": [
                 "filqgv",
@@ -138,7 +138,7 @@
                         "color": "light_function_blue",
                         "kind": "text",
                         "text": {
-                          "text": "开启装备模板箱"
+                          "text": "开启【武陵城-居民区】·装备模板箱"
                         }
                       },
                       {
@@ -449,7 +449,85 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "ABlPmhe1": {
+            "SWMpHM69": {
+              "id": "document-id",
+              "blockIds": [
+                "vJGqcm",
+                "64dxnL"
+              ],
+              "blockMap": {
+                "64dxnL": {
+                  "id": "64dxnL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "装备者通过技能恢复技力后，全队造成的伤害"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+16%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，持续15秒，该效果无法叠加。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vJGqcm": {
+                  "id": "vJGqcm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3件套组效果"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "：装备者连携技冷却缩减"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+15%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "XzQl6b1s": {
               "id": "document-id",
               "blockIds": [
                 "RYUGsX",
@@ -1947,7 +2025,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "SMsfCkZX": {
+            "dgsGXZRH": {
               "id": "document-id",
               "blockIds": [
                 "gXBxZD"
@@ -2136,84 +2214,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "YD8OkiAN": {
-              "id": "document-id",
-              "blockIds": [
-                "vJGqcm",
-                "64dxnL"
-              ],
-              "blockMap": {
-                "64dxnL": {
-                  "id": "64dxnL",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "装备者通过技能恢复技力后，全队造成的伤害"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+16%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "，持续15秒，该效果无法叠加。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "vJGqcm": {
-                  "id": "vJGqcm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3件套组效果"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "：装备者连携技冷却缩减"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+15%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -2274,7 +2274,7 @@
                     "name": "拓荒装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/12/27/194389/61aa9e181515638561c4af4c2c32d8d7.png",
-                    "description": "YD8OkiAN"
+                    "description": "SWMpHM69"
                   },
                   "content": "",
                   "audioList": []
@@ -2288,7 +2288,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "8FzWctgM",
+                  "content": "3s2Lvoaw",
                   "audioList": []
                 }
               }
@@ -2300,7 +2300,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "SMsfCkZX",
+                  "content": "dgsGXZRH",
                   "audioList": []
                 }
               }
@@ -2312,7 +2312,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ABlPmhe1",
+                  "content": "XzQl6b1s",
                   "audioList": []
                 }
               }
@@ -3061,7 +3061,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767931837",
-        "lastAuditPassedAt": "1774401300",
+        "lastAuditPassedAt": "1776750300",
         "tagIds": [
           "10005",
           "10236",

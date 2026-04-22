@@ -1,0 +1,151 @@
+{
+  "id": "aef-skland:r/wiki_source_73/737",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_256",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_639",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_73",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "基本信息",
+    "context": {
+      "groupTitle": "基本信息",
+      "widgetTitle": "",
+      "panelTitle": "获取方式"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "vHBHNA"
+      ],
+      "blockMap": {
+        "9XTV7z5RAmmg": {
+          "id": "9XTV7z5RAmmg",
+          "parentId": "9K9xlBwaY8ad",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "256",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "开启"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "AvP3qn": {
+          "id": "AvP3qn",
+          "parentId": "wzwmMZ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "武器池抽卡获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "PVugMV8zrPkl": {
+          "id": "PVugMV8zrPkl",
+          "parentId": "MZKjl8yjz93e",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "639",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "开启获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "vHBHNA": {
+          "id": "vHBHNA",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "vHBHNA",
+            "itemIds": [
+              "wzwmMZ",
+              "9K9xlBwaY8ad",
+              "MZKjl8yjz93e"
+            ],
+            "itemMap": {
+              "9K9xlBwaY8ad": {
+                "id": "9K9xlBwaY8ad",
+                "childIds": [
+                  "9XTV7z5RAmmg"
+                ]
+              },
+              "MZKjl8yjz93e": {
+                "id": "MZKjl8yjz93e",
+                "childIds": [
+                  "PVugMV8zrPkl"
+                ]
+              },
+              "wzwmMZ": {
+                "id": "wzwmMZ",
+                "childIds": [
+                  "AvP3qn"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

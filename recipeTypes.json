@@ -51,6 +51,57 @@
     "plannerPriority": 600
   },
   {
+    "key": "aef-skland:industrial/二型耐酸水泵",
+    "displayName": "二型耐酸水泵",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "aef-skland.wiki.item_1170",
+      "name": "二型耐酸水泵"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
     "key": "aef-skland:industrial/便携源石矿机",
     "displayName": "便携源石矿机",
     "renderer": "slot_layout",

@@ -1,0 +1,151 @@
+{
+  "id": "aef-skland:r/wiki_source_255/941",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_144",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_255",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "U8CKBU",
+        "6fwOFP",
+        "QAdi8w35kAlm",
+        "eLEeFl"
+      ],
+      "blockMap": {
+        "6fwOFP": {
+          "id": "6fwOFP",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "特定活动奖励获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QAdi8w35kAlm": {
+          "id": "QAdi8w35kAlm",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "QAdi8w35kAlm",
+            "itemIds": [
+              "QYOLFnCuqF38"
+            ],
+            "itemMap": {
+              "QYOLFnCuqF38": {
+                "id": "QYOLFnCuqF38",
+                "childIds": [
+                  "XXA3WMwVtAvD"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "U8CKBU": {
+          "id": "U8CKBU",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "XXA3WMwVtAvD": {
+          "id": "XXA3WMwVtAvD",
+          "parentId": "QYOLFnCuqF38",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "权限等阶"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "达到45级后，可于"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "144",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "活动中领取"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "255",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "eLEeFl": {
+          "id": "eLEeFl",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

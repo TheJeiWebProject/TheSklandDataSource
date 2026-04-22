@@ -1,0 +1,215 @@
+{
+  "id": "aef-skland:r/wiki_source_1198/1969",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1128",
+      "amount": 20
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1198",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "相关来源 / 设备来源",
+    "context": {
+      "groupTitle": "相关来源",
+      "widgetTitle": "设备来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "9VmF2q",
+        "7ONjqy",
+        "QOP1hV"
+      ],
+      "blockMap": {
+        "0w0lxy": {
+          "id": "0w0lxy",
+          "parentId": "xowYkN",
+          "kind": "list",
+          "list": {
+            "id": "0w0lxy",
+            "itemIds": [
+              "tufDCM"
+            ],
+            "itemMap": {
+              "tufDCM": {
+                "id": "tufDCM",
+                "childIds": [
+                  "5482eu"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "5482eu": {
+          "id": "5482eu",
+          "parentId": "tufDCM",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1128",
+                  "showType": "link-imgText",
+                  "count": "20"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "→ "
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1198",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "7ONjqy": {
+          "id": "7ONjqy",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "7ONjqy",
+            "itemIds": [
+              "zepTkr",
+              "xowYkN"
+            ],
+            "itemMap": {
+              "xowYkN": {
+                "id": "xowYkN",
+                "childIds": [
+                  "zEHbeI",
+                  "0w0lxy"
+                ]
+              },
+              "zepTkr": {
+                "id": "zepTkr",
+                "childIds": [
+                  "VchwKv"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "9VmF2q": {
+          "id": "9VmF2q",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "QOP1hV": {
+          "id": "QOP1hV",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "VchwKv": {
+          "id": "VchwKv",
+          "parentId": "zepTkr",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "在研究完成"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "暗管"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "后可获得2台暗管入口。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "zEHbeI": {
+          "id": "zEHbeI",
+          "parentId": "xowYkN",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "协议核心"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "范围内，点击"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "工具箱-设备列表-制造设备"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "通过以下配方制造。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}
