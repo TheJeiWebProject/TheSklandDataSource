@@ -4,7 +4,7 @@
   },
   "name": "浊流切割炬",
   "icon": "https://bbs.hycdn.cn/image/2026/01/01/194389/74c72dcc42f0e8d5934316123aa8472a.png",
-  "description": "获取方式:\n装备属性\n防御力 | +21 | 智识 | +32\n力量 | +21 | 普通攻击伤害加成 | +27.6%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +21 | 智识 | +32\n力量 | +21 | 普通攻击伤害加成 | +27.6%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n智识 | +32 | +35 | +38 | +41\n力量 | +21 | +23 | +25 | +27\n普通攻击伤害加成 | +27.6% | +30.4% | +33.1% | +35.9%",
+  "description": "获取方式:\n装备属性\n防御力 | +21 | 智识 | +32\n力量 | +21 | 普通攻击伤害加成 | +27.6%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【景玉谷-天王坪】·装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +21 | 智识 | +32\n力量 | +21 | 普通攻击伤害加成 | +27.6%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【景玉谷-天王坪】·装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n智识 | +32 | +35 | +38 | +41\n力量 | +21 | +23 | +25 | +27\n普通攻击伤害加成 | +27.6% | +30.4% | +33.1% | +35.9%",
   "tags": [
     "main:终末地百科",
     "sub:装备"
@@ -13,13 +13,124 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776828577",
+    "timestamp": "1776915051",
     "data": {
       "item": {
         "itemId": "996",
         "document": {
           "documentMap": {
-            "EvgLCoC0": {
+            "SmR9F0nN": {
+              "id": "document-id",
+              "blockIds": [
+                "vJGqcm",
+                "8JlSH3"
+              ],
+              "blockMap": {
+                "8JlSH3": {
+                  "id": "8JlSH3",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "装备者使敌人达到"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "2"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "层及以上"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "法术附着"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后，造成的"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "法术伤害"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+35%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，持续15秒，该效果无法叠加。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vJGqcm": {
+                  "id": "vJGqcm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3件套组效果"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "：装备者所有技能伤害"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+20%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "TEqokYnb": {
               "id": "document-id",
               "blockIds": [
                 "filqgv",
@@ -138,7 +249,7 @@
                         "color": "light_function_blue",
                         "kind": "text",
                         "text": {
-                          "text": "开启装备模板箱"
+                          "text": "开启【景玉谷-天王坪】·装备模板箱"
                         }
                       },
                       {
@@ -449,308 +560,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "NOSMDvVw": {
-              "id": "document-id",
-              "blockIds": [
-                "gXBxZD"
-              ],
-              "blockMap": {
-                "ANOhj3": {
-                  "id": "ANOhj3",
-                  "parentId": "9MfFv3_FLu9lu",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "推荐干员词条"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Z0i88l": {
-                  "id": "Z0i88l",
-                  "parentId": "A0O9s5_GDjqqK",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "推荐理由"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "cyF4YT": {
-                  "id": "cyF4YT",
-                  "parentId": "9MfFv3_GDjqqK",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "暂无推荐内容。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "gXBxZD": {
-                  "id": "gXBxZD",
-                  "parentId": "document-id",
-                  "kind": "table",
-                  "table": {
-                    "id": "gXBxZD",
-                    "rowIds": [
-                      "A0O9s5",
-                      "9MfFv3"
-                    ],
-                    "columnIds": [
-                      "FLu9lu",
-                      "GDjqqK",
-                      "1mS70P",
-                      "VSHvHo",
-                      "uoXwhd",
-                      "eEsnyf"
-                    ],
-                    "rowMap": {
-                      "9MfFv3": {
-                        "id": "9MfFv3"
-                      },
-                      "A0O9s5": {
-                        "id": "A0O9s5"
-                      }
-                    },
-                    "columnMap": {
-                      "1mS70P": {
-                        "id": "1mS70P",
-                        "width": 193.33333333333334
-                      },
-                      "FLu9lu": {
-                        "id": "FLu9lu",
-                        "width": 193.33333333333334
-                      },
-                      "GDjqqK": {
-                        "id": "GDjqqK",
-                        "width": 193.33333333333334
-                      },
-                      "VSHvHo": {
-                        "id": "VSHvHo",
-                        "width": 193.33333333333334
-                      },
-                      "eEsnyf": {
-                        "id": "eEsnyf",
-                        "width": 193.33333333333334
-                      },
-                      "uoXwhd": {
-                        "id": "uoXwhd",
-                        "width": 193.33333333333334
-                      }
-                    },
-                    "cellMap": {
-                      "9MfFv3_FLu9lu": {
-                        "id": "9MfFv3_FLu9lu",
-                        "childIds": [
-                          "ANOhj3"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "9MfFv3_GDjqqK": {
-                        "id": "9MfFv3_GDjqqK",
-                        "childIds": [
-                          "cyF4YT"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "5",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "A0O9s5_FLu9lu": {
-                        "id": "A0O9s5_FLu9lu",
-                        "childIds": [
-                          "nIunWQ"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "A0O9s5_GDjqqK": {
-                        "id": "A0O9s5_GDjqqK",
-                        "childIds": [
-                          "Z0i88l"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "5",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      }
-                    },
-                    "description": "",
-                    "rowHeader": true,
-                    "colHeader": false
-                  }
-                },
-                "nIunWQ": {
-                  "id": "nIunWQ",
-                  "parentId": "A0O9s5_FLu9lu",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "推荐干员"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "OPADGuE0": {
-              "id": "document-id",
-              "blockIds": [
-                "vJGqcm",
-                "8JlSH3"
-              ],
-              "blockMap": {
-                "8JlSH3": {
-                  "id": "8JlSH3",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "装备者使敌人达到"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "2"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "层及以上"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "法术附着"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "后，造成的"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "法术伤害"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+35%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "，持续15秒，该效果无法叠加。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "vJGqcm": {
-                  "id": "vJGqcm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3件套组效果"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "：装备者所有技能伤害"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+20%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "RoWRV7Qd": {
+            "hQBWK0cM": {
               "id": "document-id",
               "blockIds": [
                 "RYUGsX",
@@ -2247,6 +2057,196 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "x6F1r3kD": {
+              "id": "document-id",
+              "blockIds": [
+                "gXBxZD"
+              ],
+              "blockMap": {
+                "ANOhj3": {
+                  "id": "ANOhj3",
+                  "parentId": "9MfFv3_FLu9lu",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "推荐干员词条"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Z0i88l": {
+                  "id": "Z0i88l",
+                  "parentId": "A0O9s5_GDjqqK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "推荐理由"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cyF4YT": {
+                  "id": "cyF4YT",
+                  "parentId": "9MfFv3_GDjqqK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "暂无推荐内容。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gXBxZD": {
+                  "id": "gXBxZD",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "gXBxZD",
+                    "rowIds": [
+                      "A0O9s5",
+                      "9MfFv3"
+                    ],
+                    "columnIds": [
+                      "FLu9lu",
+                      "GDjqqK",
+                      "1mS70P",
+                      "VSHvHo",
+                      "uoXwhd",
+                      "eEsnyf"
+                    ],
+                    "rowMap": {
+                      "9MfFv3": {
+                        "id": "9MfFv3"
+                      },
+                      "A0O9s5": {
+                        "id": "A0O9s5"
+                      }
+                    },
+                    "columnMap": {
+                      "1mS70P": {
+                        "id": "1mS70P",
+                        "width": 193.33333333333334
+                      },
+                      "FLu9lu": {
+                        "id": "FLu9lu",
+                        "width": 193.33333333333334
+                      },
+                      "GDjqqK": {
+                        "id": "GDjqqK",
+                        "width": 193.33333333333334
+                      },
+                      "VSHvHo": {
+                        "id": "VSHvHo",
+                        "width": 193.33333333333334
+                      },
+                      "eEsnyf": {
+                        "id": "eEsnyf",
+                        "width": 193.33333333333334
+                      },
+                      "uoXwhd": {
+                        "id": "uoXwhd",
+                        "width": 193.33333333333334
+                      }
+                    },
+                    "cellMap": {
+                      "9MfFv3_FLu9lu": {
+                        "id": "9MfFv3_FLu9lu",
+                        "childIds": [
+                          "ANOhj3"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "9MfFv3_GDjqqK": {
+                        "id": "9MfFv3_GDjqqK",
+                        "childIds": [
+                          "cyF4YT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "5",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "A0O9s5_FLu9lu": {
+                        "id": "A0O9s5_FLu9lu",
+                        "childIds": [
+                          "nIunWQ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "A0O9s5_GDjqqK": {
+                        "id": "A0O9s5_GDjqqK",
+                        "childIds": [
+                          "Z0i88l"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "5",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "nIunWQ": {
+                  "id": "nIunWQ",
+                  "parentId": "A0O9s5_FLu9lu",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "推荐干员"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -2307,7 +2307,7 @@
                     "name": "潮涌装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/12/13/736412/85c6591b2bc81c77a49cf0a3c1af840a.png",
-                    "description": "OPADGuE0"
+                    "description": "SmR9F0nN"
                   },
                   "content": "",
                   "audioList": []
@@ -2321,7 +2321,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "EvgLCoC0",
+                  "content": "TEqokYnb",
                   "audioList": []
                 }
               }
@@ -2333,7 +2333,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "NOSMDvVw",
+                  "content": "x6F1r3kD",
                   "audioList": []
                 }
               }
@@ -2345,7 +2345,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "RoWRV7Qd",
+                  "content": "hQBWK0cM",
                   "audioList": []
                 }
               }
@@ -2997,10 +2997,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "2852384233554",
-          "nickname": "是糖酥A",
+          "id": "4179300744269",
+          "nickname": "二分桃酥",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2024/08/27/a2099bdcf22cf67ffaa10812a33f0ab0.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"
         },
         "createdUser": {
           "id": "2852384233554",
@@ -3113,7 +3113,7 @@
         },
         "status": 2,
         "publishedAtTs": "1768738872",
-        "lastAuditPassedAt": "1774402081",
+        "lastAuditPassedAt": "1776863409",
         "tagIds": [
           "10005",
           "10236",

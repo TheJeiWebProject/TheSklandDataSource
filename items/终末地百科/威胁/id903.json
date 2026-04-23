@@ -4,7 +4,7 @@
   },
   "name": "浊流天使δ",
   "icon": "https://bbs.hycdn.cn/image/2025/12/25/139426/14b7b183636bc3f62c3d477ae96ee9ff.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会从远处快速接近，攻击命中时对干员施加寒冷附着。\n|敌人分布区域\n武陵城 能量淤积点·武陵城\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会从远处快速接近，攻击命中时对干员施加寒冷附着。\n|敌人分布区域\n武陵城 首墩 能量淤积点·武陵城 能量淤积点·首墩\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776828344",
+    "timestamp": "1776914829",
     "data": {
       "item": {
         "itemId": "903",
         "document": {
           "documentMap": {
-            "7RhKEiIY": {
+            "bISrE7ie": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -472,6 +472,23 @@
                     "kind": "unordered"
                   }
                 },
+                "grZnINPPMKds": {
+                  "id": "grZnINPPMKds",
+                  "parentId": "seayKVh26nEh",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·首墩"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "iz7J9H": {
                   "id": "iz7J9H",
                   "parentId": "document-id",
@@ -566,7 +583,9 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "BRfAlrv6PEBV"
+                      "ve8usnP8v3tc",
+                      "BRfAlrv6PEBV",
+                      "seayKVh26nEh"
                     ],
                     "itemMap": {
                       "BRfAlrv6PEBV": {
@@ -579,6 +598,18 @@
                         "id": "G4YrCm",
                         "childIds": [
                           "I4qfh4"
+                        ]
+                      },
+                      "seayKVh26nEh": {
+                        "id": "seayKVh26nEh",
+                        "childIds": [
+                          "grZnINPPMKds"
+                        ]
+                      },
+                      "ve8usnP8v3tc": {
+                        "id": "ve8usnP8v3tc",
+                        "childIds": [
+                          "x1zEI88H1PZr"
                         ]
                       }
                     },
@@ -600,6 +631,23 @@
                       }
                     ],
                     "kind": "heading3"
+                  }
+                },
+                "x1zEI88H1PZr": {
+                  "id": "x1zEI88H1PZr",
+                  "parentId": "ve8usnP8v3tc",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "首墩"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "xyqW3g": {
@@ -624,7 +672,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "tj66OCae": {
+            "yi0eI7Ni": {
               "id": "document-id",
               "blockIds": [
                 "ZLjAzk"
@@ -728,9 +776,9 @@
                     "name": "浊流天使δ",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "tj66OCae"
+                    "description": "yi0eI7Ni"
                   },
-                  "content": "7RhKEiIY",
+                  "content": "bISrE7ie",
                   "audioList": []
                 }
               }
@@ -874,7 +922,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849616",
-        "lastAuditPassedAt": "1774198490",
+        "lastAuditPassedAt": "1776877641",
         "tagIds": [
           "10231"
         ]

@@ -1,0 +1,284 @@
+{
+  "id": "aef-skland:r/wiki_source_531/1322",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_32",
+      "amount": 150
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_382",
+      "amount": 150
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_531",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "ktCiko",
+        "0VWOBU",
+        "q2vVhJ",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "0VWOBU": {
+          "id": "0VWOBU",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "特定NPC商店中购买。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "L7JtWR": {
+          "id": "L7JtWR",
+          "parentId": "T5Ws6Y",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "位于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "源石研究园-生态种植区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "时，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "32",
+                  "showType": "link-imgText",
+                  "count": "150"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，存量 "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "5"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 份。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "iRIVLi": {
+          "id": "iRIVLi",
+          "parentId": "baxFLz",
+          "kind": "list",
+          "list": {
+            "id": "iRIVLi",
+            "itemIds": [
+              "T5Ws6Y",
+              "lKbQk0"
+            ],
+            "itemMap": {
+              "T5Ws6Y": {
+                "id": "T5Ws6Y",
+                "childIds": [
+                  "L7JtWR"
+                ]
+              },
+              "lKbQk0": {
+                "id": "lKbQk0",
+                "childIds": [
+                  "xRzwIn"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "ktCiko": {
+          "id": "ktCiko",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "q2vVhJ": {
+          "id": "q2vVhJ",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "q2vVhJ",
+            "itemIds": [
+              "baxFLz"
+            ],
+            "itemMap": {
+              "baxFLz": {
+                "id": "baxFLz",
+                "childIds": [
+                  "tpfo3T",
+                  "iRIVLi"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "tpfo3T": {
+          "id": "tpfo3T",
+          "parentId": "baxFLz",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "以任意途径获得苦叶椒后可于 "
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "维尔莫林|植物学家"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 处购买："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "xRzwIn": {
+          "id": "xRzwIn",
+          "parentId": "lKbQk0",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "位于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵城-实验作物试点区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "时，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "382",
+                  "showType": "link-imgText",
+                  "count": "150"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，存量 "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "5"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 份。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

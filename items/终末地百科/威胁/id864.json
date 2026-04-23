@@ -4,7 +4,7 @@
   },
   "name": "棱镜天使",
   "icon": "https://bbs.hycdn.cn/image/2025/12/22/139426/674f69cf92560a9606dc5d5804463fb0.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会大幅强化周围的同伴，使它们的能力提升。\n|敌人分布区域\n景玉谷 武陵城 能量淤积点·武陵城\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n会大幅强化周围的同伴，使它们的能力提升。\n|敌人分布区域\n景玉谷 武陵城 首墩 能量淤积点·武陵城 能量淤积点·首墩\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,54 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776828245",
+    "timestamp": "1776914734",
     "data": {
       "item": {
         "itemId": "864",
         "document": {
           "documentMap": {
-            "PIneI7ZW": {
+            "1SsTNuSn": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "普里玛塔格兰|Prismastagran"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”（归档编号：ASM316），ARM315的非模式种，能够为周围的天使提供保护，混杂在ARM315中时会很难击中它。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "o3oVMK8N": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -314,6 +355,23 @@
                     "kind": "heading3"
                   }
                 },
+                "QrptiX0nbEIZ": {
+                  "id": "QrptiX0nbEIZ",
+                  "parentId": "Jn1FGX68mYTH",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "首墩"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "T5LbIE": {
                   "id": "T5LbIE",
                   "parentId": "nx2AAl",
@@ -570,7 +628,9 @@
                     "itemIds": [
                       "G4YrCm",
                       "kgjvAF",
-                      "BRfAlrv6PEBV"
+                      "Jn1FGX68mYTH",
+                      "BRfAlrv6PEBV",
+                      "Lr5wksuWOw1v"
                     ],
                     "itemMap": {
                       "BRfAlrv6PEBV": {
@@ -585,6 +645,18 @@
                           "ioPxHs"
                         ]
                       },
+                      "Jn1FGX68mYTH": {
+                        "id": "Jn1FGX68mYTH",
+                        "childIds": [
+                          "QrptiX0nbEIZ"
+                        ]
+                      },
+                      "Lr5wksuWOw1v": {
+                        "id": "Lr5wksuWOw1v",
+                        "childIds": [
+                          "rMmDTj66483b"
+                        ]
+                      },
                       "kgjvAF": {
                         "id": "kgjvAF",
                         "childIds": [
@@ -593,6 +665,23 @@
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "rMmDTj66483b": {
+                  "id": "rMmDTj66483b",
+                  "parentId": "Lr5wksuWOw1v",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·首墩"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "wLyRZy": {
@@ -624,47 +713,6 @@
                         "kind": "text",
                         "text": {
                           "text": "灼热抗性"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "aKgCCEXR": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "“"
-                        }
-                      },
-                      {
-                        "kind": "pronunciation",
-                        "pronunciation": {
-                          "content": "普里玛塔格兰|Prismastagran"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "”（归档编号：ASM316），ARM315的非模式种，能够为周围的天使提供保护，混杂在ARM315中时会很难击中它。"
                         }
                       }
                     ],
@@ -710,9 +758,9 @@
                     "name": "棱镜天使",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "aKgCCEXR"
+                    "description": "1SsTNuSn"
                   },
-                  "content": "PIneI7ZW",
+                  "content": "o3oVMK8N",
                   "audioList": []
                 }
               }
@@ -856,7 +904,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767850760",
-        "lastAuditPassedAt": "1774198761",
+        "lastAuditPassedAt": "1776877705",
         "tagIds": [
           "10231"
         ]

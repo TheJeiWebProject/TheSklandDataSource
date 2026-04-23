@@ -453,6 +453,78 @@
     "plannerPriority": 500
   },
   {
+    "key": "aef-skland:industrial/扩容反应池",
+    "displayName": "扩容反应池",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "aef-skland.wiki.item_1383",
+      "name": "扩容反应池"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "in2",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 1,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out2",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
+  },
+  {
     "key": "aef-skland:industrial/拆解机",
     "displayName": "拆解机",
     "renderer": "slot_layout",
@@ -535,6 +607,46 @@
         "x": 6,
         "y": 0,
         "label": "Out"
+      },
+      {
+        "slotId": "out3",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 7,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out4",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 8,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out5",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
+        "y": 1,
+        "label": "Out"
+      },
+      {
+        "slotId": "out6",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 6,
+        "y": 1,
+        "label": "Out"
       }
     ],
     "paramSchema": {
@@ -556,6 +668,67 @@
       "beaconSlots": 0
     },
     "plannerPriority": 100
+  },
+  {
+    "key": "aef-skland:industrial/提纯机",
+    "displayName": "提纯机",
+    "renderer": "slot_layout",
+    "machine": {
+      "id": "aef-skland.wiki.item_1384",
+      "name": "提纯机"
+    },
+    "slots": [
+      {
+        "slotId": "in1",
+        "io": "input",
+        "accept": [
+          "item",
+          "tag"
+        ],
+        "x": 0,
+        "y": 0,
+        "label": "In"
+      },
+      {
+        "slotId": "out1",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 2,
+        "y": 0,
+        "label": "Out"
+      },
+      {
+        "slotId": "out2",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 3,
+        "y": 0,
+        "label": "Out"
+      }
+    ],
+    "paramSchema": {
+      "time": {
+        "displayName": "Time",
+        "unit": "s",
+        "format": "duration"
+      },
+      "usage": {
+        "displayName": "Usage"
+      },
+      "cost": {
+        "displayName": "Cost"
+      }
+    },
+    "defaults": {
+      "speed": 1,
+      "moduleSlots": 0,
+      "beaconSlots": 0
+    },
+    "plannerPriority": 600
   },
   {
     "key": "aef-skland:wiki/source/list_text",
@@ -1131,6 +1304,26 @@
           "item"
         ],
         "x": 3,
+        "y": 1,
+        "label": "Out"
+      },
+      {
+        "slotId": "out6",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 4,
+        "y": 1,
+        "label": "Out"
+      },
+      {
+        "slotId": "out7",
+        "io": "output",
+        "accept": [
+          "item"
+        ],
+        "x": 5,
         "y": 1,
         "label": "Out"
       }

@@ -1,0 +1,91 @@
+{
+  "id": "aef-skland:r/wiki_source_1215/2027",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1215",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "ZAaj5cLFemcn",
+        "ZUG3Ya3654Z9",
+        "jQitLpReF6d3"
+      ],
+      "blockMap": {
+        "ZAaj5cLFemcn": {
+          "id": "ZAaj5cLFemcn",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "-本装备由宏山选剑局设计，使用集成工业系统制造，能够提高使用者的作战能力。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ZUG3Ya3654Z9": {
+          "id": "ZUG3Ya3654Z9",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "-应龙特勤队所配装备的民用版，缺少了关键力量，但具备了普适性。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "jQitLpReF6d3": {
+          "id": "jQitLpReF6d3",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "鲜有人知，这套护甲的设计师实际上是一位仅差半步就能通过特勤队考核的预备队员。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

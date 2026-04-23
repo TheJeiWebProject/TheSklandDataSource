@@ -4,7 +4,7 @@
   },
   "name": "水泵",
   "icon": "https://bbs.hycdn.cn/image/2025/12/18/2696356/f5f19d42842ee4a799cc3af957bbabd2.png",
-  "description": "获取方式:\n在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [铁制零件x10]→[水泵x1]\n在工业计划-武陵工业一期研究液体探采获取。\n\n用途:\n水泵是资源开采类型的机器，可以用于抽取液体。\n水泵可放置在协议核心或次级核心范围外。\n水泵需要电力维持运转，1个水泵耗电功率值为10。\n放置水泵需要长3格、宽3格的可用空地，且水泵的取水管必须接触液体或容器。\n水泵支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n污水存放点（1） | [污水x1] | 1s\n芽针溶液存放点（1） | [芽针溶液x1] | 1s\n锦草溶液存放点（1） | [锦草溶液x1] | 1s\n清水存放点（1） | [清水x1] | 1s\n液化息壤存放点（1） | [液化息壤x1] | 1s",
+  "description": "获取方式:\n在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [铁制零件x10]→[水泵x1]\n在工业计划-武陵工业一期研究液体探采获取。\n\n用途:\n水泵是资源开采类型的机器，可以用于抽取液体。\n水泵可放置在协议核心或次级核心范围外。\n水泵需要电力维持运转，1个水泵耗电功率值为10。\n放置水泵需要长3格、宽3格的可用空地，且水泵的取水管必须接触液体或容器。\n水泵支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n污水存放点（1） | [污水x1] | 1s\n芽针溶液存放点（1） | [芽针溶液x1] | 1s\n锦草溶液存放点（1） | [锦草溶液x1] | 1s\n清水存放点（1） | [清水x1] | 1s\n液化息壤存放点（1） | [液化息壤x1] | 1s\n液化重息壤存放点（1） | 液化重息壤（1） | 1s",
   "rarity": {
     "stars": 2,
     "label": "2星",
@@ -21,497 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776827912",
+    "timestamp": "1776914417",
     "data": {
       "item": {
         "itemId": "736",
         "document": {
           "documentMap": {
-            "FDwD445k": {
-              "id": "document-id",
-              "blockIds": [
-                "E1hNMw",
-                "gQ7KDY",
-                "5iumDx"
-              ],
-              "blockMap": {
-                "5iumDx": {
-                  "id": "5iumDx",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "E1hNMw": {
-                  "id": "E1hNMw",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gQ7KDY": {
-                  "id": "gQ7KDY",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "工业计划-武陵工业一期"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "研究"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "液体探采"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "OgOXmqvv": {
-              "id": "document-id",
-              "blockIds": [
-                "9VmF2q",
-                "IVsAQp",
-                "QOP1hV"
-              ],
-              "blockMap": {
-                "0w0lxy": {
-                  "id": "0w0lxy",
-                  "parentId": "xowYkN",
-                  "kind": "list",
-                  "list": {
-                    "id": "0w0lxy",
-                    "itemIds": [
-                      "tufDCM"
-                    ],
-                    "itemMap": {
-                      "tufDCM": {
-                        "id": "tufDCM",
-                        "childIds": [
-                          "5482eu"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "5482eu": {
-                  "id": "5482eu",
-                  "parentId": "tufDCM",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "373",
-                          "showType": "link-imgText",
-                          "count": "10"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "→"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "736",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "9VmF2q": {
-                  "id": "9VmF2q",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "IVsAQp": {
-                  "id": "IVsAQp",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "IVsAQp",
-                    "itemIds": [
-                      "xowYkN"
-                    ],
-                    "itemMap": {
-                      "xowYkN": {
-                        "id": "xowYkN",
-                        "childIds": [
-                          "zEHbeI",
-                          "0w0lxy"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "QOP1hV": {
-                  "id": "QOP1hV",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "zEHbeI": {
-                  "id": "zEHbeI",
-                  "parentId": "xowYkN",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "次级核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围内，点击"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "工具箱-设备列表-制造设备"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "通过以下配方制造。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "Wl1MHh5Z": {
-              "id": "document-id",
-              "blockIds": [
-                "1WTlpz",
-                "QVMU9x",
-                "044sIK",
-                "o0yABL",
-                "c2ITB9"
-              ],
-              "blockMap": {
-                "044sIK": {
-                  "id": "044sIK",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "水泵"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "可放置在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "次级核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围外。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "1WTlpz": {
-                  "id": "1WTlpz",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QVMU9x": {
-                  "id": "QVMU9x",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "水泵"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "是资源开采类型的机器，可以用于抽取液体。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "c2ITB9": {
-                  "id": "c2ITB9",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "o0yABL": {
-                  "id": "o0yABL",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "水泵"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要电力维持运转，1个"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "水泵"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "耗电功率值为10。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "WlKjiZn3": {
-              "id": "document-id",
-              "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
-              ],
-              "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "XbWEoo": {
-                  "id": "XbWEoo",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "放置"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "水泵"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "需要长"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格、宽"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格的可用空地，且"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "水泵"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "的取水管必须接触液体或容器。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "k7oiwY": {
-                  "id": "k7oiwY",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "nNoXxn44": {
+            "Bcgsr8kD": {
               "id": "document-id",
               "blockIds": [
                 "xCzIfj",
@@ -520,6 +36,23 @@
                 "MS3E21"
               ],
               "blockMap": {
+                "0UTMt7nW9TzB": {
+                  "id": "0UTMt7nW9TzB",
+                  "parentId": "dBVhFJ_UAHBQV",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "液化重息壤存放点（1）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "2hnqiX": {
                   "id": "2hnqiX",
                   "parentId": "zzvfPR_UAHBQV",
@@ -567,6 +100,23 @@
                         "kind": "text",
                         "text": {
                           "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7t3rjGFgcf8R": {
+                  "id": "7t3rjGFgcf8R",
+                  "parentId": "dBVhFJ_m3Onvo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "液化重息壤（1）"
                         }
                       }
                     ],
@@ -662,7 +212,8 @@
                       "4V2wLM",
                       "FAJXnX",
                       "zzvfPR",
-                      "q1lQOh"
+                      "q1lQOh",
+                      "dBVhFJ"
                     ],
                     "columnIds": [
                       "UAHBQV",
@@ -678,6 +229,9 @@
                       },
                       "Jq34FD": {
                         "id": "Jq34FD"
+                      },
+                      "dBVhFJ": {
+                        "id": "dBVhFJ"
                       },
                       "q1lQOh": {
                         "id": "q1lQOh"
@@ -804,6 +358,42 @@
                         "id": "Jq34FD_m3Onvo",
                         "childIds": [
                           "LJefK50OXKaC"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "dBVhFJ_MwWWgq": {
+                        "id": "dBVhFJ_MwWWgq",
+                        "childIds": [
+                          "brcV4ojANLtQ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "dBVhFJ_UAHBQV": {
+                        "id": "dBVhFJ_UAHBQV",
+                        "childIds": [
+                          "0UTMt7nW9TzB"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "dBVhFJ_m3Onvo": {
+                        "id": "dBVhFJ_m3Onvo",
+                        "childIds": [
+                          "7t3rjGFgcf8R"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -1061,6 +651,23 @@
                     "kind": "body"
                   }
                 },
+                "brcV4ojANLtQ": {
+                  "id": "brcV4ojANLtQ",
+                  "parentId": "dBVhFJ_MwWWgq",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "1s"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "ej1gzd": {
                   "id": "ej1gzd",
                   "parentId": "4V2wLM_m3Onvo",
@@ -1160,6 +767,490 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "Oqp44fpz": {
+              "id": "document-id",
+              "blockIds": [
+                "9VmF2q",
+                "IVsAQp",
+                "QOP1hV"
+              ],
+              "blockMap": {
+                "0w0lxy": {
+                  "id": "0w0lxy",
+                  "parentId": "xowYkN",
+                  "kind": "list",
+                  "list": {
+                    "id": "0w0lxy",
+                    "itemIds": [
+                      "tufDCM"
+                    ],
+                    "itemMap": {
+                      "tufDCM": {
+                        "id": "tufDCM",
+                        "childIds": [
+                          "5482eu"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "5482eu": {
+                  "id": "5482eu",
+                  "parentId": "tufDCM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "373",
+                          "showType": "link-imgText",
+                          "count": "10"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "→"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "736",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9VmF2q": {
+                  "id": "9VmF2q",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "IVsAQp": {
+                  "id": "IVsAQp",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "IVsAQp",
+                    "itemIds": [
+                      "xowYkN"
+                    ],
+                    "itemMap": {
+                      "xowYkN": {
+                        "id": "xowYkN",
+                        "childIds": [
+                          "zEHbeI",
+                          "0w0lxy"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "QOP1hV": {
+                  "id": "QOP1hV",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "zEHbeI": {
+                  "id": "zEHbeI",
+                  "parentId": "xowYkN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内，点击"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "工具箱-设备列表-制造设备"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过以下配方制造。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "VqdMwV25": {
+              "id": "document-id",
+              "blockIds": [
+                "1WTlpz",
+                "QVMU9x",
+                "044sIK",
+                "o0yABL",
+                "c2ITB9"
+              ],
+              "blockMap": {
+                "044sIK": {
+                  "id": "044sIK",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "水泵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可放置在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围外。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "1WTlpz": {
+                  "id": "1WTlpz",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QVMU9x": {
+                  "id": "QVMU9x",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "水泵"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "是资源开采类型的机器，可以用于抽取液体。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "c2ITB9": {
+                  "id": "c2ITB9",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "o0yABL": {
+                  "id": "o0yABL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "水泵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要电力维持运转，1个"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "水泵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "耗电功率值为10。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "lEElYUky": {
+              "id": "document-id",
+              "blockIds": [
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
+              ],
+              "blockMap": {
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XbWEoo": {
+                  "id": "XbWEoo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "水泵"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地，且"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "水泵"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的取水管必须接触液体或容器。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "mm4X8ZRR": {
+              "id": "document-id",
+              "blockIds": [
+                "E1hNMw",
+                "gQ7KDY",
+                "5iumDx"
+              ],
+              "blockMap": {
+                "5iumDx": {
+                  "id": "5iumDx",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "E1hNMw": {
+                  "id": "E1hNMw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gQ7KDY": {
+                  "id": "gQ7KDY",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-武陵工业一期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "液体探采"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -1212,7 +1303,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "WlKjiZn3",
+                  "content": "lEElYUky",
                   "audioList": []
                 }
               }
@@ -1224,7 +1315,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "OgOXmqvv",
+                  "content": "Oqp44fpz",
                   "audioList": []
                 }
               }
@@ -1236,7 +1327,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "nNoXxn44",
+                  "content": "Bcgsr8kD",
                   "audioList": []
                 }
               }
@@ -1248,7 +1339,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Wl1MHh5Z",
+                  "content": "VqdMwV25",
                   "audioList": []
                 }
               }
@@ -1260,7 +1351,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "FDwD445k",
+                  "content": "mm4X8ZRR",
                   "audioList": []
                 }
               }
@@ -1566,7 +1657,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767098300",
-        "lastAuditPassedAt": "1774531522",
+        "lastAuditPassedAt": "1776831382",
         "tagIds": [
           "10002",
           "10311",

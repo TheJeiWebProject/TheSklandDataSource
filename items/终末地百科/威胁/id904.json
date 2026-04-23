@@ -4,7 +4,7 @@
   },
   "name": "晶锥天使δ",
   "icon": "https://bbs.hycdn.cn/image/2025/12/25/139426/8e0fb7f16b535ae0dd62089dbc556362.png",
-  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n发射的子弹命中时会对干员施加寒冷附着。\n|敌人分布区域\n武陵城 能量淤积点·武陵城\n|敌人掉落",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | C | C | D\n发射的子弹命中时会对干员施加寒冷附着。\n|敌人分布区域\n武陵城 首墩 能量淤积点·武陵城 能量淤积点·首墩\n|敌人掉落",
   "tags": [
     "main:终末地百科",
     "sub:威胁"
@@ -13,13 +13,82 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776828347",
+    "timestamp": "1776914831",
     "data": {
       "item": {
         "itemId": "904",
         "document": {
           "documentMap": {
-            "8EGlp2ST": {
+            "B5Adg504": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "“"
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "戴法斯塔格兰|Diaphaistagran"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "·"
+                        }
+                      },
+                      {
+                        "kind": "pronunciation",
+                        "pronunciation": {
+                          "content": "狄涅同|Dinedon"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”（归档编号：ARM315δ），ARM315的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_violet",
+                        "kind": "text",
+                        "text": {
+                          "text": "激流种"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。在日照下会发出璀璨的紫光，在塔罗斯的反光照射下则是另一副模样。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "nyz3iP0A": {
               "id": "document-id",
               "blockIds": [
                 "Qh78Jk",
@@ -209,6 +278,23 @@
                     "colHeader": false
                   }
                 },
+                "5y2uknfO5JJn": {
+                  "id": "5y2uknfO5JJn",
+                  "parentId": "NXBPfZTeRYqK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·首墩"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "6ZFT7b": {
                   "id": "6ZFT7b",
                   "parentId": "ImXoPN_GAVhL9",
@@ -247,6 +333,23 @@
                           "id": "583",
                           "showType": "link-imgText",
                           "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Czm7Qt0L5A63": {
+                  "id": "Czm7Qt0L5A63",
+                  "parentId": "q1ZAd0PiHlsK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "首墩"
                         }
                       }
                     ],
@@ -566,7 +669,9 @@
                     "id": "r3E9Ve",
                     "itemIds": [
                       "G4YrCm",
-                      "BRfAlrv6PEBV"
+                      "q1ZAd0PiHlsK",
+                      "BRfAlrv6PEBV",
+                      "NXBPfZTeRYqK"
                     ],
                     "itemMap": {
                       "BRfAlrv6PEBV": {
@@ -579,6 +684,18 @@
                         "id": "G4YrCm",
                         "childIds": [
                           "I4qfh4"
+                        ]
+                      },
+                      "NXBPfZTeRYqK": {
+                        "id": "NXBPfZTeRYqK",
+                        "childIds": [
+                          "5y2uknfO5JJn"
+                        ]
+                      },
+                      "q1ZAd0PiHlsK": {
+                        "id": "q1ZAd0PiHlsK",
+                        "childIds": [
+                          "Czm7Qt0L5A63"
                         ]
                       }
                     },
@@ -614,75 +731,6 @@
                         "kind": "text",
                         "text": {
                           "text": "灼热抗性"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "pGGhSove": {
-              "id": "document-id",
-              "blockIds": [
-                "ZLjAzk"
-              ],
-              "blockMap": {
-                "ZLjAzk": {
-                  "id": "ZLjAzk",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "“"
-                        }
-                      },
-                      {
-                        "kind": "pronunciation",
-                        "pronunciation": {
-                          "content": "戴法斯塔格兰|Diaphaistagran"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "·"
-                        }
-                      },
-                      {
-                        "kind": "pronunciation",
-                        "pronunciation": {
-                          "content": "狄涅同|Dinedon"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "”（归档编号：ARM315δ），ARM315的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_function_violet",
-                        "kind": "text",
-                        "text": {
-                          "text": "激流种"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。在日照下会发出璀璨的紫光，在塔罗斯的反光照射下则是另一副模样。"
                         }
                       }
                     ],
@@ -728,9 +776,9 @@
                     "name": "晶锥天使δ",
                     "type": "天使",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
-                    "description": "pGGhSove"
+                    "description": "B5Adg504"
                   },
-                  "content": "8EGlp2ST",
+                  "content": "nyz3iP0A",
                   "audioList": []
                 }
               }
@@ -874,7 +922,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767849608",
-        "lastAuditPassedAt": "1774198481",
+        "lastAuditPassedAt": "1776877632",
         "tagIds": [
           "10231"
         ]

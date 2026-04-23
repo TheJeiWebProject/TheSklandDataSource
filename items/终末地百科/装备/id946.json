@@ -4,7 +4,7 @@
   },
   "name": "脉冲式校准器",
   "icon": "https://bbs.hycdn.cn/image/2025/12/27/194389/f8489be35c5037c7d3fc71c4228bd467.png",
-  "description": "获取方式:\n装备属性\n防御力 | +21 | 智识 | +41\n源石技艺强度 | +41 |  |\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +21 | 智识 | +41\n源石技艺强度 | +41 |  |\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n力量 | +41 | +45 | +49 | +53\n源石技艺强度 | +41 | +45 | +49 | +53",
+  "description": "获取方式:\n装备属性\n防御力 | +21 | 智识 | +41\n源石技艺强度 | +41 |  |\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【武陵城-储备站】·装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +21 | 智识 | +41\n源石技艺强度 | +41 |  |\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【武陵城-储备站】·装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n力量 | +41 | +45 | +49 | +53\n源石技艺强度 | +41 | +45 | +49 | +53",
   "tags": [
     "main:终末地百科",
     "sub:装备"
@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776828454",
+    "timestamp": "1776914933",
     "data": {
       "item": {
         "itemId": "946",
         "document": {
           "documentMap": {
-            "06PeQseB": {
+            "6vIcLYyQ": {
               "id": "document-id",
               "blockIds": [
                 "RYUGsX",
@@ -1243,7 +1243,145 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "hqM0xj5s": {
+            "MtHlhlpK": {
+              "id": "document-id",
+              "blockIds": [
+                "vJGqcm",
+                "1DRjks"
+              ],
+              "blockMap": {
+                "1DRjks": {
+                  "id": "1DRjks",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "当装备者施加"
+                        }
+                      },
+                      {
+                        "color": "light_function_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "导电"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后，"
+                        }
+                      },
+                      {
+                        "color": "light_function_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "电磁伤害"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+50%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，持续10秒，该效果无法叠加；当装备者施加"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "冻结"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后，"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "寒冷伤害"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+50%"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "持续10秒，该效果无法叠加。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vJGqcm": {
+                  "id": "vJGqcm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3件套组效果"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "：装备者源石技艺强度"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+30"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "h1uKD3mV": {
               "id": "document-id",
               "blockIds": [
                 "gXBxZD"
@@ -1433,7 +1571,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "kM7zQhqn": {
+            "xq7C015n": {
               "id": "document-id",
               "blockIds": [
                 "filqgv",
@@ -1527,7 +1665,7 @@
                         "color": "light_function_blue",
                         "kind": "text",
                         "text": {
-                          "text": "开启装备模板箱"
+                          "text": "开启【武陵城-储备站】·装备模板箱"
                         }
                       },
                       {
@@ -1847,144 +1985,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "pfHlVVeX": {
-              "id": "document-id",
-              "blockIds": [
-                "vJGqcm",
-                "1DRjks"
-              ],
-              "blockMap": {
-                "1DRjks": {
-                  "id": "1DRjks",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "当装备者施加"
-                        }
-                      },
-                      {
-                        "color": "light_function_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "导电"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "后，"
-                        }
-                      },
-                      {
-                        "color": "light_function_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "电磁伤害"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+50%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "，持续10秒，该效果无法叠加；当装备者施加"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "冻结"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "后，"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "寒冷伤害"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+50%"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "，"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "持续10秒，该效果无法叠加。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "vJGqcm": {
-                  "id": "vJGqcm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3件套组效果"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "：装备者源石技艺强度"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+30"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -2045,7 +2045,7 @@
                     "name": "脉冲式装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/12/27/194389/87075ed03c0e93fab1172f7c33d65f1c.png",
-                    "description": "pfHlVVeX"
+                    "description": "MtHlhlpK"
                   },
                   "content": "",
                   "audioList": []
@@ -2059,7 +2059,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "kM7zQhqn",
+                  "content": "xq7C015n",
                   "audioList": []
                 }
               }
@@ -2071,7 +2071,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "hqM0xj5s",
+                  "content": "h1uKD3mV",
                   "audioList": []
                 }
               }
@@ -2083,7 +2083,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "06PeQseB",
+                  "content": "6vIcLYyQ",
                   "audioList": []
                 }
               }
@@ -2735,10 +2735,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "2852384233554",
-          "nickname": "是糖酥A",
+          "id": "4179300744269",
+          "nickname": "二分桃酥",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2024/08/27/a2099bdcf22cf67ffaa10812a33f0ab0.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"
         },
         "createdUser": {
           "id": "2852384233554",
@@ -2851,7 +2851,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767931915",
-        "lastAuditPassedAt": "1774401237",
+        "lastAuditPassedAt": "1776863118",
         "tagIds": [
           "10005",
           "10236",

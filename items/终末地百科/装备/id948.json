@@ -4,7 +4,7 @@
   },
   "name": "拓荒护甲·壹型",
   "icon": "https://bbs.hycdn.cn/image/2025/12/27/194389/0503f634aa7da546b9aceae8957dc5f6.png",
-  "description": "获取方式:\n装备属性\n防御力 | +56 | 力量 | +87\n敏捷 | +58 | 战技伤害加成 | +20.7%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +56 | 力量 | +87\n敏捷 | +58 | 战技伤害加成 | +20.7%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n力量 | +87 | +95 | +104 | +113\n敏捷 | +58 | +63 | +69 | +75\n战技伤害加成 | +20.7% | +22.8% | +24.8% | +26.9%",
+  "description": "获取方式:\n装备属性\n防御力 | +56 | 力量 | +87\n敏捷 | +58 | 战技伤害加成 | +20.7%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【武陵城-选剑局】·装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +56 | 力量 | +87\n敏捷 | +58 | 战技伤害加成 | +20.7%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【武陵城-选剑局】·装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n力量 | +87 | +95 | +104 | +113\n敏捷 | +58 | +63 | +69 | +75\n战技伤害加成 | +20.7% | +22.8% | +24.8% | +26.9%",
   "tags": [
     "main:终末地百科",
     "sub:装备"
@@ -13,13 +13,91 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776828459",
+    "timestamp": "1776914938",
     "data": {
       "item": {
         "itemId": "948",
         "document": {
           "documentMap": {
-            "LDYVCa7t": {
+            "6jAywmiH": {
+              "id": "document-id",
+              "blockIds": [
+                "vJGqcm",
+                "ct9E43"
+              ],
+              "blockMap": {
+                "ct9E43": {
+                  "id": "ct9E43",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "装备者通过技能恢复技力后，全队造成的伤害"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+16%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，持续15秒，该效果无法叠加。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vJGqcm": {
+                  "id": "vJGqcm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3件套组效果"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "：装备者连携技冷却缩减"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+15%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "7Kj2OTnM": {
               "id": "document-id",
               "blockIds": [
                 "RYUGsX",
@@ -1517,85 +1595,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "RdXLFwIL": {
-              "id": "document-id",
-              "blockIds": [
-                "vJGqcm",
-                "ct9E43"
-              ],
-              "blockMap": {
-                "ct9E43": {
-                  "id": "ct9E43",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "装备者通过技能恢复技力后，全队造成的伤害"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+16%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "，持续15秒，该效果无法叠加。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "vJGqcm": {
-                  "id": "vJGqcm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3件套组效果"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "：装备者连携技冷却缩减"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+15%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "h3vcilxS": {
+            "RDFWxsSD": {
               "id": "document-id",
               "blockIds": [
                 "filqgv",
@@ -1714,7 +1714,7 @@
                         "color": "light_function_blue",
                         "kind": "text",
                         "text": {
-                          "text": "开启装备模板箱"
+                          "text": "开启【武陵城-选剑局】·装备模板箱"
                         }
                       },
                       {
@@ -2025,7 +2025,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "xFjWSBIl": {
+            "V2pHCuUe": {
               "id": "document-id",
               "blockIds": [
                 "gXBxZD"
@@ -2274,7 +2274,7 @@
                     "name": "拓荒装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/12/27/194389/e1c1b8f42732679b8fcdb79d9d0c1dff.png",
-                    "description": "RdXLFwIL"
+                    "description": "6jAywmiH"
                   },
                   "content": "",
                   "audioList": []
@@ -2288,7 +2288,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "h3vcilxS",
+                  "content": "RDFWxsSD",
                   "audioList": []
                 }
               }
@@ -2300,7 +2300,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "xFjWSBIl",
+                  "content": "V2pHCuUe",
                   "audioList": []
                 }
               }
@@ -2312,7 +2312,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "LDYVCa7t",
+                  "content": "7Kj2OTnM",
                   "audioList": []
                 }
               }
@@ -2964,10 +2964,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "2852384233554",
-          "nickname": "是糖酥A",
+          "id": "4179300744269",
+          "nickname": "二分桃酥",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2024/08/27/a2099bdcf22cf67ffaa10812a33f0ab0.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"
         },
         "createdUser": {
           "id": "2852384233554",
@@ -3061,7 +3061,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767931858",
-        "lastAuditPassedAt": "1774401255",
+        "lastAuditPassedAt": "1776862399",
         "tagIds": [
           "10005",
           "10236",

@@ -1,0 +1,257 @@
+{
+  "id": "aef-skland:r/wiki_usage_248/2367",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_248",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_17",
+      "amount": 10
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "XtqAwk",
+        "ki98kK",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "XtqAwk": {
+          "id": "XtqAwk",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "参与理智消耗玩法时获取双倍奖励。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ki98kK": {
+          "id": "ki98kK",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "ki98kK",
+            "itemIds": [
+              "cep0Ii",
+              "AnH3Wz4raS6E"
+            ],
+            "itemMap": {
+              "AnH3Wz4raS6E": {
+                "id": "AnH3Wz4raS6E",
+                "childIds": [
+                  "zrOkiRietD1J"
+                ]
+              },
+              "cep0Ii": {
+                "id": "cep0Ii",
+                "childIds": [
+                  "mIPshR"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "mIPshR": {
+          "id": "mIPshR",
+          "parentId": "cep0Ii",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "完成"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "协议空间"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "、"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "等玩法中的战斗后，若未使用"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "理智减耗"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "次数，可选择消耗"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "理智消耗许可"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "与双倍的"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "理智"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "以获取"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "双倍奖励"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "zrOkiRietD1J": {
+          "id": "zrOkiRietD1J",
+          "parentId": "AnH3Wz4raS6E",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "需求的"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "理智消耗许可"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "具体数量与此次消耗理智有关：每消耗"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "link-imgText",
+                  "count": "10"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "则需"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "248",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

@@ -4,7 +4,7 @@
   },
   "name": "50式应龙护手·壹型",
   "icon": "https://bbs.hycdn.cn/image/2025/12/31/194389/94f911a2e0a05a355a7c3fcde05654d7.png",
-  "description": "获取方式:\n装备属性\n防御力 | +42 | 意志 | +65\n敏捷 | +43 | 连携技伤害加成 | +34.5%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +42 | 意志 | +65\n敏捷 | +43 | 连携技伤害加成 | +34.5%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n意志 | +65 | +71 | +78 | +84\n敏捷 | +43 | +47 | +51 | +55\n连携技伤害加成 | +34.5% | +38.0% | +41.4% | +44.9%",
+  "description": "获取方式:\n装备属性\n防御力 | +42 | 意志 | +65\n敏捷 | +43 | 连携技伤害加成 | +34.5%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【景玉谷-生态实验站】·装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +42 | 意志 | +65\n敏捷 | +43 | 连携技伤害加成 | +34.5%\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【景玉谷-生态实验站】·装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n意志 | +65 | +71 | +78 | +84\n敏捷 | +43 | +47 | +51 | +55\n连携技伤害加成 | +34.5% | +38.0% | +41.4% | +44.9%",
   "rarity": {
     "stars": 50,
     "label": "50式应龙装备组",
@@ -20,443 +20,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776828559",
+    "timestamp": "1776915033",
     "data": {
       "item": {
         "itemId": "989",
         "document": {
           "documentMap": {
-            "0JKgPCwZ": {
-              "id": "document-id",
-              "blockIds": [
-                "filqgv",
-                "arRTy0",
-                "SSuxWI",
-                "IkqJpZ",
-                "2VvfgT",
-                "kU5KYi",
-                "3aojrg",
-                "Gzas4g",
-                "DOSCig"
-              ],
-              "blockMap": {
-                "2VvfgT": {
-                  "id": "2VvfgT",
-                  "parentId": "document-id",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "消耗材料"
-                        }
-                      }
-                    ],
-                    "kind": "heading3"
-                  }
-                },
-                "3aojrg": {
-                  "id": "3aojrg",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "3"
-                  }
-                },
-                "4lk6K0": {
-                  "id": "4lk6K0",
-                  "parentId": "C0Cp7C_jd23Jh",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "连携技伤害加成"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "5LH2RH": {
-                  "id": "5LH2RH",
-                  "parentId": "Vcm6ZW_1N5OOE",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "+65"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "9aV9xN": {
-                  "id": "9aV9xN",
-                  "parentId": "C0Cp7C_1N5OOE",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "+34.5%"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "DOSCig": {
-                  "id": "DOSCig",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "Gzas4g": {
-                  "id": "Gzas4g",
-                  "parentId": "document-id",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "装备模板获取方式："
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "开启装备模板箱"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "可获取装备制造模板"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "IkqJpZ": {
-                  "id": "IkqJpZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "Ma0iOR": {
-                  "id": "Ma0iOR",
-                  "parentId": "C0Cp7C_4JcmT9",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "敏捷"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "MtsrP0": {
-                  "id": "MtsrP0",
-                  "parentId": "Vcm6ZW_jd23Jh",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "意志"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "SSuxWI": {
-                  "id": "SSuxWI",
-                  "parentId": "document-id",
-                  "kind": "table",
-                  "table": {
-                    "id": "SSuxWI",
-                    "rowIds": [
-                      "Vcm6ZW",
-                      "C0Cp7C"
-                    ],
-                    "columnIds": [
-                      "4JcmT9",
-                      "oMw5hU",
-                      "jd23Jh",
-                      "1N5OOE"
-                    ],
-                    "rowMap": {
-                      "C0Cp7C": {
-                        "id": "C0Cp7C"
-                      },
-                      "Vcm6ZW": {
-                        "id": "Vcm6ZW"
-                      }
-                    },
-                    "columnMap": {
-                      "1N5OOE": {
-                        "id": "1N5OOE",
-                        "width": 290
-                      },
-                      "4JcmT9": {
-                        "id": "4JcmT9",
-                        "width": 290
-                      },
-                      "jd23Jh": {
-                        "id": "jd23Jh",
-                        "width": 290
-                      },
-                      "oMw5hU": {
-                        "id": "oMw5hU",
-                        "width": 290
-                      }
-                    },
-                    "cellMap": {
-                      "C0Cp7C_1N5OOE": {
-                        "id": "C0Cp7C_1N5OOE",
-                        "childIds": [
-                          "9aV9xN"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "C0Cp7C_4JcmT9": {
-                        "id": "C0Cp7C_4JcmT9",
-                        "childIds": [
-                          "Ma0iOR"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "C0Cp7C_jd23Jh": {
-                        "id": "C0Cp7C_jd23Jh",
-                        "childIds": [
-                          "4lk6K0"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "C0Cp7C_oMw5hU": {
-                        "id": "C0Cp7C_oMw5hU",
-                        "childIds": [
-                          "WlU5NK"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "Vcm6ZW_1N5OOE": {
-                        "id": "Vcm6ZW_1N5OOE",
-                        "childIds": [
-                          "5LH2RH"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "Vcm6ZW_4JcmT9": {
-                        "id": "Vcm6ZW_4JcmT9",
-                        "childIds": [
-                          "lHqNnu"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "Vcm6ZW_jd23Jh": {
-                        "id": "Vcm6ZW_jd23Jh",
-                        "childIds": [
-                          "MtsrP0"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "Vcm6ZW_oMw5hU": {
-                        "id": "Vcm6ZW_oMw5hU",
-                        "childIds": [
-                          "qweP0B"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      }
-                    },
-                    "description": "",
-                    "rowHeader": false,
-                    "colHeader": false
-                  }
-                },
-                "WlU5NK": {
-                  "id": "WlU5NK",
-                  "parentId": "C0Cp7C_oMw5hU",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "+43"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "arRTy0": {
-                  "id": "arRTy0",
-                  "parentId": "document-id",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "装备属性"
-                        }
-                      }
-                    ],
-                    "kind": "heading3"
-                  }
-                },
-                "filqgv": {
-                  "id": "filqgv",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "kU5KYi": {
-                  "id": "kU5KYi",
-                  "parentId": "document-id",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "382",
-                          "showType": "card-big",
-                          "count": "8000"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "480",
-                          "showType": "card-big",
-                          "count": "50"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "lHqNnu": {
-                  "id": "lHqNnu",
-                  "parentId": "Vcm6ZW_4JcmT9",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "防御力"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "qweP0B": {
-                  "id": "qweP0B",
-                  "parentId": "Vcm6ZW_oMw5hU",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "+42"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "DXOj367j": {
+            "1QyPD4nL": {
               "id": "document-id",
               "blockIds": [
                 "gXBxZD"
@@ -646,7 +216,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "Wxfq1shV": {
+            "FrjM1wOF": {
               "id": "document-id",
               "blockIds": [
                 "RYUGsX",
@@ -2144,7 +1714,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "qR0XcGPl": {
+            "tcvzBeq4": {
               "id": "document-id",
               "blockIds": [
                 "vJGqcm",
@@ -2247,6 +1817,436 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "wbMpE95P": {
+              "id": "document-id",
+              "blockIds": [
+                "filqgv",
+                "arRTy0",
+                "SSuxWI",
+                "IkqJpZ",
+                "2VvfgT",
+                "kU5KYi",
+                "3aojrg",
+                "Gzas4g",
+                "DOSCig"
+              ],
+              "blockMap": {
+                "2VvfgT": {
+                  "id": "2VvfgT",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "消耗材料"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "3aojrg": {
+                  "id": "3aojrg",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "4lk6K0": {
+                  "id": "4lk6K0",
+                  "parentId": "C0Cp7C_jd23Jh",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "连携技伤害加成"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5LH2RH": {
+                  "id": "5LH2RH",
+                  "parentId": "Vcm6ZW_1N5OOE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+65"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9aV9xN": {
+                  "id": "9aV9xN",
+                  "parentId": "C0Cp7C_1N5OOE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+34.5%"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DOSCig": {
+                  "id": "DOSCig",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "Gzas4g": {
+                  "id": "Gzas4g",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "装备模板获取方式："
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "开启【景玉谷-生态实验站】·装备模板箱"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "可获取装备制造模板"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "IkqJpZ": {
+                  "id": "IkqJpZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "Ma0iOR": {
+                  "id": "Ma0iOR",
+                  "parentId": "C0Cp7C_4JcmT9",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "敏捷"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "MtsrP0": {
+                  "id": "MtsrP0",
+                  "parentId": "Vcm6ZW_jd23Jh",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "意志"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SSuxWI": {
+                  "id": "SSuxWI",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "SSuxWI",
+                    "rowIds": [
+                      "Vcm6ZW",
+                      "C0Cp7C"
+                    ],
+                    "columnIds": [
+                      "4JcmT9",
+                      "oMw5hU",
+                      "jd23Jh",
+                      "1N5OOE"
+                    ],
+                    "rowMap": {
+                      "C0Cp7C": {
+                        "id": "C0Cp7C"
+                      },
+                      "Vcm6ZW": {
+                        "id": "Vcm6ZW"
+                      }
+                    },
+                    "columnMap": {
+                      "1N5OOE": {
+                        "id": "1N5OOE",
+                        "width": 290
+                      },
+                      "4JcmT9": {
+                        "id": "4JcmT9",
+                        "width": 290
+                      },
+                      "jd23Jh": {
+                        "id": "jd23Jh",
+                        "width": 290
+                      },
+                      "oMw5hU": {
+                        "id": "oMw5hU",
+                        "width": 290
+                      }
+                    },
+                    "cellMap": {
+                      "C0Cp7C_1N5OOE": {
+                        "id": "C0Cp7C_1N5OOE",
+                        "childIds": [
+                          "9aV9xN"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "C0Cp7C_4JcmT9": {
+                        "id": "C0Cp7C_4JcmT9",
+                        "childIds": [
+                          "Ma0iOR"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "C0Cp7C_jd23Jh": {
+                        "id": "C0Cp7C_jd23Jh",
+                        "childIds": [
+                          "4lk6K0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "C0Cp7C_oMw5hU": {
+                        "id": "C0Cp7C_oMw5hU",
+                        "childIds": [
+                          "WlU5NK"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Vcm6ZW_1N5OOE": {
+                        "id": "Vcm6ZW_1N5OOE",
+                        "childIds": [
+                          "5LH2RH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Vcm6ZW_4JcmT9": {
+                        "id": "Vcm6ZW_4JcmT9",
+                        "childIds": [
+                          "lHqNnu"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Vcm6ZW_jd23Jh": {
+                        "id": "Vcm6ZW_jd23Jh",
+                        "childIds": [
+                          "MtsrP0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Vcm6ZW_oMw5hU": {
+                        "id": "Vcm6ZW_oMw5hU",
+                        "childIds": [
+                          "qweP0B"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "WlU5NK": {
+                  "id": "WlU5NK",
+                  "parentId": "C0Cp7C_oMw5hU",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+43"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "arRTy0": {
+                  "id": "arRTy0",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "装备属性"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "filqgv": {
+                  "id": "filqgv",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "kU5KYi": {
+                  "id": "kU5KYi",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "382",
+                          "showType": "card-big",
+                          "count": "8000"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "480",
+                          "showType": "card-big",
+                          "count": "50"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lHqNnu": {
+                  "id": "lHqNnu",
+                  "parentId": "Vcm6ZW_4JcmT9",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "防御力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qweP0B": {
+                  "id": "qweP0B",
+                  "parentId": "Vcm6ZW_oMw5hU",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "+42"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -2307,7 +2307,7 @@
                     "name": "50式应龙装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/12/13/736412/85c6591b2bc81c77a49cf0a3c1af840a.png",
-                    "description": "qR0XcGPl"
+                    "description": "tcvzBeq4"
                   },
                   "content": "",
                   "audioList": []
@@ -2321,7 +2321,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "0JKgPCwZ",
+                  "content": "wbMpE95P",
                   "audioList": []
                 }
               }
@@ -2333,7 +2333,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "DXOj367j",
+                  "content": "1QyPD4nL",
                   "audioList": []
                 }
               }
@@ -2345,7 +2345,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Wxfq1shV",
+                  "content": "FrjM1wOF",
                   "audioList": []
                 }
               }
@@ -2997,10 +2997,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "2852384233554",
-          "nickname": "是糖酥A",
+          "id": "4179300744269",
+          "nickname": "二分桃酥",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2024/08/27/a2099bdcf22cf67ffaa10812a33f0ab0.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"
         },
         "createdUser": {
           "id": "2852384233554",
@@ -3113,7 +3113,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767874392",
-        "lastAuditPassedAt": "1774402017",
+        "lastAuditPassedAt": "1776863128",
         "tagIds": [
           "10005",
           "10236",

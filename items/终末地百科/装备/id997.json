@@ -4,7 +4,7 @@
   },
   "name": "长息装甲",
   "icon": "https://bbs.hycdn.cn/image/2026/01/01/194389/81b00cfe86ac2e8456e649ddc63d85f7.png",
-  "description": "获取方式:\n装备属性\n防御力 | +56 | 意志 | +87\n智识 | +58 | 源石技艺强度 | +20\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +56 | 意志 | +87\n智识 | +58 | 源石技艺强度 | +20\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n意志 | +87 | +95 | +104 | +113\n智识 | +58 | +63 | +69 | +75\n源石技艺强度 | +20 | +22 | +24 | +26",
+  "description": "获取方式:\n装备属性\n防御力 | +56 | 意志 | +87\n智识 | +58 | 源石技艺强度 | +20\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【景玉谷-迷踪渡】·装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +56 | 意志 | +87\n智识 | +58 | 源石技艺强度 | +20\n消耗材料\n[武陵调度券x8000][息壤装备原件x50]\n装备模板获取方式：开启【景玉谷-迷踪渡】·装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n意志 | +87 | +95 | +104 | +113\n智识 | +58 | +63 | +69 | +75\n源石技艺强度 | +20 | +22 | +24 | +26",
   "tags": [
     "main:终末地百科",
     "sub:装备"
@@ -13,13 +13,150 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776828580",
+    "timestamp": "1776915053",
     "data": {
       "item": {
         "itemId": "997",
         "document": {
           "documentMap": {
-            "Kmsbz2K7": {
+            "7NkQgoHO": {
+              "id": "document-id",
+              "blockIds": [
+                "vJGqcm",
+                "M6r0s0"
+              ],
+              "blockMap": {
+                "M6r0s0": {
+                  "id": "M6r0s0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "装备者施加"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "增幅"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "、"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "庇护"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "、"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "脆弱"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "、"
+                        }
+                      },
+                      {
+                        "color": "light_function_turquoise",
+                        "kind": "text",
+                        "text": {
+                          "text": "虚弱"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，使其他队友造成的伤害"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+16%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，持续15秒。该效果无法叠加。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vJGqcm": {
+                  "id": "vJGqcm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3件套组效果"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "：装备者生命值"
+                        }
+                      },
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "+1000"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "K9GgscrQ": {
               "id": "document-id",
               "blockIds": [
                 "RYUGsX",
@@ -1517,7 +1654,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "RUw6y50y": {
+            "PolxwaqR": {
               "id": "document-id",
               "blockIds": [
                 "gXBxZD"
@@ -1707,7 +1844,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "av6Wu4GU": {
+            "bEiPReLp": {
               "id": "document-id",
               "blockIds": [
                 "filqgv",
@@ -1826,7 +1963,7 @@
                         "color": "light_function_blue",
                         "kind": "text",
                         "text": {
-                          "text": "开启装备模板箱"
+                          "text": "开启【景玉谷-迷踪渡】·装备模板箱"
                         }
                       },
                       {
@@ -2136,143 +2273,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "kpo5i84I": {
-              "id": "document-id",
-              "blockIds": [
-                "vJGqcm",
-                "M6r0s0"
-              ],
-              "blockMap": {
-                "M6r0s0": {
-                  "id": "M6r0s0",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "装备者施加"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "增幅"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "、"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "庇护"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "、"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "脆弱"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "、"
-                        }
-                      },
-                      {
-                        "color": "light_function_turquoise",
-                        "kind": "text",
-                        "text": {
-                          "text": "虚弱"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "后"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "，使其他队友造成的伤害"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+16%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "，持续15秒。该效果无法叠加。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "vJGqcm": {
-                  "id": "vJGqcm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3件套组效果"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "：装备者生命值"
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "+1000"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -2333,7 +2333,7 @@
                     "name": "长息装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/12/13/736412/85c6591b2bc81c77a49cf0a3c1af840a.png",
-                    "description": "kpo5i84I"
+                    "description": "7NkQgoHO"
                   },
                   "content": "",
                   "audioList": []
@@ -2347,7 +2347,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "av6Wu4GU",
+                  "content": "bEiPReLp",
                   "audioList": []
                 }
               }
@@ -2359,7 +2359,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "RUw6y50y",
+                  "content": "PolxwaqR",
                   "audioList": []
                 }
               }
@@ -2371,7 +2371,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Kmsbz2K7",
+                  "content": "K9GgscrQ",
                   "audioList": []
                 }
               }
@@ -3023,10 +3023,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "2852384233554",
-          "nickname": "是糖酥A",
+          "id": "4179300744269",
+          "nickname": "二分桃酥",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2024/08/27/a2099bdcf22cf67ffaa10812a33f0ab0.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"
         },
         "createdUser": {
           "id": "2852384233554",
@@ -3139,7 +3139,7 @@
         },
         "status": 2,
         "publishedAtTs": "1768738867",
-        "lastAuditPassedAt": "1774402134",
+        "lastAuditPassedAt": "1776863440",
         "tagIds": [
           "10005",
           "10236",

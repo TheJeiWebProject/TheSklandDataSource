@@ -1,0 +1,96 @@
+{
+  "id": "aef-skland:r/wiki_source_291/1014",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_291",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "2iztXA",
+        "zOBDxr"
+      ],
+      "blockMap": {
+        "2iztXA": {
+          "id": "2iztXA",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "2iztXA",
+            "itemIds": [
+              "FxFKas"
+            ],
+            "itemMap": {
+              "FxFKas": {
+                "id": "FxFKas",
+                "childIds": [
+                  "QOTr6n"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "QOTr6n": {
+          "id": "QOTr6n",
+          "parentId": "FxFKas",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "主线任务"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "报酬。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "zOBDxr": {
+          "id": "zOBDxr",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

@@ -1,0 +1,262 @@
+{
+  "id": "aef-skland:r/wiki_source_412/1145",
+  "type": "aef-skland:wiki/source/table_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 75
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_19",
+      "amount": 4250
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_213",
+      "amount": 18
+    },
+    "in4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_225",
+      "amount": 14
+    },
+    "in5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_14",
+      "amount": 300
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_412",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "任务奖励",
+    "context": {
+      "groupTitle": "任务奖励",
+      "widgetTitle": "",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "rack9a"
+      ],
+      "blockMap": {
+        "42Ezrj": {
+          "id": "42Ezrj",
+          "parentId": "aEu2zP_PU2Z35",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "213",
+                  "showType": "card-big",
+                  "count": "18"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "7pbML9": {
+          "id": "7pbML9",
+          "parentId": "aEu2zP_S80KwH",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "19",
+                  "showType": "card-big",
+                  "count": "4250"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "80fVew": {
+          "id": "80fVew",
+          "parentId": "aEu2zP_iL9tSj",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "225",
+                  "showType": "card-big",
+                  "count": "14"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "c9G5Aw": {
+          "id": "c9G5Aw",
+          "parentId": "aEu2zP_fFKKqO",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "75"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "dYgGI4": {
+          "id": "dYgGI4",
+          "parentId": "aEu2zP_CagGjs",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "14",
+                  "showType": "card-big",
+                  "count": "300"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "rack9a": {
+          "id": "rack9a",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "rack9a",
+            "rowIds": [
+              "aEu2zP"
+            ],
+            "columnIds": [
+              "fFKKqO",
+              "S80KwH",
+              "PU2Z35",
+              "iL9tSj",
+              "CagGjs"
+            ],
+            "rowMap": {
+              "aEu2zP": {
+                "id": "aEu2zP"
+              }
+            },
+            "columnMap": {
+              "CagGjs": {
+                "id": "CagGjs",
+                "width": 232
+              },
+              "PU2Z35": {
+                "id": "PU2Z35",
+                "width": 232
+              },
+              "S80KwH": {
+                "id": "S80KwH",
+                "width": 232
+              },
+              "fFKKqO": {
+                "id": "fFKKqO",
+                "width": 232
+              },
+              "iL9tSj": {
+                "id": "iL9tSj",
+                "width": 232
+              }
+            },
+            "cellMap": {
+              "aEu2zP_CagGjs": {
+                "id": "aEu2zP_CagGjs",
+                "childIds": [
+                  "dYgGI4"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "aEu2zP_PU2Z35": {
+                "id": "aEu2zP_PU2Z35",
+                "childIds": [
+                  "42Ezrj"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "aEu2zP_S80KwH": {
+                "id": "aEu2zP_S80KwH",
+                "childIds": [
+                  "7pbML9"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "aEu2zP_fFKKqO": {
+                "id": "aEu2zP_fFKKqO",
+                "childIds": [
+                  "c9G5Aw"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "aEu2zP_iL9tSj": {
+                "id": "aEu2zP_iL9tSj",
+                "childIds": [
+                  "80fVew"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": false,
+            "colHeader": false
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "table_entry"
+  },
+  "detailLoaded": true
+}

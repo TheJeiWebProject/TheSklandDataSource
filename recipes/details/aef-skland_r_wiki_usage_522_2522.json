@@ -1,0 +1,309 @@
+{
+  "id": "aef-skland:r/wiki_usage_522/2522",
+  "type": "aef-skland:wiki/usage/list_text",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_522",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "POJC5u",
+        "m7VnlH",
+        "Jefg56",
+        "3MWf4X",
+        "iNzZ6W",
+        "Jd4fEe",
+        "oqnqB3"
+      ],
+      "blockMap": {
+        "0r1Brx": {
+          "id": "0r1Brx",
+          "parentId": "0ie1is",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_function_brown",
+                "kind": "text",
+                "text": {
+                  "text": "用尽后恢复次数"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "：战斗中的可用次数用尽时，一段时间后会恢复"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "次可用次数。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "3MWf4X": {
+          "id": "3MWf4X",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "1"
+          }
+        },
+        "Jd4fEe": {
+          "id": "Jd4fEe",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Jd4fEe",
+            "itemIds": [
+              "bpOLLr"
+            ],
+            "itemMap": {
+              "bpOLLr": {
+                "id": "bpOLLr",
+                "childIds": [
+                  "c8WuGO",
+                  "XUR6di"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "Jefg56": {
+          "id": "Jefg56",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Jefg56",
+            "itemIds": [
+              "Jkmet8"
+            ],
+            "itemMap": {
+              "Jkmet8": {
+                "id": "Jkmet8",
+                "childIds": [
+                  "KlKxrU"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "KlKxrU": {
+          "id": "KlKxrU",
+          "parentId": "Jkmet8",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "战术物品配置效果全队干员立刻刻恢复"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "7%"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "终结技能量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "XUR6di": {
+          "id": "XUR6di",
+          "parentId": "bpOLLr",
+          "kind": "list",
+          "list": {
+            "id": "XUR6di",
+            "itemIds": [
+              "0ie1is",
+              "kP0bOk"
+            ],
+            "itemMap": {
+              "0ie1is": {
+                "id": "0ie1is",
+                "childIds": [
+                  "0r1Brx"
+                ]
+              },
+              "kP0bOk": {
+                "id": "kP0bOk",
+                "childIds": [
+                  "gCK0cw"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "c8WuGO": {
+          "id": "c8WuGO",
+          "parentId": "bpOLLr",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "当持有干员的终结技能量低于"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "50%"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "时自动使用，单场战斗中最多可用"
+                }
+              },
+              {
+                "color": "light_function_blueness",
+                "kind": "text",
+                "text": {
+                  "text": "3"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "次。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "gCK0cw": {
+          "id": "gCK0cw",
+          "parentId": "kP0bOk",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "升级效果"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "：战斗中可使用次数+1。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "iNzZ6W": {
+          "id": "iNzZ6W",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "干员装备为战术物品时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "m7VnlH": {
+          "id": "m7VnlH",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "干员直接使用时："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "oqnqB3": {
+          "id": "oqnqB3",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_text"
+  },
+  "detailLoaded": true
+}
