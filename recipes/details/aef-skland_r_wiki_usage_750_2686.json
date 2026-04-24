@@ -1,0 +1,113 @@
+{
+  "id": "aef-skland:r/wiki_usage_750/2686",
+  "type": "aef-skland:wiki/usage/text_only",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_750",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "使用方法 / 面积需求",
+    "context": {
+      "groupTitle": "使用方法",
+      "widgetTitle": "面积需求",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "zVUoAS",
+        "Cl7kJR",
+        "75lqu2"
+      ],
+      "blockMap": {
+        "75lqu2": {
+          "id": "75lqu2",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "Cl7kJR": {
+          "id": "Cl7kJR",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "仓库存取线基段"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需要长"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "8"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "格、宽"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "4"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "格的可用空地，且只能贴靠仓库存取线放置。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "zVUoAS": {
+          "id": "zVUoAS",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "text_only"
+  },
+  "detailLoaded": true
+}

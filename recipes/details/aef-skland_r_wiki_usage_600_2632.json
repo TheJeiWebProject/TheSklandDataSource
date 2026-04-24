@@ -1,0 +1,219 @@
+{
+  "id": "aef-skland:r/wiki_usage_600/2632",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_600",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1090",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "CCiThwwdo9jt",
+        "hDq4mh21uCnc",
+        "pGLOCaD4L7n4",
+        "AVx8glTMmzZ7"
+      ],
+      "blockMap": {
+        "7K1pP3rdIOPf": {
+          "id": "7K1pP3rdIOPf",
+          "parentId": "8XCo0cauvW6N",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1090",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "需求跟随指引前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "枢纽区-工人之家"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "将交付"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "药品包裹"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "至NPC "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "医务人员"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 处以推进任务，限时"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "1分钟"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "送达，且期间禁止"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "跳跃"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "或"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "冲刺"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "AVx8glTMmzZ7": {
+          "id": "AVx8glTMmzZ7",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "CCiThwwdo9jt": {
+          "id": "CCiThwwdo9jt",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "hDq4mh21uCnc": {
+          "id": "hDq4mh21uCnc",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于提交重要任务目标"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pGLOCaD4L7n4": {
+          "id": "pGLOCaD4L7n4",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "pGLOCaD4L7n4",
+            "itemIds": [
+              "8XCo0cauvW6N"
+            ],
+            "itemMap": {
+              "8XCo0cauvW6N": {
+                "id": "8XCo0cauvW6N",
+                "childIds": [
+                  "7K1pP3rdIOPf"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

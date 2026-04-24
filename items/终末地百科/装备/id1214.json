@@ -4,7 +4,7 @@
   },
   "name": "壤流护手",
   "icon": "https://bbs.hycdn.cn/image/common/20260417/194389/69e258eefd2b852705f8b355_56331367.png",
-  "description": "获取方式:\n装备属性\n防御力 | +42 | 意志 | +65\n智识 | +43 | 寒冷和电磁伤害加成 | +19.2%\n消耗材料\n[武陵调度券x25000]\n装备模板获取方式：开启【首墩-望楼蓄水站】·装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +42 | 意志 | +65\n智识 | +43 | 寒冷和电磁伤害加成 | +19.2%\n消耗材料\n[武陵调度券x25000]\n装备模板获取方式：开启【首墩-望楼蓄水站】·装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n意志 | +65 | +71 | +78 | +84\n智识 | +43 | +47 | +51 | +55\n寒冷和电磁伤害加成 | +19.2% | +21.1% | +23.0% | +24.9%",
+  "description": "获取方式:\n装备属性\n防御力 | +42 | 意志 | +65\n智识 | +43 | 寒冷和电磁伤害加成 | +19.2%\n消耗材料\n[武陵调度券x25000][赫铜装备原件x50]\n装备模板获取方式：开启【首墩-望楼蓄水站】·装备模板箱可获取装备制造模板\n\n用途:\n装备属性\n防御力 | +42 | 意志 | +65\n智识 | +43 | 寒冷和电磁伤害加成 | +19.2%\n消耗材料\n[武陵调度券x25000][赫铜装备原件x50]\n装备模板获取方式：开启【首墩-望楼蓄水站】·装备模板箱可获取装备制造模板\n可精锻属性 | 初始数值 | 精锻1级 | 精锻2级 | 精锻3级\n意志 | +65 | +71 | +78 | +84\n智识 | +43 | +47 | +51 | +55\n寒冷和电磁伤害加成 | +19.2% | +21.1% | +23.0% | +24.9%",
   "tags": [
     "main:终末地百科",
     "sub:装备"
@@ -13,13 +13,150 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776915572",
+    "timestamp": "1777002164",
     "data": {
       "item": {
         "itemId": "1214",
         "document": {
           "documentMap": {
-            "OlOg28Dn": {
+            "0BOfL2Wb": {
+              "id": "document-id",
+              "blockIds": [
+                "vJGqcm",
+                "vtV0USQALPgE"
+              ],
+              "blockMap": {
+                "vJGqcm": {
+                  "id": "vJGqcm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3件套组效果"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "：装备者攻击力"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "+10.0%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vtV0USQALPgE": {
+                  "id": "vtV0USQALPgE",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "装备者每次消耗"
+                        }
+                      },
+                      {
+                        "color": "light_function_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "导电"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "color": "light_function_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "腐蚀"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后，根据"
+                        }
+                      },
+                      {
+                        "color": "light_rank_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "异常等级"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获得相同层数的强化状态，每层使"
+                        }
+                      },
+                      {
+                        "color": "light_function_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "电磁伤害"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "和"
+                        }
+                      },
+                      {
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "自然伤害"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "+15.0%"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，持续25秒。强化状态最多存在3层，每层单独计算持续时间。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "3eW1Krtt": {
               "id": "document-id",
               "blockIds": [
                 "filqgv",
@@ -28,7 +165,6 @@
                 "IkqJpZ",
                 "2VvfgT",
                 "kU5KYi",
-                "fYxbTNb78fGu",
                 "3aojrg",
                 "Gzas4g",
                 "DOSCig"
@@ -376,24 +512,6 @@
                     "kind": "heading3"
                   }
                 },
-                "fYxbTNb78fGu": {
-                  "id": "fYxbTNb78fGu",
-                  "parentId": "document-id",
-                  "kind": "image",
-                  "image": {
-                    "id": "69e24e9bfb782837ee03e14e",
-                    "url": "https://bbs.hycdn.cn/image/common/20260417/194389/69e24e9bfb782837ee03e14e_0095c241.webp",
-                    "width": "200",
-                    "height": "254",
-                    "size": "8362",
-                    "format": "webp",
-                    "kind": "",
-                    "description": "",
-                    "clientWidth": 64,
-                    "status": "",
-                    "infos": []
-                  }
-                },
                 "filqgv": {
                   "id": "filqgv",
                   "parentId": "document-id",
@@ -415,6 +533,14 @@
                           "id": "382",
                           "showType": "card-big",
                           "count": "25000"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1363",
+                          "showType": "card-big",
+                          "count": "50"
                         }
                       }
                     ],
@@ -460,334 +586,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "mxADT71w": {
-              "id": "document-id",
-              "blockIds": [
-                "gXBxZD"
-              ],
-              "blockMap": {
-                "ANOhj3": {
-                  "id": "ANOhj3",
-                  "parentId": "9MfFv3_FLu9lu",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "推荐干员词条"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Z0i88l": {
-                  "id": "Z0i88l",
-                  "parentId": "A0O9s5_GDjqqK",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "推荐理由"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "cyF4YT": {
-                  "id": "cyF4YT",
-                  "parentId": "9MfFv3_GDjqqK",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "暂无推荐内容。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "gXBxZD": {
-                  "id": "gXBxZD",
-                  "parentId": "document-id",
-                  "kind": "table",
-                  "table": {
-                    "id": "gXBxZD",
-                    "rowIds": [
-                      "A0O9s5",
-                      "9MfFv3"
-                    ],
-                    "columnIds": [
-                      "FLu9lu",
-                      "GDjqqK",
-                      "1mS70P",
-                      "VSHvHo",
-                      "uoXwhd",
-                      "eEsnyf"
-                    ],
-                    "rowMap": {
-                      "9MfFv3": {
-                        "id": "9MfFv3"
-                      },
-                      "A0O9s5": {
-                        "id": "A0O9s5"
-                      }
-                    },
-                    "columnMap": {
-                      "1mS70P": {
-                        "id": "1mS70P",
-                        "width": 193.33333333333334
-                      },
-                      "FLu9lu": {
-                        "id": "FLu9lu",
-                        "width": 193.33333333333334
-                      },
-                      "GDjqqK": {
-                        "id": "GDjqqK",
-                        "width": 193.33333333333334
-                      },
-                      "VSHvHo": {
-                        "id": "VSHvHo",
-                        "width": 193.33333333333334
-                      },
-                      "eEsnyf": {
-                        "id": "eEsnyf",
-                        "width": 193.33333333333334
-                      },
-                      "uoXwhd": {
-                        "id": "uoXwhd",
-                        "width": 193.33333333333334
-                      }
-                    },
-                    "cellMap": {
-                      "9MfFv3_FLu9lu": {
-                        "id": "9MfFv3_FLu9lu",
-                        "childIds": [
-                          "ANOhj3"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "9MfFv3_GDjqqK": {
-                        "id": "9MfFv3_GDjqqK",
-                        "childIds": [
-                          "cyF4YT"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "5",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "A0O9s5_FLu9lu": {
-                        "id": "A0O9s5_FLu9lu",
-                        "childIds": [
-                          "nIunWQ"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "A0O9s5_GDjqqK": {
-                        "id": "A0O9s5_GDjqqK",
-                        "childIds": [
-                          "Z0i88l"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "5",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      }
-                    },
-                    "description": "",
-                    "rowHeader": true,
-                    "colHeader": false
-                  }
-                },
-                "nIunWQ": {
-                  "id": "nIunWQ",
-                  "parentId": "A0O9s5_FLu9lu",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "推荐干员"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "rUVRYEPt": {
-              "id": "document-id",
-              "blockIds": [
-                "vJGqcm",
-                "vtV0USQALPgE"
-              ],
-              "blockMap": {
-                "vJGqcm": {
-                  "id": "vJGqcm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3件套组效果"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "：装备者攻击力"
-                        }
-                      },
-                      {
-                        "color": "light_function_blueness",
-                        "kind": "text",
-                        "text": {
-                          "text": "+10.0%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "vtV0USQALPgE": {
-                  "id": "vtV0USQALPgE",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "装备者每次消耗"
-                        }
-                      },
-                      {
-                        "color": "light_function_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "导电"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "color": "light_function_green",
-                        "kind": "text",
-                        "text": {
-                          "text": "腐蚀"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "后，根据"
-                        }
-                      },
-                      {
-                        "color": "light_rank_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "异常等级"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "获得相同层数的强化状态，每层使"
-                        }
-                      },
-                      {
-                        "color": "light_function_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "电磁伤害"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "和"
-                        }
-                      },
-                      {
-                        "color": "light_rank_green",
-                        "kind": "text",
-                        "text": {
-                          "text": "自然伤害"
-                        }
-                      },
-                      {
-                        "color": "light_function_blueness",
-                        "kind": "text",
-                        "text": {
-                          "text": "+15.0%"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "，持续25秒。强化状态最多存在3层，每层单独计算持续时间。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "yowaYBFt": {
+            "iTopFZLt": {
               "id": "document-id",
               "blockIds": [
                 "RYUGsX",
@@ -2283,6 +2082,196 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "uVwYWSU9": {
+              "id": "document-id",
+              "blockIds": [
+                "gXBxZD"
+              ],
+              "blockMap": {
+                "ANOhj3": {
+                  "id": "ANOhj3",
+                  "parentId": "9MfFv3_FLu9lu",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "推荐干员词条"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Z0i88l": {
+                  "id": "Z0i88l",
+                  "parentId": "A0O9s5_GDjqqK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "推荐理由"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cyF4YT": {
+                  "id": "cyF4YT",
+                  "parentId": "9MfFv3_GDjqqK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "暂无推荐内容。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gXBxZD": {
+                  "id": "gXBxZD",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "gXBxZD",
+                    "rowIds": [
+                      "A0O9s5",
+                      "9MfFv3"
+                    ],
+                    "columnIds": [
+                      "FLu9lu",
+                      "GDjqqK",
+                      "1mS70P",
+                      "VSHvHo",
+                      "uoXwhd",
+                      "eEsnyf"
+                    ],
+                    "rowMap": {
+                      "9MfFv3": {
+                        "id": "9MfFv3"
+                      },
+                      "A0O9s5": {
+                        "id": "A0O9s5"
+                      }
+                    },
+                    "columnMap": {
+                      "1mS70P": {
+                        "id": "1mS70P",
+                        "width": 193.33333333333334
+                      },
+                      "FLu9lu": {
+                        "id": "FLu9lu",
+                        "width": 193.33333333333334
+                      },
+                      "GDjqqK": {
+                        "id": "GDjqqK",
+                        "width": 193.33333333333334
+                      },
+                      "VSHvHo": {
+                        "id": "VSHvHo",
+                        "width": 193.33333333333334
+                      },
+                      "eEsnyf": {
+                        "id": "eEsnyf",
+                        "width": 193.33333333333334
+                      },
+                      "uoXwhd": {
+                        "id": "uoXwhd",
+                        "width": 193.33333333333334
+                      }
+                    },
+                    "cellMap": {
+                      "9MfFv3_FLu9lu": {
+                        "id": "9MfFv3_FLu9lu",
+                        "childIds": [
+                          "ANOhj3"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "9MfFv3_GDjqqK": {
+                        "id": "9MfFv3_GDjqqK",
+                        "childIds": [
+                          "cyF4YT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "5",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "A0O9s5_FLu9lu": {
+                        "id": "A0O9s5_FLu9lu",
+                        "childIds": [
+                          "nIunWQ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "A0O9s5_GDjqqK": {
+                        "id": "A0O9s5_GDjqqK",
+                        "childIds": [
+                          "Z0i88l"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "5",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "nIunWQ": {
+                  "id": "nIunWQ",
+                  "parentId": "A0O9s5_FLu9lu",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "推荐干员"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -2343,7 +2332,7 @@
                     "name": "壤流装备组",
                     "type": "",
                     "imgUrl": "https://bbs.hycdn.cn/image/2025/12/13/736412/85c6591b2bc81c77a49cf0a3c1af840a.png",
-                    "description": "rUVRYEPt"
+                    "description": "0BOfL2Wb"
                   },
                   "content": "",
                   "audioList": []
@@ -2357,7 +2346,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "OlOg28Dn",
+                  "content": "3eW1Krtt",
                   "audioList": []
                 }
               }
@@ -2369,7 +2358,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "mxADT71w",
+                  "content": "uVwYWSU9",
                   "audioList": []
                 }
               }
@@ -2381,7 +2370,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "yowaYBFt",
+                  "content": "iTopFZLt",
                   "audioList": []
                 }
               }
@@ -3033,10 +3022,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "2852384233554",
-          "nickname": "是糖酥A",
+          "id": "4179300744269",
+          "nickname": "二分桃酥",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2024/08/27/a2099bdcf22cf67ffaa10812a33f0ab0.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"
         },
         "createdUser": {
           "id": "2852384233554",
@@ -3149,7 +3138,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776761326",
-        "lastAuditPassedAt": "1776747814",
+        "lastAuditPassedAt": "1776943981",
         "tagIds": [
           "10005",
           "10236",

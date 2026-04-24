@@ -1,0 +1,174 @@
+{
+  "id": "aef-skland:r/wiki_source_1281/2116",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_8",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1281",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "83OvBypCvdm9",
+        "ahKM7XVnCyRN",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "83OvBypCvdm9": {
+          "id": "83OvBypCvdm9",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ahKM7XVnCyRN": {
+          "id": "ahKM7XVnCyRN",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "ahKM7XVnCyRN",
+            "itemIds": [
+              "OVVwYNOwBAoV"
+            ],
+            "itemMap": {
+              "OVVwYNOwBAoV": {
+                "id": "OVVwYNOwBAoV",
+                "childIds": [
+                  "hd5rldRQlhwt"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "hd5rldRQlhwt": {
+          "id": "hd5rldRQlhwt",
+          "parentId": "OVVwYNOwBAoV",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要任务"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "公爵与宝物"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中，与"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "8",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "一同前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "矿脉源区-临时堆放区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "附近和NPC "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "“风铃公爵”"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 对话后，跟随提示前往集装箱最顶处任务标识处拾取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

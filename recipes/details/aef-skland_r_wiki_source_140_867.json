@@ -1,0 +1,279 @@
+{
+  "id": "aef-skland:r/wiki_source_140/867",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_138",
+      "amount": 50
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_32",
+      "amount": 200000
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_140",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "hfoosh",
+        "lI3Lie",
+        "mKyGQ1",
+        "sF033W",
+        "b7NdXi",
+        "ziuNxh"
+      ],
+      "blockMap": {
+        "Fq8yVG": {
+          "id": "Fq8yVG",
+          "parentId": "VIoMOi",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "物资调度终端"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "购买。"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "，每份售价"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "32",
+                  "showType": "link-imgText",
+                  "count": "200000"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "TiWgXN": {
+          "id": "TiWgXN",
+          "parentId": "4TM1d8",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "138",
+                  "showType": "link-imgText",
+                  "count": "30"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "升级"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "手撕虫肉。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "b7NdXi": {
+          "id": "b7NdXi",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "b7NdXi",
+            "itemIds": [
+              "VIoMOi"
+            ],
+            "itemMap": {
+              "VIoMOi": {
+                "id": "VIoMOi",
+                "childIds": [
+                  "Fq8yVG"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "hfoosh": {
+          "id": "hfoosh",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "lI3Lie": {
+          "id": "lI3Lie",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "完成简制手册内容获取配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "mKyGQ1": {
+          "id": "mKyGQ1",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "mKyGQ1",
+            "itemIds": [
+              "55gvD4",
+              "4TM1d8"
+            ],
+            "itemMap": {
+              "4TM1d8": {
+                "id": "4TM1d8",
+                "childIds": [
+                  "TiWgXN"
+                ]
+              },
+              "55gvD4": {
+                "id": "55gvD4",
+                "childIds": [
+                  "ywNQ82"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "sF033W": {
+          "id": "sF033W",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "ywNQ82": {
+          "id": "ywNQ82",
+          "parentId": "55gvD4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "累计获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "138",
+                  "showType": "link-imgText",
+                  "count": "20"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后可以在简制手册中领取手撕虫肉的配方。获取配方后即可通过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "简易制作"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "合成手撕虫肉。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ziuNxh": {
+          "id": "ziuNxh",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

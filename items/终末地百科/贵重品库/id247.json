@@ -4,7 +4,7 @@
   },
   "name": "寻访情报书",
   "icon": "https://bbs.hycdn.cn/image/2026/01/07/203953/ecd7f2107aa5f3265806ad4634cb9358.png",
-  "description": "获取方式:\n干员寻访-特许寻访获得。\n在任一特许寻访期间对该特许寻访进行累计 60 次寻访后，将额外获得[寻访情报书x1]。\n获取特许寻访的专有十连凭证。\n当新的特许寻访开启时，贵重品库中的寻访情报书将被自动消耗，并转化为对应数量的特许寻访十连凭证。\n\n用途:\n获取特许寻访的专有十连凭证。\n当新的特许寻访开启时，贵重品库中的寻访情报书将被自动消耗，并转化为对应数量的特许寻访十连凭证。",
+  "description": "获取方式:\n干员寻访-特许寻访获得。\n在任一特许寻访期间对该特许寻访进行累计 60 次寻访后，将额外获得[寻访情报书x1]。\n获取特许寻访的专有寻访凭证。\n当新的特许寻访开启时，贵重品库中的[寻访情报书]将被自动消耗并转化为当前特许寻访的寻访凭证。自版本春晓时开启后，[寻访情报书]的转化规则发生了变化： 在此版本前获得的[寻访情报书]会转化为等量的特许寻访十连凭证，例如：通过特许寻访潮水的女儿获得的[寻访情报书x1]，那么在新一期的特许寻访中会将其转化为[清波静流十连凭证x1]。 在此版本开始获得的[寻访情报书]会转化为十倍的特许寻访凭证，例如：通过特许寻访春雷动，万物生获得的[寻访情报书x1]，那么在新一期的特许寻访中会将其转化为春雷醒物寻访凭证（10）。\n\n用途:\n获取特许寻访的专有寻访凭证。\n当新的特许寻访开启时，贵重品库中的[寻访情报书]将被自动消耗并转化为当前特许寻访的寻访凭证。自版本春晓时开启后，[寻访情报书]的转化规则发生了变化： 在此版本前获得的[寻访情报书]会转化为等量的特许寻访十连凭证，例如：通过特许寻访潮水的女儿获得的[寻访情报书x1]，那么在新一期的特许寻访中会将其转化为[清波静流十连凭证x1]。 在此版本开始获得的[寻访情报书]会转化为十倍的特许寻访凭证，例如：通过特许寻访春雷动，万物生获得的[寻访情报书x1]，那么在新一期的特许寻访中会将其转化为春雷醒物寻访凭证（10）。",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,13 +21,404 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776913222",
+    "timestamp": "1776999716",
     "data": {
       "item": {
         "itemId": "247",
         "document": {
           "documentMap": {
-            "4A0Waul7": {
+            "VyzTakgL": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "LXY1iB",
+                "tBlptw",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "0Rfeuc": {
+                  "id": "0Rfeuc",
+                  "parentId": "CvCWvO",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "当新的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "开启时，贵重品库中的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "247",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "将被自动消耗并转化为当前"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的寻访凭证。自版本"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "春晓时"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "开启后，"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "247",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的转化规则发生了变化："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LXY1iB": {
+                  "id": "LXY1iB",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取特许寻访的专有寻访凭证。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WmqF7s9FgwOA": {
+                  "id": "WmqF7s9FgwOA",
+                  "parentId": "RdNgo0aB5sdU",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在此版本开始获得的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "247",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会转化为十倍的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访凭证"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，例如：通过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "春雷动，万物生"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获得的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "247",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，那么在新一期的特许寻访中会将其转化为"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "春雷醒物寻访凭证"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（10）。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "biTGJ4Glbseg": {
+                  "id": "biTGJ4Glbseg",
+                  "parentId": "f1Sw8sf1J3Ab",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在此版本前获得的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "247",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会转化为等量的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访十连凭证"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，例如：通过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "潮水的女儿"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获得的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "247",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，那么在新一期的特许寻访中会将其转化为"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1134",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "cT1Bx0DWpPwe": {
+                  "id": "cT1Bx0DWpPwe",
+                  "parentId": "CvCWvO",
+                  "kind": "list",
+                  "list": {
+                    "id": "cT1Bx0DWpPwe",
+                    "itemIds": [
+                      "f1Sw8sf1J3Ab",
+                      "RdNgo0aB5sdU"
+                    ],
+                    "itemMap": {
+                      "RdNgo0aB5sdU": {
+                        "id": "RdNgo0aB5sdU",
+                        "childIds": [
+                          "WmqF7s9FgwOA"
+                        ]
+                      },
+                      "f1Sw8sf1J3Ab": {
+                        "id": "f1Sw8sf1J3Ab",
+                        "childIds": [
+                          "biTGJ4Glbseg"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "tBlptw": {
+                  "id": "tBlptw",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "tBlptw",
+                    "itemIds": [
+                      "CvCWvO"
+                    ],
+                    "itemMap": {
+                      "CvCWvO": {
+                        "id": "CvCWvO",
+                        "childIds": [
+                          "0Rfeuc",
+                          "cT1Bx0DWpPwe"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "afzGsrhU": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -172,122 +563,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "xx7UZ7Gt": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "LXY1iB",
-                "tBlptw",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "0Rfeuc": {
-                  "id": "0Rfeuc",
-                  "parentId": "CvCWvO",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "当新的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "特许寻访"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "开启时，贵重品库中的寻访情报书将被自动消耗，并转化为对应数量的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "特许寻访十连凭证"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "LXY1iB": {
-                  "id": "LXY1iB",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "获取特许寻访的专有十连凭证。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "tBlptw": {
-                  "id": "tBlptw",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "tBlptw",
-                    "itemIds": [
-                      "CvCWvO"
-                    ],
-                    "itemMap": {
-                      "CvCWvO": {
-                        "id": "CvCWvO",
-                        "childIds": [
-                          "0Rfeuc"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -325,7 +600,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "xx7UZ7Gt",
+                  "content": "VyzTakgL",
                   "audioList": []
                 }
               }
@@ -337,7 +612,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "4A0Waul7",
+                  "content": "afzGsrhU",
                   "audioList": []
                 }
               }
@@ -513,10 +788,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "6208993443188",
-          "nickname": "肉丝饼",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/ef50268d0610aeb22738a0d448ee5d50.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -595,7 +870,7 @@
         },
         "status": 2,
         "publishedAtTs": "1765460062",
-        "lastAuditPassedAt": "1768236366",
+        "lastAuditPassedAt": "1776950491",
         "tagIds": [
           "10006",
           "10324",

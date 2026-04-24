@@ -1,0 +1,70 @@
+{
+  "id": "aef-skland:r/wiki_source_552/1371",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_552",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "9bzHRe",
+        "RcgX6R"
+      ],
+      "blockMap": {
+        "9bzHRe": {
+          "id": "9bzHRe",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "由钢块加工后得来的金属瓶，可用于其他材料合成。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "RcgX6R": {
+          "id": "RcgX6R",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_tertiary",
+                "kind": "text",
+                "text": {
+                  "text": "市面上最为常见的钢瓶。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

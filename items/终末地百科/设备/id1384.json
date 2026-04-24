@@ -4,7 +4,7 @@
   },
   "name": "提纯机",
   "icon": "https://bbs.hycdn.cn/image/common/20260417/3048259/69e24072fb782837ee03e05e_f1525633.png",
-  "description": "获取方式:\n在研究完成提纯技术后可获得2台提纯机。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赤铜零件x20]→ 提纯机（1）\n在武陵工业-武陵工业三期研究提纯技术获取。\n\n用途:\n提纯机是合成制造类型的机器，可以用于合成物品。\n提纯机可放置在协议核心范围外。\n提纯机需要电力维持运转，1个提纯机耗电功率值为50。\n放置提纯机需要长5格、宽5格的可用空地。\n提纯机支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n[惰性壤晶废液x4] | [壤晶废液x1][清水x1] | 2s\n赤铜溶液（4） | 赫铜溶液（1）+ 沉积酸（1） | 2s",
+  "description": "获取方式:\n在研究完成提纯技术后可获得2台提纯机。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赤铜零件x20]→ [提纯机x1]\n在武陵工业-武陵工业三期研究提纯技术获取。\n\n用途:\n提纯机是合成制造类型的机器，可以用于合成物品。\n提纯机可放置在协议核心范围外。\n提纯机需要电力维持运转，1个提纯机耗电功率值为50。\n放置提纯机需要长5格、宽5格的可用空地。\n提纯机支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n[惰性壤晶废液x4] | [壤晶废液x1][清水x1] | 2s\n[赤铜溶液x4] | [赫铜溶液x1][沉积酸x1] | 2s",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776915809",
+    "timestamp": "1777002418",
     "data": {
       "item": {
         "itemId": "1384",
         "document": {
           "documentMap": {
-            "JU2cumAD": {
+            "MOZJfYfz": {
               "id": "document-id",
               "blockIds": [
                 "E1hNMw",
@@ -99,7 +99,127 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "exZQx8Qz": {
+            "m8Cd6xuf": {
+              "id": "document-id",
+              "blockIds": [
+                "1WTlpz",
+                "QVMU9x",
+                "044sIK",
+                "o0yABL",
+                "c2ITB9"
+              ],
+              "blockMap": {
+                "044sIK": {
+                  "id": "044sIK",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "提纯机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可放置在协议核心范围外。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "1WTlpz": {
+                  "id": "1WTlpz",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QVMU9x": {
+                  "id": "QVMU9x",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "提纯机"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "是合成制造类型的机器，可以用于合成物品。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "c2ITB9": {
+                  "id": "c2ITB9",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "o0yABL": {
+                  "id": "o0yABL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "提纯机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要电力维持运转，1个"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "提纯机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "耗电功率值为50。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "nPNenGy9": {
               "id": "document-id",
               "blockIds": [
                 "k7oiwY",
@@ -183,7 +303,195 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "iMHQ771A": {
+            "uPVkn7rh": {
+              "id": "document-id",
+              "blockIds": [
+                "9VmF2q",
+                "7ONjqy",
+                "QOP1hV"
+              ],
+              "blockMap": {
+                "0w0lxy": {
+                  "id": "0w0lxy",
+                  "parentId": "xowYkN",
+                  "kind": "list",
+                  "list": {
+                    "id": "0w0lxy",
+                    "itemIds": [
+                      "tufDCM"
+                    ],
+                    "itemMap": {
+                      "tufDCM": {
+                        "id": "tufDCM",
+                        "childIds": [
+                          "5482eu"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "5482eu": {
+                  "id": "5482eu",
+                  "parentId": "tufDCM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1128",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "→ "
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1384",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7ONjqy": {
+                  "id": "7ONjqy",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "7ONjqy",
+                    "itemIds": [
+                      "zepTkr",
+                      "xowYkN"
+                    ],
+                    "itemMap": {
+                      "xowYkN": {
+                        "id": "xowYkN",
+                        "childIds": [
+                          "zEHbeI",
+                          "0w0lxy"
+                        ]
+                      },
+                      "zepTkr": {
+                        "id": "zepTkr",
+                        "childIds": [
+                          "VchwKv"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "9VmF2q": {
+                  "id": "9VmF2q",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QOP1hV": {
+                  "id": "QOP1hV",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "VchwKv": {
+                  "id": "VchwKv",
+                  "parentId": "zepTkr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在研究完成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "提纯技术"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后可获得2台提纯机。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zEHbeI": {
+                  "id": "zEHbeI",
+                  "parentId": "xowYkN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内，点击"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "工具箱-设备列表-制造设备"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过以下配方制造。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "uwNWS8iR": {
               "id": "document-id",
               "blockIds": [
                 "xCzIfj",
@@ -200,9 +508,19 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "赫铜溶液（1）+ 沉积酸（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1405",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1360",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -520,9 +838,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "赤铜溶液（4）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1404",
+                          "showType": "card-big",
+                          "count": "4"
                         }
                       }
                     ],
@@ -554,306 +874,6 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "ifxFhZXb": {
-              "id": "document-id",
-              "blockIds": [
-                "9VmF2q",
-                "7ONjqy",
-                "QOP1hV"
-              ],
-              "blockMap": {
-                "0w0lxy": {
-                  "id": "0w0lxy",
-                  "parentId": "xowYkN",
-                  "kind": "list",
-                  "list": {
-                    "id": "0w0lxy",
-                    "itemIds": [
-                      "tufDCM"
-                    ],
-                    "itemMap": {
-                      "tufDCM": {
-                        "id": "tufDCM",
-                        "childIds": [
-                          "5482eu"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "5482eu": {
-                  "id": "5482eu",
-                  "parentId": "tufDCM",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1128",
-                          "showType": "link-imgText",
-                          "count": "20"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "→ 提纯机（1）"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "7ONjqy": {
-                  "id": "7ONjqy",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "7ONjqy",
-                    "itemIds": [
-                      "zepTkr",
-                      "xowYkN"
-                    ],
-                    "itemMap": {
-                      "xowYkN": {
-                        "id": "xowYkN",
-                        "childIds": [
-                          "zEHbeI",
-                          "0w0lxy"
-                        ]
-                      },
-                      "zepTkr": {
-                        "id": "zepTkr",
-                        "childIds": [
-                          "VchwKv"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "9VmF2q": {
-                  "id": "9VmF2q",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QOP1hV": {
-                  "id": "QOP1hV",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "VchwKv": {
-                  "id": "VchwKv",
-                  "parentId": "zepTkr",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在研究完成"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "提纯技术"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "后可获得2台提纯机。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "zEHbeI": {
-                  "id": "zEHbeI",
-                  "parentId": "xowYkN",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围内，点击"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "工具箱-设备列表-制造设备"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "通过以下配方制造。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "z5iZkZs9": {
-              "id": "document-id",
-              "blockIds": [
-                "1WTlpz",
-                "QVMU9x",
-                "044sIK",
-                "o0yABL",
-                "c2ITB9"
-              ],
-              "blockMap": {
-                "044sIK": {
-                  "id": "044sIK",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "提纯机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "可放置在协议核心范围外。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "1WTlpz": {
-                  "id": "1WTlpz",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QVMU9x": {
-                  "id": "QVMU9x",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "提纯机"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "是合成制造类型的机器，可以用于合成物品。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "c2ITB9": {
-                  "id": "c2ITB9",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "o0yABL": {
-                  "id": "o0yABL",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "提纯机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要电力维持运转，1个"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "提纯机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "耗电功率值为50。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
                   }
                 }
               },
@@ -911,7 +931,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "exZQx8Qz",
+                  "content": "nPNenGy9",
                   "audioList": []
                 }
               }
@@ -923,7 +943,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ifxFhZXb",
+                  "content": "uPVkn7rh",
                   "audioList": []
                 }
               }
@@ -935,7 +955,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "iMHQ771A",
+                  "content": "uwNWS8iR",
                   "audioList": []
                 }
               }
@@ -947,7 +967,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "z5iZkZs9",
+                  "content": "m8Cd6xuf",
                   "audioList": []
                 }
               }
@@ -959,7 +979,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "JU2cumAD",
+                  "content": "MOZJfYfz",
                   "audioList": []
                 }
               }
@@ -1284,7 +1304,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776859782",
-        "lastAuditPassedAt": "1776831786",
+        "lastAuditPassedAt": "1776923013",
         "tagIds": [
           "10004",
           "10312",

@@ -1,0 +1,69 @@
+{
+  "id": "aef-skland:r/wiki_source_116/842",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_116",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "基本信息",
+    "context": {
+      "groupTitle": "基本信息",
+      "widgetTitle": "",
+      "panelTitle": "获取方式"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "vHBHNA"
+      ],
+      "blockMap": {
+        "KSKq1LftxFcY": {
+          "id": "KSKq1LftxFcY",
+          "parentId": "AYBqpJM3Q7fA",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "施术单元武器干员默认配置"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "vHBHNA": {
+          "id": "vHBHNA",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "vHBHNA",
+            "itemIds": [
+              "AYBqpJM3Q7fA"
+            ],
+            "itemMap": {
+              "AYBqpJM3Q7fA": {
+                "id": "AYBqpJM3Q7fA",
+                "childIds": [
+                  "KSKq1LftxFcY"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

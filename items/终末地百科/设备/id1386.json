@@ -4,7 +4,7 @@
   },
   "name": "多口暗管出口",
   "icon": "https://bbs.hycdn.cn/image/common/20260417/3048259/69e23a342f344b108650c7f3_3eac6ad0.png",
-  "description": "获取方式:\n在研究完成多口暗管后可获得2台多口暗管出口。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赤铜零件x40]→ 多口暗管出口（1）\n在武陵工业-武陵工业三期研究多口暗管获取。\n\n用途:\n多口暗管出口是仓储存取类型的机器，可以用于存取液体。\n多口暗管出口可放置在协议核心范围外。\n放置多口暗管出口需要长5格、宽2格的可用空地。",
+  "description": "获取方式:\n在研究完成多口暗管后可获得2台多口暗管出口。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赤铜零件x40]→ [多口暗管出口x1]\n在武陵工业-武陵工业三期研究多口暗管获取。\n\n用途:\n多口暗管出口是仓储存取类型的机器，可以用于存取液体。\n多口暗管出口可放置在协议核心范围外。\n放置多口暗管出口需要长5格、宽2格的可用空地。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,13 +21,97 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776915814",
+    "timestamp": "1777002423",
     "data": {
       "item": {
         "itemId": "1386",
         "document": {
           "documentMap": {
-            "UQa30ZoF": {
+            "2NCJqT9Z": {
+              "id": "document-id",
+              "blockIds": [
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
+              ],
+              "blockMap": {
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XbWEoo": {
+                  "id": "XbWEoo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "多口暗管出口"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "5"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "2"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "2b0pCUNL": {
               "id": "document-id",
               "blockIds": [
                 "E1hNMw",
@@ -98,7 +182,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "YSOPKmIf": {
+            "yBoFdS0A": {
               "id": "document-id",
               "blockIds": [
                 "1WTlpz",
@@ -176,7 +260,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "couXwL8Z": {
+            "yNEpZbL9": {
               "id": "document-id",
               "blockIds": [
                 "9VmF2q",
@@ -223,7 +307,15 @@
                         "bold": true,
                         "kind": "text",
                         "text": {
-                          "text": "→ 多口暗管出口（1）"
+                          "text": "→ "
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1386",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       }
                     ],
@@ -368,90 +460,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "cx8x9bZg": {
-              "id": "document-id",
-              "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
-              ],
-              "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "XbWEoo": {
-                  "id": "XbWEoo",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "放置"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "多口暗管出口"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "需要长"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "5"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格、宽"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "2"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格的可用空地。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "k7oiwY": {
-                  "id": "k7oiwY",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -499,7 +507,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "cx8x9bZg",
+                  "content": "2NCJqT9Z",
                   "audioList": []
                 }
               }
@@ -511,7 +519,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "couXwL8Z",
+                  "content": "yNEpZbL9",
                   "audioList": []
                 }
               }
@@ -523,7 +531,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "YSOPKmIf",
+                  "content": "yBoFdS0A",
                   "audioList": []
                 }
               }
@@ -535,7 +543,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "UQa30ZoF",
+                  "content": "2b0pCUNL",
                   "audioList": []
                 }
               }
@@ -759,10 +767,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9769520938084",
+          "nickname": "陆刀刀",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
         },
         "createdUser": {
           "id": "9769520938084",
@@ -841,7 +849,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776859840",
-        "lastAuditPassedAt": "1776434561",
+        "lastAuditPassedAt": "1776923041",
         "tagIds": [
           "10004",
           "10312",

@@ -4,7 +4,7 @@
   },
   "name": "重锤迫击炮",
   "icon": "https://bbs.hycdn.cn/image/common/20260418/2696356/69e2f9037c7aea6c28120d91_f1525633.png",
-  "description": "获取方式:\n在研究完成重锤迫击炮后可获得1台重锤迫击炮。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 赫铜零件（20）→ 重锤迫击炮（1）\n在工业计划-武陵工业三期研究重锤迫击炮获取。\n\n用途:\n重锤迫击炮是战斗辅助的机器，可以用于辅助战斗。\n重锤迫击炮可放置在协议核心范围外。\n重锤迫击炮需要电力维持运转，1个重锤迫击炮耗电功率值为20。\n重锤迫击炮的战斗性能： 攻击力：33000 物理伤害 攻击间隔：8秒 攻击范围：5米\n放置重锤迫击炮需要长3格、宽3格的可用空地，且与其他战斗辅助设备间隔≥3格。",
+  "description": "获取方式:\n在研究完成重锤迫击炮后可获得1台重锤迫击炮。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赫铜零件x20]→ [重锤迫击炮x1]\n在工业计划-武陵工业三期研究重锤迫击炮获取。\n\n用途:\n重锤迫击炮是战斗辅助的机器，可以用于辅助战斗。\n重锤迫击炮可放置在协议核心范围外。\n重锤迫击炮需要电力维持运转，1个重锤迫击炮耗电功率值为20。\n重锤迫击炮的战斗性能： 攻击力：33000 物理伤害 攻击间隔：8秒 攻击范围：5米\n放置重锤迫击炮需要长3格、宽3格的可用空地，且与其他战斗辅助设备间隔≥3格。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,30 +21,38 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776915819",
+    "timestamp": "1777002428",
     "data": {
       "item": {
         "itemId": "1388",
         "document": {
           "documentMap": {
-            "JEmxYmF1": {
+            "NGaPZbGA": {
               "id": "document-id",
               "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
+                "E1hNMw",
+                "gQ7KDY",
+                "5iumDx"
               ],
               "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
+                "5iumDx": {
+                  "id": "5iumDx",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
                   }
                 },
-                "XbWEoo": {
-                  "id": "XbWEoo",
+                "E1hNMw": {
+                  "id": "E1hNMw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gQ7KDY": {
+                  "id": "gQ7KDY",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -53,7 +61,20 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "放置"
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-武陵工业三期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
                         }
                       },
                       {
@@ -66,80 +87,18 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "需要长"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格、宽"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格的可用空地，"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "且与其他战斗辅助设备间隔"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "≥3"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "格"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
+                          "text": "获取。"
                         }
                       }
                     ],
                     "kind": "body"
-                  }
-                },
-                "k7oiwY": {
-                  "id": "k7oiwY",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
                   }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "MFbfdtpi": {
+            "NxXk5Kdk": {
               "id": "document-id",
               "blockIds": [
                 "9VmF2q",
@@ -175,10 +134,26 @@
                   "text": {
                     "inlineElements": [
                       {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1362",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
                         "bold": true,
                         "kind": "text",
                         "text": {
-                          "text": "赫铜零件（20）→ 重锤迫击炮（1）"
+                          "text": "→ "
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1388",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       }
                     ],
@@ -311,32 +286,24 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "cpQ0jKn0": {
+            "OA49uado": {
               "id": "document-id",
               "blockIds": [
-                "E1hNMw",
-                "gQ7KDY",
-                "5iumDx"
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
               ],
               "blockMap": {
-                "5iumDx": {
-                  "id": "5iumDx",
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
                   }
                 },
-                "E1hNMw": {
-                  "id": "E1hNMw",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gQ7KDY": {
-                  "id": "gQ7KDY",
+                "XbWEoo": {
+                  "id": "XbWEoo",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -345,20 +312,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "工业计划-武陵工业三期"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "研究"
+                          "text": "放置"
                         }
                       },
                       {
@@ -371,18 +325,80 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "获取。"
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地，"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "且与其他战斗辅助设备间隔"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "≥3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
                         }
                       }
                     ],
                     "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
                   }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "wFYQjTMr": {
+            "mjxXqboW": {
               "id": "document-id",
               "blockIds": [
                 "1WTlpz",
@@ -742,7 +758,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "JEmxYmF1",
+                  "content": "OA49uado",
                   "audioList": []
                 }
               }
@@ -754,7 +770,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "MFbfdtpi",
+                  "content": "NxXk5Kdk",
                   "audioList": []
                 }
               }
@@ -766,7 +782,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "wFYQjTMr",
+                  "content": "mjxXqboW",
                   "audioList": []
                 }
               }
@@ -778,7 +794,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "cpQ0jKn0",
+                  "content": "NGaPZbGA",
                   "audioList": []
                 }
               }
@@ -1164,7 +1180,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776860251",
-        "lastAuditPassedAt": "1776492694",
+        "lastAuditPassedAt": "1776923107",
         "tagIds": [
           "10005",
           "10370",

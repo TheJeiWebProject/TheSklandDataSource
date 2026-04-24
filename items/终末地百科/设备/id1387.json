@@ -4,7 +4,7 @@
   },
   "name": "高能射线塔",
   "icon": "https://bbs.hycdn.cn/image/common/20260418/2696356/69e2f94ffd2b852705f8b69f_13673ac9.png",
-  "description": "获取方式:\n在研究完成高能射线塔后可获得1台高能射线塔。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 赫晶零件（20）→ 高能射线塔（1）\n在工业计划-武陵工业三期研究高能射线塔获取。\n\n用途:\n高能射线塔是战斗辅助类型的机器，可以用于辅助攻击敌人。\n高能射线塔可放置在协议核心范围外。\n高能射线塔需要电力维持运转，1个高能射线塔耗电功率值为20。\n高能射线塔的战斗性能： 攻击力：45375 电磁伤害 攻击间隔：8秒 攻击范围：12.5米\n放置高能射线塔需要长2格、宽2格的可用空地，且与其他战斗辅助设备间隔≥3格。",
+  "description": "获取方式:\n在研究完成高能射线塔后可获得1台高能射线塔。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赫铜零件x20]→[高能射线塔x1]\n在工业计划-武陵工业三期研究高能射线塔获取。\n\n用途:\n高能射线塔是战斗辅助类型的机器，可以用于辅助攻击敌人。\n高能射线塔可放置在协议核心范围外。\n高能射线塔需要电力维持运转，1个高能射线塔耗电功率值为20。\n高能射线塔的战斗性能： 攻击力：45375 电磁伤害 攻击间隔：8秒 攻击范围：12.5米\n放置高能射线塔需要长2格、宽2格的可用空地，且与其他战斗辅助设备间隔≥3格。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,125 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776915817",
+    "timestamp": "1777002425",
     "data": {
       "item": {
         "itemId": "1387",
         "document": {
           "documentMap": {
-            "Q6tpM7fQ": {
-              "id": "document-id",
-              "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
-              ],
-              "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "XbWEoo": {
-                  "id": "XbWEoo",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "放置"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "高能射线塔"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "需要长"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "2"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格、宽"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "2"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格的可用空地，"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "且与其他战斗辅助设备间隔"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "≥3"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "格"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "k7oiwY": {
-                  "id": "k7oiwY",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "ZLfrdMQk": {
+            "406Jti3W": {
               "id": "document-id",
               "blockIds": [
                 "9VmF2q",
@@ -175,10 +63,26 @@
                   "text": {
                     "inlineElements": [
                       {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1362",
+                          "showType": "link-imgText",
+                          "count": "20"
+                        }
+                      },
+                      {
                         "bold": true,
                         "kind": "text",
                         "text": {
-                          "text": "赫晶零件（20）→ 高能射线塔（1）"
+                          "text": "→"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1387",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       }
                     ],
@@ -311,7 +215,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "sJZzNCUl": {
+            "RpnScsAX": {
               "id": "document-id",
               "blockIds": [
                 "E1hNMw",
@@ -382,7 +286,119 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "weeWNH2R": {
+            "kAT9EE3N": {
+              "id": "document-id",
+              "blockIds": [
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
+              ],
+              "blockMap": {
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XbWEoo": {
+                  "id": "XbWEoo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "高能射线塔"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "2"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "2"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地，"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "且与其他战斗辅助设备间隔"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "≥3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "格"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "qfGX2AQ3": {
               "id": "document-id",
               "blockIds": [
                 "1WTlpz",
@@ -742,7 +758,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Q6tpM7fQ",
+                  "content": "kAT9EE3N",
                   "audioList": []
                 }
               }
@@ -754,7 +770,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ZLfrdMQk",
+                  "content": "406Jti3W",
                   "audioList": []
                 }
               }
@@ -766,7 +782,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "weeWNH2R",
+                  "content": "qfGX2AQ3",
                   "audioList": []
                 }
               }
@@ -778,7 +794,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "sJZzNCUl",
+                  "content": "RpnScsAX",
                   "audioList": []
                 }
               }
@@ -1164,7 +1180,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776859996",
-        "lastAuditPassedAt": "1776492687",
+        "lastAuditPassedAt": "1776923149",
         "tagIds": [
           "10005",
           "10370",
