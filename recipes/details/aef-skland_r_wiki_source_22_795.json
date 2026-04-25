@@ -1,0 +1,234 @@
+{
+  "id": "aef-skland:r/wiki_source_22/795",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_22",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "CUX8WO",
+        "cPatx0",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "9Dp1yo": {
+          "id": "9Dp1yo",
+          "parentId": "pc1Mun",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "一天内对已经进行过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "拍一拍"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "的"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "驮兽"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "再次交互时，不会产出驮兽粪便，同时出现提示：“"
+                }
+              },
+              {
+                "bold": true,
+                "italic": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "这只驮兽今天已经被拍过了，让它休息一天吧。"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "”"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "CUX8WO": {
+          "id": "CUX8WO",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "与野外的驮兽交互。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "c90awA": {
+          "id": "c90awA",
+          "parentId": "2R6waw",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "地图中出现的部分"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "驮兽"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "在靠近时可以进行“"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "拍一拍"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "”，交互后会使"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "驮兽"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "做出特定的回应动作，并产出可拾取的"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "22",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "cPatx0": {
+          "id": "cPatx0",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "cPatx0",
+            "itemIds": [
+              "2R6waw",
+              "pc1Mun"
+            ],
+            "itemMap": {
+              "2R6waw": {
+                "id": "2R6waw",
+                "childIds": [
+                  "c90awA"
+                ]
+              },
+              "pc1Mun": {
+                "id": "pc1Mun",
+                "childIds": [
+                  "9Dp1yo"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

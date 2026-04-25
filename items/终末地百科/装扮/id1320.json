@@ -4,7 +4,7 @@
   },
   "name": "头像·涤尘专家",
   "icon": "https://bbs.hycdn.cn/image/common/20260420/2696356/69e5af6dcacb3db10e65e98d_f1525633.png",
-  "description": "获取方式:\n活动奖励。\n在[净流涤尘]活动中，完成“弹性情节演练”后领取奖励获得。",
+  "description": "获取方式:\n特定活动奖励。\n在[净流涤尘]活动中，通过重要任务[环卫标兵·其七]完成挑战“弹性情节演练”后领取奖励获得。",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,17 +21,17 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777002350",
+    "timestamp": "1777088114",
     "data": {
       "item": {
         "itemId": "1320",
         "document": {
           "documentMap": {
-            "DlP4fxd8": {
+            "zuvpNtVV": {
               "id": "document-id",
               "blockIds": [
                 "CrgaMtb9NL3Z",
-                "usubnZTJA9kj",
+                "l4gNLkN7BzZe",
                 "qn702ZwBnAlN",
                 "XohgGfTxNfxh"
               ],
@@ -70,7 +70,30 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "活动中，完成“"
+                          "text": "活动中，通过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "重要任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1396",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "完成挑战“"
                         }
                       },
                       {
@@ -100,6 +123,25 @@
                     "kind": "2"
                   }
                 },
+                "l4gNLkN7BzZe": {
+                  "id": "l4gNLkN7BzZe",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特定活动奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "qn702ZwBnAlN": {
                   "id": "qn702ZwBnAlN",
                   "parentId": "document-id",
@@ -118,25 +160,6 @@
                       }
                     },
                     "kind": "unordered"
-                  }
-                },
-                "usubnZTJA9kj": {
-                  "id": "usubnZTJA9kj",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "活动奖励。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
                   }
                 }
               },
@@ -169,7 +192,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "DlP4fxd8",
+                  "content": "zuvpNtVV",
                   "audioList": []
                 }
               }
@@ -304,10 +327,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9769520938084",
-          "nickname": "陆刀刀",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "9769520938084",
@@ -382,7 +405,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776760861",
-        "lastAuditPassedAt": "1776670962",
+        "lastAuditPassedAt": "1777014535",
         "tagIds": [
           "10006",
           "10406"

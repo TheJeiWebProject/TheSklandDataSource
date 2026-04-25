@@ -1,0 +1,189 @@
+{
+  "id": "aef-skland:r/wiki_usage_254/2464",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_254",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_71",
+      "amount": 1
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_126",
+      "amount": 1
+    },
+    "out3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_113",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "WDEYnfMs2tAi",
+        "zlVxsWIVrWDu",
+        "aWxK4KXuCLlD",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "QdSh11PWKk5Q": {
+          "id": "QdSh11PWKk5Q",
+          "parentId": "BdDxvMGiLgST",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "武器补给·唤醒"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可以选择并获取来自"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "协议通行证·唤醒"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的一把六星武器："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "WDEYnfMs2tAi": {
+          "id": "WDEYnfMs2tAi",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "开启后获得特定的六星武器。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "aWxK4KXuCLlD": {
+          "id": "aWxK4KXuCLlD",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "71",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "126",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "113",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "zlVxsWIVrWDu": {
+          "id": "zlVxsWIVrWDu",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "zlVxsWIVrWDu",
+            "itemIds": [
+              "BdDxvMGiLgST"
+            ],
+            "itemMap": {
+              "BdDxvMGiLgST": {
+                "id": "BdDxvMGiLgST",
+                "childIds": [
+                  "QdSh11PWKk5Q"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

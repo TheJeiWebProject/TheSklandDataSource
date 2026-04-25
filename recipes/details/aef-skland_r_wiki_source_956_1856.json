@@ -1,0 +1,88 @@
+{
+  "id": "aef-skland:r/wiki_source_956/1856",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_956",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "7xFVr3",
+        "4BtDak",
+        "sIbo4r"
+      ],
+      "blockMap": {
+        "4BtDak": {
+          "id": "4BtDak",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-轻巧的实验型防护装备。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "7xFVr3": {
+          "id": "7xFVr3",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-本装备由轻超域技术实验室设计，使用集成工业系统制造，能够提高使用者的作战能力。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "sIbo4r": {
+          "id": "sIbo4r",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "“请在佩戴本实验室产品时额外装配内衬装备，若您出现幻听、幻视等症状，请卸下本实验室产品并及时进食。”"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

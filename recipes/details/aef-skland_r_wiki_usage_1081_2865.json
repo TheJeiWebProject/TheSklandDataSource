@@ -1,0 +1,176 @@
+{
+  "id": "aef-skland:r/wiki_usage_1081/2865",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1081",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 840
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "K6nH1rcUPA5e",
+        "6dtXNBu8IuY7",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "6dtXNBu8IuY7": {
+          "id": "6dtXNBu8IuY7",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "6dtXNBu8IuY7",
+            "itemIds": [
+              "jKByqfjn5Png"
+            ],
+            "itemMap": {
+              "jKByqfjn5Png": {
+                "id": "jKByqfjn5Png",
+                "childIds": [
+                  "Xy8adKh9c6bJ"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "K6nH1rcUPA5e": {
+          "id": "K6nH1rcUPA5e",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用以获取嵌晶玉。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "Xy8adKh9c6bJ": {
+          "id": "Xy8adKh9c6bJ",
+          "parentId": "jKByqfjn5Png",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "在贵重品库中可以使用"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "连连乐·福气款"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（1）"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "以随机获得"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "link-imgText",
+                  "count": "260"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "、"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "link-imgText",
+                  "count": "280"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "或"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "link-imgText",
+                  "count": "300"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

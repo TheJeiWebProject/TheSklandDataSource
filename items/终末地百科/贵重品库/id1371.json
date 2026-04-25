@@ -4,7 +4,7 @@
   },
   "name": "春雷醒物寻访凭证",
   "icon": "https://bbs.hycdn.cn/image/common/20260417/1492764/69e1a5eb939e875334203989_56331367.png",
-  "description": "获取方式:\n特许寻访春雷动，万物生期间采购中心购买。\n配额兑换所-集成配额交易会以[集成配额x175]的价格与-60%的折扣（即实际价格为[集成配额x70]）出售，存量 5 份。 采购中心-组合包出售的醒物寻访组合包（￥98）包含春雷醒物寻访凭证（10）。\n特定活动奖励。\n特许寻访春雷动，万物生期间，参与活动春雷醒物签到，可以在第1天、第2天与第3天的签到奖励中获得共计春雷醒物寻访凭证（5）。\n\n用途:\n进行干员寻访。\n春雷醒物寻访凭证只能在特许寻访春雷动，万物生中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。 特许寻访春雷动，万物生结束时，贵重品库中的春雷醒物寻访凭证会被自动移除。",
+  "description": "获取方式:\n特许寻访春雷动，万物生期间采购中心购买。\n配额兑换所-集成配额交易会以[集成配额x175]的价格与-60%的折扣（即实际价格为[集成配额x70]）出售，存量 5 份。 采购中心-组合包出售的醒物寻访组合包（￥98）包含[春雷醒物寻访凭证x10]。\n寻访情报书转化。\n特许寻访春雷动，万物生期间，贵重品库中的[寻访情报书x1]可以被转化为[春雷醒物寻访凭证x10]。\n特定活动奖励。\n特许寻访春雷动，万物生期间，参与活动[春雷醒物签到]，可以在第1天、第2天与第3天的签到奖励中获得共计[春雷醒物寻访凭证x5]。\n\n用途:\n进行干员寻访。\n春雷醒物寻访凭证只能在特许寻访春雷动，万物生中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。 特许寻访春雷动，万物生结束时，贵重品库中的春雷醒物寻访凭证会被自动移除。",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777002402",
+    "timestamp": "1777088168",
     "data": {
       "item": {
         "itemId": "1371",
         "document": {
           "documentMap": {
-            "UL5McecP": {
+            "NDinPWgd": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -157,22 +157,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "结束时，贵重品库中的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "春雷醒物寻访凭证"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "会被自动移除。"
+                          "text": "结束时，贵重品库中的春雷醒物寻访凭证会被自动移除。"
                         }
                       }
                     ],
@@ -183,12 +168,15 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "ihVAkcaK": {
+            "T2bBv1rO": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
                 "2xMNK5",
                 "oOKq9q",
+                "IjBSRJAtKsEh",
+                "PRyllJf8IeTP",
+                "yWhCDy0bJj6a",
                 "g2xcVp",
                 "UHA8vwZd1K4s",
                 "yuvyWaT2UeGO",
@@ -215,6 +203,33 @@
                         "kind": "text",
                         "text": {
                           "text": "采购中心购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "IjBSRJAtKsEh": {
+                  "id": "IjBSRJAtKsEh",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "PRyllJf8IeTP": {
+                  "id": "PRyllJf8IeTP",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "寻访情报书转化。"
                         }
                       }
                     ],
@@ -278,18 +293,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "春雷醒物寻访凭证"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1371",
+                          "showType": "link-imgText",
+                          "count": "10"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（10）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -318,6 +333,69 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "5"
+                  }
+                },
+                "m2fdL905aSKo": {
+                  "id": "m2fdL905aSKo",
+                  "parentId": "M8kGZFzCaGRr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "春雷动，万物生"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间，贵重品库中的"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "247",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可以被转化为"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1371",
+                          "showType": "link-imgText",
+                          "count": "10"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "nmjG2M": {
@@ -463,11 +541,11 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "春雷醒物签到"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1464",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
@@ -478,22 +556,42 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "春雷醒物寻访凭证"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1371",
+                          "showType": "link-imgText",
+                          "count": "5"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（5）。"
+                          "text": "。"
                         }
                       }
                     ],
                     "kind": "body"
+                  }
+                },
+                "yWhCDy0bJj6a": {
+                  "id": "yWhCDy0bJj6a",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "yWhCDy0bJj6a",
+                    "itemIds": [
+                      "M8kGZFzCaGRr"
+                    ],
+                    "itemMap": {
+                      "M8kGZFzCaGRr": {
+                        "id": "M8kGZFzCaGRr",
+                        "childIds": [
+                          "m2fdL905aSKo"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
                   }
                 },
                 "yuvyWaT2UeGO": {
@@ -556,7 +654,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "UL5McecP",
+                  "content": "NDinPWgd",
                   "audioList": []
                 }
               }
@@ -568,7 +666,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ihVAkcaK",
+                  "content": "T2bBv1rO",
                   "audioList": []
                 }
               }
@@ -826,7 +924,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776950547",
-        "lastAuditPassedAt": "1776950473",
+        "lastAuditPassedAt": "1777028967",
         "tagIds": [
           "10006",
           "10324",

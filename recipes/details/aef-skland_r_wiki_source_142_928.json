@@ -1,0 +1,135 @@
+{
+  "id": "aef-skland:r/wiki_source_142/928",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_915",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_142",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "j3X0zd",
+        "UbDMf1",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "EpHsD9": {
+          "id": "EpHsD9",
+          "parentId": "XqDbgO",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "以下敌人被击败时均会掉落"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "水灯虫的灯坠"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "："
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "915",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "UbDMf1": {
+          "id": "UbDMf1",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "UbDMf1",
+            "itemIds": [
+              "XqDbgO"
+            ],
+            "itemMap": {
+              "XqDbgO": {
+                "id": "XqDbgO",
+                "childIds": [
+                  "EpHsD9"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "j3X0zd": {
+          "id": "j3X0zd",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "击败水灯虫有概率掉落。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

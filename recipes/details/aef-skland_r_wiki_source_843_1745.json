@@ -1,0 +1,88 @@
+{
+  "id": "aef-skland:r/wiki_source_843/1745",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_843",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "7xFVr3",
+        "my7UvZ",
+        "zHwMu0"
+      ],
+      "blockMap": {
+        "7xFVr3": {
+          "id": "7xFVr3",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "my7UvZ": {
+          "id": "my7UvZ",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-牢固的防护背心。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "zHwMu0": {
+          "id": "zHwMu0",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "“在抢修现场必须穿好防护装备，不然你就会看到受损设备向你大声呼救……别给医生添麻烦，好吗？”"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

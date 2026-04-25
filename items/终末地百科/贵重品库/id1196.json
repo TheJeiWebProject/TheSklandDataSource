@@ -4,7 +4,7 @@
   },
   "name": "武陵拓展核心",
   "icon": "https://bbs.hycdn.cn/image/common/20260319/3048259/69bb94ae0b797bd73811e207_56331367.png",
-  "description": "获取方式:\n完成特定任务的报酬。\n部分紧要任务在完成后的报酬中会包含[武陵拓展核心x1]： [第二章 - 进程Ⅲ - 旧泉涸处新潮生]\n\n用途:\n用于解锁武陵工业计划。\n收集[武陵工业点数]完成前置工业计划全部节点后，可以消耗[武陵拓展核心x1]开启新一期的武陵工业计划。",
+  "description": "获取方式:\n完成特定任务的报酬。\n部分紧要任务在完成后的报酬中会包含[武陵拓展核心x1]： [第二章 - 进程Ⅲ - 旧泉涸处新潮生] [第二章 - 进程Ⅳ - 自由意志]\n\n用途:\n用于解锁武陵工业计划。\n收集[武陵工业点数]完成前置工业计划全部节点后，可以消耗[武陵拓展核心x1]开启新一期的武陵工业计划。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,195 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777002117",
+    "timestamp": "1777087879",
     "data": {
       "item": {
         "itemId": "1196",
         "document": {
           "documentMap": {
-            "4lr123KQ": {
+            "CDBx4YYh": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "lFsRT6qkP1tg",
+                "lXWidn9havQ1",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "8zE0saycLpxh": {
+                  "id": "8zE0saycLpxh",
+                  "parentId": "G4V56FRfG1Bq",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1469",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "lFsRT6qkP1tg": {
+                  "id": "lFsRT6qkP1tg",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "完成特定任务的报酬。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lXWidn9havQ1": {
+                  "id": "lXWidn9havQ1",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "lXWidn9havQ1",
+                    "itemIds": [
+                      "gUCfwHqmyPAp"
+                    ],
+                    "itemMap": {
+                      "gUCfwHqmyPAp": {
+                        "id": "gUCfwHqmyPAp",
+                        "childIds": [
+                          "p9iyRa4NXmxo",
+                          "mAMDOYEFPCar"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lw0LgfDl6z7J": {
+                  "id": "lw0LgfDl6z7J",
+                  "parentId": "HC5AB3XiTY3r",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1246",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mAMDOYEFPCar": {
+                  "id": "mAMDOYEFPCar",
+                  "parentId": "gUCfwHqmyPAp",
+                  "kind": "list",
+                  "list": {
+                    "id": "mAMDOYEFPCar",
+                    "itemIds": [
+                      "HC5AB3XiTY3r",
+                      "G4V56FRfG1Bq"
+                    ],
+                    "itemMap": {
+                      "G4V56FRfG1Bq": {
+                        "id": "G4V56FRfG1Bq",
+                        "childIds": [
+                          "8zE0saycLpxh"
+                        ]
+                      },
+                      "HC5AB3XiTY3r": {
+                        "id": "HC5AB3XiTY3r",
+                        "childIds": [
+                          "lw0LgfDl6z7J"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "p9iyRa4NXmxo": {
+                  "id": "p9iyRa4NXmxo",
+                  "parentId": "gUCfwHqmyPAp",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "部分"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "紧要任务"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在完成后的报酬中会包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1196",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "xukn22xv": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -139,162 +321,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "WS6fNkrV": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "lFsRT6qkP1tg",
-                "lXWidn9havQ1",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "lFsRT6qkP1tg": {
-                  "id": "lFsRT6qkP1tg",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "完成特定任务的报酬。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "lXWidn9havQ1": {
-                  "id": "lXWidn9havQ1",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "lXWidn9havQ1",
-                    "itemIds": [
-                      "gUCfwHqmyPAp"
-                    ],
-                    "itemMap": {
-                      "gUCfwHqmyPAp": {
-                        "id": "gUCfwHqmyPAp",
-                        "childIds": [
-                          "p9iyRa4NXmxo",
-                          "mAMDOYEFPCar"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "lw0LgfDl6z7J": {
-                  "id": "lw0LgfDl6z7J",
-                  "parentId": "HC5AB3XiTY3r",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1246",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "mAMDOYEFPCar": {
-                  "id": "mAMDOYEFPCar",
-                  "parentId": "gUCfwHqmyPAp",
-                  "kind": "list",
-                  "list": {
-                    "id": "mAMDOYEFPCar",
-                    "itemIds": [
-                      "HC5AB3XiTY3r"
-                    ],
-                    "itemMap": {
-                      "HC5AB3XiTY3r": {
-                        "id": "HC5AB3XiTY3r",
-                        "childIds": [
-                          "lw0LgfDl6z7J"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "p9iyRa4NXmxo": {
-                  "id": "p9iyRa4NXmxo",
-                  "parentId": "gUCfwHqmyPAp",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "部分"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "紧要任务"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在完成后的报酬中会包含"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1196",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "："
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -332,7 +358,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "4lr123KQ",
+                  "content": "xukn22xv",
                   "audioList": []
                 }
               }
@@ -344,7 +370,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "WS6fNkrV",
+                  "content": "CDBx4YYh",
                   "audioList": []
                 }
               }
@@ -601,7 +627,7 @@
         },
         "status": 2,
         "publishedAtTs": "1773397453",
-        "lastAuditPassedAt": "1775018509",
+        "lastAuditPassedAt": "1777028432",
         "tagIds": [
           "10005",
           "10330",

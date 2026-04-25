@@ -4,7 +4,7 @@
   },
   "name": "佩丽卡的信物",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/3048259/37df50bc947dcbdd08e58e2c70e4ed62.png",
-  "description": "获取方式:\n枢纽区-待建设区等地采集。\n干员入职的馈赠，通过寻访获取。\n\n用途:\n提升干员[佩丽卡]的潜能。具体提升如下：\n信物数量 | 武库配额 | 保障配额 | 集成配额 | 作用 | \n1 | 200 | 10 | / | 危机处理连携技即时协议·闪链施加的导电持续时间+75%。 | \n2 |  |  |  | 谈判策略终结技协议ε·70.41κ所需的终结技能量-15%。 | \n3 |  |  |  | 监督重任当佩丽卡对敌人施加导电时，在5秒内攻击力+20%，该效果最多叠加2层。 | \n4 |  |  |  | 长效导流连携技即时协议·闪链施加的导电使敌人受到法术伤害提高的效果提升至原本的1.33倍。 | \n5 |  |  |  | 再入控制终结技协议ε·70.41κ的暴击率+30%。 | \n≥6 |  |  | 20 | / |",
+  "description": "获取方式:\n枢纽区-待建设区等地采集。\n干员入职的馈赠，通过寻访获取。\n特定活动奖励。 参与活动镌宇铭星签到，可以在第1天的签到奖励中获得。\n\n用途:\n提升干员[佩丽卡]的潜能。具体提升如下：\n信物数量 | 武库配额 | 保障配额 | 集成配额 | 作用 | \n1 | 200 | 10 | / | 危机处理连携技即时协议·闪链施加的导电持续时间+75%。 | \n2 |  |  |  | 谈判策略终结技协议ε·70.41κ所需的终结技能量-15%。 | \n3 |  |  |  | 监督重任当佩丽卡对敌人施加导电时，在5秒内攻击力+20%，该效果最多叠加2层。 | \n4 |  |  |  | 长效导流连携技即时协议·闪链施加的导电使敌人受到法术伤害提高的效果提升至原本的1.33倍。 | \n5 |  |  |  | 再入控制终结技协议ε·70.41κ的暴击率+30%。 | \n≥6 |  |  | 20 | / |",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,200 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1776999826",
+    "timestamp": "1777085553",
     "data": {
       "item": {
         "itemId": "293",
         "document": {
           "documentMap": {
-            "sEGCqmrv": {
+            "Bh9AZzcu": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "QB7bLN",
+                "2nHcjG",
+                "9eYZFicX52LR",
+                "k12Y14Ry8ARS",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "2nHcjG": {
+                  "id": "2nHcjG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2nHcjG",
+                    "itemIds": [
+                      "ZQeKqJ"
+                    ],
+                    "itemMap": {
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "t9mfIY"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "9eYZFicX52LR": {
+                  "id": "9eYZFicX52LR",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "LrTfStGnLVdi": {
+                  "id": "LrTfStGnLVdi",
+                  "parentId": "RNlSEqW5MxNx",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "参与活动"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "镌宇铭星签到"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，可以在第1天的签到奖励中获得。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区-待建设区等地采集。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "hdt5rod1Wc2v": {
+                  "id": "hdt5rod1Wc2v",
+                  "parentId": "aZVt5dpDVvgu",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "特定活动奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k12Y14Ry8ARS": {
+                  "id": "k12Y14Ry8ARS",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "k12Y14Ry8ARS",
+                    "itemIds": [
+                      "aZVt5dpDVvgu",
+                      "RNlSEqW5MxNx"
+                    ],
+                    "itemMap": {
+                      "RNlSEqW5MxNx": {
+                        "id": "RNlSEqW5MxNx",
+                        "childIds": [
+                          "LrTfStGnLVdi"
+                        ]
+                      },
+                      "aZVt5dpDVvgu": {
+                        "id": "aZVt5dpDVvgu",
+                        "childIds": [
+                          "hdt5rod1Wc2v"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "t9mfIY": {
+                  "id": "t9mfIY",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "干员入职的馈赠，通过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "寻访"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "s5YUmDJf": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -1075,107 +1262,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "sgIv9juk": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "QB7bLN",
-                "2nHcjG",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "2nHcjG": {
-                  "id": "2nHcjG",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "2nHcjG",
-                    "itemIds": [
-                      "ZQeKqJ"
-                    ],
-                    "itemMap": {
-                      "ZQeKqJ": {
-                        "id": "ZQeKqJ",
-                        "childIds": [
-                          "t9mfIY"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "QB7bLN": {
-                  "id": "QB7bLN",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "枢纽区-待建设区等地采集。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "t9mfIY": {
-                  "id": "t9mfIY",
-                  "parentId": "ZQeKqJ",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "干员入职的馈赠，通过"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "寻访"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -1213,7 +1299,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "sEGCqmrv",
+                  "content": "s5YUmDJf",
                   "audioList": []
                 }
               }
@@ -1225,7 +1311,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "sgIv9juk",
+                  "content": "Bh9AZzcu",
                   "audioList": []
                 }
               }
@@ -1483,7 +1569,7 @@
         },
         "status": 2,
         "publishedAtTs": "1766383828",
-        "lastAuditPassedAt": "1770979332",
+        "lastAuditPassedAt": "1777029142",
         "tagIds": [
           "10005",
           "10330",
