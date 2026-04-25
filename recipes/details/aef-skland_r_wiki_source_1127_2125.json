@@ -1,0 +1,183 @@
+{
+  "id": "aef-skland:r/wiki_source_1127/2125",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1168",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1127",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "I44x56a8m1UY",
+        "dgU7GY6rrEN9",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "AwGbJlfXZURi": {
+          "id": "AwGbJlfXZURi",
+          "parentId": "9vjuEioRrleH",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "采集赤铜矿需要在相应的矿点上部署"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1168",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "或更高级的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "资源开采"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "设备，或者通过干员攻击等方式破坏矿簇后掉落。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "I44x56a8m1UY": {
+          "id": "I44x56a8m1UY",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "清波寨等地采集。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "dgU7GY6rrEN9": {
+          "id": "dgU7GY6rrEN9",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "dgU7GY6rrEN9",
+            "itemIds": [
+              "6neS7e9ehPbv",
+              "9vjuEioRrleH"
+            ],
+            "itemMap": {
+              "6neS7e9ehPbv": {
+                "id": "6neS7e9ehPbv",
+                "childIds": [
+                  "oWs1dnGgOaoi"
+                ]
+              },
+              "9vjuEioRrleH": {
+                "id": "9vjuEioRrleH",
+                "childIds": [
+                  "AwGbJlfXZURi"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "oWs1dnGgOaoi": {
+          "id": "oWs1dnGgOaoi",
+          "parentId": "6neS7e9ehPbv",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "赤铜矿的矿点会在地图上以"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "集中矿点"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "标记。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

@@ -1,0 +1,199 @@
+{
+  "id": "aef-skland:r/wiki_source_239/1157",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_687",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_914",
+      "amount": 1
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_494",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_239",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "QB7bLN",
+        "YNZReT",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "GelQuH": {
+          "id": "GelQuH",
+          "parentId": "6OZNQN",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_function_blue",
+                "kind": "text",
+                "text": {
+                  "text": "次要任务"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "687",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中，前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "景玉谷-生态实验站"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "稀有采集物区"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（长耳兽的窝），击败周围的"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "914",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "后在任务标识处的"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "494",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "采集点上获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QB7bLN": {
+          "id": "QB7bLN",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "YNZReT": {
+          "id": "YNZReT",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "YNZReT",
+            "itemIds": [
+              "6OZNQN"
+            ],
+            "itemMap": {
+              "6OZNQN": {
+                "id": "6OZNQN",
+                "childIds": [
+                  "GelQuH"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

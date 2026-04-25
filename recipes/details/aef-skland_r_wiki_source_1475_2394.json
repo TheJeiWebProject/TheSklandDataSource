@@ -1,0 +1,67 @@
+{
+  "id": "aef-skland:r/wiki_source_1475/2394",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1475",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "任务内容 / 任务奖励",
+    "context": {
+      "groupTitle": "任务内容",
+      "widgetTitle": "任务奖励",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "9f3LPQlDgzxB",
+        "qNacyW02SSfH",
+        "MUPusacDEHGb"
+      ],
+      "blockMap": {
+        "9f3LPQlDgzxB": {
+          "id": "9f3LPQlDgzxB",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "MUPusacDEHGb": {
+          "id": "MUPusacDEHGb",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "qNacyW02SSfH": {
+          "id": "qNacyW02SSfH",
+          "parentId": "document-id",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "/"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

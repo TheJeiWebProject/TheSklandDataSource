@@ -1,0 +1,203 @@
+{
+  "id": "aef-skland:r/wiki_source_667/1661",
+  "type": "aef-skland:wiki/source/table_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 50
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_14",
+      "amount": 200
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_667",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "任务奖励",
+    "context": {
+      "groupTitle": "任务奖励",
+      "widgetTitle": "",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "zvewlyF4QXmJ",
+        "hEDJAi8sp1zw",
+        "E00KVMq98bGt",
+        "ONLmAmZCwoVR"
+      ],
+      "blockMap": {
+        "E00KVMq98bGt": {
+          "id": "E00KVMq98bGt",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "3"
+          }
+        },
+        "ONLmAmZCwoVR": {
+          "id": "ONLmAmZCwoVR",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "ONLmAmZCwoVR",
+            "rowIds": [
+              "8fuZK9"
+            ],
+            "columnIds": [
+              "Y837ge",
+              "rXrYZS"
+            ],
+            "rowMap": {
+              "8fuZK9": {
+                "id": "8fuZK9"
+              }
+            },
+            "columnMap": {
+              "Y837ge": {
+                "id": "Y837ge",
+                "width": 580
+              },
+              "rXrYZS": {
+                "id": "rXrYZS",
+                "width": 580
+              }
+            },
+            "cellMap": {
+              "8fuZK9_Y837ge": {
+                "id": "8fuZK9_Y837ge",
+                "childIds": [
+                  "TbYqlgE83uIQ"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "8fuZK9_rXrYZS": {
+                "id": "8fuZK9_rXrYZS",
+                "childIds": [
+                  "QIgxhS4FGX9n"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": false,
+            "colHeader": false
+          }
+        },
+        "QIgxhS4FGX9n": {
+          "id": "QIgxhS4FGX9n",
+          "parentId": "8fuZK9_rXrYZS",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "14",
+                  "showType": "card-big",
+                  "count": "200"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QZSHD2UyRksA": {
+          "id": "QZSHD2UyRksA",
+          "parentId": "oZLteiZmzjZY",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "完成此任务可解锁"
+                }
+              },
+              {
+                "bold": true,
+                "underline": true,
+                "kind": "text",
+                "text": {
+                  "text": "据点-基建前站"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "TbYqlgE83uIQ": {
+          "id": "TbYqlgE83uIQ",
+          "parentId": "8fuZK9_Y837ge",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "50"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "hEDJAi8sp1zw": {
+          "id": "hEDJAi8sp1zw",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "hEDJAi8sp1zw",
+            "itemIds": [
+              "oZLteiZmzjZY"
+            ],
+            "itemMap": {
+              "oZLteiZmzjZY": {
+                "id": "oZLteiZmzjZY",
+                "childIds": [
+                  "QZSHD2UyRksA"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "zvewlyF4QXmJ": {
+          "id": "zvewlyF4QXmJ",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "table_entry"
+  },
+  "detailLoaded": true
+}

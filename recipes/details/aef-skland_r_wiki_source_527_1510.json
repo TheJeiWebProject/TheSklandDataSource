@@ -1,0 +1,123 @@
+{
+  "id": "aef-skland:r/wiki_source_527/1510",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_527",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "skDpMYtkSkvH",
+        "ZSH4jJFqzx0E",
+        "7ShSQamjvq7H",
+        "4dvCkdjECx8P"
+      ],
+      "blockMap": {
+        "4dvCkdjECx8P": {
+          "id": "4dvCkdjECx8P",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "7ShSQamjvq7H": {
+          "id": "7ShSQamjvq7H",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "7ShSQamjvq7H",
+            "itemIds": [
+              "8nQleVxbqtpu"
+            ],
+            "itemMap": {
+              "8nQleVxbqtpu": {
+                "id": "8nQleVxbqtpu",
+                "childIds": [
+                  "q1rXECGV2xbV"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "ZSH4jJFqzx0E": {
+          "id": "ZSH4jJFqzx0E",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "q1rXECGV2xbV": {
+          "id": "q1rXECGV2xbV",
+          "parentId": "8nQleVxbqtpu",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "破坏地图各处的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "箱子"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "等途径可以获得一定数量的精选柑实罐头。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "skDpMYtkSkvH": {
+          "id": "skDpMYtkSkvH",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

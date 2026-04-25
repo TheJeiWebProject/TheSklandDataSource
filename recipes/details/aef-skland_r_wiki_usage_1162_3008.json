@@ -1,0 +1,241 @@
+{
+  "id": "aef-skland:r/wiki_usage_1162/3008",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1162",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_370",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "eIOGDgotP30g",
+        "O9io7H",
+        "ihrKJ9",
+        "zsCuqNkPuOUf"
+      ],
+      "blockMap": {
+        "4E7Cpk": {
+          "id": "4E7Cpk",
+          "parentId": "reU5i7",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "尽管"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1162",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "不能被排放，但是对于天然存在的"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1162",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "，当主控干员浸没在其中且未触发落水判定时，每秒受到等同于最大生命值的5%且无视干员自身防御的伤害。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "O9io7H": {
+          "id": "O9io7H",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "作为液体盛装。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "eIOGDgotP30g": {
+          "id": "eIOGDgotP30g",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "ihrKJ9": {
+          "id": "ihrKJ9",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "ihrKJ9",
+            "itemIds": [
+              "jAzZqF",
+              "bx8hAk",
+              "reU5i7"
+            ],
+            "itemMap": {
+              "bx8hAk": {
+                "id": "bx8hAk",
+                "childIds": [
+                  "tq40i6"
+                ]
+              },
+              "jAzZqF": {
+                "id": "jAzZqF",
+                "childIds": [
+                  "xEUhrM"
+                ]
+              },
+              "reU5i7": {
+                "id": "reU5i7",
+                "childIds": [
+                  "4E7Cpk"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "tq40i6": {
+          "id": "tq40i6",
+          "parentId": "bx8hAk",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "每个"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "容器"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "可以盛装"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1162",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "xEUhrM": {
+          "id": "xEUhrM",
+          "parentId": "jAzZqF",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "污水在工业合成以外的情况下不能被直接使用，需要使用"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "370",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "或其它"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "容器"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "盛装。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "zsCuqNkPuOUf": {
+          "id": "zsCuqNkPuOUf",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

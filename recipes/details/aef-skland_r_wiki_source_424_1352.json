@@ -1,0 +1,95 @@
+{
+  "id": "aef-skland:r/wiki_source_424/1352",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_424",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取方式 / 所属区域",
+    "context": {
+      "groupTitle": "获取方式",
+      "widgetTitle": "所属区域",
+      "panelTitle": "四号谷地"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "RE6ODH"
+      ],
+      "blockMap": {
+        "RE6ODH": {
+          "id": "RE6ODH",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "RE6ODH",
+            "itemIds": [
+              "KESyWl",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "KESyWl": {
+                "id": "KESyWl",
+                "childIds": [
+                  "uAqdIL"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "hYoSQH": {
+          "id": "hYoSQH",
+          "parentId": "J6PClp",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "敌人掉落"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "uAqdIL": {
+          "id": "uAqdIL",
+          "parentId": "KESyWl",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "能量淤积点"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

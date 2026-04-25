@@ -1,0 +1,123 @@
+{
+  "id": "aef-skland:r/wiki_source_859/1869",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_859",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "WaSlpD",
+        "vE5A01",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "2YvA2X": {
+          "id": "2YvA2X",
+          "parentId": "DmGbVP",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "与"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "各处的协议采录桩交互后可以获得武陵工业点数。该功能需要在完成特定任务后才会解锁。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "WaSlpD": {
+          "id": "WaSlpD",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "激活协议采录桩获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "vE5A01": {
+          "id": "vE5A01",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "vE5A01",
+            "itemIds": [
+              "DmGbVP"
+            ],
+            "itemMap": {
+              "DmGbVP": {
+                "id": "DmGbVP",
+                "childIds": [
+                  "2YvA2X"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

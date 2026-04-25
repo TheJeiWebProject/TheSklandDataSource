@@ -1,0 +1,79 @@
+{
+  "id": "aef-skland:r/wiki_usage_1082/2981",
+  "type": "aef-skland:wiki/usage/text_only",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1082",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 地区建设等级",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "地区建设等级",
+      "panelTitle": "后续地区建设等级尚未开放"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "PjKm0EKTYMeA",
+        "vyNya2br8ZmL",
+        "Hj8EtqVgYYC8",
+        "HTxbIdMzCjrl"
+      ],
+      "blockMap": {
+        "HTxbIdMzCjrl": {
+          "id": "HTxbIdMzCjrl",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "3"
+          }
+        },
+        "Hj8EtqVgYYC8": {
+          "id": "Hj8EtqVgYYC8",
+          "parentId": "document-id",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "后续地区建设等级尚未开放。"
+                }
+              }
+            ],
+            "kind": "heading1"
+          }
+        },
+        "PjKm0EKTYMeA": {
+          "id": "PjKm0EKTYMeA",
+          "parentId": "document-id",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "heading1"
+          }
+        },
+        "vyNya2br8ZmL": {
+          "id": "vyNya2br8ZmL",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "3"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "text_only"
+  },
+  "detailLoaded": true
+}

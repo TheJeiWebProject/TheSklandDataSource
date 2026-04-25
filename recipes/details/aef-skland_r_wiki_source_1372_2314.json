@@ -1,0 +1,70 @@
+{
+  "id": "aef-skland:r/wiki_source_1372/2314",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1372",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "s3kD7P",
+        "9bzHRe"
+      ],
+      "blockMap": {
+        "9bzHRe": {
+          "id": "9bzHRe",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_tertiary",
+                "kind": "text",
+                "text": {
+                  "text": "一张特殊的人事凭证，为批量招选具备某些特殊条件的干员而准备，由于准备紧急，它不可避免地受困于时效性。为了这张凭证，人力资源事务部的干员们付出了数十个日夜，请务必妥善使用。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "s3kD7P": {
+          "id": "s3kD7P",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "终末地工业限时凭证，可用于在「春雷动，万物生」特许寻访中寻访10次。该凭证将在「春雷动，万物生」特许寻访结束后失效。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

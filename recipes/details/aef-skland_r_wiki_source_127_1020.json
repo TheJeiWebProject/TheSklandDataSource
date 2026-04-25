@@ -1,0 +1,108 @@
+{
+  "id": "aef-skland:r/wiki_source_127/1020",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_255",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_127",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "基本信息",
+    "context": {
+      "groupTitle": "基本信息",
+      "widgetTitle": "",
+      "panelTitle": "获取方式"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "2NbINUBadGHE"
+      ],
+      "blockMap": {
+        "0Wp3ud1O76Ht": {
+          "id": "0Wp3ud1O76Ht",
+          "parentId": "GHur9u",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "武器池抽卡获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "2NbINUBadGHE": {
+          "id": "2NbINUBadGHE",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "2NbINUBadGHE",
+            "itemIds": [
+              "GHur9u",
+              "wUxN48K0p4qw"
+            ],
+            "itemMap": {
+              "GHur9u": {
+                "id": "GHur9u",
+                "childIds": [
+                  "0Wp3ud1O76Ht"
+                ]
+              },
+              "wUxN48K0p4qw": {
+                "id": "wUxN48K0p4qw",
+                "childIds": [
+                  "hn6DwUQlgmf6"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "hn6DwUQlgmf6": {
+          "id": "hn6DwUQlgmf6",
+          "parentId": "wUxN48K0p4qw",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "255",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "开启获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

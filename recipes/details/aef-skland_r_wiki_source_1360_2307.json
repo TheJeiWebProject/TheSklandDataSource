@@ -1,0 +1,285 @@
+{
+  "id": "aef-skland:r/wiki_source_1360/2307",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1170",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1360",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "QB7bLN",
+        "nLuEUBQvjZA7",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "0C9LIU9ZYiNY": {
+          "id": "0C9LIU9ZYiNY",
+          "parentId": "ZQeKqJ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵-首墩"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "地区有沉积酸分布"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QB7bLN": {
+          "id": "QB7bLN",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "首墩等地采集。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "eeZd7sTrMj1Q": {
+          "id": "eeZd7sTrMj1Q",
+          "parentId": "RC8yhLXA6dGo",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "当主控干员靠近存有沉积酸的位置时，"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "便携工具"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "按钮处会出现特殊的标识提示（无论此时选中的是何种便携工具），此时切换至"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "便携工具-盛装"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "即可使用背包中的空容器（如紫晶质瓶和蓝铁瓶等）盛装附近的沉积酸。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "jHzrsPmKwffP": {
+          "id": "jHzrsPmKwffP",
+          "parentId": "ZQeKqJ",
+          "kind": "list",
+          "list": {
+            "id": "jHzrsPmKwffP",
+            "itemIds": [
+              "PiEp0W9zf2wt",
+              "KHVQmCkm3AiG"
+            ],
+            "itemMap": {
+              "KHVQmCkm3AiG": {
+                "id": "KHVQmCkm3AiG",
+                "childIds": [
+                  "wHgwwKVENMMf"
+                ]
+              },
+              "PiEp0W9zf2wt": {
+                "id": "PiEp0W9zf2wt",
+                "childIds": [
+                  "oq4hmsSQm8oP"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "nLuEUBQvjZA7": {
+          "id": "nLuEUBQvjZA7",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "nLuEUBQvjZA7",
+            "itemIds": [
+              "ZQeKqJ",
+              "RC8yhLXA6dGo"
+            ],
+            "itemMap": {
+              "RC8yhLXA6dGo": {
+                "id": "RC8yhLXA6dGo",
+                "childIds": [
+                  "eeZd7sTrMj1Q"
+                ]
+              },
+              "ZQeKqJ": {
+                "id": "ZQeKqJ",
+                "childIds": [
+                  "0C9LIU9ZYiNY",
+                  "jHzrsPmKwffP"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "oq4hmsSQm8oP": {
+          "id": "oq4hmsSQm8oP",
+          "parentId": "PiEp0W9zf2wt",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "便携工具-扫描"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可以标识附近沉积酸的位置及存有沉积酸的单位数量。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "wHgwwKVENMMf": {
+          "id": "wHgwwKVENMMf",
+          "parentId": "KHVQmCkm3AiG",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "建造"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1170",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "可以从这些区域获取"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1360",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}
