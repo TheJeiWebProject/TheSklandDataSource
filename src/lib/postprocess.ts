@@ -40,6 +40,7 @@ const NON_FUNCTIONAL_PARAM_KEYS = new Set([
   'wikiDoc',
   'sourcePattern',
   'usagePattern',
+  'containerRule',
 ]);
 
 function asRecord(value: unknown): Record<string, unknown> {

@@ -22,10 +22,11 @@ export function resolvePathMaybeAbsolute(repoRoot: string, inputPath: string): s
 export function updatePackIndex(repoRoot: string, packId: string, displayName: string): void {
   const p = path.join(repoRoot, 'public', 'packs', 'index.json');
   if (!fs.existsSync(p)) return;
-  const json = readJson<{ packs?: Array<{ packId?: string; label?: string }> }>(p);
+  const json = readJson<{ packs?: Array<Record<string, unknown> & { packId?: string; label?: string }> }>(p);
   const packs = Array.isArray(json?.packs) ? json.packs : [];
   const idx = packs.findIndex((it) => it?.packId === packId);
-  const entry = { packId, label: displayName };
+  const current = idx >= 0 ? packs[idx] : undefined;
+  const entry = { ...(current ?? {}), packId, label: displayName };
   if (idx >= 0) packs[idx] = entry;
   else packs.push(entry);
   writeJson(p, { packs });
