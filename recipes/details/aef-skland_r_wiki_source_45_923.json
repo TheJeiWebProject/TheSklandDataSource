@@ -1,0 +1,163 @@
+{
+  "id": "aef-skland:r/wiki_source_45/923",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_45",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "Bp1WKG",
+        "Ekz61B",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "Bp1WKG": {
+          "id": "Bp1WKG",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "世界中采集。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Ekz61B": {
+          "id": "Ekz61B",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Ekz61B",
+            "itemIds": [
+              "UjvDFK",
+              "74e5Cz"
+            ],
+            "itemMap": {
+              "74e5Cz": {
+                "id": "74e5Cz",
+                "childIds": [
+                  "mGGWE9"
+                ]
+              },
+              "UjvDFK": {
+                "id": "UjvDFK",
+                "childIds": [
+                  "sJzfCN"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "mGGWE9": {
+          "id": "mGGWE9",
+          "parentId": "74e5Cz",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "扫描"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "功能可以区分可供采集原木的树木和仅作地图装饰物的树木：前者在"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "扫描"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "功能的视野内会呈现出与普通采集点相同的蓝色纹路。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "sJzfCN": {
+          "id": "sJzfCN",
+          "parentId": "UjvDFK",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "地图中各处的树木大多都可以通过干员的攻击破坏并掉落多份原木。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

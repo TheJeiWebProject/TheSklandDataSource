@@ -1,0 +1,404 @@
+{
+  "id": "aef-skland:r/wiki_source_17/888",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_261",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_260",
+      "amount": 1
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_331",
+      "amount": 1
+    },
+    "in4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_258",
+      "amount": 1
+    },
+    "in5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_257",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_17",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "QB7bLN",
+        "1Q3yDS",
+        "g2xcVp",
+        "hVl20E",
+        "WD8KCL",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "1Q3yDS": {
+          "id": "1Q3yDS",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "1Q3yDS",
+            "itemIds": [
+              "oFiZew",
+              "xiuCKa",
+              "xj2SB8"
+            ],
+            "itemMap": {
+              "oFiZew": {
+                "id": "oFiZew",
+                "childIds": [
+                  "A2nk0q"
+                ]
+              },
+              "xiuCKa": {
+                "id": "xiuCKa",
+                "childIds": [
+                  "aUxoez"
+                ]
+              },
+              "xj2SB8": {
+                "id": "xj2SB8",
+                "childIds": [
+                  "EvQ2Kn"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "5gX6LD": {
+          "id": "5gX6LD",
+          "parentId": "msSP3a",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "理智未超过上限时，每经过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "432秒（7分钟12秒）"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "会回复"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，即每24小时回复"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "link-imgText",
+                  "count": "200"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "A2nk0q": {
+          "id": "A2nk0q",
+          "parentId": "oFiZew",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "理智药剂"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，如"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "261",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "260",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "等。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "EvQ2Kn": {
+          "id": "EvQ2Kn",
+          "parentId": "xj2SB8",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "衍质源石"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，每日最多通过此途径回复理智 "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "10 "
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "次，每次回复"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "17",
+                  "showType": "link-imgText",
+                  "count": "40"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "QB7bLN": {
+          "id": "QB7bLN",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用理智回复液回复。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "WD8KCL": {
+          "id": "WD8KCL",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "WD8KCL",
+            "itemIds": [
+              "msSP3a"
+            ],
+            "itemMap": {
+              "msSP3a": {
+                "id": "msSP3a",
+                "childIds": [
+                  "5gX6LD"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "aUxoez": {
+          "id": "aUxoez",
+          "parentId": "xiuCKa",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "特殊样式的理智药剂"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，如"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "331",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "258",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "257",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "等。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "g2xcVp": {
+          "id": "g2xcVp",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "hVl20E": {
+          "id": "hVl20E",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "随时间自然恢复。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

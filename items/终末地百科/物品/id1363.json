@@ -4,7 +4,7 @@
   },
   "name": "赫铜装备原件",
   "icon": "https://bbs.hycdn.cn/image/common/20260421/4863030/69e74f7a05e6b92ab983ff53_6ad0f152.png",
-  "description": "获取方式:\n冒险探索获取。\n截至目前版本，在武陵地图中破坏箱子暂时无法获取赫铜装备原件\n\n用途:\n冒险探索获取。\n截至目前版本，在武陵地图中破坏箱子暂时无法获取赫铜装备原件\n作为装备制造的材料。\n稀有度为金色的干员装备在制造时每件需要[赫铜装备原件x50]作为消耗材料，包含以下装备套组中的部分装备：\n壤流 | 清波 | 拓荒 | 碾骨 | 点剑\n用于仓储节点货物装箱。",
+  "description": "获取方式:\n冒险探索获取。\n截至目前版本，在武陵地图中破坏箱子暂时无法获取赫铜装备原件\n作为装备制造的材料。\n通过开启武陵-首墩的装备模板箱获取装备制造模板的干员装备，每件需要[赫铜装备原件x50]作为消耗材料，包含以下装备套组中的部分装备：\n壤流 | 清波 | 拓荒 | 碾骨 | 点剑\n[清波重甲][清波轻甲][清波手甲][清波竹刃][清波定位仪][清波水罐] | [壤流轻甲][壤流护手][壤流短棍] | [拓荒纤维手套·壹型][拓荒增量供氧栓·壹型] | [碾骨手套][碾骨小雕像·贰型] | [点剑重装甲·壹型][点剑战术手甲·壹型][点剑短刃]\n用于仓储节点货物装箱。\n\n用途:\n冒险探索获取。\n截至目前版本，在武陵地图中破坏箱子暂时无法获取赫铜装备原件\n作为装备制造的材料。\n通过开启武陵-首墩的装备模板箱获取装备制造模板的干员装备，每件需要[赫铜装备原件x50]作为消耗材料，包含以下装备套组中的部分装备：\n壤流 | 清波 | 拓荒 | 碾骨 | 点剑\n[清波重甲][清波轻甲][清波手甲][清波竹刃][清波定位仪][清波水罐] | [壤流轻甲][壤流护手][壤流短棍] | [拓荒纤维手套·壹型][拓荒增量供氧栓·壹型] | [碾骨手套][碾骨小雕像·贰型] | [点剑重装甲·壹型][点剑战术手甲·壹型][点剑短刃]\n用于仓储节点货物装箱。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,129 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777088160",
+    "timestamp": "1777175441",
     "data": {
       "item": {
         "itemId": "1363",
         "document": {
           "documentMap": {
-            "2A35BLXa": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "qLv3oTOZ05ph",
-                "2nHcjG",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "2nHcjG": {
-                  "id": "2nHcjG",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "2nHcjG",
-                    "itemIds": [
-                      "ZQeKqJ"
-                    ],
-                    "itemMap": {
-                      "ZQeKqJ": {
-                        "id": "ZQeKqJ",
-                        "childIds": [
-                          "eVS3SjLaHCcx"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "eVS3SjLaHCcx": {
-                  "id": "eVS3SjLaHCcx",
-                  "parentId": "ZQeKqJ",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "截至目前版本，在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "武陵"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "地图中破坏"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "箱子"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "暂时无法获取赫铜装备原件"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "qLv3oTOZ05ph": {
-                  "id": "qLv3oTOZ05ph",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "冒险探索获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "mEo5ENYr": {
+            "F991KBUS": {
               "id": "document-id",
               "blockIds": [
                 "bGKSuM",
@@ -397,7 +281,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "qTg4yRW3": {
+            "MtQmnPqX": {
               "id": "document-id",
               "blockIds": [
                 "POJC5u",
@@ -410,6 +294,65 @@
                 "pCnuhO"
               ],
               "blockMap": {
+                "1B4EyivTkGL7": {
+                  "id": "1B4EyivTkGL7",
+                  "parentId": "kSAVFm_oaNsno",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1436",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1435",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1434",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1432",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1431",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1430",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "71pXNjL9mYUa": {
                   "id": "71pXNjL9mYUa",
                   "parentId": "WNn7YS_f107Nc",
@@ -481,6 +424,33 @@
                     "kind": "body"
                   }
                 },
+                "By0zJ1GFFzq6": {
+                  "id": "By0zJ1GFFzq6",
+                  "parentId": "kSAVFm_v5ViWc",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1438",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1437",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "E2M4DQFbDWaf": {
                   "id": "E2M4DQFbDWaf",
                   "parentId": "WNn7YS_v5ViWc",
@@ -493,6 +463,41 @@
                         "kind": "text",
                         "text": {
                           "text": "拓荒"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "EbmmEYanJgga": {
+                  "id": "EbmmEYanJgga",
+                  "parentId": "kSAVFm_uZrwwG",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1443",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1442",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1441",
+                          "showType": "card-big",
+                          "count": "0"
                         }
                       }
                     ],
@@ -635,6 +640,68 @@
                     "kind": "body"
                   }
                 },
+                "sW3CKzZgLtZB": {
+                  "id": "sW3CKzZgLtZB",
+                  "parentId": "kSAVFm_Y7RaHm",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1440",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1439",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uHJLaN2xwjM2": {
+                  "id": "uHJLaN2xwjM2",
+                  "parentId": "kSAVFm_f107Nc",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1429",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1214",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1428",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "wEXDXJfrSfi1": {
                   "id": "wEXDXJfrSfi1",
                   "parentId": "document-id",
@@ -642,7 +709,8 @@
                   "table": {
                     "id": "wEXDXJfrSfi1",
                     "rowIds": [
-                      "WNn7YS"
+                      "WNn7YS",
+                      "kSAVFm"
                     ],
                     "columnIds": [
                       "oaNsno",
@@ -654,28 +722,31 @@
                     "rowMap": {
                       "WNn7YS": {
                         "id": "WNn7YS"
+                      },
+                      "kSAVFm": {
+                        "id": "kSAVFm"
                       }
                     },
                     "columnMap": {
                       "Y7RaHm": {
                         "id": "Y7RaHm",
-                        "width": 232
+                        "width": 191
                       },
                       "f107Nc": {
                         "id": "f107Nc",
-                        "width": 232
+                        "width": 191
                       },
                       "oaNsno": {
                         "id": "oaNsno",
-                        "width": 232
+                        "width": 268
                       },
                       "uZrwwG": {
                         "id": "uZrwwG",
-                        "width": 232
+                        "width": 191
                       },
                       "v5ViWc": {
                         "id": "v5ViWc",
-                        "width": 232
+                        "width": 191
                       }
                     },
                     "cellMap": {
@@ -738,10 +809,70 @@
                         "borderColor": "",
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
+                      },
+                      "kSAVFm_Y7RaHm": {
+                        "id": "kSAVFm_Y7RaHm",
+                        "childIds": [
+                          "sW3CKzZgLtZB"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "kSAVFm_f107Nc": {
+                        "id": "kSAVFm_f107Nc",
+                        "childIds": [
+                          "uHJLaN2xwjM2"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "kSAVFm_oaNsno": {
+                        "id": "kSAVFm_oaNsno",
+                        "childIds": [
+                          "1B4EyivTkGL7"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "kSAVFm_uZrwwG": {
+                        "id": "kSAVFm_uZrwwG",
+                        "childIds": [
+                          "EbmmEYanJgga"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "kSAVFm_v5ViWc": {
+                        "id": "kSAVFm_v5ViWc",
+                        "childIds": [
+                          "By0zJ1GFFzq6"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
                       }
                     },
                     "description": "",
-                    "rowHeader": false,
+                    "rowHeader": true,
                     "colHeader": false
                   }
                 },
@@ -756,7 +887,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "稀有度为"
+                          "text": "通过开启"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵-首墩"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
                         }
                       },
                       {
@@ -764,14 +910,29 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "金色"
+                          "text": "装备模板箱"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "的干员装备在制造时每件需要"
+                          "text": "获取"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "装备制造模板"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的干员装备，每件需要"
                         }
                       },
                       {
@@ -787,6 +948,122 @@
                         "kind": "text",
                         "text": {
                           "text": "作为消耗材料，包含以下装备套组中的部分装备："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "xQff4W27": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "qLv3oTOZ05ph",
+                "2nHcjG",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "2nHcjG": {
+                  "id": "2nHcjG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2nHcjG",
+                    "itemIds": [
+                      "ZQeKqJ"
+                    ],
+                    "itemMap": {
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "eVS3SjLaHCcx"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "eVS3SjLaHCcx": {
+                  "id": "eVS3SjLaHCcx",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "截至目前版本，在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地图中破坏"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "箱子"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "暂时无法获取赫铜装备原件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "qLv3oTOZ05ph": {
+                  "id": "qLv3oTOZ05ph",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "冒险探索获取。"
                         }
                       }
                     ],
@@ -843,7 +1120,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "qTg4yRW3",
+                  "content": "MtQmnPqX",
                   "audioList": []
                 }
               }
@@ -855,7 +1132,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "2A35BLXa",
+                  "content": "xQff4W27",
                   "audioList": []
                 }
               }
@@ -867,7 +1144,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "mEo5ENYr",
+                  "content": "F991KBUS",
                   "audioList": []
                 }
               }
@@ -1075,10 +1352,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1485727484109",
-          "nickname": "奕行",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/d64ed43a19b90af99d12cc509643ffe3.png"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "9228422493033",
@@ -1157,7 +1434,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776870173",
-        "lastAuditPassedAt": "1776872256",
+        "lastAuditPassedAt": "1777133527",
         "tagIds": [
           "10004",
           "10257",

@@ -1,0 +1,210 @@
+{
+  "id": "aef-skland:r/wiki_source_18/889",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_18",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Qkpr0P",
+        "Pl98xH",
+        "jhWJUx",
+        "IDjb9g"
+      ],
+      "blockMap": {
+        "I4dNgH": {
+          "id": "I4dNgH",
+          "parentId": "NnISa6",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "不同的据点以及同一据点不同等级的情况下会对不同的物品有"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "特殊需求"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（在供货订单界面中以绿色的图标标识），该类"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "特殊需求"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "被满足时会产出额外数目的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "据点发展值"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "IDjb9g": {
+          "id": "IDjb9g",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "Pl98xH": {
+          "id": "Pl98xH",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "据点供货订单报酬。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "PqqlTK": {
+          "id": "PqqlTK",
+          "parentId": "np1BEj",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "地区建设-据点管理"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "中可以通过消耗各种物品换取"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "谷地调度券"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "和"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "据点发展值"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "，换取比例受具体消耗的物品种类影响。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Qkpr0P": {
+          "id": "Qkpr0P",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "jhWJUx": {
+          "id": "jhWJUx",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "jhWJUx",
+            "itemIds": [
+              "np1BEj",
+              "NnISa6"
+            ],
+            "itemMap": {
+              "NnISa6": {
+                "id": "NnISa6",
+                "childIds": [
+                  "I4dNgH"
+                ]
+              },
+              "np1BEj": {
+                "id": "np1BEj",
+                "childIds": [
+                  "PqqlTK"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

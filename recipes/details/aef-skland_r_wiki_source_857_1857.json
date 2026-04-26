@@ -1,0 +1,88 @@
+{
+  "id": "aef-skland:r/wiki_source_857/1857",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_857",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "简介回退 / brief.description",
+    "context": {
+      "groupTitle": "简介回退",
+      "widgetTitle": "brief.description",
+      "panelTitle": "brief"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "7xFVr3",
+        "tPvqOd",
+        "WR29Zc"
+      ],
+      "blockMap": {
+        "7xFVr3": {
+          "id": "7xFVr3",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-本装备由特里格拉夫军工厂设计，使用集成工业系统制造，能够提高使用者的作战能力。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "WR29Zc": {
+          "id": "WR29Zc",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "按照工程师的说法，这套防护装甲的未来迭代方向将聚焦于全面自动化一一即使穿戴者失去意识，它也能够带人安全撤离。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "tPvqOd": {
+          "id": "tPvqOd",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "-针对阿伯莉采石场作业情况做出了调整的新型防护装甲，"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}
