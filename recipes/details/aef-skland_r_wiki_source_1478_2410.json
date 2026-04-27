@@ -1,0 +1,139 @@
+{
+  "id": "aef-skland:r/wiki_source_1478/2410",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1478",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "Wj4qDY4g2U20",
+        "eKGpydx1aPzs",
+        "cc9Nq6"
+      ],
+      "blockMap": {
+        "Wj4qDY4g2U20": {
+          "id": "Wj4qDY4g2U20",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "eKGpydx1aPzs": {
+          "id": "eKGpydx1aPzs",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "eKGpydx1aPzs",
+            "itemIds": [
+              "8HBNbCzWjDLN"
+            ],
+            "itemMap": {
+              "8HBNbCzWjDLN": {
+                "id": "8HBNbCzWjDLN",
+                "childIds": [
+                  "zGW2OorC6bKq"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "zGW2OorC6bKq": {
+          "id": "zGW2OorC6bKq",
+          "parentId": "8HBNbCzWjDLN",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要任务"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "街角的商店·其一"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "景玉谷-迷踪林"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "任务标识处进行交互即可获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

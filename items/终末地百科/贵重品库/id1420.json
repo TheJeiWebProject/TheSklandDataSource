@@ -1,0 +1,444 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1420"
+  },
+  "name": "战术装具残块",
+  "icon": "https://bbs.hycdn.cn/image/common/20260424/3048259/69eb4de9a249d3dbc563c51c_db193eac.png",
+  "description": "获取方式:\n谷地像差区域6的敌人掉落。\n\n用途:\n用于提交委托。",
+  "rarity": {
+    "stars": 4,
+    "label": "4星",
+    "color": "#ffa726",
+    "token": "rarity_4",
+    "tagId": "10004"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:4"
+  ],
+  "source": "终末地百科/贵重品库/id1420.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1777263421",
+    "data": {
+      "item": {
+        "itemId": "1420",
+        "document": {
+          "documentMap": {
+            "x8GMkVS8": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "fusHL1oRRJkO",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "fusHL1oRRJkO": {
+                  "id": "fusHL1oRRJkO",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于提交委托。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "xjUcvd3n": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "OAs0YmWrMZnT",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "OAs0YmWrMZnT": {
+                  "id": "OAs0YmWrMZnT",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地像差"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "区域6的敌人掉落。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "lNzYFu78",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "Gh72Rpj5",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Gh72Rpj5": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "x8GMkVS8",
+                  "audioList": []
+                }
+              }
+            },
+            "lNzYFu78": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "xjUcvd3n",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "战术装具残块",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 9,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1",
+                  "hide": false
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2",
+                  "hide": false
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3",
+                  "hide": false
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4",
+                  "hide": false
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5",
+                  "hide": false
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6",
+                  "hide": false
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1225401989759",
+          "nickname": "玉酱不吃鱼子酱",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+        },
+        "createdUser": {
+          "id": "3358404863657",
+          "nickname": "A_Pullu_Pie",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/04fd45d25fde55799b8e3df64ead6c29.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260424/3048259/69eb4de9a249d3dbc563c51c_db193eac.png",
+          "name": "战术装具残块",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "可用于数据分析的物质样本，一块从裂地者常用的武装带上割下的残块。带有超过仪器检测范围的超域能量，却依旧能保持原本的模样。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "击败谷地像差区域6敌人的掉落物，可用于委托提交。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10004"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10327"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10328"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1777211647",
+        "lastAuditPassedAt": "1777028697",
+        "tagIds": [
+          "10004",
+          "10327",
+          "10328"
+        ]
+      }
+    }
+  }
+}
