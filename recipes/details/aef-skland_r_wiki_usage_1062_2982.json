@@ -1,0 +1,177 @@
+{
+  "id": "aef-skland:r/wiki_usage_1062/2982",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1062",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_31",
+      "amount": 5
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_42",
+      "amount": 5
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "cTBk9BIFtmWJ",
+        "engVLrDEy3Zi",
+        "xD8x7YNIcXec",
+        "uERGYb7d0anb"
+      ],
+      "blockMap": {
+        "1GbG8JETusKI": {
+          "id": "1GbG8JETusKI",
+          "parentId": "yXkYHpTz9DOT",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "谷地通道-次级核心区域"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "向NPC"
+                }
+              },
+              {
+                "kind": "pronunciation",
+                "pronunciation": {
+                  "content": "罗曼|面包店老板"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "提交"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1062",
+                  "showType": "link-imgText",
+                  "count": "1"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "31",
+                  "showType": "link-imgText",
+                  "count": "5"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "42",
+                  "showType": "link-imgText",
+                  "count": "5"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "以推进任务。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "cTBk9BIFtmWJ": {
+          "id": "cTBk9BIFtmWJ",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "engVLrDEy3Zi": {
+          "id": "engVLrDEy3Zi",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于提交重要任务目标。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "uERGYb7d0anb": {
+          "id": "uERGYb7d0anb",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "xD8x7YNIcXec": {
+          "id": "xD8x7YNIcXec",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "xD8x7YNIcXec",
+            "itemIds": [
+              "yXkYHpTz9DOT"
+            ],
+            "itemMap": {
+              "yXkYHpTz9DOT": {
+                "id": "yXkYHpTz9DOT",
+                "childIds": [
+                  "1GbG8JETusKI"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

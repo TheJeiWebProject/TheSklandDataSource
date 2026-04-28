@@ -1,59 +1,54 @@
 {
   "id": "aef-skland:r/wiki_usage_348/2682",
-  "type": "aef-skland:wiki/usage/text_only",
+  "type": "aef-skland:wiki/usage/text_entry",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_348",
       "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_494",
+      "amount": 1
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_571",
+      "amount": 1
+    },
+    "out3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_743",
+      "amount": 1
     }
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方法 / 面积需求",
+    "title": "使用方法 / 相关信息",
     "context": {
       "groupTitle": "使用方法",
-      "widgetTitle": "面积需求",
+      "widgetTitle": "相关信息",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "26PK9V",
-        "Sf9iO2",
-        "85VzQI"
+        "T96T43",
+        "7AUZl6",
+        "dv2GVVzuHnYY",
+        "4bGJUlSD2OwC",
+        "OKekhWVbvwK3",
+        "AmBwXh"
       ],
       "blockMap": {
-        "26PK9V": {
-          "id": "26PK9V",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
-          }
-        },
-        "85VzQI": {
-          "id": "85VzQI",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "2"
-          }
-        },
-        "Sf9iO2": {
-          "id": "Sf9iO2",
+        "4bGJUlSD2OwC": {
+          "id": "4bGJUlSD2OwC",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "放置"
-                }
-              },
               {
                 "bold": true,
                 "kind": "text",
@@ -73,7 +68,181 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "需要在"
+                  "text": "育苗后，需要浇水2次，生长2次，每次浇水后生长0.5小时，"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "一共需要1小时"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "即可成熟。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "7AUZl6": {
+          "id": "7AUZl6",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "锦草"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "田块"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "是种植调配类型的设备，可以用于培植"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "494",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "与"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "571",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "AmBwXh": {
+          "id": "AmBwXh",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "OKekhWVbvwK3": {
+          "id": "OKekhWVbvwK3",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "锦草"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "田块"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "配合"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "743",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "使用，效果更加。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "T96T43": {
+          "id": "T96T43",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "dv2GVVzuHnYY": {
+          "id": "dv2GVVzuHnYY",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "锦草"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "田块"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "仅能放置在"
                 }
               },
               {
@@ -88,52 +257,22 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "的长"
+                  "text": "和"
                 }
               },
               {
                 "bold": true,
-                "color": "light_text_primary",
+                "color": "light_rank_yellow",
                 "kind": "text",
                 "text": {
-                  "text": "4"
+                  "text": "武陵城-实验作物试点区"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "格、宽"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "4"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格的可用空地，且与其他田块间隔"
-                }
-              },
-              {
-                "bold": true,
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "≥3"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "格。"
+                  "text": "范围内。"
                 }
               }
             ],
@@ -144,7 +283,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "text_only"
+    "usagePattern": "text_entry"
   },
   "detailLoaded": true
 }

@@ -4,7 +4,7 @@
   },
   "name": "特制重息壤",
   "icon": "https://bbs.hycdn.cn/image/common/20260417/3048259/69e1ff32fd2b852705f8af30_f1525633.png",
-  "description": "获取方式:\n冒险探索获取。\n紧要任务[第二章 - 进程Ⅴ - 阵外潮起声犹震]中，前往武陵城-总桩办公室与[庄方宜]对话后获取特制重息壤（9）。 此段剧情推进时会进入固定编队的沉浸模式，游玩时请注意。\n\n用途:\n用于提交紧要任务目标。\n与[庄方宜]对话后将传送至武陵城外的天师桩阵列处，根据任务标识指引，前往三个阵列核心启动维修模式并修复损坏的天师桩。三个阵列核心需要修复共计九处损坏的天师桩，每处损坏的天师桩的修复则需要在躲避阵列核心与损坏的天师桩攻击的同时靠近并向损坏的天师桩提交特制重息壤（1）。",
+  "description": "获取方式:\n冒险探索获取。\n紧要任务[第二章 - 进程Ⅴ - 阵外潮起声犹震]中，前往武陵城-总桩办公室与[庄方宜]对话后获取[特制重息壤x9]。 此段剧情推进时会进入固定编队的沉浸模式，游玩时请注意。\n\n用途:\n用于提交紧要任务目标。\n与[庄方宜]对话后将传送至武陵城外的天师桩阵列处，根据任务标识指引，前往三个阵列核心启动维修模式并修复损坏的天师桩。三个阵列核心需要修复共计九处损坏的天师桩，每处损坏的天师桩的修复则需要在躲避阵列核心与损坏的天师桩攻击的同时靠近并向损坏的天师桩提交[特制重息壤x1]。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777263492",
+    "timestamp": "1777350401",
     "data": {
       "item": {
         "itemId": "1449",
         "document": {
           "documentMap": {
-            "LnP99T0g": {
+            "KtMABLgy": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -201,18 +201,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "特制重息壤"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1449",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（1）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -278,7 +278,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "t5Iac26t": {
+            "XO5bTds6": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -450,18 +450,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "特制重息壤"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1449",
+                          "showType": "link-imgText",
+                          "count": "9"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（9）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -508,7 +508,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "LnP99T0g",
+                  "content": "KtMABLgy",
                   "audioList": []
                 }
               }
@@ -520,7 +520,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "t5Iac26t",
+                  "content": "XO5bTds6",
                   "audioList": []
                 }
               }
@@ -778,7 +778,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777211687",
-        "lastAuditPassedAt": "1777134838",
+        "lastAuditPassedAt": "1777335811",
         "tagIds": [
           "10005",
           "10330",

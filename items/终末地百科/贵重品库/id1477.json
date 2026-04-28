@@ -4,7 +4,7 @@
   },
   "name": "影像・苦恼的天师",
   "icon": "https://bbs.hycdn.cn/image/common/20260422/3048259/69e8728205e6b92ab9840439_6ad0f152.png",
-  "description": "获取方式:\n任务获取。\n\n用途:\n用于提交重要任务目标",
+  "description": "获取方式:\n冒险探索获取。\n重要任务据点建设·心脏修缮站·一中前往武陵城-材料研究所并提交影像・龙泡泡（1）、影像・迁徙的羽兽（1）、影像·天师考校挂幅（1）后，与[陈千语]对话获取。\n用于提交重要任务目标。\n获取[影像・苦恼的天师x1]后提交至附近的终端处以推进任务。\n\n用途:\n用于提交重要任务目标。\n获取[影像・苦恼的天师x1]后提交至附近的终端处以推进任务。",
   "rarity": {
     "stars": 2,
     "label": "2星",
@@ -21,20 +21,150 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777263556",
+    "timestamp": "1777350467",
     "data": {
       "item": {
         "itemId": "1477",
         "document": {
           "documentMap": {
-            "UYLJ5yDB": {
+            "9Cdnr2Yo": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
-                "tgR7YjkreOyw",
+                "rLDxx7ADgjvx",
+                "FcNN3Sg0m6CR",
                 "cc9Nq6"
               ],
               "blockMap": {
+                "FcNN3Sg0m6CR": {
+                  "id": "FcNN3Sg0m6CR",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "FcNN3Sg0m6CR",
+                    "itemIds": [
+                      "KEaRCyCGyT0I"
+                    ],
+                    "itemMap": {
+                      "KEaRCyCGyT0I": {
+                        "id": "KEaRCyCGyT0I",
+                        "childIds": [
+                          "XQqOrVCBdKOa"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "XQqOrVCBdKOa": {
+                  "id": "XQqOrVCBdKOa",
+                  "parentId": "KEaRCyCGyT0I",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "重要任务"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "据点建设·心脏修缮站·一"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城-材料研究所"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "并提交"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "影像・龙泡泡"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "影像・迁徙的羽兽"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "影像·天师考校挂幅"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）后，与"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "12",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "对话获取。 "
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "bQnTCN": {
                   "id": "bQnTCN",
                   "parentId": "document-id",
@@ -51,8 +181,8 @@
                     "kind": "2"
                   }
                 },
-                "tgR7YjkreOyw": {
-                  "id": "tgR7YjkreOyw",
+                "rLDxx7ADgjvx": {
+                  "id": "rLDxx7ADgjvx",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -63,7 +193,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "任务获取。"
+                          "text": "冒险探索获取。"
                         }
                       }
                     ],
@@ -74,16 +204,17 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "nl9Z73sy": {
+            "vQG3oGXx": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
-                "FNdbpusjmWjL",
+                "FVkn53",
+                "SPbNfnLyD4ad",
                 "pCnuhO"
               ],
               "blockMap": {
-                "FNdbpusjmWjL": {
-                  "id": "FNdbpusjmWjL",
+                "FVkn53": {
+                  "id": "FVkn53",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -94,11 +225,31 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "用于提交重要任务目标"
+                          "text": "用于提交重要任务目标。"
                         }
                       }
                     ],
                     "kind": "body"
+                  }
+                },
+                "SPbNfnLyD4ad": {
+                  "id": "SPbNfnLyD4ad",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "SPbNfnLyD4ad",
+                    "itemIds": [
+                      "8wqymIASWh90"
+                    ],
+                    "itemMap": {
+                      "8wqymIASWh90": {
+                        "id": "8wqymIASWh90",
+                        "childIds": [
+                          "y85RJeEnLvJc"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
                   }
                 },
                 "Xs9L5Z": {
@@ -115,6 +266,39 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
+                  }
+                },
+                "y85RJeEnLvJc": {
+                  "id": "y85RJeEnLvJc",
+                  "parentId": "8wqymIASWh90",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1477",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后提交至附近的终端处以推进任务。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 }
               },
@@ -157,7 +341,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "nl9Z73sy",
+                  "content": "vQG3oGXx",
                   "audioList": []
                 }
               }
@@ -169,7 +353,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "UYLJ5yDB",
+                  "content": "9Cdnr2Yo",
                   "audioList": []
                 }
               }
@@ -345,10 +529,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -427,7 +611,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777211690",
-        "lastAuditPassedAt": "1776841452",
+        "lastAuditPassedAt": "1777335777",
         "tagIds": [
           "10002",
           "10326",

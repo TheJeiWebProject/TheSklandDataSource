@@ -10,45 +10,32 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方式 / 面积需求",
+    "title": "使用方式 / 相关信息",
     "context": {
       "groupTitle": "使用方式",
-      "widgetTitle": "面积需求",
+      "widgetTitle": "相关信息",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "k7oiwY",
-        "XbWEoo",
-        "6vmeiZ"
+        "1WTlpz",
+        "QVMU9x",
+        "ncz1km",
+        "044sIK",
+        "o0yABL",
+        "c2ITB9"
       ],
       "blockMap": {
-        "6vmeiZ": {
-          "id": "6vmeiZ",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "2"
-          }
-        },
-        "XbWEoo": {
-          "id": "XbWEoo",
+        "044sIK": {
+          "id": "044sIK",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "放置"
-                }
-              },
-              {
                 "bold": true,
-                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
                   "text": "管道准入口"
@@ -58,7 +45,7 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "需要长"
+                  "text": "可放置在"
                 }
               },
               {
@@ -66,14 +53,14 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "1"
+                  "text": "协议核心"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "格、宽"
+                  "text": "或"
                 }
               },
               {
@@ -81,16 +68,97 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "1"
+                  "text": "次级核心"
                 }
               },
               {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "格的可用空地，且必须放置在"
+                  "text": "范围外。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "1WTlpz": {
+          "id": "1WTlpz",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "QVMU9x": {
+          "id": "QVMU9x",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "管道准入口"
                 }
               },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "是物流类型的机器，可以用于限制管道上允许通过的物质。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "c2ITB9": {
+          "id": "c2ITB9",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "ncz1km": {
+          "id": "ncz1km",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "可通过"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "管道准入口"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "限制通过物质的流量，并在蓝图中标记此段管道运送的物质。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "o0yABL": {
+          "id": "o0yABL",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
               {
                 "bold": true,
                 "color": "light_text_primary",
@@ -100,22 +168,27 @@
                 }
               },
               {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "准入口"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "不"
+                }
+              },
+              {
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "上。"
+                  "text": "需要电力维持运转。"
                 }
               }
             ],
             "kind": "body"
-          }
-        },
-        "k7oiwY": {
-          "id": "k7oiwY",
-          "parentId": "document-id",
-          "kind": "horizontalLine",
-          "horizontalLine": {
-            "kind": "5"
           }
         }
       },

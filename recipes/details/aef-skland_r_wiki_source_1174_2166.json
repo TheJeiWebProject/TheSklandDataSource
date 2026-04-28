@@ -1,7 +1,12 @@
 {
   "id": "aef-skland:r/wiki_source_1174/2166",
-  "type": "aef-skland:wiki/source/list_text",
+  "type": "aef-skland:wiki/source/list_entry",
   "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1139",
+      "amount": 1
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_1174",
@@ -30,9 +35,17 @@
           "text": {
             "inlineElements": [
               {
+                "kind": "entry",
+                "entry": {
+                  "id": "1139",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
                 "kind": "text",
                 "text": {
-                  "text": "【武器补给-暗流】开启获取"
+                  "text": "开启获取"
                 }
               }
             ],
@@ -63,7 +76,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "list_text"
+    "sourcePattern": "list_entry"
   },
   "detailLoaded": true
 }
